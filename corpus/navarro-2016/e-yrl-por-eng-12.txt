@@ -1,0 +1,97 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 22, 2023
+
+Ixé arikú yepé se mũ surara.
+# Eu tenho um irmão soldado.
+# I have a soldier brother.
+
+Maria amũ nti urikú i mimbira.
+# A irmã de Maria não tem filho.
+# Maria's sister has no child.
+
+Se paya rendira usú umunhã uí.
+# A irmã de meu pai vai fazer farinha.
+# My father's sister will make flour.
+
+Se rimirikú kiwira nti ukwáu witá paranãme.
+# O irmão da minha esposa não sabe nadar no rio.
+# My wife's brother cannot swim in the river.
+
+Se paya urikú yepé taíra ximirikú ambira irũmu.
+# Meu pai tem um filho com sua finada esposa.
+# My father has a son with his late wife.
+
+José urikú yepé tayera murakisara.
+# José tem uma filha trabalhadeira.
+# José has a hardworking daughter.
+
+Maria urikú i mimbira.
+# Maria tem filho.
+# Maria has a son.
+
+Nti nhuntu akwáu indé yepé pitua.
+# Só não sabia que você era um covarde.
+# I just did not know you were a coward.
+
+Remaã mamentu reikú!
+# Olhe só onde você está!
+# Look where you are!
+
+Remaã mamé nhuntu reikú!
+# Olhe só onde você está!
+# Just look where you are!
+
+Renheẽ supisawa nhuntu.
+# Diga somente a verdade.
+# Tell only the truth.
+
+Pewapikantu.
+# Fiquem só sentados.
+# Just stay seated.
+
+Pewapika nhuntu.
+# Fiquem só sentados.
+# Just stay seated.
+
+Amunhã yepé kamixá nhuntu.
+# Fiz uma camisa só.
+# I made a single shirt.
+
+Aikwentu usika.
+# Logo chega.
+# Soon it arrives.
+
+Pedro uikuntu sendawa upé.
+# Pedro está quieto na sua comunidade.
+# Pedro is quiet in his community.
+
+Usika kwesentu yepé apigawa.
+# Chegou recentemente um homem.
+# A man recently arrived.
+
+Mayawé aé nti rẽ uyupiri-kwáu, upitá iwá wirpe.
+# Como ele ainda não sabia subir, ficou embaixo da árvore.
+# Since he still did not know how to climb, he stayed under the tree.
+
+Nti ramé remunhã kwayé, yarasú indé sasisawa rupí tawa kití.
+# Se você não fizer assim, levamos você à força para a cidade.
+# If you do not do this, we will take you by force to the city.
+
+Nti kurí yawé remunhã.
+# Você não fará assim.
+# You will not do it like this.
+
+Mukũi tuxawa nti ana umaã maanungara.
+# Os dois tuxauas já não viam nada.
+# The two tuxauas could no longer see anything.
+
+Nti ana remandwari será mayawé resé repuká sé nhaã kunhã-itá renundé?
+# Você não lembra de como você riu gostoso diante daquelas mulheres?
+# Do you not remember how you laughed heartily in front of those women?

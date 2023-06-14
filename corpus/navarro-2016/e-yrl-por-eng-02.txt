@@ -1,0 +1,157 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 1st, 2023
+
+Maria upitá São Gabriel upé.
+# Maria fica em São Gabriel.
+# Maria stays in São Gabriel.
+
+Maria unheẽ nheenga-itá puranga Pedro supé.
+# Maria diz palavras bonitas a Pedro.
+# Maria says nice words to Pedro.
+
+Pedro uikú Maria irũmu.
+# Pedro está com Maria.
+# Pedro is with Maria.
+
+Pedro usú igarapé kití.
+# Pedro vai ao igarapé.
+# Pedro goes to the igarapé.
+
+Ixé apitá té wirandé.
+# Eu fico até amanhã.
+# I will stay until tomorrow.
+
+Nti akwáu masuí Pedro usika.
+# Não sei donde Pedro chegou.
+# I do not know where Pedro came from.
+
+Makití resú?
+# Aonde vais?
+# Where are you going?
+
+Asú makití aputari.
+# Vou aonde quero.
+# I go where I want.
+
+Marupí pirá usemu?
+# Por onde o peixe sai?
+# Where does the fish come out?
+
+Ixé nti aputari pirá.
+# Eu não quero peixe.
+# I do not want fish.
+
+Maria nti umaã João.
+# Maria não vê João.
+# Maria does not see João.
+
+Pinaitikasara nti puranga.
+# O pescador não é bom.
+# The fisherman is not good.
+
+Indé nti puranga.
+# Você não é bonita.
+# You are not beautiful.
+
+Maria uikú será igara upé?
+# Maria está na canoa?
+# Is Maria in the canoe?
+
+Reputari será pirá?
+# Queres o peixe?
+# Do you want the fish?
+
+Remunhã será maã amunhã?
+# Você faz o que eu faço?
+# Do you do what I do?
+
+Nti será indé?
+# Não é você?
+# It is not you?
+
+Mira será indé?
+# Você é gente?
+# Are you a person?
+
+Maã taá indé reputari Maria supé?
+# Que você quer para Maria?
+# What do you want for Maria?
+
+Kuíri taá?
+# E agora?
+# And now?
+
+Asuí taá? Maã taá kurí yamunhã?
+# E daí? Que faremos?
+# And? What shall we do?
+
+Mamé taá té remaã se manha?
+# Onde mesmo você viu minha mãe?
+# Where did you see my mother again?
+
+Masuí taá reyuri kuxiíma?
+# Donde você veio antigamente?
+# Where did you come from erstwhile?
+
+Muíri kuya taá aé uú?
+# Quantas cuias ele bebeu?
+# How many bowls did he drink?
+
+Awá taá usika ana?
+# Quem chegou?
+# Who arrived?
+
+Awá taá uyuká awá?
+# Quem matou quem?
+# Who killed who?
+
+Maã miapé taá rerikú?
+# Qual pão você tem?
+# What bread do you have?
+
+Ukwáu maã i murakí.
+# Sabe qual é seu trabalho.
+# Know what your job is.
+
+Mayé waá kunhã taá usika ana?
+# Qual mulher chegou?
+# Which woman arrived?
+
+Awá taá penhé suí usú-putari?
+# Qual de vocês quer ir?
+# Which one of you wants to go?
+
+Awá penhé suí usú-putari?
+# Qual de vocês quer ir?
+# Which one of you wants to go?
+
+Kunhã-itá usika.
+# As mulheres chegam.
+# The women arrive.
+
+mukũi apigawa
+# dois homens
+# two men
+
+kunhã-itá puranga
+# mulheres bonitas
+# beautiful women
+
+Uka-itá mirĩ.
+# As casas são pequenas.
+# The houses are small.
+
+yepé apigawa
+# um homem
+# a man
+
+yepé kunhã
+# uma mulher
+# a woman

@@ -1,0 +1,253 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 2nd, 2023
+
+se igara
+# minha canoa
+# minha canoa
+
+ne manha
+# tua mãe
+# your mother
+
+i pindá-itá
+# os anzóis dele
+# his hooks
+
+yané tawa
+# nossa cidade
+# our city
+
+pe ruka
+# casa de vocês
+# your house
+
+aintá xirura-itá
+# calças deles
+# their pants
+
+Aé usú se irũmu.
+# Ele vai comigo.
+# He goes with me.
+
+Maria upitá ne ruakí.
+# Maria fica perto de ti.
+# Maria stays close to you.
+
+Pedro usú apekatú pe suí.
+# Pedro vai longe de vocês.
+# Pedro goes far from you.
+
+Reruri timbiú ixé arama.
+# Traga comida para mim.
+# Bring me food.
+
+Amunhã pindá-itá indé arama.
+# Faço anzóis para você.
+# I make hooks for you.
+
+Apurakí indé arama.
+# Trabalho para ti.
+# I work for you.
+
+Reruri aé ixé arama.
+# Traga-o para mim.
+# Bring him to me.
+
+Apurakí Maria supé.
+# Trabalho para Maria.
+# I work for Maria.
+
+Anheẽ “puranga ara” aintá supé.
+# Digo “bom dia” para eles.
+# I say “good morning” to them.
+
+Unheẽ paá yepé ara i apigawa-itá supé…
+# Contam que disse um dia aos seus homens…
+# They say that one day he said to his men...
+
+Ixé apiripana xirura i xupé.
+# Eu compro calça para ele.
+# I buy him pants.
+
+Maria usú se rapé rupí.
+# Maria vai pelo meu caminho.
+# Maria goes by my way.
+
+Kuíri penhẽ pemaramunhã yané rupí.
+# Agora vocês brigam por nós.
+# Now you fight for us.
+
+Renheẽ kariwa nheenga rupí.
+# Fale em língua de brancos.
+# Speak in white people's language.
+
+Muíri rupí taá kwá kamixá?
+# Por quanto é esta camisa?
+# How much for this shirt?
+
+Ayuri se rupí.
+# Vim por mim.
+# I came for myself.
+
+Remunhã sangawa rupí.
+# Faça de acordo com o modelo.
+# Make according to the model.
+
+Kwá rupí aikwé siía mirá.
+# Por aqui há muitas árvores.
+# There are many trees around here.
+
+Amú pituna piterarupí, asendú yepé nheenga.
+# Pelo meio da outra noite, ouvi uma voz.
+# In the middle of the other night, I heard a voice.
+
+Aintá usú nhaã tatatingawasú piterarupí…
+# Elas foram pelo meio daquela fumaça…
+# They went through that smoke...
+
+Aintá umuyeréu mirá-itawasú aintá ararupí.
+# Eles rolaram grandes paus por cima deles.
+# They rolled big sticks over them.
+
+Iwí wirarupí paá aikwé pé…
+# Contam que, por baixo da terra, havia caminho…
+# They say that, under the earth, there was a path...
+
+Se riré usika ana amú apigawa.
+# Depois de mim chegou outro homem.
+# Another man came after me.
+
+Murasí riré, aé ukiri ana retana.
+# Após o baile, ele dormiu muito.
+# After the ball, he slept a lot.
+
+Apurandú ne suí maã aputari akwáu.
+# Pergunto de você o que quero saber.
+# I ask to you what I want to know.
+
+Indé resemu se suí.
+# Você nasceu (ou saiu) de mim.
+# You were born (or came out) from me.
+
+Ixé ayuri paranã suí.
+# Eu venho do rio.
+# I come from the river.
+
+Aé uyupirú ana uwatá garapá suí.
+# Ele começou a andar desde o porto.
+# He started walking from the harbor.
+
+Ixé asarú indé amukwesé suí.
+# Eu te espero desde anteontem.
+# I have been waiting for you since the day before yesterday.
+
+Ixé asarú indé amukwesé suiwara.
+# Eu te espero desde anteontem.
+# I have been waiting for you since the day before yesterday.
+
+se pu
+# minha mão
+# my hand
+
+ne mimbira
+# teu filho
+# your son
+
+tukana tĩ
+# o bico do tucano
+# the beak of the toucan
+
+ne tawa
+# tua cidade
+# your city
+
+se igara
+# minha canoa
+# my canoe
+
+yané putira
+# nossa flor
+# our flower
+
+Aikwé kamixá-itá puranga nhaã piripanasawa ruka upé.
+# Há camisas bonitas naquela loja.
+# There are nice shirts in that store.
+
+Aikwé mukũi igara paranã upé.
+# Há duas canoas no rio.
+# There are two canoes on the river.
+
+Aikwé raẽ será tuxawa tuyuwé?
+# Existe ainda o velho tuxaua?
+# Does the old tuxaua still exist?
+
+Aiwã amana.
+# Já haverá chuva.
+# Soon there will be rain.
+
+Aiwã pituna.
+# Logo vem a noite.
+# Soon comes the night.
+
+Aiwã tẽ kurí.
+# Logo será (ou daqui a pouco).
+# Soon it will be.
+
+Xukúi kamixá.
+# Aqui está a camisa.
+# Here is the shirt.
+
+Xukúi sekuyara.
+# Aqui está o dinheiro.
+# Here is the money.
+
+Kwá garapá mirĩ, nhaã umbaá.
+# Este porto é pequeno, aquele não.
+# This harbor is small, that one is not.
+
+Kwá tawa puranga, nhaã tawa puxiwera.
+# Esta cidade é bonita, aquela cidade é feia.
+# This city is beautiful, that city is ugly.
+
+Kwá-itá mirá santá, nhaã-itá membeka.
+# Estas madeiras são duras, aquelas são moles.
+# These woods are hard, those are soft.
+
+Amaã-putari kwá uri waá-itá.
+# Quero ver estes que vêm.
+# I want to see those who are coming.
+
+Asú kurí São Gabriel kití.
+# Irei a São Gabriel.
+# I will go to São Gabriel.
+
+Wirandé kurí yamunhã yané ruka.
+# Amanhã faremos nossa casa.
+# Tomorrow we will make our home.
+
+Repitá kurí wirandé iké?
+# Você vai ficar amanhã aqui?
+# Are you staying here tomorrow?
+
+wirandé kurí tenhẽ
+# amanhã mesmo
+# tomorrow
+
+Mairamé taá kurí indé repurungitá nheengatú?
+# Quando você falará nheengatu?
+# When will you speak nheengatu?
+
+Se mena usika kurí paranã suí.
+# Meu marido vai chegar do rio.
+# My husband will arrive from the river.
+
+Mairamé kurí bũa, ixé asú kurí ayuká indé arama kwá tukunaré.
+# Quando eu for grande, eu vou matar para você este tucunaré.
+# When I am big, I am going to kill this peacock bass for you.

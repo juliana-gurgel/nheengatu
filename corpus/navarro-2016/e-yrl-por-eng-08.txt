@@ -1,0 +1,113 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 9th, 2023
+
+Kunhã uyumaã waruá resé.
+# A mulher se vê no espelho.
+# The woman sees herself in the mirror.
+
+Kunhã, apigawa uyumaã.
+# A mulher e o homem se veem.
+# The woman and the man see each other.
+
+Maã taá ne rera?
+# Qual é seu nome?
+# What is your name?
+
+Ixé ayuseruka Pedro.
+# Eu me chamo Pedro.
+# I am Pedro.
+
+Apigawa uyuyuká ana.
+# O homem se matou.
+# The man killed himself.
+
+Ayuyeréu xinga.
+# Virei-me um pouco.
+# I turned around a little.
+
+Mukũi apigawa uyuyuká.
+# Os dois homens se mataram.
+# The two men killed themselves.
+
+Kunhã-itá uyumuapatuka.
+# As mulheres se atrapalham.
+# Women get in their own way.
+
+Mamé taá puranga uyumunhã arã yané ruka?
+# Onde é bom para se fazer nossa casa?
+# Where is it good to make our home?
+
+Usika, paá, umaã uyukupiri wã ne iwí.
+# Dizem que chegou e viu que já fora roçada tua terra.
+# They say he arrived and saw that your land had already been farmed.
+
+Mira puxí uyumundú apekatú kití.
+# Gente ruim é mandada para longe.
+# Bad people are sent away.
+
+Pedro uyatikú kamixá mirá resé.
+# Pedro dependura a camisa na árvore.
+# Pedro hangs his shirt on the tree.
+
+Kamixá uyatikú uikú mirá resé.
+# A camisa está dependurada na árvore.
+# The shirt is hanging on the tree.
+
+Maria ukitika maniaka.
+# Maria rala a mandioca.
+# Maria grates the cassava.
+
+Maria upurakari tipití maniaka kitika irũmu.
+# Maria enche o tipití com a mandioca ralada.
+# Maria fills the tipiti with grated cassava.
+
+Pedro, paá, sera.
+# Dizem que o nome dele era Pedro.
+# They say his name was Pedro.
+
+Upitá, paá, suka upé.
+# Contam que ficou na sua casa.
+# They say he stayed at your house.
+
+Ape, paá, usika sesé wirawasú.
+# Então, dizem que chegou a ele o gavião.
+# So they say the hawk came to him.
+
+Aramé té, paá, usasá yepé wiramirĩ.
+# Nesse momento mesmo, dizem que passava um passarinho.
+# At that very moment, they say a bird was passing by.
+
+Reyana taína-itá rakakwera.
+# Corres atrás das crianças.
+# You run after the children.
+
+Indé reyuri ana sakakwera.
+# Tu vieste atrás dele.
+# You came after him.
+
+Aé uikú se ruka kupé upé.
+# Ele está atrás de minha casa.
+# He is behind my house.
+
+Yawara usika yané kupé rupí.
+# O cão chega por trás de nós.
+# The dog comes up behind us.
+
+Uwapika riré, umaã i manha resé.
+# Depois que se sentou, olhou em sua mãe.
+# After he sat down, he looked at his mother.
+
+Ukiri renundé, aé uú xibé.
+# Antes de dormir, ele bebe chibé.
+# Before going to sleep, he drinks chibé.
+
+Aé upurungitá pukusawa, ixé apurakí.
+# Enquanto ele fala, eu trabalho.
+# While he talks, I work.

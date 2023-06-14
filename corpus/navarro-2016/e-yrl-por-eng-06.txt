@@ -1,0 +1,133 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 9th, 2023
+
+Maria umunhã uikú timbiú memũitendawa upé.
+# Maria está fazendo comida na cozinha.
+# Maria is making food in the kitchen.
+
+Ixé apitá aikú yumasisawa irũmu.
+# Eu estou ficando com fome.
+# I am getting hungry.
+
+Indé reyenũ reikú.
+# Tu estás deitado.
+# You are lying down.
+
+Aé uwapika ana uikú mimi.
+# Ele estava sentado ali.
+# He was sitting there.
+
+Uyatikú uikú mirá resé.
+# Está-se dependurando na árvore.
+# It is hanging from the tree.
+
+Aé umaã uikú mirá-itá, kawoka ruka-itá yuíri.
+# Ela está vendo árvores e casas de caboclos.
+# She is seeing trees and caboclo houses.
+
+Nhaã apigawa umbaú ana pirá meyú yuíri.
+# Aquele homem comeu peixe e biju.
+# That man ate fish and biju.
+
+Aé umbué aintá upurungitá asuí umupinima.
+# Ele os ensinou a falar, depois a escrever.
+# He taught them to speak, then to write.
+
+Ixé apuamu asuí apurasí.
+# Eu levanto, depois danço.
+# I get up, then I dance.
+
+Aé uyupiri ana mirá resé.
+# Ele subiu na árvore.
+# He climbed the tree.
+
+Aé uyupiri sesé.
+# Ele subiu nela.
+# He climbed on it.
+
+Maria mena ururi maniaka i pu-itá resé.
+# O marido de Maria traz mandioca em suas mãos.
+# Maria's husband brings cassava in his hands.
+
+Kunhã ururi yepeawa kawarú resé.
+# A mulher traz lenha no cavalo.
+# The woman brings firewood on the horse.
+
+Pedro upitá paranã upé.
+# Pedro fica no rio.
+# Pedro stays on the river.
+
+Ixé amandwari Maria resé.
+# Eu me lembro de Maria.
+# I remember Maria.
+
+Ixé amandwari sesé.
+# Eu me lembro dela.
+# I remember her.
+
+Aintá upuká yané resé.
+# Eles riem de nós.
+# They laugh at us.
+
+Aintá upurungitá ne resé.
+# Falaram a respeito de você.
+# They talked about you.
+
+Ixé apurakí ne resewara.
+# Eu trabalho por você.
+# I work for you.
+
+Ixé apurakí sesewara.
+# Eu trabalho por ele.
+# I work for him.
+
+Akwáu sesewara.
+# Sei dele.
+# I know about him.
+
+Ixé amurari Maria ruakí.
+# Eu moro perto de Maria.
+# I live close to Maria.
+
+Ixé amurari suakí.
+# Eu moro perto dela.
+# I live close to her.
+
+Kunhã usú se renundé.
+# A mulher foi à frente de mim.
+# The woman went ahead of me.
+
+Kunhã usú i mena renundé.
+# A mulher foi antes de seu marido.
+# The woman went before her husband.
+
+Kunhã usú senundé.
+# A mulher foi antes dele.
+# The woman went before him.
+
+Asú amunhã yepé kakurí senundé.
+# Vou fazer um cacuri antes dele.
+# I am going to make a cacuri before him.
+
+Aintá upitá akangaíwa kurumĩwasú purangasawa renundé.
+# Elas ficaram loucas diante da beleza do moço.
+# They went crazy before the beauty of the young man.
+
+Asú aikú se renundé kití.
+# Estou indo para adiante de mim.
+# I am going to ahead of me.
+
+Kunhã uri tawa kití.
+# A mulher vem para a cidade.
+# The woman comes to town.
+
+Aé usú Maria piri.
+# Ele vai para junto de Maria.
+# He goes to Maria.
