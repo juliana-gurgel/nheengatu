@@ -1,0 +1,169 @@
+'''This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.'''
+
+# Producer: Dominick Maia Alexandre
+# English translation: Juliana Lopes Gurgel
+# Last update: March 1st, 2023
+
+Ixé kurumĩ.
+# Eu sou menino.
+# I am a boy.
+
+Indé kunhã.
+# Tu és mulher.
+# You are a woman.
+
+Aé apigawa.
+# Ele é homem.
+# He is a man.
+
+Ixé aikú iké.
+# Eu estou aqui.
+
+Yandé yasasá puranga.
+# We are well.
+
+Ixé puranga.
+# Eu sou bonito.
+# I am beautiful.
+
+Se pusé.
+# Eu sou pesado.
+# I am heavy.
+
+kurumĩ puranga
+# menino bonito
+# beautiful boy
+
+Kurumĩ puranga.
+# O menino é bonito.
+# The boy is beautiful.
+
+Pedro pisasú.
+# Pedro é novo.
+# Pedro is young.
+
+Maria puranga.
+# Maria é bonita.
+# Maria is beautiful.
+
+Ixé pisasú.
+# Eu sou novo.
+# I am young.
+
+Puranga, eré, peikú iké.
+# É bom, ó sim, que vocês estejam aqui.
+# It is good, oh yes, that you are here.
+
+Igara i pusé.
+# A canoa é pesada.
+# The canoe is heavy.
+
+Kurumĩ i kiá.
+# O menino é sujo.
+# The boy is dirty.
+
+Igara pisasú.
+# A canoa é nova.
+# The canoe is new.
+
+Apigawa puranga.
+# O homem é bonito.
+# The man is beautiful.
+
+ara puranga
+# dia bonito
+# dia bom
+# beautiful day
+# good day
+
+Puranga ara!
+# Bom dia!
+# Good morning!
+
+Yepé pisasú ara usika.
+# Um novo dia chega.
+# A new day arrives.
+
+Aé puranga uikú.
+# Ela está bonita.
+# She is beautiful.
+
+Aé puranga.
+# Ela é bonita.
+# She is beautiful.
+
+Indé ne kiá.
+# Tu és sujo.
+# You are dirty.
+
+Yandé yané pusé.
+# Nós somos pesados.
+# We are heavy.
+
+kunhã puranga
+# mulher direita
+# proper woman
+
+Reyenũ puranga!
+# Deita direito!
+# Lie down straight!
+
+taína surí
+# criança alegre
+# happy child
+
+Surí ayumbué.
+# Alegremente aprendo.
+# I happily learn.
+
+apigawa kirimbawa
+# homem forte
+# strong man
+
+Reyapukúi kirimbawa.
+# Reme com força.
+# Row hard.
+
+timbiú sé
+# comida gostosa
+# tasty food
+
+Repuká sé.
+# Rias gostosamente.
+# Laugh nicely.
+
+Mamé Barcelos?
+# Onde é Barcelos?
+# Where is Barcelos?
+
+Mamé taá Barcelos?
+# Onde é Barcelos?
+# Where is Barcelos?
+
+Mimi katú aé.
+# É bem ali.
+# It is right there.
+
+Indé mimiwara.
+# Você é de lá.
+# You are from there.
+
+Joana mena
+# marido de Joana
+# Joan's husband
+
+Pedro igara
+# canoa de Pedro
+# Pedro's canoe
+
+paranã ií
+# água do rio
+# river water
+
+Maria mimbira
+# filho de Maria
+# Mary's son
