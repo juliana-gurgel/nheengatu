@@ -1,0 +1,999 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: July 9, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Maá taá (mata) remunhã?
+# O que estás fazendo?
+# What are you doing? 
+
+Kwaá (kwa) uka se yara.
+# Esta casa é minha.
+# This house is mine. 
+
+Se aría waimí retana.
+# Minha avó é muito velha.
+# My grandmother is very old. 
+
+Kuru, reyuri kutara.
+# Menino, vem depressa.
+# Boy, come quickly. 
+
+Aetá usendú.
+# Eles escutam.
+# They listen. 
+
+Ta usendú.
+# Eles escutam.
+# They listen. 
+
+Tasendú.
+# Eles escutam.
+# They listen. 
+
+Kupixawa upé.
+# Na roça.
+# In the roça. 
+
+Kupixapé.
+# Na roça.
+# In the roça. 
+
+Paraná upé.
+# No rio.
+# In the river. 
+
+Paranape.
+# No rio.
+# In the river. 
+
+Paraname.
+# No rio.
+# In the river. 
+
+Indé repurungintá.
+# Tu falas.
+# You speak. 
+
+Remungiri taína.
+# Adormece a criança.
+# The child falls asleep. 
+
+Ixé kirimbawa.
+# Eu estou forte.
+# I'm strong. 
+
+Indé katú.
+# Você é bom.
+# You are good. 
+
+Yandé kurumitá.
+# Nós somos meninos.
+# We are boys. 
+
+Payé ruka.
+# Casa do pajé.
+# Paje's house. 
+
+Uwí rirú.
+# Paneiro de farinha.
+# Flour pan. 
+
+Penhé pepurungitá.
+# Vocês falam.
+# You speak. 
+
+Resikié será se suí.
+# Tu (omitido) me temes?
+# Do you (omitted) fear me? 
+
+Remaã putari será aé.
+# Tu queres vê-lo?
+# Do you want to see it? 
+
+Yandé suri.
+# Nós (estamos) alegres.
+# We (are) happy. 
+
+Penhé peyumasi.
+# Vocês estão famintos.
+# You are hungry. 
+
+Apigawaitá kirimbawa.
+# Homens fortes.
+# Strong men. 
+
+Payé ruka.
+# Casa do pajé.
+# Paje's house. 
+
+Mirá rupitá.
+# Tronco da árvore.
+# Trunk tree. 
+
+Taína ukiri uikú.
+# A criança está dormindo.
+# The child is sleeping. 
+
+Aé unhengari puranga.
+# Ele canta bem.
+# He sings well. 
+
+Kunhã ukwá umemúi.
+# A mulher sabe cozinhar.
+# The woman knows how to cook. 
+
+Yasú yawatá.
+# Vamos passear.
+# Let's go for a walk. 
+
+Ixé ayuká siía pirá.
+# Eu matei muitos peixes.
+# I killed many fish. 
+
+Aé unhengari puranga.
+# Ele canta bem.
+# He sings well. 
+
+Yasendú nheengatú.
+# Entendemos nheengatú.
+# We understand nheengatú. 
+
+Tuxawa uyupirú umunhã suka.
+# O chefe começou a fazer sua casa.
+# The chief began to do his homework. 
+
+Yasú yapurungitá nheengatú.
+# Vamos falar nheengatú.
+# Let's talk nheengatú. 
+
+Aintá ta usú uwatá.
+# Eles foram passear.
+# They went for a walk. 
+
+Yasú yawatá puranga.
+# Vamos passear bem.
+# Let's go for a good walk. 
+
+Penhé pepurakí muíri ara.
+# Vocês trabalham todos os dias.
+# You work every day. 
+
+Kuíri ti aputari anhengari.
+# Agora não quero cantar.
+# Now I don't want to sing. 
+
+Wirandé panhé yandé yasú yasapí kupixá.
+# Amanhã todos nós vamos queimar a roça.
+# Tomorrow we are all going to burn the fields. 
+
+Aé urikú takuwa yawé resewara ti usú upinaitika.
+# Ele tinha febre, por isso não foi pescar.
+# He had a fever, so he didn't go fishing. 
+
+Ixé aputari ambaú.
+# Eu quero comer.
+# I want to eat. 
+
+Ixé ambaú putari.
+# Eu comer quero.
+# I want to eat 
+
+Ixé asú.
+# Eu vou.
+# I go. 
+
+Ixé asú aikú.
+# Eu estou indo.
+# I am going. 
+
+Indé resú reikú.
+# Tu estás indo.
+# You are going. 
+
+Usú usikái.
+# Foi procurar.
+# Went to look. 
+
+Aé usú ne ruka kití.
+# Ele foi a tua casa.
+# He went to your house. 
+
+Aé uwatá, uwasemu, umaã, uyenú uikú igara upé.
+# Ele foi e o encontrou deitado na canoa.
+# He went and found him lying in the canoe. 
+
+Yepé tapira kunhã umanú.
+# Morreu uma vaca.
+# A cow died. 
+
+Ixé arikú yepé yawara.
+# Eu tenho um cachorro.
+# I have a dog. 
+
+Usuã (ana) usikari taína.
+# Foi procurar a criança.
+# He went looking for the child. 
+
+Wirandé resú se ruka kiti.
+# Amanhã irás à minha casa.
+# Tomorrow you will come to my house. 
+
+Aintá ta usú kwera tawa kiti.
+# Eles já foram à cidade.
+# They've already gone to town. 
+
+Asú kuri ne irumu.
+# Vou com você.
+# I will go with you. 
+
+Usenúi ixé yepé, maá ti asú.
+# Me chamou, mas não fui.
+# He called me, but I didn't go. 
+
+Amandwari yepé, maá ti asú.
+# Pensei ir, mas não fui.
+# I thought about going, but I didn't. 
+
+Asuã asikari se raíra.
+# Fui procurar meu filho.
+# I went looking for my son. 
+
+Aé usú kwera.
+# Ele já foi.
+# He is gone. 
+
+Usuana usapí kupixawa.
+# Foi queimar a roça.
+# He went to burn the roça. 
+
+Aé uyuíri, asuí usú upinaitika.
+# Ele voltou, depois foi pescar
+# He came back, then went fishing 
+
+Ixé asú kurí.
+# Eu irei.
+# I will. 
+
+Wirandé asú ne irumu.
+# Amanhã vou com você.
+# Tomorrow I'll go with you. 
+
+Se paya umanú se suí.
+# Morreu meu pai.
+# My father died. 
+
+Umanú se aría kwera.
+# Morreu minha vó.
+# My grandmother died. 
+
+Kwesé uyupiri yepé igara.
+# Ontem subiu uma canoa.
+# Yesterday a canoe went up. 
+
+Resú repinaitika.
+# Vá pescar.
+# Go fishing. 
+
+Pituna usika, yasuã yakiri.
+# Está anoitecendo, vamos dormir.
+# It's getting dark, let's go to sleep. 
+
+Kwesé yané igara uwiwí.
+# Ontem a nossa canoa bubulhou.
+# Yesterday our canoe rumbled. 
+
+Kwa yawara té usuú ixé.
+# Foi este cachorro mesmo que me mordeu.
+# It was this dog that bit me. 
+
+Nhaá mirá uyumunhã puranga.
+# Aquela árvore está crescendo bem.
+# That tree is growing well. 
+
+Yaswã.
+# Vamos.
+# Let's go. 
+
+Yaswã yawatá.
+# Vamos passear.
+# Let's go for a walk. 
+
+Kuíri yasú pawa yandé yapurakí.
+# Agora vamos todos nós trabalhar.
+# Now let's all go to work. 
+
+Se ruka.
+# Minha casa.
+# My house. 
+
+Ne paya.
+# Teu pai.
+# Your dad. 
+
+Iapukwitawa.
+# O remo dele.
+# His oar. 
+
+Yané igara.
+# Nossa canoa.
+# Our canoe. 
+
+Pe igara.
+# A canoa de vocês.
+# Your canoe. 
+
+Ta ruka.
+# A casa deles.
+# Their house. 
+
+Kwa apigá upuraki puranga, nhaã umbaá.
+# Este homem trabalha bem, aquele não.
+# This man works well, that one doesn't. 
+
+Remaã: musapiri kurumĩta umusarai uikú.
+# Olha: três meninos estão brincando.
+# Look: three boys are playing. 
+
+Kwa uka mirí se yara.
+# Esta casa pequena é minha.
+# This little house is mine. 
+
+Ixé aputari yepé igara wasú.
+# Eu quero uma canoa grande.
+# I want a big canoe. 
+
+Remeé panhé maá ta uputari waá.
+# Dá tudo o que eles querem.
+# Give them everything they want. 
+
+Kwa apukwitá ne yara.
+# Este remo é teu.
+# This oar is yours. 
+
+Arikú mukui se raíra, yepé se rayera.
+# Tenho dois filhos e uma filha.
+# I have two sons and a daughter. 
+
+Yepé se taína mirí umanú kuxiíma.
+# Minha filhinha morreu antigamente.
+# My little daughter died formerly. 
+
+Nhaã uka se mu raíra yara.
+# Aquela casa é do meu sobrinho.
+# That house belongs to my nephew. 
+
+Awá taá yara kwa apukwitá mirí?
+# De quem é este remo pequeno?
+# Whose little oar is this? 
+
+Se manha yara.
+# É da minha mãe.
+# It's my mother's. 
+
+Kwa akayú se paya umunhã yepé kupixá wasú.
+# Este ano meu pai fez uma roça grande.
+# This year my father made a big garden. 
+
+Yamunhã putari panhe maã aé umundú waá.
+# Queremos fazer tudo o que ele mandou.
+# We want to do everything he said. 
+
+Yukasara suúyamaã waá kaá upé usikana.
+# Chegou o caçador que vimos na floresta.
+# The hunter we saw in the forest has arrived. 
+
+Putira, isakwena uyuká waá mira, utiní.
+# A flor, cujo perfume mata gente, murchou.
+# The flower, whose perfume kills people, withered. 
+
+Kwa apigá usasá waá kwesé kwa rupí, aeté se mu.
+# Aquele homem que passou ontem por aqui, ele mesmo é meu irmão.
+# That man who passed by yesterday is my brother himself. 
+
+Amunhã kurí yepé kupixawa penharã.
+# Vou fazer uma roça para vocês.
+# I'll make a roça for you. 
+
+Remeé mukui pakuwa ixé arã.
+# Dá-me duas bananas.
+# Give me two bananas. 
+
+Kwa kisé saimbé iuxupé.
+# Esta faca amolada é para ele.
+# This sharpened knife is for him. 
+
+Apiripana putari ne igara remunhã waá akwera mirá tawá suíwara.
+# Quero comprar a canoa que você fez de pau amarelo.
+# I want to buy the canoe you made out of yellow wood. 
+
+Kuíri arikú yepé igara se yara.
+# Agora tenho minha canoa.
+# Now I have my canoe. 
+
+Usika ramé ne paya, asú kurí awatá ne irumu.
+# Se chegar teu pai, irei passear com você.
+# If your father arrives, I will go for a walk with you. 
+
+Asu ramé, arasú kurí nembira mirĩ.
+# Se eu for, levarei teu filho pequeno.
+# If I go, I will take your little son. 
+
+Yandé yasaru usika waá pemanha, yaú arã pupunha yukisé.
+# Nós esperamos que chegue a mãe de vocês, para tomar vinho de pupunha.
+# We are waiting for your mother to arrive, to drink peach palm wine. 
+
+Awá uyuká kisé irumu, ta uyuká kurí aé kisé irũ.
+# Quem mata com faca, será morto (o matarão) com faca.
+# Anyone who kills with a knife will be killed (they will kill him) with a knife. 
+
+Amú akayú usú putari se anamaitá piri.
+# Outro ano quero ir visitar meus parentes.
+# Another year I want to go visit my relatives. 
+
+Umanú ramé.
+# Se ele morrer.
+# If he dies. 
+
+Asú ramé, arasú ne igara.
+# Se eu for, levarei tua canoa.
+# If I go, I'll take your canoe. 
+
+Awá kurí ti uruyari, ta uyuká kurí aé.
+# Quem não obedecer, será morto (o matarão).
+# Whoever does not obey will be killed (they will kill him). 
+
+Reyumimi taína.
+# Esconde a criança.
+# Hide the child. 
+
+Reyuyumimi.
+# Esconde-te.
+# Hide. 
+
+Aé upitá sasiara, asuí uyuyuká.
+# Ele ficou triste, depois se suicidou.
+# He became sad, then committed suicide. 
+
+Asuí, paá, wirá-wasú umanú.
+# Depois (dizem) o gavião morreu.
+# Afterwards (they say) the hawk died. 
+
+Reyumupuranga, resú arã tawa kití.
+# Enfeita-te para ir à cidade.
+# Dress up to go to town. 
+
+Yépe yasí kwera, paá, ta uyuká yepé kurumĩ.
+# O mês passado (dizem) foi morto (mataram) um menino.
+# Last month (they say) a boy was killed (they killed). 
+
+Kunhatãi uyusapí.
+# A menina queimou-se.
+# The girl was burned. 
+
+Aé upitasuka puranga igara wasú ipusé.
+# Ele segurou bem a canoa grande e pesada.
+# He held the big, heavy canoe well. 
+
+Aé uyupitasuka puranga.
+# Ele segurou-se bem.
+# He held up well. 
+
+Remundéu taína.
+# Veste a criança.
+# Dress the child. 
+
+Kwa taína ukwawa uyumundéu.
+# Esta menina sabe vestir-se.
+# This girl knows how to dress. 
+
+Aé uyenú.
+# Ele deitou-se.
+# He lay down. 
+
+Se manha umuyenú taína.
+# Minha mãe deitou a criança.
+# My mother laid the child down. 
+
+Muíri ara yepé kunhã umupusanga masiweraitá.
+# Todos os dias uma mulher dá remédio para os doentes.
+# Every day a woman gives medicine to the sick. 
+
+Sembira, resú remusakú timbiú ne paya supé.
+# Minha filha, vai esquentar a comida para teu pai.
+# My daughter, go heat up some food for your father. 
+
+Usasawa kwa rupí.
+# Passou por aqui.
+# Passed by. 
+
+Remusasawa taína.
+# Passa a criança.
+# Pass the child. 
+
+Kurumĩ usemu.
+# O menino saiu.
+# The boy left. 
+
+Kurumĩ umusemu taína.
+# O menino fez sair a criança.
+# The boy brought the child out. 
+
+Aé umunuka suasú kisé wasú irumu.
+# Ele cortou o veado com terçado.
+# He cut the deer with a machete. 
+
+Wirandé yandé pawa yasú yamunuka karanaí.
+# Amanhã todos nós vamos cortar caraná.
+# Tomorrow we're all going to cut caraná. 
+
+Amú wirandé kurumĩ-wasú usú suka kití.
+# Depois de manhã o rapaz vai a sua casa.
+# After morning the boy goes to his house. 
+
+Yandé yapurakí piri aintá suí.
+# Nós trabalhamos mais do que eles.
+# We work harder than them. 
+
+Se miraitá katú piri ne miraitá suí.
+# Meu pessoal é melhor do que o teu.
+# My people are better than yours. 
+
+Kwa putira sakwena piri amuitá suí.
+# Esta flor é mais perfumosa do que as outras.
+# This flower is more fragrant than the others. 
+
+Yepé upinaitika, yepé asú uyuká suú.
+# Uns foram pescar, outros caçar.
+# Some went fishing, others hunted. 
+
+Amú upitá umunhã mitasawa arama.
+# Outros ficaram para preparar o lugar de descanso.
+# Others stayed to prepare the resting place. 
+
+Ne yepé usika.
+# Não chegou ninguém.
+# Nobody arrived. 
+
+Ti asú putari.
+# Não quero ir.
+# I do not want to go. 
+
+Apigá upitá sesá ima.
+# O homem ficou cego.
+# The man was blinded. 
+
+Resú repinaitika.
+# Vá pescar.
+# Go fishing. 
+
+Umbaá, ti asú putari.
+# Não, não quero ir.
+# No, I don't want to go. 
+
+Resú putari yané irumu?
+# Queres vir conosco?
+# Do you want to come with us? 
+
+Umbaá.
+# Não.
+# No. 
+
+Awasemu aé timbiú ima.
+# Encontrei ele sem comida.
+# I found him without food. 
+
+Kuíri ti asú apurakí.
+# Agora não vou trabalhar.
+# Now I won't work. 
+
+Te remunhã yawé.
+# Não faças isso.
+# Don't do that. 
+
+Eré.
+# Sim.
+# Yes. 
+
+Asarú indé se ruka upé.
+# Espero você na minha casa.
+# I expect you at my house. 
+
+Eré.
+# De acordo.
+# Accordingly. 
+
+Rerikú será yawara puranga?
+# Você tem um cachorro bom?
+# Do you have a good dog? 
+
+Mairamé taá resika?
+# Quando você chegou?
+# When did you arrive? 
+
+Awá taá upurakí piri?
+# Quem trabalha mais?
+# Who works harder? 
+
+Awá usú putari se irumu?
+# Quem quer vir comigo?
+# Who wants to come with me? 
+
+Ixé ti amunhã putari puxiwera suuitá supé.
+# Eu não quero fazer mal aos animais.
+# I don't want to harm animals. 
+
+Mairamé resú se ruka kití?
+# Quando você vai na minha casa?
+# When are you coming to my house? 
+
+Muíri akayú rerikú indé?
+# Quantos anos você tem?
+# How old are you? 
+
+Resika será?
+# Você chegou?
+# You came? 
+
+Mairamé taá resika?
+# Quando você chegou?
+# When did you arrive? 
+
+Kwa pururé ikewara.
+# Esta enxada é daqui.
+# This hoe is from here. 
+
+Nhaá apigá Manawara.
+# Aquele homem é de Manaus.
+# That man is from Manaus. 
+
+Kwa uka kuxiímawara.
+# Esta casa é antiga.
+# This house is old. 
+
+Aputari apukwitawa mirĩ mirá tawá suíwara.
+# Quero um remo pequeno feito de pau amarelo.
+# I want a small oar made of yellow sticks. 
+
+Yandé yarikú yepé umbwesara puranga.
+# Nós temos um bom professor.
+# We have a good teacher. 
+
+Kaápura.
+# Que mora no mato.
+# Who lives in the woods. 
+
+Paranápura.
+# Do rio.
+# From Rio. 
+
+Aikwé mira kaápura.
+# Tem gente moradores do mato.
+# There are people who live in the bush. 
+
+Aikwé mira paranápura.
+# Tem gente moradores da beira do rio.
+# There are people who live on the riverside. 
+
+Usika yepé apigá, paá, yupanasararana.
+# Dizem que chegou um homem que não é um bom carpinteiro.
+# They say a man has arrived who is not a good carpenter. 
+
+Yandé yariku tuixawa paraná-wasúwara puranga retã.
+# Nós temos um chefe do rio Negro muito bom.
+# We have a very good chief from Rio Negro. 
+
+Xukúi pirá rembaú arã.
+# Aqui tem peixe para você comer.
+# Here's fish for you to eat. 
+
+Apurakí indé arama.
+# Trabalho para você.
+# I work for you. 
+
+Amunhã kurí yepé kupíxawa se raíra supé.
+# Vou fazer uma roça para meu filho.
+# I'm going to make a garden for my son. 
+
+Maria unheé ixupé.
+# Maria disse para ele (ela).
+# Maria said to him (her). 
+
+Bíblia umbeú tupana resé.
+# A Bíblia fala sobre Deus.
+# The Bible talks about God. 
+
+Aé upurandú ne resé.
+# Ele perguntou por ti.
+# He asked about you. 
+
+Aé uyupiri putari mirá resé.
+# Ele quer subir na árvore.
+# He wants to climb the tree. 
+
+Makití resú?
+# Para onde vais?
+# Where are you going? 
+
+Uwiké mirá kwara kití.
+# Entrou no buraco do pau.
+# It went into the dick hole. 
+
+Asú se ruka kití.
+# Vou à minha casa.
+# I'm going to my house. 
+
+Uyawawa se suí.
+# Fugiu de mim.
+# Ran from me. 
+
+Umanu se suí.
+# Morreu.
+# He died. 
+
+Masuí resika?
+# De onde você chegou?
+# Where did you come from? 
+
+Asika se ruka suí.
+# Cheguei de minha casa.
+# I arrived from my house. 
+
+Membí kãwéra suíwara.
+# Flauta feita de osso.
+# Flute made of bone. 
+
+Apukwitawa mirá tawá suíwara.
+# Remo feito de pau amarelo.
+# Oar made of yellow stick. 
+
+Aé usú ne rapé rupí.
+# Ele foi pelo teu caminho.
+# He went your way. 
+
+Yawasemu kaá rupí yepé yautí.
+# Achamos pela mata um jabuti.
+# We found a tortoise in the woods. 
+
+Aintá usika igara upé.
+# Eles chegaram na canoa.
+# They arrived in the canoe. 
+
+Se manha upitá ne ruka upé.
+# Minha mãe ficou na tua casa.
+# My mother stayed at your house. 
+
+Indé resú se irumu.
+# Você vai comigo.
+# You are coming with me. 
+
+Uyuká aé itá wasú irũ.
+# Matou-o com uma grande pedra.
+# Killed him with a big rock. 
+
+Resarú xinga, ixé asú kuri ne irumu.
+# Espera um pouco, eu irei contigo.
+# Wait a bit, I'll go with you. 
+
+Repitá tatá ruakí.
+# Fica perto do fogo.
+# Stay close to the fire. 
+
+Ixé arikú yepé kupixawa iwitera ruakí.
+# Eu tenho uma roça perto da serra.
+# I have a swidden near the mountains. 
+
+Au ne píri.
+# Vou perto de você.
+# I'll come close to you. 
+
+Indé repuraki piri se suí.
+# Você trabalha mais do que eu.
+# You work harder than me. 
+
+Wirá mirĩ kutara piri uwewé kaá kití.
+# O passarinho voou mais rápido pelo mato.
+# The bird flew faster through the bush. 
+
+Se paya abira upurakí piri panhé yandé suí.
+# Meu finado pai trabalhou mais do que todos nós.
+# My late father worked harder than all of us. 
+
+Maíramé resika?
+# Quando você chegou?
+# When did you arrive? 
+
+Aramé yasú yané ruka kití.
+# Então vamos para nossa casa.
+# Then we go to our house. 
+
+Usú ramé kupixawa kití, ti upurakí putari.
+# Quando vai na roça, não quer trabalhar.
+# When he goes to the fields, he doesn't want to work. 
+
+Usika ramé se paya, asú apinaitika.
+# Se chegar meu pai, vou pescar.
+# If my father arrives, I will go fishing. 
+
+Ukiri pituna pukusawa.
+# Dormiu toda a noite.
+# Slept all night. 
+
+Kuíri asú ayenú, sasí se akanga.
+# Agora vou deitar, está doente minha cabeça.
+# Now I'm going to bed, my head is sick. 
+
+Iké aikwé timbiú.
+# Aqui tem comida.
+# Here's food. 
+
+Uwapika mukũi pitérupi.
+# Sentou no meio dos dois.
+# He sat between the two. 
+
+Makití usú taína?
+# Onde foi a criança?
+# Where did the child go? 
+
+Ne makití.
+# Em nenhum lugar.
+# Nowhere. 
+
+Pixana usú wawirú rakakwera umbaú arã aé.
+# O gato foi detrás do rato para comê-lo.
+# The cat went after the mouse to eat it. 
+
+Kwesé ixé amaã mimi yepé buya wasú.
+# Ontem eu vi lá uma cobra grande.
+# Yesterday I saw a big snake there. 
+
+Amú kwesé kurumitá ta usú uyumwasuka garapape.
+# Anteontem os meninos foram tomar banho no porto.
+# The day before yesterday the boys went to the port to bathe. 
+
+Reyuri kutara, te remunhã yawé.
+# Volta depressa, não faça isso.
+# Come back quickly, don't do this. 
+
+Remunhã ixé arã yepé waturá kwa yawé.
+# Faça para mim um cesto como este.
+# Make me a basket like this one. 
+
+Se paya umunhã kwera mukũi kupixawa.
+# Meu pai ja fez duas roças.
+# My father already made two swiddens. 
+
+Makití pesú?
+# Onde vocês vão?
+# Where will you go? 
+
+Kuíri yasú kupixaua kití.
+# Agora vamos à roça.
+# Now let's go to the rock. 
+
+Muíri mira ta usú?
+# Quanta pessoas vão?
+# How many people go? 
+
+Ta usú pawa miraitá.
+# Vão todas as pessoas.
+# All people go. 
+
+Resika será?
+# Você chegou?
+# You came? 
+
+Asika.
+# Cheguei.
+# I arrived. 
+
+Mairamé resika?
+# Quando você chegou?
+# When did you arrive? 
+
+Kwesé pituna.
+# Ontem à noite.
+# Last night. 
+
+Maá suí reyuri?
+# De onde você chegou?
+# Where did you come from? 
+
+Tumasawa suí.
+# De baixo.
+# Underneath. 
+
+Yapira suí.
+# De cima.
+# From above. 
+
+Maá kití resú?
+# Onde você vai?
+# Where are you going? 
+
+Asú se manha piri.
+# Vou perto da minha mãe.
+# I go close to my mother. 
+
+Asú apinaitika.
+# Vou pescar.
+# I go fishing. 
+
+Maá taá remunhã?
+# O que você está fazendo?
+# What are you doing? 
+
+Awatantu.
+# Estou passeando.
+# I'm walking. 
+
+Mairamé reyuíri?
+# Quando você vai voltar?
+# When will you return? 
+
+Amandwari ayuíri amú yasí.
+# Estou pensando voltar outro mês.
+# I'm thinking of going back another month. 
+
+Wirandé karuka.
+# Amanhã à tarde.
+# Tomorrow afternoon. 
+
+Mairamentu.
+# Qualquer dia.
+# Any day. 
+
+Supi será?
+# É verdade mesmo?
+# It is really true? 
+
+Supí.
+# É, sim.
+# And yes. 
+
+Maá taá reputari.
+# O que você quer?
+# What do you want? 
+
+Ne maá.
+# Nada.
+# Anything. 
+
+Aputari pirá.
+# Quero peixe.
+# I want fish. 
+
+Amundú kwekatú se paya supé.
+# Mando lembranças a meu pai.
+# I send my regards to my father. 
+
+Até wirandé.
+# Até amanhã.
+# See you tomorrow. 
+
+Até amú wirandé.
+# Até depois de amanhã.
+# Until the day after tomorrow. 
+
+Até kurumirí xinga.
+# Até pronto.
+# See you soon. 
+
+Aikwé será masí?
+# Tem doença?
+# Do you have illness? 
+
+Mata ne rera?
+# Como é teu nome?
+# What's your name? 
+
+Se rera Antônio.
+# Meu nome é Antônio.
+# My name is Antonio. 
