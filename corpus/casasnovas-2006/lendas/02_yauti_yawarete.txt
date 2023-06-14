@@ -1,0 +1,51 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 19, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Yepé ara, yawaraté usú usikái yauti umbaú arã aé.
+# Um dia, a onça foi procurar o jabuti para comê-lo.
+# One day, the jabuti went looking for the tortoise to eat it. 
+
+Ikupukú xinga uwatá, uwasemu umaã uyenú uikú yepé mirá wasú rupitá ruakí.
+# Após pouco tempo de caminho, encontrou e viu: estava deitado perto do tronco de uma grande árvore.
+# After a short time on the way, he found and saw: he was lying near the trunk of a large tree. 
+
+Ape yawaraté uyusikí usú merupí sesé.
+# Aí a onça arrastando-se foi devagar sobre ele.
+# Then the jaguar crawled slowly towards him. 
+
+Mairamé paá kwayentuá aé, yautí uwikeã isuí mirá kwara kití.
+# Quando ela já se aproximava o jabuti entrou no buraco daquele pau.
+# When she was approaching, the tortoise entered the hole in that stick. 
+
+Yawé yawaraté usika uyawiyawika umaã ikwara rupí.
+# Desse modo ao chegar, a onça foi abaixando-se para espiar pelo buraco.
+# In this way, upon arriving, the jaguar bent down to peek through the hole. 
+
+Asuí umundéu yepé ipú akití, upisika arã yautí ipí resé.
+# Depois, enfiou uma das mãos para lá, para pegar no pé do jabuti.
+# Then he put one of his hands in there to grab the tortoise's foot. 
+
+Nhapukusá, yautí umundéu pawa ipitá ipirera kití.
+# Enquanto isso, o jabuti enfiou todos os pés dentro de seu casco.
+# Meanwhile, the tortoise stuck all its feet inside its shell. 
+
+Ti waupé yawaraté usarú, mairamé usaã usuúana ipwampé usaka.
+# Inesperadamente a onça sentiu morder e arrancar o próprio dedo.
+# Unexpectedly, the jaguar felt it bite and tear off its own finger. 
+
+Ape tuwí retana aé.
+# Então sangrou muito.
+# Then it bled a lot. 
+
+Tiapú yawaraté usasemu uyana asú kaá kití, sasisã usaã iperewa.
+# Sentindo a dor de sua ferida, a onça saiu correndo e gritando pelo mato adentro.
+# Feeling the pain of his wound, the jaguar ran screaming through the bush. 

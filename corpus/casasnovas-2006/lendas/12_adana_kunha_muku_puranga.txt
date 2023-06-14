@@ -1,0 +1,171 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 27, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Kuxiíma, paá, aikwé siía miraitá, amuitá ta mirasawa Tupí, amuitá Baré.
+# Antigamente existiam muitas tribos indígenas, como a dos Tupi e outra dos Baré.
+# In the past, there were many indigenous tribes, such as the Tupi and the Baré. 
+
+Nhaaitá, paá, ti ta uyumeé puranga.
+# Ambas tribos eram rivais.
+# Both tribes were rivals. 
+
+Nhaã Tupí miraitá pitérupi, paá, aikwé yepé kunhaitãi sera waá Adana.
+# Na tribo Tupi, havia uma índia cujo nome era ADANA.
+# In the Tupi tribe, there was an Indian whose name was ADANA. 
+
+Ipaya, paá, yepé tuxawa ukwawa piri waá panhé mira suí.
+# Filha de um tuxawa, o mais célebre de todos os tuxawas.
+# Daughter of a tuxawa, the most famous of all tuxawas. 
+
+Nhaã, paá kunhatãi, kwaíra suíwara urikuana awá irumu umendari arama.
+# Desde pequena era comprometida para se casar.
+# Since she was a little girl, she was engaged to be married. 
+
+Yepé kururnl-wasú kirimbawa waá, sera, paá, Kurukuí.
+# Com um jovem forte guerreiro, chamado Kurukuí.
+# With a strong young warrior named Kurukuí. 
+
+Adana, paá, uyumunhã, usú uikú, upitá yepé kunhã-mukú puranga.
+# Adana cresceu e tomou-se uma linda índia.
+# Adana grew up to be a beautiful Indian woman. 
+
+Puranga piri panhé kunhã-rnukú suí.
+# A mais bonita de todas as moças.
+# The prettiest of all girls. 
+
+Nhaã, paá, arnú miraitá pitérupi aikwé yepé kurumi-wasú ti usikié ne rnaã sul, sera, paá, Buburi.
+# Numa outra tribo, havia um jovem muito valente, chamado Buburi.
+# In another tribe, there was a very brave young man named Buburi. 
+
+Yepé ara, paá, nhaã Buburi uwatá, usú upinaitika, umaá Adana.
+# Ele, numa de suas pescarias, viu Adana e gostou dela.
+# He, on one of his fishing trips, saw Adana and liked her. 
+
+Aápe, paá, aintá, uyuswantí, ta uyupirú ta upurungitá.
+# Os dois encontraram-se e começaram a conversar.
+# The two met and started talking. 
+
+Asuí, paá, Adana umbeú Buburi supé aé urikuté umendari arã Kurukuí irumu.
+# Adana disse a Buburi que estava comprometida com Kurukuí.
+# Adana told Buburi that she was committed to Kurukuí. 
+
+Aé, paá, ti uputái Kurukuí irnena arã.
+# Mas não gostava de seu futuro esposo.
+# But she didn't like her future husband. 
+
+Asuí, paá, Buburi mayé Adana, aintá usaã ta piá upé ta uyuputari.
+# O tempo passou e os dois se apaixonaram.
+# Time passed and the two fell in love. 
+
+Yepé ara, paá, nhaã Tupí miraitá ta umunhã murasí.
+# Aconteceu que um dia a tribo dos Tupi fez a festa.
+# It so happened that one day the Tupi tribe had a party. 
+
+Nhaã, paá, murasí upé Kurukuí payaitá ta upurandú arã nhaã Adana ta raíra supé.
+# Do pedido para O casamento de Adana com Kurukuí.
+# From the request to Adana's marriage to Kurukuí. 
+
+Adana, paá, ti uputái umendari Kurukuí irumu, nhasé uputái piri nhaã Buburi.
+# Adana não queria casar-se com Kurukuí, pois estava apaixonada por Buburi.
+# Adana did not want to marry Kurukuí, as she was in love with Buburi. 
+
+Buburi unheé ixupé uyuka arã aé umendari rundé.
+# Buburi disse-lhe que iria tirá-Ia antes do pedido de casamento.
+# Buburi told him that he would take it off before the marriage proposal. 
+
+Murasí pukusawa, paá, nhaã miraitá aintá uú kãwi, ta upurasí, ta uyumusarái.
+# Durante a festa, os índios bebiam, dançavam e se divertiam.
+# During the party, the Indians drank, danced and had fun. 
+
+Ape, paá, ta upurandú runderé Adana, Buburi upisika igara usú murasí kití.
+# Pouco antes do pedido de casamento, Buburi pegou a canoa e foi para a festa.
+# Just before the marriage proposal, Buburi took the canoe and went to the party. 
+
+Usika ramé, paá, yumimisawa rupí, usú usikái Adana, wasemu aé yepé uka upé anhuíra.
+# Tendo chegado à festa despercebido procurou Adana e a encontrou numa casa sozinha.
+# Having arrived at the party unnoticed, he looked for Adana and found her in a house alone. 
+
+Aramé, paá, upisika aé urasú yumirnisawa rupí.
+# Buburi, então, levou-a escondida.
+# Buburi then took her away. 
+
+Ariré, paá, Kurskuí usikái Adana ti uwasemu, aramé yuana garapá kití.
+# Pouco depois Kurukuí a procurou e não a encontrando, correu para o porto.
+# Shortly afterwards Kurukuí looked for her and, not finding her, ran to the port. 
+
+Umaá, paá, aintá muküi, ta uikuã waá paraná pitérupi.
+# Viu os dois que já estavam no meio do rio.
+# He saw the two who were already in the middle of the river. 
+
+lpiaíwasawa, paá, upisika igara usú arã aintá rakwera.
+# Zangado, Kurukuí pegou sua canoa e foi atrás.
+# Angry, Kurukuí took his canoe and followed. 
+
+Usika ramé aintá ruakí, ta uyupirú ta umuramunha paraná pitérupi.
+# Chegando perto, os dois guerreiros começaram a lutar no meio do rio.
+# Coming close, the two warriors began to fight in the middle of the river. 
+
+Adana, paá, urnaã ta resé, upitá piri Buburí ruakí.
+# Adana olhava e continuava perto de Buburi.
+# Adana watched and remained close to Buburi. 
+
+Aintá umuramunha pukusawa, paá, ií upurakái aintá igara upé.
+# Durante a luta, as canoas começaram a se encher de água.
+# During the fighting, the canoes began to fill with water. 
+
+Ape, paá,aintá uyupipika paraná pitérupi.
+# Até que todos se alagaram no meio do rio.
+# Until they all flooded in the middle of the river. 
+
+Aintá uyupirú ta uwitá. Kurukuí uwitá yepé rwaxara kití.
+# E começaram a nadar. Kurukuí nadou para o lado esquerdo.
+# And they started to swim. Kurukuí swam to the left side. 
+
+Uyeréu yepé pirantá turusú waá, aeté kwa sera Kurukuí.
+# Transformando-se na cachoeira chamada Kurukuí.
+# Transforming into the waterfall called Kurukuí. 
+
+Buburi, kirirnbawa piri, uwitá amú ruaxara kití.
+# Buburi, o mais forte guerreiro, nadou para o outro lado.
+# Buburi, the strongest warrior, swam to the other side. 
+
+Uyeréu amú píraotá turusú piri, sera Buburi.
+# E tomou-se a enorme cachoeira de Buburi.
+# And the huge Buburi waterfall was taken. 
+
+Adana, paá, uyupipika paraná pitérupi uyeréu yepé kapwarnu, sera waá Adana.
+# Adana se alagou no meio dos dois e transformou-se na ilha que hoje chamamos Adana.
+# Adana was flooded between the two and became the island we call Adana today. 
+
+Yawé resewara nhaã musapiri, paá, iké pawaté ta uikú, yané tawa upé.
+# Dizem que até hoje os três continuam vivendo naquele lugar.
+# They say that even today the three of them continue to live in that place. 
+
+Muküi kuruml-wasú kirimbawaitá ta upitá ta umanhana uikú kwa kunhã-rnukú puranga.
+# Os dois moços guerreiros são os guardas da bela moça.
+# The two young warriors are the beautiful girl's guards. 
+
+Kuxiíma miraitá ta usú muíri akayú nhaã kapuamu kitna uyaxiú umandwari rarné Adana.
+# Outrora todos os anos ia o povo à ilha chorar a lembrança da Adana.
+# In the past, every year people went to the island to cry in memory of Adana. 
+
+Asuí ta uyuíri umunhã arã dabukurí Kurukuí iwí-kwí upé.
+# Em seguida atravessavam a cachoeira Kurukuí e faziam dabukurí na praia.
+# Then they crossed the Kurukuí waterfall and did dabukurí on the beach. 
+
+Iké, yané tawa upé, "São Gabriel da Cachoeira", panhé yandé yamandwari.
+# Nesta nossa cidade de São Gabriel da Cachoeira, continua viva a lembrança.
+# In this city of São Gabriel da Cachoeira, the memory is still alive. 
+
+Kwa kunhã-rnukú puranga, sera waá ADANA.
+# De ADANA, A MAIS BELA MOÇA DO RIO NEGRO.
+# By ADANA, THE MOST BEAUTIFUL GIRL IN RIO NEGRO.

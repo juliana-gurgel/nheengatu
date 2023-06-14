@@ -1,0 +1,163 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 23, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Kuxiíma, paá, aikwé yepé apigá ti waá kunhãitá uputari.
+# Antigamente havia um homem do qual nenhuma mulher gostava.
+# There used to be a man that no woman liked. 
+
+Uwatá, paá, upurandú panhé kunhã, ne awá uputari aé.
+# Andava procurando todas as mulheres. Ninguém o queria.
+# I was looking for all the women. Nobody wanted him. 
+
+Yepé ara, paá, imanha unheé ixupé arã.
+# Um dia sua mãe disse-lhe.
+# One day his mother told him. 
+
+Sembira, resú retimiari nhaã ipawa repisika arã nhaã urubú kunhã waá ne rirnirikú arã.
+# Meu filho, vai tinguijar naquele lago a fim de conseguir um urubu fêmea para ser tua esposa.
+# My son, go dye that lake in order to get a female vulture to be your wife. 
+
+Nhaãitá kunhã purangaitá, ma te kurí repisika nhaã tipitinga waá, nhaãitá atima manha.
+# Aquelas mulheres são bonitas, mas não escolhas uma branca, porque são preguiçosas.
+# Those women are beautiful, but don't choose a white one, because they are lazy. 
+
+Ápe, paá, urnunhã mayé imanha umundú waá.
+# Então ele fez como sua mãe mandou.
+# So he did as his mother told him. 
+
+Usú upikúi tirnbú umbúi nhaã ipawa upé. Uxari usasá muküi ara.
+# Foi pegar timbó para jogar no lago. Deixou-o dois dias.
+# He went to get timbó to play in the lake. She left him two days. 
+
+Ape, paá, irnanha umeé ixupé pusanga umusasawa arã ipira rupí.
+# Depois a mãe deu-lhe remédio para passar no corpo.
+# Then the mother gave him medicine to rub on his body. 
+
+Ti arã nhaã urubú kunhãitá umaã aé. Ápe, paá, usuã ipawa kití.
+# A fim de que os urubus não o vissem. Foi, então, ao lago.
+# So that the vultures wouldn't see him. Then he went to the lake. 
+
+Usika umaã siía kunhãitá upisika waáitá uikú pirá mirí yuka.
+# Chegando viu muitas mulheres que estavam pegando piabas podres.
+# Arriving, he saw many women who were picking up rotten piabas. 
+
+Aintá upisika pukusawa, paá, pirá miri yuka, aintá uyuka, paá, aintá pepú.
+# Enquanto estavam pegando piabas podres, tomaram suas asas.
+# While they were picking up rotten piabas, they took their wings. 
+
+Aintá uxari mirá árupi.
+# E as deixaram sobre um tronco.
+# And they left them on a log. 
+
+Ápe, paá, uparawaka nhaã kunhã tapayuna miri puranga piri waá.
+# Aí ele escolheu a mulher moreninha, mais bonita.
+# Then he chose the darker, prettier woman. 
+
+Usarú umaã marné uxari ipepú, ape uyuka uyumimi aé.
+# Ficou observando onde deixaram as asas, então pegou a asa dela e a escondeu.
+# He watched where they left the wings, then took her wing and hid it. 
+
+Ape, paá, upitá mira yuíri umpú arã nhaã amuitá.
+# Depois voltou a ser gente para espantar as outras mulheres.
+# Then he went back to being people to scare the other women away. 
+
+Mairamé aintá umaã nhaã mira, panhé uyana upisika ipepú uwewé arã.
+# Quando viram aquele homem, todas correram e pegaram as asas para voar.
+# When they saw that man, they all ran and took their wings to fly. 
+
+Anhü yepé ti uwasemu ipepú.
+# Somente uma não encontrou suas asas.
+# Only one did not find its wings. 
+
+Ape, paá, nhaã apigá uyana uyumana aé, urasú suka kití ximirikú arã.
+# Logo aquele homem correu e abraçou-a e a levou para sua casa como esposa.
+# Soon that man ran and embraced her and took her to his home as his wife. 
+
+Yawé, paá, aintá uikú, Yepé ara, paá, aintá urikuã aintá raíra, kurumi mirí.
+# Assim viveram e tiveram um filho menino.
+# So they lived and had a son. 
+
+Asuí, paá, nhaã kunhã ikweré wana umbaú maá imena urnbaú waá.
+# Mais tarde, aquela mulher estava cansada de comer a comida de seu marido.
+# Later that woman was tired of eating her husband's food. 
+
+Ápe, paá, upurandú imena suí urúi arã ixupé maã umbaú wera waá.
+# Pediu a seu marido para trazer para ela o que comia antigamente.
+# She asked her husband to bring her what she used to eat. 
+
+Ape, paá, nhaã apigá ipiaíwa, unupá aé, yawé arã, paá, uyaxiú, upitá sasiara.
+# O homem ficou com raiva e bateu nela. Ela chorou e ficou triste.
+# The man got angry and hit her. She cried and was sad. 
+
+Muiri ara, paá, upurandú suixawa suí umeé arã ixupé ipepú arã, uyuiri arã ianamaitá piri.
+# Todos os dias pedia ao cacique que lhe desse asas para voltar junto aos seus parentes.
+# Every day he asked the cacique to give him wings to return to his relatives. 
+
+Yepé ara, paá, mairamé uikú anhuíra kupixawa upé.
+# Um dia, estando sozinha na roça.
+# One day, being alone in the fields. 
+
+Umaã suixawa uxari uwai ixupé ipepú arã.
+# Viu o seu cacique deixar cair para ela umas asas.
+# She saw her chief drop some wings for her. 
+
+Ápe, paá, surí upisika nhaã pepú uyuíri suka kití.
+# Ficou alegre, pegou-as e voltou à sua casa.
+# He was glad, took them and returned to his house. 
+
+Amú kwema, paá, irnena unheé: asúré apinaitika.
+# Outro dia o marido disse: vou pescar.
+# The other day the husband said: I'm going fishing. 
+
+Nhaã pukusawa, paá, urasú imembira miri uka kupé kití umundéu arã ipepú.
+# Enquanto isso, levou seu filhinho atrás da casa para colocar as asas.
+# Meanwhile, he took his little boy behind the house to put on the wings. 
+
+Ape, paá, nhaã taína uyaxiú.
+# Aí, aquela criança chorou.
+# Then that child cried. 
+
+Ape, paá, iaría upurandú uka kwara suí: ma taá urikú nhaã taína.
+# A avó perguntou de dentro da casa: que tem a criança?
+# The grandmother asked from inside the house: what's wrong with the child? 
+
+Nemaá, ayuka aikú isuí tumbira, paá, irnanha usuaxara.
+# Nada, estou tirando um bicho de pé, falou a mãe.
+# Nothing, I'm pulling an animal out of its feet, said the mother. 
+
+Merupiara reyuka isuí, te remunhã uyaxiú, uriheé, paá, iaría .
+# Tira devagar, não o faças chorar, falou a avó.
+# Take it off slowly, don't make him cry, said the grandmother. 
+
+Mairarné, paá, wairnf usendú tiapú unhengai puranga umbeú sesewara.
+# Quando a velha escutou um canto bonito de despedida.
+# When the old woman heard a beautiful parting song. 
+
+Ape, paá, waimí usemu ukara kití, umaã, paá, iwatéana uyupiri usú uikú.
+# Saiu para fora e viu que ela já ia subindo.
+# He went outside and saw that she was already going upstairs. 
+
+Usuana iwaka kití imembira mirí irumu, ianamaitá piri.
+# Foi para o céu com seu filhinho, perto de seus parentes.
+# He went to heaven with his little son, close to his relatives. 
+
+Imena kwera usika ramé usikari aé, imanha umbeú ixupé arã usuana iwaka kití.
+# Logo chegou seu marido a procurá-Ia. Sua mãe disse-lhe: foi embora para o céu.
+# Soon her husband arrived to look for her. Her mother told her: she has gone to heaven. 
+
+Ape, paá, uyaxiú turusú nhaã apigá.
+# Então o homem chorou muito.
+# Then the man cried a lot. 
+
+Sesewara, paá, TI PURANGA YANUPÁ YANÉ RIMIRIKÚ.
+# Por isso NÃO É BOM BATER NA PRÓPRIA ESPOSA.
+# That's why it's NOT GOOD TO BEAT YOUR OWN WIFE. 

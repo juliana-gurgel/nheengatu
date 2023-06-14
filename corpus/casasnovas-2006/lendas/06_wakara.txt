@@ -1,0 +1,59 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 23, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Aikwé paá yepe tetama puranga waá yepé ipawa wasú rimbiwa upé.
+# Havia uma cidade muito bonita, na beira de um grande lago.
+# There was a very beautiful city, on the shore of a large lake. 
+
+Kwa paá, wakaraitá retama.
+# Esta era a cidade das garças.
+# This was the city of herons. 
+
+Muíri akayú, paá, kurasí ara ramé, kwá uakaraitá aywã ta usú tawatá apekatú rupí.
+# Todos os anos, no tempo do verão, essas garças iam passear longe, pelo mundo afora.
+# Every year, in the summer time, these herons would go for a walk far out into the world. 
+
+Muíri viaje, paá, tausú rundé, aintá aría waimí uyupuí aitá piripiriaka suikiri waá irū.
+# Toda vez, antes de partir, a velha avó dava-lhes de comer pipirioca verde.
+# Every time, before leaving, the old grandmother would feed them green paprika. 
+
+Ti arã tausaã yumasí tauwatá pukusawa.
+# Para alimentá-las durante a jornada até à volta.
+# To feed them during the journey back. 
+
+Mairamé tausuã taikú, kwá ta aría waimí umbeú aintá.
+# Quando já estavam partindo, a avó dava um conselho.
+# When they were already leaving, the grandmother gave advice. 
+
+Se rimiarirúitá, penhé ayupuíã, Kuíri pesuã.
+# Minhas netas, vocês já estão alimentadas, agora podem ir,
+# My granddaughters, you are already fed, now you can go, 
+
+Tiã kurí marã penharã timbiú.
+# Pois não terão mais necessidade de comida.
+# For they will no longer need food. 
+
+Awá kurí uruyái se resé, puranga kurí usasá.
+# Quem acreditar em mim, irá passar bem até a volta.
+# Whoever believes in me will be fine until the return. 
+
+Awá kurí ti uruyari, tauyuká kurí arupí aé.
+# Quem não acreditar será morta por aí.
+# Anyone who doesn't believe will be killed out there. 
+
+Pewatá kurí pituna ramé, asuí pepituú ara ramé.
+# Vocês andarão durante a noite e descansarão durante o dia.
+# You will walk during the night and rest during the day. 
+
+Yawé waá resewara, paá, kwa wakará tiara waá, kutara tauyuká aé.
+# Aquela garça que for gulosa, morrerá logo.
+# That heron that is greedy will die soon. 

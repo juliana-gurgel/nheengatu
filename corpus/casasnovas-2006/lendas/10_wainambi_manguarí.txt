@@ -1,0 +1,71 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 23, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri.
+# Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais.
+# Once the hummingbird competed with the maguari to see who would cross the most. 
+
+Uyasá paraná-wasú. Usika rarné nhaã ara tauyupirú waá, tauyusaã.
+# Rapidamente o mar. Chegado o tempo combinado, iniciaram a aposta.
+# Quickly the sea. When the agreed time arrived, they started the bet. 
+
+Wainambf uruyái sesé nhasé kutara uwewé, yampukusá mangwarí merupí uwewé.
+# O beija-flor se orgulhava pela velocidade, enquanto o maguari voava lentamente.
+# The hummingbird was proud of its speed, while the maguari flew slowly. 
+
+Yawé paá, wainambí uwewé usú iwitú yawé.
+# O beija-flor, então, partiu com a velocidade do vento.
+# The hummingbird then departed with the speed of the wind. 
+
+Yampukusá paá, mangwarí merupí uwewé usú.
+# Enquanto o maguari ia bem devagar.
+# While the maguari went very slowly. 
+
+Nere paá, pitérupi mangwarí usú uikú mairamé urnaã, wainambí.
+# O maguari estava ainda metade do trajeto quando viu o beija-flor.
+# The maguari was still halfway there when he saw the hummingbird. 
+
+Tiã marã uyatikutikú paraname.
+# Quase morrendo na água afogado.
+# Almost dying in the drowned water. 
+
+Mangwarí pirasúa umaã wainarnbí, yawé waá umburi ikupepé aé.
+# O maguari viu o coitado do beija-flor e o colocou nas suas costas.
+# The maguari saw the poor hummingbird and placed it on its back. 
+
+Asuí urasú aé suaxara kití.
+# Levando-o ao outro lado do mar.
+# Taking you to the other side of the sea. 
+
+Tasika rarneã paá, sirnbiwa kití, manguarí unheé wainarnbí supé.
+# Ao chegar à margem, o maguari disse ao beija-flor.
+# Upon reaching the bank, the maguari said to the hummingbird. 
+
+Remawana wainarnbí, tiarã kurí reruyari retã ne resé.
+# Veja, beija-flor, você não deve ser orgulhoso outra vez.
+# See, hummingbird, you mustn't be proud again. 
+
+Amú ramé maã ixé, ti maã amaã ne pirasuasá.
+# Se eu fosse outro, não o teria salvado.
+# If I were someone else, I wouldn't have saved him. 
+
+Indé rewewé yepé kutara, ma remaã mamentu resika.
+# Você voa rápido, mas veja onde conseguiu chegar.
+# You fly fast, but look how far you got. 
+
+Ixé awewé rnerupí, ma asika puranga makití asú waá.
+# Eu vim devagar, mas cheguei bem, sem nada acontecer.
+# I came slowly, but I arrived well, without anything happening. 
+
+Kuíri rerikuté remandwari puranga indé arã ti arã reruyari retana ne resé.
+# Agora você tem de pensar para não se orgulhar demais daquilo que você não tem.
+# Now you have to think about not being too proud of what you don't have.

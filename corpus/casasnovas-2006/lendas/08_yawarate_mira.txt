@@ -1,0 +1,83 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 23, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+'''
+
+Yepé ara paá, yepé mira umbaú kinha-pira irusanga, usú rundé usikái uyapí.
+# Um dia um homem comeu comida fria antes de ir caçar.
+# One day a man ate cold food before going hunting. 
+
+Kwemaité usuana kaá kití.
+# De manhã cedo saiu para o mato.
+# Early in the morning he went out into the bush. 
+
+Mairamé, paá, usika yepé iwitera rupitá upé, usendú paá, siía miraitá suakí rupí.
+# Ao chegar ao sopé de uma serra, ouviu uma multidão de gente aproximando-se dele.
+# When he reached the foot of a mountain range, he heard a crowd of people approaching him. 
+
+Aintá usika paá, sesé, ta upurungitá irumu, asuí taurasú aé tairumu.
+# Chegaram, falaram com ele e o levaram consigo.
+# They arrived, spoke with him and took him with them. 
+
+Kwa, paá, mira umaité mira reté waá nhaitá.
+# Ele pensava que eram homens comuns.
+# He thought they were ordinary men. 
+
+Yakanhemu paá, mairamé ta unheé ixupé.
+# Assustou-se quando lhe disseram.
+# He got scared when they told him. 
+
+"Indé resarú yandé iké, yasúre yayapí tayasú-ítá".
+# Você nos espera aqui; vamos rapidamente matar queixadas.
+# You wait for us here; let's quickly kill peccaries. 
+
+Ape paá, tausuú piripiriaka, asuí, tapuri tauyatimana mirá wasú rupitá.
+# Eles, então, puseram-se a mastigar piprioca, depois deram um salto em tomo de um tronco.
+# So they began to chew piprioca, then jumped around a log. 
+
+Ape, paá, ta uyeréu yawaraté wasuitá, yawé, paá, ta ukanhemu ta usú kaá kití.
+# Transformando-se em enormes onças e sumiram pelo mato.
+# Transforming into huge jaguars and disappeared through the bush. 
+
+Kwa mira taíté, urirí upwamu usikiesá.
+# Homem, coitado, ficou de pé tremendo de medo.
+# Man, poor man, stood shaking with fear. 
+
+Kutara nungara, naá, tauyuíri tausika, muíri ururi tayasú ukupé upé.
+# Passado pouco tempo, retomaram cada qual com uma grande queixada nos ombros.
+# After a short time, they returned each with a large jawbone on their shoulders. 
+
+Asuí paá tauyuíri- tarendawa kitf tarírniara iru, ta urasú yuíri nhaã míra.
+# E voltaram para O sítio deles com a comida, levando consigo o homem.
+# And they returned to their farm with the food, taking the man with them. 
+
+Kwa tendá upé, paá, aikwé siía miraitá, ta umeé ixupé piripiriaka.
+# Ali havia muita sente; deram para ele piprioca.
+# There was a lot of feeling there; they gave him piprioca. 
+
+Asuí, paá, taumbwé aé mayé usikái arã ximiara píripiriaka irumu.
+# Depois ensinaram para ele como procurar caça com pipríoca.
+# Then they taught him how to look for game with piprioca. 
+
+Kwa mira upitá tairumu musapiri ara, puranga usasá, nhasé, paá.
+# Ficou com eles três.dias sem problemas, pois eles.
+# He stayed with them for three days without any problems, as they. 
+
+Tauyeréu yawaraté anhü mairamé tausú tausikái tarimiara taumbaú arã.
+# Só se transformavam em onças quando iam caçar.
+# They only turned into jaguars when they went hunting. 
+
+Kwa, paá, mira uyuíri suka kití surí retana, nhasé kuíri upitá marupia.ra reté waá,
+# Logo voltou alegre para sua casa porque ficou experto.
+# Then he went back to his house happy because he had become an expert. 
+
+Mairamé usú usikái xírniara. Yawé-arã ne mairamé watái timbiú suka-upé.
+# Quando vá procurar caça, por isso nunca faltou comida na sua casa.
+# When you go looking for game, that's why your house never lacked for food. 

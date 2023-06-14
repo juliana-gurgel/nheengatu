@@ -1,0 +1,204 @@
+''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+
+CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: August 27, 2021
+English translation: Juliana Lopes Gurgel
+Last update: May 25, 2023
+
+OBS.: Sentences 1 to 40 in Nheengatu are not available in the version of the book we have access.'''
+
+nheengatu missing sentence
+# Antigamente o Sol tinha duas filhas.
+# In ancient times the Sun had two daughters. 
+
+nheengatu missing sentence
+# Um dia o Bacurau foi pedir a mais idosa.
+# One day Bacurau went to ask the oldest. 
+
+nheengatu missing sentence
+# O Sol permitiu casar com ela.
+# The Sun allowed to marry her. 
+
+nheengatu missing sentence
+# Outro dia o Calango foi pedir-lhe a mais nova.
+# The other day Calango went to ask for the youngest. 
+
+nheengatu missing sentence
+# O Sol de novo deixou casar com ela.
+# The Sun again let him marry her. 
+
+nheengatu missing sentence
+# #Um dia o Sol chamou os maridos de suas duas filhas.
+# #One day the Sun called the husbands of his two daughters. 
+
+nheengatu missing sentence
+# Amanhã, disse, vou mostrar para vocês terra firme para fazer.
+# Tomorrow, he said, I'm going to show you solid ground to do. 
+
+nheengatu missing sentence
+# A roça de vocês junto com suas esposas.
+# Your garden together with your wives. 
+
+nheengatu missing sentence
+# Noutro dia de manhã foi mostrar-lhes o lugar.
+# The next day, in the morning, he went to show them around. 
+
+nheengatu missing sentence
+# Para o Calango mostrou uma terra firme que tem muito uacu.
+# For Calango, it showed a firm land that has a lot of uacu. 
+
+nheengatu missing sentence
+# Porque viu o Calango que era sonolento e desperta já bem tarde.
+# Because he saw Calango who was sleepy and woke up very late. 
+
+nheengatu missing sentence
+# E pensava que era preguiçoso.
+# And I thought I was lazy. 
+
+nheengatu missing sentence
+# Para o Bacurau mostrou um terreno meio capoeira.
+# For Bacurau, he showed a kind of capoeira terrain. 
+
+nheengatu missing sentence
+# Porque ele desperta cedo e pensava que ele era trabalhador.
+# Because he wakes up early and thought he was a worker. 
+
+nheengatu missing sentence
+# Na manhã seguinte o Sol foi passear.
+# The next morning the Sun went for a walk. 
+
+nheengatu missing sentence
+# Em quanto isso, os dois ficaram para fazer as roças.
+# In the meantime, the two stayed to work the fields. 
+
+nheengatu missing sentence
+# Todos os dias o Bacurau ia cedo no mato.
+# Every day Bacurau went early in the bush. 
+
+nheengatu missing sentence
+# E voltava somente de noite.
+# And he only came back at night. 
+
+nheengatu missing sentence
+# Enquanto o Calango despertava bem tarde.
+# While Calango woke up very late. 
+
+nheengatu missing sentence
+# Só então ia ao mato e voltava ainda de dia.
+# Only then would he go into the woods and come back while it was still daylight. 
+
+nheengatu missing sentence
+# A mãe das esposas se preocupava mais o filho de Bacurau.
+# The wives' mother was more concerned about Bacurau's son. 
+
+nheengatu missing sentence
+# Porque pensava que ele era trabalhador.
+# Because I thought he was a worker. 
+
+nheengatu missing sentence
+# Enquanto o filhinho do Calango, coitado.
+# While Calango's little son, poor thing. 
+
+nheengatu missing sentence
+# Ficava engatilhando pelo terreiro quando sua mãe ia na roça.
+# He used to crawl around the yard when his mother went to the fields. 
+
+nheengatu missing sentence
+# As vezes chorava porque estava com fome.
+# Sometimes he cried because he was hungry. 
+
+nheengatu missing sentence
+# Olha, teu pai não acorda cedo.
+# Look, your father doesn't wake up early. 
+
+nheengatu missing sentence
+# Para procurar comida, dizia a velha.
+# To look for food, the old woman said. 
+
+nheengatu missing sentence
+# Depois de dois meses o velho Sol voltou.
+# After two months old Sol came back. 
+
+nheengatu missing sentence
+# Aí perguntou aos dois (homens): terminaram de derrubar?
+# Then he asked the two (men): did you finish knocking them down? 
+
+nheengatu missing sentence
+# Eu terminei um pouco, falou o Calango.
+# I finished a little, said Calango. 
+
+nheengatu missing sentence
+# Para mim falta um pouco, falou o Bacurau.
+# For me there's a little bit left, said Bacurau. 
+
+nheengatu missing sentence
+# Então vamos ver, falou o sogro deles, o Sol.
+# So let's see, said their father-in-law, the Sun. 
+
+nheengatu missing sentence
+# Eles foram e viram a derrubada do Calango.
+# They went and saw the fall of Calango. 
+
+nheengatu missing sentence
+# Ficaram admirados vendo a roça grande que sumia da vista.
+# They were astonished to see the large swidden disappearing from view. 
+
+nheengatu missing sentence
+# Muito bem, meu genro, vou dar para você.
+# Very well, my son-in-law, I will give it to you. 
+
+nheengatu missing sentence
+# Muitas sementes para plantar e comer com teus filhos.
+# Many seeds to plant and eat with your children. 
+
+nheengatu missing sentence
+# Agora vamos ver a sua roça, falou para Bacurau.
+# Now let's see your garden, he said to Bacurau. 
+
+nheengatu missing sentence
+# Eles foram ver na capoeira.
+# They went to see the capoeira. 
+
+nheengatu missing sentence
+# Chegando lá no meio viram um lugar limpo.
+# Arriving there in the middle, they saw a clean place. 
+
+nheengatu missing sentence
+# Onde todos os dias o Bacurau ia dormir.
+# Where Bacurau went to sleep every day. 
+
+Aápe, paá, Kurasí tuyué ipiaíwa upurandú Wakurawá suí.
+# Aí o velho Sol ficou bravo e perguntou a Bacurau.
+# Then old Sol got angry and asked Bacurau. 
+
+Anhute ne muraki kwa.
+# Somente isto é o seu trabalho?
+# Is this just your job? 
+
+Umbaré arnbá, anheé rakú indé arã, unheé, paá, Wakurawá.
+# Ainda não terminei, eu lhe falei, disse o Bacurau.
+# I haven't finished yet, I told you, said Bacurau. 
+
+Indé yepé atima manha. Rewatá kurí remuatiri ara kiasá.
+# Você é preguiçoso, você vai andar juntando sujeira do ar.
+# You're lazy, you'll go around gathering dirt from the air. 
+
+Rembaú arã ne rairaitá irumu, unheé, paá, ixupé Kurasí.
+# Para comer com seus filhos, falou o Sol para ele.
+# To eat with his children, the Sun told him. 
+
+Sesewara, paá, Wakurawá muíri kwema, muíri pituna ira.
+# Por isso, o Bacurau de dia e de noite.
+# Therefore, Bacurau day and night. 
+
+Uwatá uwewé umuatiri rnerú miritá uyuká arã iyumasí.
+# Anda voando procurando pequenas moscas para matar a fome.
+# He's been flying around looking for little flies to kill his hunger. 
+
+Nhasé Kurasí upeyú, paá, aé, ti resewara usikái upurakí.
+# Porque o Sol soprou para ele, por não procurar trabalhar.
+# Because the Sun blew for him, for not trying to work. 
