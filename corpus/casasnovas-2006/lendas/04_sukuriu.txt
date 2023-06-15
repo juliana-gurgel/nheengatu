@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -8,11 +8,11 @@ Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
-English translation: Automatically translated by GoogleTradutor.
-Translator: Juliana Lopes Gurgel TODO: review translation
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
-Yepé ara, paá, mukūi kuruī-wasu tasú tapinaitika.
+Yepé ara, paá, mukũi kurumĩ-wasu tasú tapinaitika.
 # Um dia dois jorvens foram pescar.
 # One day two young men went fishing. 
 
@@ -28,7 +28,7 @@ Kwa, paá, uwapika waá gantime ti umaã mairamé sukuriú usikí sumwara tipí 
 # O que estava na proa não percebeu quando a sucuriju puxou seu companheiro para o fundo da água.
 # The one on the bow didn't notice when the anaconda he pulled his companion to the bottom of the water. 
 
-Mairamé, paá, yakanhemu umaã sumwara swera ipipe sukuriú umamana waá aé.
+Mairamé, paá, yakanhemu umaã sumwara kwera ipipe sukuriú umamana waá aé.
 # Quando percebeu, ficou admirado vendo seu colega no fundo da água todo enrolado pela sucuriju.
 # When he noticed, he was amazed to see his colleague at the bottom of the water all rolled up by the anaconda. 
 
@@ -37,10 +37,10 @@ Nhaã apigá yakanhemu upuri, uyapumi uyuka arã sumwara.
 # So the scared boy jumped and dove to save his colleague. 
 
 Ape, paá, usupiri nhaã sumwara yepéwasú sukuriú irumu umbúi aintá igara kwara upé.
-# Ele carregou todos os dois enrolados e colocou-se dentro da canoa.
+# Ele carregou todos os dois enrolados e colocou-os dentro da canoa.
 # He carried all two rolled up and he got into the canoe. 
 
-Nhaã, paá, sukuriú santá uyari, ti ukataka ti arã uxái ximiara uyawawa.
+Nhaã, paá, sukuriú santá uyari, ti ukataka ti arã uxái ximiara uyawawa
 # A sucuriju nem sequer se mexia, não queria deixar a vítima.
 # The anaconda didn't even move, it didn't want to let go of the victim. 
 
@@ -48,7 +48,7 @@ Yamé, paá, tasika tarendáwa kití.
 # Assim mesmo foram levados ao sítio deles.
 # So they were taken to their place. 
 
-Ape, paã, miraitá ta yatiri takamirika kirimbawa kirimbawa nhaã sukuriú resá resé, arirewã uyururá nhaã apigá kwera suí.
+Ape, paã, miraitá ta yatiri takamirika kirimbawa nhaã sukuriú resá resé, arirewã uyururá nhaã apigá kwera suí.
 # Lá as pessoas se juntaram, apertaram com muita força os olhos da sacuriju e só então que se desenrolou do jovem.
 # There, people gathered, squeezing the sacuriju's eyes very hard and only then did it uncoil from the young man. 
 
