@@ -33,11 +33,11 @@ Kwa, paá, mira umaité mira reté waá nhaitá.
 # He thought they were ordinary men. 
 
 Yakanhemu paá, mairamé ta unheé ixupé: "Indé resarú yandé iké, yasúre yayapí tayasú-ítá".
-# Assustou-se quando lhe disseram. Você nos espera aqui; vamos rapidamente matar queixadas.
-# He got scared when they told him. You wait for us here; let's quickly kill peccaries.
+# Assustou-se quando lhe disseram: Você nos espera aqui; vamos rapidamente matar queixadas.
+# He got scared when they told him: You wait for us here; let's quickly kill peccaries.
 
 Ape paá, tausuú piripiriaka, asuí, tapuri tauyatimana mirá wasú rupitá.
-# Eles, então, puseram-se a mastigar piprioca, depois deram um salto em tomo de um tronco,
+# Eles, então, puseram-se a mastigar piprioca, depois deram um salto em torno de um tronco,
 # So they began to chew piprioca, then jumped around a log. 
 
 Ape, paá, ta uyeréu yawaraté wasuitá, yawé, paá, ta ukanhemu ta usú kaá kití.
@@ -52,8 +52,8 @@ Kutara nungara, paá, tauyuíri tausika, muíri ururi tayasú ukupé upé.
 # Passado pouco tempo, retornaram cada qual com uma grande queixada nos ombros.
 # After a short time, they returned each with a large jawbone on their shoulders. 
 
-Asuí paá tauyuíri- tarendawa kití tarírniara iru, ta urasú yuíri nhaã mira.
-# E voltaram para O sítio deles com a comida, levando consigo o homem.
+Asuí paá tauyuíri- tarendawa kití tarimiara iru, ta urasú yuíri nhaã mira.
+# E voltaram para o sítio deles com a comida, levando consigo o homem.
 # And they returned to their farm with the food, taking the man with them. 
 
 Kwa tendá upé, paá, aikwé siía miraitá, ta umeé ixupé piripiriaka.
@@ -61,10 +61,10 @@ Kwa tendá upé, paá, aikwé siía miraitá, ta umeé ixupé piripiriaka.
 # There was a lot of feeling there; they gave him piprioca. 
 
 Asuí, paá, taumbwé aé mayé usikái arã ximiara piripiriaka irumu.
-# Depois ensinaram para ele como procurar caça com pipríoca.
+# Depois ensinaram para ele como procurar caça com piprioca.
 # Then they taught him how to look for game with piprioca. 
 
-Kwa mira upitá tairumu musapiri ara, puranga usasá, nhasé, paá, tauyeréu yawaraté anhü mairamé tausú tausikái tarimiara taumbaú arã.
+Kwa mira upitá tairumu musapiri ara, puranga usasá, nhasé, paá, tauyeréu yawaraté anhũ mairamé tausú tausikái tarimiara taumbaú arã.
 # Ficou com eles três dias sem problemas, pois eles só se transformavam em onças quando iam caçar.
 # He stayed with them for three days without any problems, as they only turned into jaguars when they went hunting.
 
