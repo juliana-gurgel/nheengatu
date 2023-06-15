@@ -10,8 +10,7 @@ Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
 English translation: Automatically translated by GoogleTradutor.
 Translator: Juliana Lopes Gurgel TODO: review translation
-Translation: May 25, 2023
-'''
+Translation: May 25, 2023'''
 
 Yepé ara paá, yepé apigá usendú kurupira unupá mirá rupitá, kaá kiti.
 # Um dia um homem ouviu curupira batendo no tronco de uma árvore, no mato.
