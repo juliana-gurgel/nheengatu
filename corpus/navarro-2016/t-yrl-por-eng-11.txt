@@ -1,0 +1,73 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+English translation: Juliana Lopes Gurgel
+Last update: June 15, 2023'''
+
+Maria anama usú uwatá-watá
+# A família de Maria vai passear
+# Maria's family goes for a walk 
+
+Maria anama-itá amuramé aintá usemu uwatá-watá arama.
+# Os familiares de Maria às vezes saem para passear.
+# Maria's relatives sometimes go out for a walk. 
+
+Aintá uwiyé yepé yupirisawa paranã ruakí, asuí aintá uyuruari yepé igara puranga upé.
+# Eles descem uma escada perto do rio, e embarcam numa bonita canoa.
+# They go down a ladder near the river, then they board a beautiful canoe. 
+
+Pedro igara pisasú piri amú igara-itá suí.
+# A canoa de Pedro é mais nova que as outras canoas.
+# Pedro's canoe is newer than the other canoes. 
+
+Aé usú kutara piri Paranãwasú rupí.
+# Ela vai mais rápido pelo rio Negro.
+# It goes faster through the Rio Negro. 
+
+Aintá usika kurí Tefé kití musapiri ara riré.
+# Eles chegarão a Tefé depois de três dias.
+# They will arrive at Tefé after three days. 
+
+Maria surí uikú nhaãsé aé umaã kurí amú-itá tetama.
+# Maria está feliz porque ela vai ver outras regiões.
+# Maria is happy because she is going to see other regions. 
+
+Maria umaã uikú arara-itá, tukana-itá, amú-itá wirá kaapura yuíri i igara suí.
+# Maria está vendo araras, tucanos e outras aves silvestres de sua canoa.
+# Maria is seeing macaws, toucans and other wild birds from her canoe. 
+
+Maria anama-itá upitá kwaíra ara Tefé upé.
+# Os familiares de Maria ficam poucos dias em Tefé.
+# Maria's relatives stay in Tefé for a few days. 
+
+Aintá umundá ana Maria ruka mairamé aintá uikú ukara kití.
+# Roubaram a casa de Maria quando eles estavam fora.
+# They robbed Maria's house when they were away. 
+
+Ne awá ukwáu awá umundá aintá ruka.
+# Ninguém sabe quem roubou a casa deles.
+# Nobody knows who robbed their house. 
+
+Yepé-yepé apigawa manawara usika ana pituna ramé Maria rendawa upé.
+# Alguns homens de Manaus (Barra) chegaram de noite à comunidade de Maria.
+# Some men from Manaus arrived at Maria's community at night. 
+
+Nti awá ukwáu awá nhaã mira-itá.
+# Ninguém sabia quem eram aquelas pessoas.
+# Nobody knew who those people were. 
+
+Maria sasiara retana.
+# Maria está muito triste.
+# Maria is very sad. 
+
+Kuxiíma ne awá umunhã kwayé.
+# Antigamente ninguém fazia assim.
+# Nobody used to do that. 
+
+Ne mairamé aintá umaã nhaã mimi.
+# Nunca viram isso ali.
+# They have never seen that there. 

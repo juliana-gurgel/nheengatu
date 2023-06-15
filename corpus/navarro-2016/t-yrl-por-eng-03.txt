@@ -1,0 +1,145 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+English translation: Juliana Lopes Gurgel
+Last update: March 22, 2023'''
+
+São Gabriel upé.
+# Em São Gabriel.
+# At São Gabriel.
+
+Maria usemu igara irũmu.
+# Maria sai com a canoa.
+# Maria leaves with the canoe.
+
+Aé usú São Gabriel kití.
+# Ela vai a São Gabriel.
+# She goes to São Gabriel.
+
+São Gabriel tawa puranga, apekatú Barra suí.
+# São Gabriel é uma cidade bonita, distante de Manaus.
+# São Gabriel is a beautiful city, far from Manaus.
+
+Siía mira umurari ape.
+# Muitas pessoas moram ali.
+# Many people live there.
+
+Aé upiripana kurí maã-itá i mimbira supé, i mena supé yuíri.
+# Ela vai comprar coisas para seu filho, para seu marido também.
+# She will buy things for her son, for her husband too.
+
+Aé usika ape, usú yepé piripanasawa ruka kití.
+# Ela chega lá, vai a uma loja.
+# She gets there, goes to a store.
+
+Aé unheẽ yepé meẽsara supé:
+# Ela diz a um vendedor:
+# She says to a seller:
+
+Ixé aputari yepé kamixá se mimbira supé.
+# Eu quero uma camisa para meu filho.
+# I want a shirt for my son.
+
+Aé urikú mukũi akayú.
+# Ele tem dois anos.
+# He is two years old.
+
+Kwá kamixá puranga retana.
+# Esta camisa é muito bonita.
+# This shirt is very beautiful.
+
+Aé sepiasuíma.
+# Ela é barata.
+# She is cheap.
+
+Maã taá aikwé se mena supé?
+# Que há para o meu marido?
+# What is there for my husband?
+
+Maã taá indé reputari ne mena supé?
+# Que você quer para seu marido?
+# What do you want for your husband?
+
+Se mena upurakí kurí garapá upé.
+# Meu marido vai trabalhar no porto.
+# My husband is going to work at the port.
+
+Aé uputari yepé xirura pisasú.
+# Ele quer uma calça nova.
+# He wants new pants.
+
+I xirura-itá suruka.
+# As calças dele estão rasgadas.
+# His pants are ripped.
+
+Kwá puranga.
+# Esta é bonita.
+# This is beautiful.
+
+Muíri rupí taá kwá xirura?
+# Por quanto é esta calça?
+# How much are these pants for?
+
+Mukũi real.
+# Dois reais.
+# Two reais.
+
+Muíri rupí nhaã?
+# Por quanto é aquela?
+# How much is that one?
+
+Nhaã xirura mukũi real yuíri.
+# Aquela calça é dois reais também.
+# Those pants are two reais too.
+
+Aputari nhaã.
+# Quero aquela.
+# I want that one.
+
+Xukúi xirura.
+# Aqui está a calça.
+# Here is the pants.
+
+Nti reputari ne maã indé arama?
+# Não quer nada para você?
+# Do you not want anything for you?
+
+Umbaá.
+# Não.
+# No.
+
+Ariré kurí apiripana maã-itá ixé arama.
+# Depois comprarei coisas para mim.
+# I will buy things for myself later.
+
+Xukúi sekuyara.
+# Aqui está o dinheiro.
+# Here is the money.
+
+Maria usepimeẽ.
+# Maria paga.
+# Maria pays.
+
+Meẽsara upupeka panhẽ maã-itá.
+# O vendedor embrulha todas as coisas.
+# The seller wraps all things.
+
+Xukúi sekuyaramirĩ.
+# Aqui está o troco.
+# Here is the change.
+
+Maria umukwekatú:
+# Maria agradece:
+# Maria thanks:
+
+Kwekatú reté!
+# Muito obrigada!
+# Thank you very much!
+
+Ariré, aé usú amú piripanasawa ruka kití.
+# Depois, ela vai a uma outra loja.
+# Afterwards, she goes to another store.

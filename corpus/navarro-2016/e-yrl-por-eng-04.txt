@@ -1,0 +1,195 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+English translation: Juliana Lopes Gurgel
+Last update: March 9th, 2023'''
+
+Se paya, paá, usú ana kaá kití, ma aé nti usú.
+# Dizem que meu pai foi para a mata, mas ele não foi.
+# They say my father went into the woods, but he did not.
+
+Apigawa upurungitá waá se paya, ma aé ukiri waá se tutira.
+# O homem que fala é meu pai, mas o que dorme é meu tio.
+# The man who speaks is my father, but the one who sleeps is my uncle.
+
+Kunhã-itá indé remaã waá ne mimbira.
+# As mulheres que você vê são suas filhas.
+# The women you see are your daughters.
+
+Apigawa i paya waá umurari iké, sera José.
+# O homem cujo pai mora aqui, seu nome é José.
+# The man whose father lives here, his name is Joseph.
+
+Pirá sera waá pirarukú, turusú retana.
+# O peixe cujo nome é pirarucu, é muito grande.
+# The fish whose name is pirarucu, is very big.
+
+Amaã ana yepé kurumĩ, kunhã puranga waá mimbira.
+# Vi um menino, filho da mulher que é bonita.
+# I saw a boy, the son of the woman who is pretty.
+
+Kunhã i mimbira waá indé remaã, usú paranã kití.
+# A mulher cuja filha você vê, vai ao rio.
+# The woman whose daughter you see goes to the river.
+
+Aikwé yepé uka turusú waá.
+# Há uma casa que é grande.
+# There is a house that is big.
+
+Uií ara umanũ waá-itá ara.
+# O dia de hoje é o dia dos que morreram.
+# Today is the day of those who died.
+
+Akwáu amunhã waá.
+# Sei o que faço.
+# I know what I do.
+
+Akwáu maã amunhã waá.
+# Sei o que faço.
+# I know what I do.
+
+Aé upitá-putari mamé puranga waá.
+# Ele quer ficar onde é bonito.
+# He wants to stay where it is beautiful.
+
+Maria rendawa
+# comunidade de Maria
+# Maria's community
+
+se rendawa
+# minha comunidade
+# my community
+
+ne rendawa
+# tua comunidade
+# your community
+
+yané rendawa
+# nossa comunidade
+# our community
+
+pe rendawa
+# a comunidade de vocês
+# your community
+
+aintá rendawa
+# a comunidade deles
+# their community
+
+sendawa
+# comunidade dele
+# comunidade dela
+# his community
+# her community
+
+Uka puranga.
+# A casa é bonita.
+# The house is beautiful.
+
+uka puranga
+# casa bonita
+# beautiful house
+
+Se ruka puranga.
+# Minha casa é bonita.
+# My house is beautiful.
+
+Suka puranga.
+# A casa dele é bonita.
+# His house is beautiful.
+
+Aintá ruka puranga.
+# A casa deles é bonita.
+# Their house is beautiful.
+
+Amaã pé kaá pitérupi.
+# Vejo o caminho no meio do mato. 
+# I see the path in the woods.
+
+Ne rapé i pukú.
+# Teu caminho é longo.
+# Your path is long.
+
+Atuká ukena.
+# Bati à porta.
+# I knocked on the door.
+
+Atuká pe rukena.
+# Bati à porta de vocês.
+# Knocked on your door.
+
+se pu
+# minha mão
+# my hand
+
+ne manha
+# tua mãe
+# your mother
+
+igara mirá suiwara
+# canoa de madeira
+# canoe made of wood
+
+kisé itaité suiwara
+# faca de aço
+# knife made of steel
+
+Ixé São Paulo suiwara.
+# Eu sou de São Paulo.
+# I am from São Paulo.
+
+Ixé aikú iké kwesé suiwara.
+# Eu estou aqui desde ontem.
+# I have been here since yesterday.
+
+Aikú nhaã tawa ruakí.
+# Estou perto daquela cidade.
+# I am near that town.
+
+Aikú suakí.
+# Estou perto dela.
+# I am close to her.
+
+Kwá mirá turusú.
+# Esta árvore é grande.
+# This tree is big.
+
+Arikú yepé uka turusú.
+# Tenho uma casa grande.
+# I have a big house.
+
+Awá urikú turusú iwí umeẽ-kwáu awá nti urikú supé.
+# Quem tem muita terra pode dar para quem não tem.
+# Those who have a lot of land can give it to those who do not.
+
+igara mirĩ
+# canoa pequena
+# small canoe
+
+itá mirĩ
+# pedra pequena
+# little Rock
+
+Kwaíra ramé rẽ, paá, ixé, purangamirĩ aikú.
+# Dizem que, quando eu ainda era pequeno, bonitinho estava.
+# They say that when I was still little, I was cute.
+
+Aé kwera, taité!
+# Ele já era, coitado!
+# He is gone, poor guy!
+
+Pedro uyuká ana yawareté. Aé kwera.
+# Pedro matou a onça. Ela já era.
+# Pedro killed the jaguar. She is gone.
+
+Awá kwera?
+# Quem era?
+# Who was it?
+
+Asuiwara kwera, mukũi apigawa nhũ upitá umanhana uikú yané itá uka.
+# Desde então, somente dois homens ficaram vigiando nossa casa de pedra.
+# Since then, only two men have been guarding our stone house.

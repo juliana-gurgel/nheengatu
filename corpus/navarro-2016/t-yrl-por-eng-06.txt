@@ -1,0 +1,121 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+English translation: Juliana Lopes Gurgel
+Last update: March 22, 2023'''
+
+Tendawa upé.
+# Na comunidade.
+# At the community.
+
+Maria uyuíri uikú kuíri sendawa kití.
+# Maria está voltando agora para sua comunidade.
+# Maria is now returning to her community.
+
+Aé umaã uikú mirá-itá, kawoka ruka-itá yuíri i igara suí.
+# Ela está vendo árvores e casas de caboclos da sua canoa.
+# She is seeing trees and caboclos houses from her canoe.
+
+Igara usika uikú.
+# A canoa está chegando.
+# The canoe is coming.
+
+Maria usú umaã i mena, i mimbira kuíri.
+# Maria vai ver seu marido e seu filho agora.
+# Maria is going to see her husband and son now.
+
+I mimbira uyana upurungitá arama i manha irũmu.
+# Seu filho corre para falar com sua mãe.
+# Her son runs to talk to his mother.
+
+Aé usú Maria piri.
+# Ele vai para junto de Maria.
+# He goes close to Maria.
+
+Puranga karuka, se mimbira!
+# Boa tarde, meu filho!
+# Good afternoon, my son!
+
+Manha, ixé apitá surí retana indé reyuíri ramé.
+# Mãe, eu fico muito feliz quando você volta.
+# Mom, I am so happy when you come back.
+
+Marantaá indé reikupukú ana São Gabriel upé?
+# Por que você demorou em São Gabriel?
+# Why did you take so long in São Gabriel?
+
+Ixé aikupukú xinga apiripana arama maã-itá indé arama.
+# Eu demorei um pouco para comprar coisas para você.
+# It took me a while to buy you stuff.
+
+Mamé taá uikú ne paya?
+# Onde está seu pai?
+# Where is your father?
+
+Aé usú ana kupixawa kití uyutima arama maniwa.
+# Ele foi à roça para plantar maniva.
+# He went to the fields to plant maniva.
+
+Indé rembaú ana uií?
+# Você já comeu hoje?
+# Have you eaten today?
+
+Eẽ, ixé ambaú retana.
+# Sim, eu comi muito.
+# Yes, I ate a lot.
+
+Ixé nti se yumasí.
+# Eu não estou faminto.
+# I am not hungry.
+
+Mairamé indé rembaú ana?
+# Quando você comeu?
+# When did you eat?
+
+Ambaú ana kuíri tẽ.
+# Comi agora mesmo.
+# I ate just now.
+
+Asuí ixé amusarái paranã upé.
+# Depois eu brinquei no rio.
+# Afterwards I played in the river.
+
+Maria mena uri uikú kupixawa suí.
+# O marido de Maria está vindo da roça.
+# Maria's husband is coming from the farm.
+
+Aé ururi uikú maniaka i pu resé.
+# Ele está trazendo mandioca em suas mãos.
+# He is bringing cassava in his hands.
+
+Maria, puranga pá será ne irũmu?
+# Maria, tudo bem com você?
+# Maria, how are you?
+
+Rerasú kwá maniaka-itá memũitendawa kití.
+# Leve estas mandiocas para a cozinha.
+# Take these cassavas to the kitchen.
+
+Maria uyupirú umunhã timbiú i anama-itá supé.
+# Maria começa a fazer comida para seus familiares.
+# Maria starts making food for her family.
+
+Wirandé mituú.
+# Amanhã é domingo.
+# Tomorrow is Sunday.
+
+I mena upurandú i suí:
+# Seu marido pergunta a ela:
+# Her husband asks her:
+
+Indé reyuíri kurí São Gabriel kití murakipí ramé?
+# Você voltará a São Gabriel na segunda-feira?
+# Will you return to São Gabriel on Monday?
+
+Umbaá, ixé ayuíri kurí akití murakimusapiri ramé.
+# Não, eu voltarei ali na quarta-feira.
+# No, I will be back there on Wednesday.

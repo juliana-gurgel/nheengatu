@@ -1,0 +1,65 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+ 
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+English translation: Juliana Lopes Gurgel
+Last update: March 22, 2023'''
+
+Maria uwatá São Gabriel rupí.
+# Maria caminha por São Gabriel.
+# Maria walks through São Gabriel.
+
+Maria uwatá ara pukusawa tawa rapé-itá rupí.
+# Maria anda durante o dia pelas ruas da cidade.
+# Maria walks the streets of the city during the day.
+
+São Gabriel mairí turusú uikú waá Paranãwasú rembiwa upé.
+# São Gabriel é uma cidade que está nas margens do rio Negro.
+# São Gabriel is a city on the edges of the Negro River.
+
+I garapá upé aikwé siía igara turusú usemu waá tendawa-itá kití uikú waá paranã rembiwa upé.
+# No porto dela há muitas canoas grandes que saem para as comunidades que estão nas margens do rio.
+# In its port there are many large canoes that go out to the communities that are on the edges of the river.
+
+Siía mira upurungitá nheengatú ape.
+# Muitas pessoas falam nheengatu ali.
+# Many people speak Nheengatu there.
+
+Aikwé mira-itá upurungitá waá amú nheenga-itá São Gabriel upé:
+# Há pessoas que falam outras línguas em São Gabriel:
+# There are people who speak other languages ​​in São Gabriel:
+
+Baniwa, Tukano, Desana, Yanomami.
+# baniwa, tucano, desana, ianomami.
+# Baniwa, Tucano, Desana, Yanomami.
+
+Nhaã tawa ruakí aikwé siía tendawa mira-itá irũmu ukwáu waá nheengatú.
+# Perto daquela cidade há muitas comunidades com pessoas que sabem nheengatu.
+# Near that town there are many communities with people who know Nheengatu.
+
+Maria uwatá ana retana.
+# Maria andou muito.
+# Maria walked a lot.
+
+Aé uwapika, asuí umbaú pirá uí irũmu nhaãsé aé i yumasí.
+# Ela senta-se e come peixe com farinha porque ela está faminta.
+# She sits down and eats fish with flour because she is hungry.
+
+Aé urasú pirá suka suí sukwera waá membeka.
+# Ela leva peixe da sua casa, cuja carne é mole.
+# She takes fish from her house, whose meat is soft.
+
+Maria umbaú pirá i pu irũmu, ma uú ií i kuya irũmu.
+# Maria come o peixe com suas mãos, mas bebe água com sua cuia.
+# Maria eats the fish with her hands, but drinks water with her gourd.
+
+Asuí aé usú uyuruari i igara mirá suiwara upé.
+# Depois, ela vai embarcar em sua canoa de madeira.
+# Afterwards, she will board her wooden canoe.
+
+Aé usú sendawa kití, sera waá São Miguel.
+# Ela vai para sua comunidade, cujo nome é São Miguel.
+# She goes to her community, whose name is São Miguel.
