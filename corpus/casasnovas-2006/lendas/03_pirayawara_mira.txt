@@ -6,8 +6,9 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
+English translation: Automatically translated by GoogleTradutor.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023
 '''
 
 Yepé ara, paá, siía miraitá tamunhã murasí yepé tendawa upé.
@@ -18,13 +19,9 @@ Tapurasí, paá, ara, pituna pukusawa.
 # Dançando durante todo o dia e a noite.
 # Dancing all day and night. 
 
-Ikupukuã, paá, pituna, mairamé miraitá takaúkaú xinga pawa.
-# Avançada a noite, quando todos já estavam embriagados.
-# Late at night, when everyone was already drunk. 
-
-Tamaã uyukwá tamurasí pitérupi siía karíwa tipitinga mirí waitá.
-# Apareceram no meio da festa muitos jovens brancos.
-# A lot of young white people appeared in the middle of the party. 
+Ikupukuã, paá, pituna, mairamé miraitá takaúkaú xinga pawa, tamaã uyukwá tamurasí pitérupi siía karíwa tipitinga mirí waitá.
+# Avançada a noite, quando todos já estavam embriagados, apareceram no meio da festa muitos jovens brancos.
+# Late at night, when everyone was already drunk, a lot of young white people appeared in the middle of the party.
 
 Ape, paá, uka yaraitá tameé taú arã kutakutara garapa.
 # Os festeiros deram-lhes muita bebida.
@@ -34,42 +31,26 @@ Kwema irumu, paá, mukūi aintá suíwara tawiyé garapá kití, asuí akitíte 
 # Ao amanhecer, dois deles desceram para o porto e ali desapareceram.
 # At dawn, two of them went down to the harbor and disappeared there. 
 
-Yepé tarumwara ukaú retana waá.
-# Outro colega deles estavam muito bêbado e ficou dormindo.
-# Another colleague of theirs was very drunk and fell asleep. 
+Yepé tarumwara ukaú retana waá, apete, paá, ukiri uyenú ukárupi.
+# Outro colega deles estava muito bêbado e ficou dormindo, deitado no terreiro da casa.
+# Another colleague of theirs was very drunk and fell asleep, lying in the yard of the house. 
 
-Apete, paá, ukiri uyenú ukárupi.
-# Deitado no terreiro da casa.
-# Lying in the yard of the house. 
-
-Mairamé puranga waá ara, tamaã, paá, nhaã karíwa puranga mirí.
-# Quando o dia já estava claro, as pessoas viram que aquele jovem bonito.
-# When the day was already clear, people saw that that handsome young man. 
-
-Ukiri waá uikú, urikú suaya pirá yawé.
-# Que estava dormindo, tinha os pés como um rabo de peixe.
-# That he was sleeping, he had feet like a fish's tail. 
+Mairamé puranga waá ara, tamaã, paá, nhaã karíwa puranga mirí kiri waá uikú, urikú suaya pirá yawé.
+# Quando o dia já estava claro, as pessoas viram que aquele jovem bonito que estava dormindo, tinha os pés como um rabo de peixe.
+# When the day was already clear, people saw that that handsome young man that he was sleeping, he had feet like a fish's tail. 
 
 Aápe, paá, siía miraitá tayatiri tamã.
 # Muita gente foi ver.
 # Lots of people went to see it. 
 
-Kutara nungara, paá, nhaã kariwa mirí yakanhemu upaka, upwamu, uyana.
-# O jovem subitamente acordou assustado, levantou-se e correu.
-# The young man suddenly woke up with a start, got up and ran. 
+Kutara nungara, paá, nhaã kariwa mirí yakanhemu upaka, upwamu, uyana, usú garapá kití, upuri usú tipí kití.
+# O jovem subitamente acordou assustado, levantou-se e correu para o porto e mergulhou no fundo do rio.
+# The young man suddenly woke up with a start, got up and ran to the harbor and dove to the bottom of the river.
 
-Asú garapá kití, upuri asú tipí kití.
-# Para o porto e mergulhou no fundo do rio.
-# To the harbor and dove to the bottom of the river. 
-
-Asuí taumaã aé upuri, uyumusarai paraná ara rupí.
-# Logo depois viram-no pulando e brincando na superfície da água.
-# Soon after they saw him jumping and playing on the surface of the water. 
-
-Uyeréuã pirayawara.
-# Já se tinha transformado em boto.
-# It had already turned into a boto. 
+Asuí taumaã aé upuri, uyumusarai paraná ara rupí, uyeréuã pirayawara.
+# Logo depois viram-no pulando e brincando na superfície da água, já se tinha transformado em boto.
+# Soon after they saw him jumping and playing on the surface of the water. it had already turned into a boto.  
 
 Aramé, paá, nhaã miraitá takwá aeté nhaã karíwa miraitá pirayawaraitá.
-# Foi então que os festeiros descobriram que aqueles jovens bonitos eram gente botos.
+# Foi então que os festeiros descobriram que aqueles jovens bonitos eram gente-botos.
 # It was then that the revelers discovered that those handsome young people were botos.
