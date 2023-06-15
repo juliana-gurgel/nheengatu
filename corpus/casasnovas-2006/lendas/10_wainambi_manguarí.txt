@@ -6,19 +6,17 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 23, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
-'''
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023'''
 
-Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri.
-# Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais.
-# Once the hummingbird competed with the maguari to see who would cross the most. 
+Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri uyasá paraná-wasú. Usika rarné nhaã ara tauyupirú waá, tauyusaã.
+# Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais rapidamente o mar. Chegado o tempo combinado, iniciaram a aposta.
+# Once the hummingbird competed with the maguari to see who would cross the most quickly the sea. When the agreed time arrived, they started the bet. 
 
-Uyasá paraná-wasú. Usika rarné nhaã ara tauyupirú waá, tauyusaã.
-# Rapidamente o mar. Chegado o tempo combinado, iniciaram a aposta.
-# Quickly the sea. When the agreed time arrived, they started the bet. 
-
-Wainambf uruyái sesé nhasé kutara uwewé, yampukusá mangwarí merupí uwewé.
+Wainambí uruyái sesé nhasé kutara uwewé, yampukusá mangwarí merupí uwewé.
 # O beija-flor se orgulhava pela velocidade, enquanto o maguari voava lentamente.
 # The hummingbird was proud of its speed, while the maguari flew slowly. 
 
@@ -30,29 +28,17 @@ Yampukusá paá, mangwarí merupí uwewé usú.
 # Enquanto o maguari ia bem devagar.
 # While the maguari went very slowly. 
 
-Nere paá, pitérupi mangwarí usú uikú mairamé urnaã, wainambí.
-# O maguari estava ainda metade do trajeto quando viu o beija-flor.
-# The maguari was still halfway there when he saw the hummingbird. 
+Nere paá, pitérupi mangwarí usú uikú mairamé umaã, wainambí tiã marã uyatikutikú paraname.
+# O maguari estava ainda metade do trajeto quando viu o beija-flor quase morrendo na água afogado.
+# The maguari was still halfway there when he saw the hummingbird almost dying in the drowned water. 
 
-Tiã marã uyatikutikú paraname.
-# Quase morrendo na água afogado.
-# Almost dying in the drowned water. 
+Mangwarí pirasúa umaã wainambí, yawé waá umburi ikupepé aé, asuí urasú aé suaxara kití.
+# O maguari viu o coitado do beija-flor e o colocou nas suas costas, levando-o ao outro lado do mar.
+# The maguari saw the poor hummingbird and placed it on its back taking you to the other side of the sea. 
 
-Mangwarí pirasúa umaã wainarnbí, yawé waá umburi ikupepé aé.
-# O maguari viu o coitado do beija-flor e o colocou nas suas costas.
-# The maguari saw the poor hummingbird and placed it on its back. 
-
-Asuí urasú aé suaxara kití.
-# Levando-o ao outro lado do mar.
-# Taking you to the other side of the sea. 
-
-Tasika rarneã paá, sirnbiwa kití, manguarí unheé wainarnbí supé.
-# Ao chegar à margem, o maguari disse ao beija-flor.
-# Upon reaching the bank, the maguari said to the hummingbird. 
-
-Remawana wainarnbí, tiarã kurí reruyari retã ne resé.
-# Veja, beija-flor, você não deve ser orgulhoso outra vez.
-# See, hummingbird, you mustn't be proud again. 
+Tasika rameã paá, simbiwa kití, manguarí unheé wainarnbí supé: Remawana wainambí, tiarã kurí reruyari retã ne resé.
+# Ao chegar à margem, o maguari disse ao beija-flor: Veja, beija-flor, você não deve ser orgulhoso outra vez.
+# Upon reaching the bank, the maguari said to the hummingbird: See, hummingbird, you mustn't be proud again. 
 
 Amú ramé maã ixé, ti maã amaã ne pirasuasá.
 # Se eu fosse outro, não o teria salvado.
@@ -62,7 +48,7 @@ Indé rewewé yepé kutara, ma remaã mamentu resika.
 # Você voa rápido, mas veja onde conseguiu chegar.
 # You fly fast, but look how far you got. 
 
-Ixé awewé rnerupí, ma asika puranga makití asú waá.
+Ixé awewé merupí, ma asika puranga makití asú waá.
 # Eu vim devagar, mas cheguei bem, sem nada acontecer.
 # I came slowly, but I arrived well, without anything happening. 
 
