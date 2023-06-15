@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
 
@@ -8,8 +8,8 @@ Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
 Reviewer: Leonel Figueiredo de Alencar
 Reviewed: June 15, 2023
-English translation: Automatically translated by GoogleTradutor.
-Translator: Juliana Lopes Gurgel TODO: review translation
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
 Yepé ara, paá, urubú ti wasemu ne yepé súu umanú waá kwera umbaú arã.
@@ -33,11 +33,11 @@ Urubú usuaxara: Compadre, ti será rekwawa uií ara ti puranga, ti umanú ne ye
 # The vulture answered him: Compadre, don't you know that today is a bad day for me, because I don't have any dead animals to eat? That's why I'm sad.
 
 Asuí, paá, wirá-wasú unheé: "Compadre", remunhã mayé se yawé: repisika upaka waáre suú, reyuká rembaú arã.
-# Então o gavião disse: Compadre, faça como eu. Pegue um animal vivo e mate-o para comer.
-# Then the hawk said: Compadre, do as I do. Catch a live animal and kill it for food.
+# Então o gavião disse: Compadre, faça como eu: Pegue um animal vivo e mate-o para comer.
+# Then the hawk said: Compadre, do as I do: Catch a live animal and kill it for food.
 
 Aápe, paá, urubú usuaxara: Compadre, ixé ti aputari amunhã puxiwera suuitá supé, maá kuíri seyumasí retana, remukameé ramé mayé amunhã arã, akwá katú amunhã.
-# O urubu, porém, respondeu-lhe. Compadre eu não quero fazer mal aos animais, mas agora estou com muita fome. Se você me mostrar como fazer, talvez eu faça.
+# O urubu, porém, respondeu-lhe. Compadre eu não quero fazer mal aos animais, mas agora estou com muita fome, se você me mostrar como fazer, talvez eu faça.
 # The vulture, however, answered him. Compadre, I don't want to harm the animals, but now I'm very hungry, if you show me how to do it, maybe I will.
 
 Arameté, paá, usasá yepé wirá mirí.
@@ -45,8 +45,8 @@ Arameté, paá, usasá yepé wirá mirí.
 # At that moment, a bird flew by. 
 
 Aápe, paá, wirá-wasú unheé: Compadre, remaã ne rangawa.
-# O gavião disse-lhe. Compadre, olhe o seu sinal.
-# The hawk told him. Compadre, look at your sign.
+# O gavião disse-lhe: Compadre, olhe o seu sinal.
+# The hawk told him: Compadre, look at your sign.
 
 Wirá mirí kutara piri uwewé kaá kití.
 # O passarinho vôou mais rápido pelo mato.
@@ -60,10 +60,10 @@ Aápe, paá, urubú usú sakakwera merupí mairamé umaã wirá-wasú uyatikú u
 # Depois o urubu foi detrás devagar e viu o gavião pendurado no pau.
 # Then the vulture followed slowly and saw the hawk hanging from the stick.
 
-Asuí, paã, wirá-wasú unheé: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiápe, reyúi reyuka ixé kwa suí.
+Asuí, paá, wirá-wasú unheé: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiápe, reyúi reyuka ixé kwa suí.
 # Aí o gavião disse-lhe: Compadre passei mal, um pedaço de pau duro entrou no meu peito, venha e tire-me daqui.
 # Then the hawk told him: Compadre I felt sick, a hard piece of wood entered my chest, come and get me out of here.
 
-Urubú usuaxara:"Compadre", seyumasí retana, asaruré remanú ambaú arã indé.
+Urubú usuaxara: "Compadre", seyumasí retana, asaruré remanú ambaú arã indé.
 # O urubu respondeu-lhe: Compadre, estou com muita fome. Vou esperar você morrer para comê-lo.
 # The vulture replied: Compadre, I'm very hungry. I'll wait for you to die to eat it.
