@@ -10,8 +10,7 @@ Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
 English translation: Automatically translated by GoogleTradutor.
 Translator: Juliana Lopes Gurgel TODO: review translation
-Translation: May 25, 2023
-'''
+Translation: May 25, 2023'''
 
 Yepé ara, paá, mukūi kuruī-wasu tasú tapinaitika.
 # Um dia dois jorvens foram pescar.
