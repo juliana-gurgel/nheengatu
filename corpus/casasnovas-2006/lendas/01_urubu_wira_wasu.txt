@@ -24,7 +24,7 @@ Ape, paá, usika sesé wirá-wasú.
 # Então o gavião passou perto dele
 # So the hawk passed close to him
 
-Asuí, paá, upurandú aé: "Compadre", marã taá sasiara retana indé.
+Asuí, paá, upurandú aé: Compadre, marã taá sasiara retana indé.
 # e perguntou-lhe: Compadre, porque você está muito triste?
 # and asked him: Compadre, why are you so sad?
 
@@ -33,29 +33,24 @@ Urubú usuaxara: Compadre, ti será rekwawa uií ara ti puranga, ti umanú ne ye
 # The vulture answered him: Compadre, don't you know that today is a bad day for me, because I don't have any dead animals to eat? That's why I'm sad.
 
 Asuí, paá, wirá-wasú unheé: "Compadre", remunhã mayé se yawé: repisika upaka waáre suú, reyuká rembaú arã.
-
-# Então o gavião disse: Compadre, faça como eu.
-# Then the hawk said: Compadre, do as I do.
-
-# Pegue um animal vivo e mate-o para comer. O urubu, porém, respondeu-lhe. TODO: sentence alignment in the following sentences
-# Catch a live animal and kill it for food. The vulture, however, answered him. TODO: sentence alignment in the following sentences
+# Então o gavião disse: Compadre, faça como eu. Pegue um animal vivo e mate-o para comer.
+# Then the hawk said: Compadre, do as I do. Catch a live animal and kill it for food.
 
 Aápe, paá, urubú usuaxara: Compadre, ixé ti aputari amunhã puxiwera suuitá supé, maá kuíri seyumasí retana, remukameé ramé mayé amunhã arã, akwá katú amunhã.
-# Compadre eu não quero fazer mal aos animais, mas agora estou com muita fome.
-# Compadre, I don't want to harm the animals, but now I'm very hungry.
-
-# Se você me mostrar como fazer, talvez eu faça.
-# If you show me how to do it, maybe I will.
+# O urubu, porém, respondeu-lhe. Compadre eu não quero fazer mal aos animais, mas agora estou com muita fome. Se você me mostrar como fazer, talvez eu faça.
+# The vulture, however, answered him. Compadre, I don't want to harm the animals, but now I'm very hungry, if you show me how to do it, maybe I will.
 
 Arameté, paá, usasá yepé wirá mirí.
-# Nesse momento passou voando um passarinho. O gavião disse-lhe.
-# At that moment, a bird flew by. The hawk told him.
+# Nesse momento passou voando um passarinho. 
+# At that moment, a bird flew by. 
 
 Aápe, paá, wirá-wasú unheé: Compadre, remaã ne rangawa.
-# Compadre, olhe o seu sinal. O passarinho vôou mais rápido pelo mato.
-# Compadre, look at your sign. The bird flew faster through the bush.
+# O gavião disse-lhe. Compadre, olhe o seu sinal.
+# The hawk told him. Compadre, look at your sign.
 
 Wirá mirí kutara piri uwewé kaá kití.
+# O passarinho vôou mais rápido pelo mato.
+# The bird flew faster through the bush.
 
 Sakwera wirá-wasú, maá uyutuká mirá rumitera ruaxara uwiké iputiápe.
 # Atrás dele, o gavião, mas bateu num pau duro e um pedaço entrou no seu peito.
@@ -66,11 +61,8 @@ Aápe, paá, urubú usú sakakwera merupí mairamé umaã wirá-wasú uyatikú u
 # Then the vulture followed slowly and saw the hawk hanging from the stick.
 
 Asuí, paã, wirá-wasú unheé: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiápe, reyúi reyuka ixé kwa suí.
-# Aí o gavião disse-lhe.
-# Then the hawk told him.
-
-# Compadre passei mal, um pedaço de pau duro entrou no meu peito, venha e tire-me daqui.
-# Compadre I felt sick, a hard piece of wood entered my chest, come and get me out of here.
+# Aí o gavião disse-lhe: Compadre passei mal, um pedaço de pau duro entrou no meu peito, venha e tire-me daqui.
+# Then the hawk told him: Compadre I felt sick, a hard piece of wood entered my chest, come and get me out of here.
 
 Urubú usuaxara:"Compadre", seyumasí retana, asaruré remanú ambaú arã indé.
 # O urubu respondeu-lhe: Compadre, estou com muita fome. Vou esperar você morrer para comê-lo.
