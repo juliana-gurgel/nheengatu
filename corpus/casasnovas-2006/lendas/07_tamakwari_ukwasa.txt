@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -8,15 +8,15 @@ Producer: Juliana Lopes Gurgel
 Produced: August 23, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
-English translation: Automatically translated by GoogleTradutor.
-Translator: Juliana Lopes Gurgel TODO: review translation
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023''''
 
 Yepé ara paá, tainaitá taunheé taramunha tamakwarí tuyué supé: Abú, puxwera paá marandúa yandé. Kwa iwí, paá, yepé ara ukaí arã yané irumu!
 # Umas crianças disseram para o avô Tamaquari: Vovô, temos uma má noticia, dizem que o mundo vai ser queimado com todos nós.
 # Some children said to their grandfather Tamaquari: Grandpa, we have bad news, they say the world will burn with all of us.
 
-Tik!, unheé, paá, usuaxara aintá. Ukaí ramé kurí, awiké kurí isuí iwí kwara kití.
+Tik!, unheé, paá, usuaxara aintá. Ukaí ramé kurí, awiké kurí isuí iwí kwara kití!
 # Que é isso, respondeu-lhes. Se queimar vou entrar dentro de um buraco da terra.
 # What is it, he answered them. If it burns I'm going to go into a hole in the earth.
 
@@ -33,11 +33,11 @@ Tenhuntu indé abú, taunheé paá ixupé. Panhé paá kwa ií upupuri arã.
 # sir is for nothing, grandpa. All the water will be boiled, they said.
 
 Yawé paá, tamakwarí tuyué upitá sasiara, asuí ipiaiwa xinga.
-# O velho Tamaquari ficou triste, depois ficou bravo.
+# O velho Tamaquari ficou triste, depois ficou bravo,
 # Old Tamaquari was sad, then he was angry.
 
 Ma tiarã taumuserana aé, usuaxara yuíri aintá: Ií upupúi ramé kurí, ayapumi kurí tipí awiké arã isuí itá kwara kití!
-# Mas para não se dar por vencido, disse: Se as águas fervem, então mergulharei no fundo do buraco de uma pedra.
+# mas para não se dar por vencido, disse: Se as águas fervem, então mergulharei no fundo do buraco de uma pedra.
 # But not to give up, he said: If the water boils, then I will dive deep into a stone hole. 
 
 Umbaá, abú, taunheé paá ixupé. Panhé paá kwaitá itá tautikú arã.
