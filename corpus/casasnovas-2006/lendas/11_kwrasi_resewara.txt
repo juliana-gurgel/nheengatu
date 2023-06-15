@@ -6,8 +6,11 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 27, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023
 
 OBS.: Sentences 1 to 40 in Nheengatu are not available in the version of the book we have access.'''
 
@@ -171,33 +174,21 @@ nheengatu missing sentence
 # Onde todos os dias o Bacurau ia dormir.
 # Where Bacurau went to sleep every day. 
 
-Aápe, paá, Kurasí tuyué ipiaíwa upurandú Wakurawá suí.
-# Aí o velho Sol ficou bravo e perguntou a Bacurau.
-# Then old Sol got angry and asked Bacurau. 
+Aápe, paá, Kurasí tuyué ipiaíwa upurandú Wakurawá suí: Anhute ne muraki kwa.
+# Aí o velho Sol ficou bravo e perguntou a Bacurau: Somente isto é o seu trabalho?
+# Then old Sol got angry and asked Bacurau: Is this just your job? 
 
-Anhute ne muraki kwa.
-# Somente isto é o seu trabalho?
-# Is this just your job? 
-
-Umbaré arnbá, anheé rakú indé arã, unheé, paá, Wakurawá.
-# Ainda não terminei, eu lhe falei, disse o Bacurau.
-# I haven't finished yet, I told you, said Bacurau. 
-
-Indé yepé atima manha. Rewatá kurí remuatiri ara kiasá.
-# Você é preguiçoso, você vai andar juntando sujeira do ar.
-# You're lazy, you'll go around gathering dirt from the air. 
+Umbaré ambá, anheé rakú indé arã, unheé, paá, Wakurawá: Indé yepé atima manha. Rewatá kurí remuatiri ara kiasá.
+# Ainda não terminei, eu lhe falei, disse o Bacurau: Você é preguiçoso, você vai andar juntando sujeira do ar.
+# I haven't finished yet, I told you, said Bacurau: You're lazy, you'll go around gathering dirt from the air.
 
 Rembaú arã ne rairaitá irumu, unheé, paá, ixupé Kurasí.
 # Para comer com seus filhos, falou o Sol para ele.
 # To eat with his children, the Sun told him. 
 
-Sesewara, paá, Wakurawá muíri kwema, muíri pituna ira.
-# Por isso, o Bacurau de dia e de noite.
-# Therefore, Bacurau day and night. 
-
-Uwatá uwewé umuatiri rnerú miritá uyuká arã iyumasí.
-# Anda voando procurando pequenas moscas para matar a fome.
-# He's been flying around looking for little flies to kill his hunger. 
+Sesewara, paá, Wakurawá muíri kwema, muíri pituna irũ uwatá uwewé umuatiri rnerú miritá uyuká arã iyumasí.
+# Por isso, o Bacurau de dia e de noite anda voando procurando pequenas moscas para matar a fome.
+# Therefore, Bacurau day and night he's been flying around looking for little flies to kill his hunger. 
 
 Nhasé Kurasí upeyú, paá, aé, ti resewara usikái upurakí.
 # Porque o Sol soprou para ele, por não procurar trabalhar.
