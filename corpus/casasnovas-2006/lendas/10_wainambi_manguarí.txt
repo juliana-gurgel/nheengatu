@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -9,10 +9,10 @@ Produced: August 23, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
 English translation: Automatically translated by GoogleTranslator.
-Translator: Juliana Lopes Gurgel TODO: review translation
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
-Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri uyasá paraná-wasú. Usika rarné nhaã ara tauyupirú waá, tauyusaã.
+Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri uyasá paraná-wasú. Usika ramé nhaã ara tauyupirú waá, tauyusaã.
 # Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais rapidamente o mar. Chegado o tempo combinado, iniciaram a aposta.
 # Once the hummingbird competed with the maguari to see who would cross the most quickly the sea. When the agreed time arrived, they started the bet. 
 
@@ -25,7 +25,7 @@ Yawé paá, wainambí uwewé usú iwitú yawé.
 # The hummingbird then departed with the speed of the wind. 
 
 Yampukusá paá, mangwarí merupí uwewé usú.
-# Enquanto o maguari ia bem devagar.
+# enquanto o maguari ia bem devagar.
 # While the maguari went very slowly. 
 
 Nere paá, pitérupi mangwarí usú uikú mairamé umaã, wainambí tiã marã uyatikutikú paraname.
