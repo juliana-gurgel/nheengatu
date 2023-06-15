@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -8,11 +8,11 @@ Producer: Juliana Lopes Gurgel
 Produced: August 23, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
-English translation: Automatically translated by GoogleTradutor.
-Translator: Juliana Lopes Gurgel TODO: review translation
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
-Aikwé paá yepe tetama puranga waá yepé ipawa wasú rimbiwa upé.
+Aikwé paá yepé tetama puranga waá yepé ipawa wasú rimbiwa upé.
 # Havia uma cidade muito bonita, na beira de um grande lago.
 # There was a very beautiful city, on the shore of a large lake. 
 
@@ -24,7 +24,7 @@ Muíri akayú, paá, kurasí ara ramé, kwá uakaraitá aywã ta usú tawatá ap
 # Todos os anos, no tempo do verão, essas garças iam passear longe, pelo mundo afora.
 # Every year, in the summer time, these herons would go for a walk far out into the world. 
 
-Muíri viaje, paá, tausú rundé, aintá aría waimí uyupuí aitá piripiriaka suikiri waá irū, ti arã tausaã yumasí tauwatá pukusawa.
+Muíri viaje, paá, tausú rundé, aintá aría waimí uyupuí aitá piripiriaka suikiri waá irũ, ti arã tausaã yumasí tauwatá pukusawa.
 # Toda vez, antes de partir, a velha avó dava-lhes de comer pipirioca verde para alimentá-las durante a jornada até à volta.
 # Every time, before leaving, the old grandmother would feed them green paprika, to feed them during the journey back. 
 
