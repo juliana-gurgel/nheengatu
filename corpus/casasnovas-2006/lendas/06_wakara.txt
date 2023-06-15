@@ -6,9 +6,11 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 23, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
-'''
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
+English translation: Automatically translated by GoogleTradutor.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023'''
 
 Aikwé paá yepe tetama puranga waá yepé ipawa wasú rimbiwa upé.
 # Havia uma cidade muito bonita, na beira de um grande lago.
@@ -22,25 +24,13 @@ Muíri akayú, paá, kurasí ara ramé, kwá uakaraitá aywã ta usú tawatá ap
 # Todos os anos, no tempo do verão, essas garças iam passear longe, pelo mundo afora.
 # Every year, in the summer time, these herons would go for a walk far out into the world. 
 
-Muíri viaje, paá, tausú rundé, aintá aría waimí uyupuí aitá piripiriaka suikiri waá irū.
-# Toda vez, antes de partir, a velha avó dava-lhes de comer pipirioca verde.
-# Every time, before leaving, the old grandmother would feed them green paprika. 
+Muíri viaje, paá, tausú rundé, aintá aría waimí uyupuí aitá piripiriaka suikiri waá irū, ti arã tausaã yumasí tauwatá pukusawa.
+# Toda vez, antes de partir, a velha avó dava-lhes de comer pipirioca verde para alimentá-las durante a jornada até à volta.
+# Every time, before leaving, the old grandmother would feed them green paprika, to feed them during the journey back. 
 
-Ti arã tausaã yumasí tauwatá pukusawa.
-# Para alimentá-las durante a jornada até à volta.
-# To feed them during the journey back. 
-
-Mairamé tausuã taikú, kwá ta aría waimí umbeú aintá.
-# Quando já estavam partindo, a avó dava um conselho.
-# When they were already leaving, the grandmother gave advice. 
-
-Se rimiarirúitá, penhé ayupuíã, Kuíri pesuã.
-# Minhas netas, vocês já estão alimentadas, agora podem ir,
-# My granddaughters, you are already fed, now you can go, 
-
-Tiã kurí marã penharã timbiú.
-# Pois não terão mais necessidade de comida.
-# For they will no longer need food. 
+Mairamé tausuã taikú, kwá ta aría waimí umbeú aintá: Se rimiarirúitá, penhé ayupuíã, kuíri pesuã, tiã kurí marã penharã timbiú.
+# Quando já estavam partindo, a avó dava um conselho: "Minhas netas, vocês já estão alimentadas, agora podem ir, pois não terão mais necessidade de comida."
+# When they were already leaving, the grandmother gave advice: My granddaughters, you are already fed, now you can go, for they will no longer need food.
 
 Awá kurí uruyái se resé, puranga kurí usasá.
 # Quem acreditar em mim, irá passar bem até a volta.
