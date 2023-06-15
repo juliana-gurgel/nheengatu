@@ -6,8 +6,11 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
+English translation: Automatically translated by GoogleTradutor.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023
 '''
 
 Yepé ara, paá, mukūi kuruī-wasu tasú tapinaitika.
@@ -22,33 +25,21 @@ Yepé, paá, uwapika igara gantime, amú uwapika yakumame.
 # Um estava sentado na proa e outro na popa.
 # One was seated at the bow and the other at the stern. 
 
-Kwa, paá, uwapika waá gantime ti umaã mairamé sukuriú.
-# O que estava na proa não percebeu quando a sucuriju.
-# The one on the bow didn't notice when the anaconda. 
+Kwa, paá, uwapika waá gantime ti umaã mairamé sukuriú usikí sumwara tipí kití.
+# O que estava na proa não percebeu quando a sucuriju puxou seu companheiro para o fundo da água.
+# The one on the bow didn't notice when the anaconda he pulled his companion to the bottom of the water. 
 
-Usikí sumwara tipí kití.
-# Puxou seu companheiro para o fundo da água.
-# He pulled his companion to the bottom of the water. 
-
-Mairamé, paá, yakanhemu umaã sumwara swera.
-# Quando percebeu, ficou admirado vendo seu colega.
-# When he noticed, he was amazed to see his colleague. 
-
-Ipipe sukuriú umamana waá aé.
-# No fundo da água todo enrolado pela sucuriju.
-# At the bottom of the water all rolled up by the anaconda. 
+Mairamé, paá, yakanhemu umaã sumwara swera ipipe sukuriú umamana waá aé.
+# Quando percebeu, ficou admirado vendo seu colega no fundo da água todo enrolado pela sucuriju.
+# When he noticed, he was amazed to see his colleague at the bottom of the water all rolled up by the anaconda. 
 
 Nhaã apigá yakanhemu upuri, uyapumi uyuka arã sumwara.
 # Então o rapaz assustado pulou e mergulhou para salvar seu colega.
 # So the scared boy jumped and dove to save his colleague. 
 
-Ape, paá, usupiri nhaã sumwara yepéwasú sukuriú irumu.
-# Ele carregou todos os dois enrolados.
-# He carried all two rolled up. 
-
-Umbúi aintá igara kwara upé.
-# E colocou-se dentro da canoa.
-# And he got into the canoe. 
+Ape, paá, usupiri nhaã sumwara yepéwasú sukuriú irumu umbúi aintá igara kwara upé.
+# Ele carregou todos os dois enrolados e colocou-se dentro da canoa.
+# He carried all two rolled up and he got into the canoe. 
 
 Nhaã, paá, sukuriú santá uyari, ti ukataka ti arã uxái ximiara uyawawa.
 # A sucuriju nem sequer se mexia, não queria deixar a vítima.
@@ -58,13 +49,9 @@ Yamé, paá, tasika tarendáwa kití.
 # Assim mesmo foram levados ao sítio deles.
 # So they were taken to their place. 
 
-Ape, paã, miraitá ta yatiri takamiriki kirimbawa kirimbawa nhaã sukuriú resá resé.
-# Lá as pessoas se juntaram, apertaram com muita força os olhos da sacuriju.
-# There, people gathered, squeezing the sacuriju's eyes very hard. 
-
-Arirewã uyururá nhaã apigá kwera suí.
-# E só então que se desenrolou do jovem.
-# And only then did it uncoil from the young man. 
+Ape, paã, miraitá ta yatiri takamirika kirimbawa kirimbawa nhaã sukuriú resá resé, arirewã uyururá nhaã apigá kwera suí.
+# Lá as pessoas se juntaram, apertaram com muita força os olhos da sacuriju e só então que se desenrolou do jovem.
+# There, people gathered, squeezing the sacuriju's eyes very hard and only then did it uncoil from the young man. 
 
 Asuí, paá, tayuká nhaã sukuriú wasú kwera.
 # Depois mataram-na.
@@ -74,10 +61,6 @@ Nhaá, paá, apigá taité upitá pitúa, nhasé sukuriú umpena siía ikãwéra
 # O jovem, coitado, ficou desmaiado; a sucuriju quebrou-lhe muito os ossos.
 # The young man, poor fellow, fainted; the sucuriju broke his bones a lot. 
 
-Ape, paá, sumwara uyuka nha sukuriú kawasá ipupé.
-# Aí o colega tirou a gordura da sucuriju e com ela.
-# Then the colleague took the fat from the anaconda and with it. 
-
-Umpusanga nha sumwara sasí waá ipira sukuriú murakí.
-# Curou o colega para aliviar a dor do corpo produzida pela sucuriju.
-# He cured his colleague to relieve the body pain produced by the anaconda. 
+Ape, paá, sumwara uyuka nha Sukuriú kawasá ipupé umpusanga nha sumwara sasí waá ipira sukuriú murakí.
+# Aí o colega tirou a gordura da sucuriju e com ela curou o colega para aliviar a dor do corpo produzida pela sucuriju.
+# Then the colleague took the fat from the anaconda and with it he cured his colleague to relieve the body pain produced by the anaconda.
