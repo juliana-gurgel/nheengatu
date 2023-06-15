@@ -6,8 +6,11 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
-English translation: Juliana Lopes Gurgel
-Last update: May 25, 2023
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
+English translation: Automatically translated by GoogleTradutor.
+Translator: Juliana Lopes Gurgel TODO: review translation
+Translation: May 25, 2023
 '''
 
 Yepé ara paá, yepé apigá usendú kurupira unupá mirá rupitá, kaá kiti.
@@ -34,35 +37,18 @@ Ape unupá musapiri viaje nhaã mirá rupitá resé, asuí usú uyuyumimi usarú
 # Bateu três vezes no tronco e foi se esconder e ficou olhando.
 # He knocked three times on the trunk and went to hide and watched. 
 
-Kutara nungara paá, usika kurupira, uyuka nhaã mirá-piranga.
-# Sem demora, chegou curupira, pegou seu pedaço de pau.
-# Without delay, the curupira arrived, took his piece of wood. 
+Kutara nungara paá, usika kurupira, uyuka nhaã mirá-piranga, asuí unupá musapiri viaje, ariré asuã yuíri.
+# Sem demora, chegou curupira, pegou seu pedaço de pau, depois bateu três vezes e foi embora, de novo.
+# Without delay, the curupira arrived, took his piece of wood, then he knocked three times and left again. 
 
-Asuí unupá musapiri viaje, ariré asuã yuíri.
-# Depois bateu três vezes e foi embora, de novo.
-# Then he knocked three times and left again. 
+Kwa apigá usú yuíri paá, sakakwera unupá musapiri viaje, asuí usú uyumimi usarú umaã.
+# Aquele homem foi novamente detrás dele e bateu três vezes. Depois escondido ficou observando.
+# That man again went after him and knocked three times. Then, hiding, he watched.
 
-Kwa apigá usú yuíri paá, sakakwera unupá musapiri viaje.
-# Aquele homem foi novamente detrás dele e bateu três vezes.
-# That man again went after him and knocked three times. 
-
-Asuí usú uyumimi usarú umaã.
-# Depois escondido ficou observando.
-# Then, hiding, he watched. 
-
-Kuíri supí kurupira usika ipiaíwa xinga. Upisika paa nhaã mirá-piranga.
-# Desta vez o curupira voltou bastante aborrecido, pegou o pedaço de pau.
-# This time the curupira returned, quite annoyed, took the stick. 
-
-Unupá kirimbawa siía viaje, asuí uyapí usú apekatú kití, unheé kwayé.
-# Bateu forte repetidas vezes, o jogou para longe e disse.
-# Hit it hard repeatedly, threw it away and said. 
-
-Mapuxuwera! Indé ti puranga, remaraúna reikú ixé!
-# Maldito!, você não é bom, está me dando mau agouro.
-# Cursed!, you're no good, you're giving me a bad omen. 
+Kuíri supí kurupira usika ipiaíwa xinga. Upisika paa nhaã mirá-piranga, unupá kirimbawa siía viaje, asuí uyapí usú apekatú kití, unheé kwayé: Mapuxuwera! Indé ti puranga, remaraúna reikú ixé!
+# Desta vez o curupira voltou bastante aborrecido, pegou o pedaço de pau, bateu forte repetidas vezes, o jogou para longe e disse: Maldito!, você não é bom, está me dando mau agouro.
+# This time the curupira returned, quite annoyed, took the stick, hit it hard repeatedly, threw it away and said: Cursed!, you're no good, you're giving me a bad omen. 
 
 Yawé paá kwa apigá usuã uyuka ixupé nhaa mirá-piranga wasú kurupira yara kwera.
 # Assim o homem pegou para si aquele bonito pedaço de pau-brasil, que era do curupira.
-# So the man took that beautiful piece of brazilwood, which belonged to the curupira. 
-
+# So the man took that beautiful piece of brazilwood, which belonged to the curupira.
