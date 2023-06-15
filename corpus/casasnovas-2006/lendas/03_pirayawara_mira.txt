@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+''' This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -8,8 +8,8 @@ Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
-English translation: Automatically translated by GoogleTradutor.
-Translator: Juliana Lopes Gurgel TODO: review translation
+English translation: Automatically translated by GoogleTranslator.
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
 Yepé ara, paá, siía miraitá tamunhã murasí yepé tendawa upé.
@@ -17,8 +17,8 @@ Yepé ara, paá, siía miraitá tamunhã murasí yepé tendawa upé.
 # Once, a lot of people were having a party in a place. 
 
 Tapurasí, paá, ara, pituna pukusawa.
-# Dançando durante todo o dia e a noite.
-# Dancing all day and night. 
+# Dançaram durante todo o dia e a noite.
+# Danced all day and night. 
 
 Ikupukuã, paá, pituna, mairamé miraitá takaúkaú xinga pawa, tamaã uyukwá tamurasí pitérupi siía karíwa tipitinga mirí waitá.
 # Avançada a noite, quando todos já estavam embriagados, apareceram no meio da festa muitos jovens brancos.
@@ -28,7 +28,7 @@ Ape, paá, uka yaraitá tameé taú arã kutakutara garapa.
 # Os festeiros deram-lhes muita bebida.
 # The revelers gave them a lot of drink. 
 
-Kwema irumu, paá, mukūi aintá suíwara tawiyé garapá kití, asuí akitíte takanhemu.
+Kwema irumu, paá, mukũi aintá suíwara tawiyé garapá kití, asuí akitíte takanhemu.
 # Ao amanhecer, dois deles desceram para o porto e ali desapareceram.
 # At dawn, two of them went down to the harbor and disappeared there. 
 
@@ -36,7 +36,7 @@ Yepé tarumwara ukaú retana waá, apete, paá, ukiri uyenú ukárupi.
 # Outro colega deles estava muito bêbado e ficou dormindo, deitado no terreiro da casa.
 # Another colleague of theirs was very drunk and fell asleep, lying in the yard of the house. 
 
-Mairamé puranga waá ara, tamaã, paá, nhaã karíwa puranga mirí kiri waá uikú, urikú suaya pirá yawé.
+Mairamé puranga waá ara, tamaã, paá, nhaã karíwa puranga mirí ukiri waá uikú, urikú suaya pirá yawé.
 # Quando o dia já estava claro, as pessoas viram que aquele jovem bonito que estava dormindo, tinha os pés como um rabo de peixe.
 # When the day was already clear, people saw that that handsome young man that he was sleeping, he had feet like a fish's tail. 
 
@@ -49,9 +49,9 @@ Kutara nungara, paá, nhaã kariwa mirí yakanhemu upaka, upwamu, uyana, usú ga
 # The young man suddenly woke up with a start, got up and ran to the harbor and dove to the bottom of the river.
 
 Asuí taumaã aé upuri, uyumusarai paraná ara rupí, uyeréuã pirayawara.
-# Logo depois viram-no pulando e brincando na superfície da água, já se tinha transformado em boto.
+# Logo depois viram-no pulando e brincando na superfície da água,. Já se tinha transformado em boto.
 # Soon after they saw him jumping and playing on the surface of the water it had already turned into a boto.  
 
 Aramé, paá, nhaã miraitá takwá aeté nhaã karíwa miraitá pirayawaraitá.
-# Foi então que os festeiros descobriram que aqueles jovens bonitos eram gente-botos.
+# Foi então que os festeiros descobriram que aqueles jovens bonitos eram gente-botos
 # It was then that the revelers discovered that those handsome young people were botos.
