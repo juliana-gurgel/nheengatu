@@ -6,6 +6,8 @@ Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
+Reviewer: Juliana Lopes Gurgel
+Review: June 15, 2023
 English translation: Automatically translated by GoogleTradutor.
 Translator: Juliana Lopes Gurgel TODO: review translation
 Translation: May 25, 2023
@@ -49,7 +51,7 @@ Kutara nungara, paá, nhaã kariwa mirí yakanhemu upaka, upwamu, uyana, usú ga
 
 Asuí taumaã aé upuri, uyumusarai paraná ara rupí, uyeréuã pirayawara.
 # Logo depois viram-no pulando e brincando na superfície da água, já se tinha transformado em boto.
-# Soon after they saw him jumping and playing on the surface of the water. it had already turned into a boto.  
+# Soon after they saw him jumping and playing on the surface of the water it had already turned into a boto.  
 
 Aramé, paá, nhaã miraitá takwá aeté nhaã karíwa miraitá pirayawaraitá.
 # Foi então que os festeiros descobriram que aqueles jovens bonitos eram gente-botos.
