@@ -8,8 +8,9 @@ Producer: Juliana Lopes Gurgel
 Produced: August 23, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
-English translation: Automatically translated by GoogleTranslator.
-Translator: Juliana Lopes Gurgel -TODO: review translation
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translation reviewer: TODO
 Translation: May 25, 2023'''
 
 Aikwé paá yepé tetama puranga waá yepé ipawa wasú rimbiwa upé.
