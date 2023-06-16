@@ -5,8 +5,11 @@ NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno):
 Therefore, this data may be subject to copyrights of the author of this book.
 
 Producer: Dominick Maia Alexandre — Reviewer: Leonel Figueiredo de Alencar
-English translation: Juliana Lopes Gurgel
-Last update: March 20, 2023'''
+Produced: June 5, 2022
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translation reviewer: Juliana Lopes Gurgel
+Translation: March 20, 2023'''
 
 Ape té usasá sumuara urubú.
 # Nesse momento mesmo passou seu amigo urubu.
@@ -102,9 +105,7 @@ Ne kerpi.
 
 I kerpi.
 # Ele sonha.
-# Ela sonha.
 # He dreams.
-# She dreams.
 
 Yané kerpi.
 # Nós sonhamos.
@@ -128,9 +129,7 @@ Indé ne akanhemu.
 
 Aé i akanhemu.
 # Ele se assusta.
-# Ela se assusta.
 # He gets scared.
-# She gets scared.
 
 Yandé yané akanhemu.
 # Nós nos assustamos.
