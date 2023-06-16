@@ -1,4 +1,4 @@
-''' This text file contains aligned sentences in Nheengatu and Portuguese from the following source:
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
 
 CASASNOVAS, A. Noções de língua geral ou nheengatú: gramática, lendas e vocabulário. 2. ed. Manaus: Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco, 2006.
  
@@ -9,7 +9,7 @@ Produced: August 27, 2021
 Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
 English translation: Automatically translated by GoogleTranslator.
-Translator: Juliana Lopes Gurgel TODO: review translation
+Translator: Juliana Lopes Gurgel -TODO: review translation
 Translation: May 25, 2023'''
 
 Kuxiíma, paá, aikwé siía miraitá, amuitá ta mirasawa Tupí, amuitá Baré.
@@ -25,18 +25,18 @@ Nhaã Tupí miraitá pitérupi, paá, aikwé yepé kunhaitãi sera waá Adana.
 # In the Tupi tribe, there was an Indian whose name was ADANA. 
 
 Ipaya, paá, yepé tuxawa ukwawa piri waá panhé mira suí.
-# Filha de um tuxawa, o mais célebre de todos os tuxawas.
+# filha de um tuxawa, o mais célebre de todos os tuxawas.
 # Daughter of a tuxawa, the most famous of all tuxawas. 
 
-Nhaã, paá kunhatãi, kwaíra suíwara urikuana awá irumu umendari arama, yepé kururnl-wasú kirimbawa waá, sera, paá, Kurukuí.
-# Desde pequena era comprometida para se casar, com um jovem forte guerreiro, chamado Kurukuí.
+Nhaã, paá kunhatãi, kwaíra suíwara urikuana awá irumu umendari arama, yepé kurumĩ-wasú kirimbawa waá, sera, paá, Kurukuí.
+# Desde pequena era comprometida para se casar com um jovem forte guerreiro, chamado Kurukuí.
 # Since she was a little girl, she was engaged to be married, with a strong young warrior named Kurukuí.
 
-Adana, paá, uyumunhã, usú uikú, upitá yepé kunhã-mukú puranga, puranga piri panhé kunhã-rnukú suí.
+Adana, paá, uyumunhã, usú uikú, upitá yepé kunhã-mukú puranga, puranga piri panhé kunhã-mukú suí.
 # Adana cresceu e tomou-se uma linda índia, a mais bonita de todas as moças.
 # Adana grew up to be a beautiful Indian woman, the prettiest of all girls.
 
-Nhaã, paá, amú miraitá pitérupi aikwé yepé kurumî-wasú, ti usikié ne maã suí, sera, paá, Buburi.
+Nhaã, paá, amú miraitá pitérupi aikwé yepé kurumĩ-wasú, ti usikié ne maã suí, sera, paá, Buburi.
 # Numa outra tribo, havia um jovem muito valente, chamado Buburi.
 # In another tribe, there was a very brave young man named Buburi. 
 
@@ -44,12 +44,12 @@ Yepé ara, paá, nhaã Buburi uwatá, usú upinaitika, umaá Adana.
 # Ele, numa de suas pescarias, viu Adana e gostou dela.
 # He, on one of his fishing trips, saw Adana and liked her. 
 
-Aápe, paá, aintá, uyuswantí, ta uyupirú ta upurungitá.
+Aápe, paá, aintá, uyuswantí, ta uyupirú ta upurungitá
 # Os dois encontraram-se e começaram a conversar.
 # The two met and started talking. 
 
 Asuí, paá, Adana umbeú Buburi supé aé urikuté umendari arã Kurukuí irumu.
-# Adana disse a Buburi que estava comprometida com Kurukuí.
+# Adana disse a Buburi que estava comprometida com Kurukuí,
 # Adana told Buburi that she was committed to Kurukuí. 
 
 Aé, paá, ti uputái Kurukuí imena arã.
@@ -61,11 +61,11 @@ Asuí, paá, Buburi mayé Adana, aintá usaã ta piá upé ta uyuputari.
 # Time passed and the two fell in love. 
 
 Yepé ara, paá, nhaã Tupí miraitá ta umunhã murasí.
-# Aconteceu que um dia a tribo dos Tupi fez a festa.
+# Aconteceu que um dia a tribo dos Tupi fez a festa
 # It so happened that one day the Tupi tribe had a party. 
 
 Nhaã, paá, murasí upé Kurukuí payaitá ta upurandú arã nhaã Adana ta raíra supé.
-# Do pedido para O casamento de Adana com Kurukuí.
+# Do pedido para o casamento de Adana com Kurukuí.
 # From the request to Adana's marriage to Kurukuí. 
 
 Adana, paá, ti uputái umendari Kurukuí irumu, nhasé uputái piri nhaã Buburi.
@@ -73,7 +73,7 @@ Adana, paá, ti uputái umendari Kurukuí irumu, nhasé uputái piri nhaã Bubur
 # Adana did not want to marry Kurukuí, as she was in love with Buburi. 
 
 Buburi unheé ixupé uyuka arã aé umendari rundé.
-# Buburi disse-lhe que iria tirá-Ia antes do pedido de casamento.
+# Buburi disse-lhe que iria tirá-la antes do pedido de casamento.
 # Buburi told him that he would take it off before the marriage proposal. 
 
 Murasí pukusawa, paá, nhaã miraitá aintá uú kãwi, ta upurasí, ta uyumusarái.
@@ -96,7 +96,7 @@ Ariré, paá, Kurukuí usikái Adana ti uwasemu, aramé yuana garapá kití.
 # Pouco depois Kurukuí a procurou e não a encontrando, correu para o porto.
 # Shortly afterwards Kurukuí looked for her and, not finding her, ran to the port. 
 
-Umaá, paá, aintá muküi, ta uikuã waá paraná pitérupi.
+Umaá, paá, aintá mukũi, ta uikuã waá paraná pitérupi.
 # Viu os dois que já estavam no meio do rio.
 # He saw the two who were already in the middle of the river. 
 
@@ -108,21 +108,17 @@ Usika ramé aintá ruakí, ta uyupirú ta umuramunha paraná pitérupi.
 # Chegando perto, os dois guerreiros começaram a lutar no meio do rio.
 # Coming close, the two warriors began to fight in the middle of the river. 
 
-Adana, paá, urnaã ta resé, upitá piri Buburí ruakí
+Adana, paá, umaã ta resé, upitá piri Buburí ruakí
 # Adana olhava e continuava perto de Buburi.
 # Adana watched and remained close to Buburi. 
 
-Aintá umuramunha pukusawa, paá, ií upurakái aintá igara upé, ape, paá,aintá uyupipika paraná pitérupi, aintá uyupirú ta uwitá. 
+Aintá umuramunha pukusawa, paá, ií upurakái aintá igara upé, ape, paá, aintá uyupipika paraná pitérupi, aintá uyupirú ta uwitá. 
 # Durante a luta, as canoas começaram a se encher de água, até que todos se alagaram no meio do rio, e começaram a nadar.
 # During the fighting, the canoes began to fill with water, until they all flooded in the middle of the river and they started to swim.
 
-Kurukuí uwitá yepé rwaxara kití.
-# Kurukuí nadou para o lado esquerdo.
-# Kurukuí swam to the left side. 
-
-Uyeréu yepé pirantá turusú waá, aeté kwa sera Kurukuí.
-# Transformando-se na cachoeira chamada Kurukuí.
-# Transforming into the waterfall called Kurukuí. 
+Kurukuí uwitá yepé rwaxara kití uyeréu yepé pirantá turusú waá, aeté kwa sera Kurukuí.
+# Kurukuí nadou para o lado esquerdo transformando-se na cachoeira chamada Kurukuí.
+# Kurukuí swam to the left side transforming into the waterfall called Kurukuí. 
 
 Buburi, kirimbawa piri, uwitá amú ruaxara kití uyeréu amú pírantá turusú piri, sera Buburi.
 # Buburi, o mais forte guerreiro, nadou para o outro lado e tomou-se a enorme cachoeira de Buburi.
@@ -136,7 +132,7 @@ Yawé resewara nhaã musapiri, paá, iké pawaté ta uikú, yané tawa upé.
 # Dizem que até hoje os três continuam vivendo naquele lugar.
 # They say that even today the three of them continue to live in that place. 
 
-Muküi kurumî-wasú kirimbawaitá ta upitá ta umanhana uikú kwa kunhã-mukú puranga.
+Mukũi kurumĩ-wasú kirimbawaitá ta upitá ta umanhana uikú kwa kunhã-mukú puranga.
 # Os dois moços guerreiros são os guardas da bela moça.
 # The two young warriors are the beautiful girl's guards. 
 
