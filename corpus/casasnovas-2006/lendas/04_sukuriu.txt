@@ -14,7 +14,7 @@ Translation reviewer: TODO
 Translation: May 25, 2023'''
 
 Yepé ara, paá, mukũi kurumĩ-wasu tasú tapinaitika.
-# Um dia dois jorvens foram pescar.
+# Um dia dois jovens foram pescar.
 # One day two young men went fishing. 
 
 Tasika, paá, yepé ipawa yapira upé mamé aikwé siía piráitá.
