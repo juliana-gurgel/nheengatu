@@ -10,8 +10,9 @@ Reviewer: Juliana Lopes Gurgel
 Review: June 15, 2023
 
 Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: May 25, 2023
 Translation reviewer: TODO
-Translation: May 25, 2023'''
+Reviewed: TODO'''
 
 Aikwé paá yepé tetama puranga waá yepé ipawa wasú rimbiwa upé.
 # Havia uma cidade muito bonita, na beira de um grande lago.
