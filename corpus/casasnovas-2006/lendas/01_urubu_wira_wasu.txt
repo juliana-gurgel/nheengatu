@@ -10,8 +10,9 @@ Reviewer: Leonel Figueiredo de Alencar
 Reviewed: June 15, 2023
 
 Automatically translated from Portuguese to English by CorpusTranslator.
+Translation: May 25, 2023
 Translation reviewer: TODO
-Translation: May 25, 2023'''
+Reviewed: TODO'''
 
 Yepé ara, paá, urubú ti wasemu ne yepé súu umanú waá kwera umbaú arã.
 # Um dia, dizem, urubu não encontrou nenhum animal morto para comer.
@@ -21,13 +22,9 @@ Upitá sasiara yumasí irumu.
 # Estava triste e com fome.
 # I was sad and hungry.
 
-Ape, paá, usika sesé wirá-wasú.
-# Então o gavião passou perto dele
-# So the hawk passed close to him
-
-Asuí, paá, upurandú aé: Compadre, marã taá sasiara retana indé.
-# e perguntou-lhe: Compadre, porque você está muito triste?
-# and asked him: Compadre, why are you so sad?
+Ape, paá, usika sesé wirá-wasú. Asuí, paá, upurandú aé: Compadre, marã taá sasiara retana indé.
+# Então o gavião passou perto dele e perguntou-lhe: Compadre, porque você está muito triste?
+# So the hawk passed close to him and asked him: Compadre, why are you so sad?
 
 Urubú usuaxara: Compadre, ti será rekwawa uií ara ti puranga, ti umanú ne yepé suú ambaú arã, sesewara ixé apitá sasiara.
 # O urubu respondeu-lhe: Compadre, você não sabe que para mim o dia de hoje é ruim, pois não tenho nenhum bicho morto para comer? É por isso que estou triste.
