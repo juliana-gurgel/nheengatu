@@ -8,8 +8,9 @@ Producer: Juliana Lopes Gurgel
 Produced: August 19, 2021
 
 Automatically translated from Portuguese to English by CorpusTranslator.
+Translation: May 25, 2023
 Translation reviewer: TODO
-Translation: May 25, 2023'''
+Reviewed: TODO'''
 
 Yepé ara, yawaraté usú usikái yauti umbaú arã aé
 # Um dia, a onça foi procurar o jabuti para comê-lo.
