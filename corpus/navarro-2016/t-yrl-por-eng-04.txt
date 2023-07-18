@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-Maria uwatá São Gabriel rupí.
-# Maria caminha por São Gabriel.
-# Maria walks through São Gabriel.
+Maria uwatá São Gabriel rupí
+# Maria caminha por São Gabriel
+# Maria walks through São Gabriel
 
 Maria uwatá ara pukusawa tawa rapé-itá rupí.
 # Maria anda durante o dia pelas ruas da cidade.
@@ -31,13 +31,9 @@ Siía mira upurungitá nheengatú ape.
 # Muitas pessoas falam nheengatu ali.
 # Many people speak Nheengatu there.
 
-Aikwé mira-itá upurungitá waá amú nheenga-itá São Gabriel upé:
-# Há pessoas que falam outras línguas em São Gabriel:
-# There are people who speak other languages ​​in São Gabriel:
-
-Baniwa, Tukano, Desana, Yanomami.
-# baniwa, tucano, desana, ianomami.
-# Baniwa, Tucano, Desana, Yanomami.
+Aikwé mira-itá upurungitá waá amú nheenga-itá São Gabriel upé: Baniwa, Tukano, Desana, Yanomami.
+# Há pessoas que falam outras línguas em São Gabriel: baniwa, tucano, desana, ianomami.
+# There are people who speak other languages ​​in São Gabriel: Baniwa, Tucano, Desana, Yanomami.
 
 Nhaã tawa ruakí aikwé siía tendawa mira-itá irũmu ukwáu waá nheengatú.
 # Perto daquela cidade há muitas comunidades com pessoas que sabem nheengatu.
