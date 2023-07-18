@@ -91,9 +91,13 @@ Kuíri taá?
 # E agora?
 # And now?
 
-Asuí taá? Maã taá kurí yamunhã?
-# E daí? Que faremos?
-# And? What shall we do?
+Asuí taá?
+# E daí?
+# And?
+
+Maã taá kurí yamunhã?
+# Que faremos?
+# What shall we do?
 
 Mamé taá té remaã se manha?
 # Onde mesmo você viu minha mãe?
