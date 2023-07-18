@@ -11,8 +11,8 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-Paranãwasú upé
-# No rio Negro
+Paranãwasú upé.
+# No rio Negro.
 # On the Negro River.
 
 Pedro uikú paranã upé.
@@ -23,13 +23,9 @@ Aé upitá yepé igara mirĩ upé Maria irũmu.
 # Ele fica em uma canoa pequena com Maria.
 # He stays in a small canoe with Maria.
 
-Aé unheẽ Maria supé:
-# Ele diz à Maria:
-# He says to Maria:
-
-Maria, mamé taá pindá-itá uikú?
-# Maria, onde os anzóis estão?
-# Maria, where are the hooks?
+Aé unheẽ Maria supé: — Maria, mamé taá pindá-itá uikú?
+# Ele diz à Maria: — Maria, onde os anzóis estão?
+# He says to Maria: "Maria, where are the hooks?"
 
 Ixé nti akwáu.
 # Eu não sei.
