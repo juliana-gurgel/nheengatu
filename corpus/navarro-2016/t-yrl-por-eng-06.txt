@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-Tendawa upé.
-# Na comunidade.
-# At the community.
+Tendawa upé
+# Na comunidade
+# At the community
 
 Maria uyuíri uikú kuíri sendawa kití.
 # Maria está voltando agora para sua comunidade.
@@ -111,13 +111,9 @@ Wirandé mituú.
 # Amanhã é domingo.
 # Tomorrow is Sunday.
 
-I mena upurandú i suí:
-# Seu marido pergunta a ela:
-# Her husband asks her:
-
-Indé reyuíri kurí São Gabriel kití murakipí ramé?
-# Você voltará a São Gabriel na segunda-feira?
-# Will you return to São Gabriel on Monday?
+I mena upurandú i suí: — Indé reyuíri kurí São Gabriel kití murakipí ramé?
+# Seu marido pergunta a ela: — Você voltará a São Gabriel na segunda-feira?
+# Her husband asks her: "Will you return to São Gabriel on Monday?"
 
 Umbaá, ixé ayuíri kurí akití murakimusapiri ramé.
 # Não, eu voltarei ali na quarta-feira.
