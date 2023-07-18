@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-São Gabriel upé.
-# Em São Gabriel.
-# At São Gabriel.
+São Gabriel upé
+# Em São Gabriel
+# At São Gabriel
 
 Maria usemu igara irũmu.
 # Maria sai com a canoa.
@@ -39,13 +39,9 @@ Aé usika ape, usú yepé piripanasawa ruka kití.
 # Ela chega lá, vai a uma loja.
 # She gets there, goes to a store.
 
-Aé unheẽ yepé meẽsara supé:
-# Ela diz a um vendedor:
-# She says to a seller:
-
-Ixé aputari yepé kamixá se mimbira supé.
-# Eu quero uma camisa para meu filho.
-# I want a shirt for my son.
+Aé unheẽ yepé meẽsara supé: — Ixé aputari yepé kamixá se mimbira supé.
+# Ela diz a um vendedor: — Eu quero uma camisa para meu filho.
+# She says to a seller: "I want a shirt for my son."
 
 Aé urikú mukũi akayú.
 # Ele tem dois anos.
@@ -135,13 +131,9 @@ Xukúi sekuyaramirĩ.
 # Aqui está o troco.
 # Here is the change.
 
-Maria umukwekatú:
-# Maria agradece:
-# Maria thanks:
-
-Kwekatú reté!
-# Muito obrigada!
-# Thank you very much!
+Maria umukwekatú: — Kwekatú reté!
+# Maria agradece: — Muito obrigada!
+# Maria thanks: "Thank you very much!"
 
 Ariré, aé usú amú piripanasawa ruka kití.
 # Depois, ela vai a uma outra loja.
