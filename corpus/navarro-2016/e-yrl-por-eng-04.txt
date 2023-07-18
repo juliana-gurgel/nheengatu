@@ -177,7 +177,7 @@ itá mirĩ
 # pedra pequena
 # little Rock
 
-Kwaíra ramé rẽ, paá, ixé, purangamirĩ aikú.
+Kwaíra ramé rẽ, paá, ixé, purangamirĩ... aikú.
 # Dizem que, quando eu ainda era pequeno, bonitinho estava.
 # They say that when I was still little, I was cute.
 
@@ -185,9 +185,13 @@ Aé kwera, taité!
 # Ele já era, coitado!
 # He is gone, poor guy!
 
-Pedro uyuká ana yawareté. Aé kwera.
-# Pedro matou a onça. Ela já era.
-# Pedro killed the jaguar. She is gone.
+Pedro uyuká ana yawareté.
+# Pedro matou a onça.
+# Pedro killed the jaguar.
+
+Aé kwera.
+# Ela já era.
+# She is gone.
 
 Awá kwera?
 # Quem era?
