@@ -27,7 +27,7 @@ Aé unheẽ Maria supé: — Maria, mamé taá pindá-itá uikú?
 # Ele diz à Maria: — Maria, onde os anzóis estão?
 # He says to Maria: "Maria, where are the hooks?"
 
-— Ixé nti akwáu.
+Ixé nti akwáu.
 # Eu não sei.
 # I do not know.
 
@@ -35,7 +35,7 @@ Indé reputari será pindá-itá puranga?
 # Você quer bons anzóis?
 # Do you want good hooks?
 
-— Eẽ.
+Eẽ.
 # Sim.
 # Yes.
 
@@ -43,7 +43,7 @@ Ixé apinaitika siía pirá.
 # Eu pesco muitos peixes.
 # I catch a lot of fish.
 
-— Uií ara nti puranga pinaitikasara supé.
+Uií ara nti puranga pinaitikasara supé.
 # Hoje o dia não é bom para os pescadores.
 # Today is not a good day for fishermen.
 
