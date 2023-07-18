@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-Maria anama.
-# A família de Maria.
-# Maria's family.
+Maria anama
+# A família de Maria
+# Maria's family
 
 Puranga ara!
 # Bom dia!
