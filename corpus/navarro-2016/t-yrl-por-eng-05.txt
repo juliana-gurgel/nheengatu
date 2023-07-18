@@ -23,13 +23,13 @@ Aé surí upitá, asuí unheẽ i xupé: — Puranga karuka, Catarina!
 # Ela ficou feliz e disse-lhe: — Boa tarde, Catarina!
 # She was happy and said to her: "Good afternoon, Catarina!"
 
-— Puranga karuka, Maria!
-# — Boa tarde, Maria!
-# "Good afternoon Maria!"
+Puranga karuka, Maria!
+# Boa tarde, Maria!
+# Good afternoon Maria!
 
-— Indé muíri akayú taá remurari iké kwá tawa upé?
-# — Você há quantos anos mora aqui nesta cidade?
-# "For how many years have you lived here in this city?"
+Indé muíri akayú taá remurari iké kwá tawa upé?
+# Você há quantos anos mora aqui nesta cidade?
+# For how many years have you lived here in this city?
 
 Aikwé mukũi akayú ana ayuri se retama suí.
 # Já há dois anos, vim da minha terra.
