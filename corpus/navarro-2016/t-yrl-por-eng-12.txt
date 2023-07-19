@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: June 15, 2023'''
 
-Maria umupuranga suka.
-# Maria embeleza sua casa.
-# Maria beautifies her home. 
+Maria umupuranga suka
+# Maria embeleza sua casa
+# Maria beautifies her home
 
 Akayú pausawa usika uikú.
 # O fim do ano está chegando.
@@ -63,17 +63,13 @@ Aé surí retana uikú.
 # Ela está muito feliz.
 # She is very happy. 
 
-Aé upurandú i mena suí:
-# Ela pergunta a seu marido:
-# She asks her husband: 
+Aé upurandú i mena suí: — Pedro, mairamé taá indé remupinima ukapí mamé Rute usú ukiri?
+# Ela pergunta a seu marido: — Pedro, quando você pintará o quarto em que Rute vai dormir?
+# She asks her husband: "Pedro, when are you going to paint the room where Rute is going to sleep?" 
 
-Pedro, mairamé taá indé remupinima ukapí mamé Rute usú ukiri?
-# Pedro, quando você pintará o quarto em que Rute vai dormir?
-# Pedro, when are you going to paint the room where Rute is going to sleep? 
-
-Wirandé.
-# Amanhã.
-# Tomorrow. 
+— Wirandé.
+# — Amanhã.
+# "Tomorrow."
 
 Ixé amupinima arama yepé nhaã ukapí kwesé.
 # Era para eu pintar (ou ter pintado) aquele quarto ontem.
