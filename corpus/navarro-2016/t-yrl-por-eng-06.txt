@@ -39,49 +39,49 @@ Aé usú Maria piri.
 # Ele vai para junto de Maria.
 # He goes close to Maria.
 
-Puranga karuka, se mimbira!
-# Boa tarde, meu filho!
-# Good afternoon, my son!
+— Puranga karuka, se mimbira!
+# — Boa tarde, meu filho!
+# "Good afternoon, my son!"
 
-Manha, ixé apitá surí retana indé reyuíri ramé.
-# Mãe, eu fico muito feliz quando você volta.
-# Mom, I am so happy when you come back.
+— Manha, ixé apitá surí retana indé reyuíri ramé.
+# — Mãe, eu fico muito feliz quando você volta.
+# "Mom, I am so happy when you come back."
 
 Marantaá indé reikupukú ana São Gabriel upé?
 # Por que você demorou em São Gabriel?
 # Why did you take so long in São Gabriel?
 
-Ixé aikupukú xinga apiripana arama maã-itá indé arama.
-# Eu demorei um pouco para comprar coisas para você.
-# It took me a while to buy you stuff.
+— Ixé aikupukú xinga apiripana arama maã-itá indé arama.
+# — Eu demorei um pouco para comprar coisas para você.
+# "It took me a while to buy you stuff."
 
 Mamé taá uikú ne paya?
 # Onde está seu pai?
 # Where is your father?
 
-Aé usú ana kupixawa kití uyutima arama maniwa.
-# Ele foi à roça para plantar maniva.
-# He went to the fields to plant maniva.
+— Aé usú ana kupixawa kití uyutima arama maniwa.
+# — Ele foi à roça para plantar maniva.
+# "He went to the fields to plant maniva."
 
-Indé rembaú ana uií?
-# Você já comeu hoje?
-# Have you eaten today?
+— Indé rembaú ana uií?
+# — Você já comeu hoje?
+# "Have you eaten today?"
 
-Eẽ, ixé ambaú retana.
-# Sim, eu comi muito.
-# Yes, I ate a lot.
+— Eẽ, ixé ambaú retana.
+# — Sim, eu comi muito.
+# "Yes, I ate a lot."
 
 Ixé nti se yumasí.
 # Eu não estou faminto.
 # I am not hungry.
 
-Mairamé indé rembaú ana?
-# Quando você comeu?
-# When did you eat?
+— Mairamé indé rembaú ana?
+# — Quando você comeu?
+# "When did you eat?"
 
-Ambaú ana kuíri tẽ.
-# Comi agora mesmo.
-# I ate just now.
+— Ambaú ana kuíri tẽ.
+# — Comi agora mesmo.
+# "I ate just now."
 
 Asuí ixé amusarái paranã upé.
 # Depois eu brinquei no rio.
@@ -95,9 +95,9 @@ Aé ururi uikú maniaka i pu resé.
 # Ele está trazendo mandioca em suas mãos.
 # He is bringing cassava in his hands.
 
-Maria, puranga pá será ne irũmu?
-# Maria, tudo bem com você?
-# Maria, how are you?
+— Maria, puranga pá será ne irũmu?
+# — Maria, tudo bem com você?
+# "Maria, how are you?"
 
 Rerasú kwá maniaka-itá memũitendawa kití.
 # Leve estas mandiocas para a cozinha.
@@ -115,6 +115,6 @@ I mena upurandú i suí: — Indé reyuíri kurí São Gabriel kití murakipí r
 # Seu marido pergunta a ela: — Você voltará a São Gabriel na segunda-feira?
 # Her husband asks her: "Will you return to São Gabriel on Monday?"
 
-Umbaá, ixé ayuíri kurí akití murakimusapiri ramé.
-# Não, eu voltarei ali na quarta-feira.
-# No, I will be back there on Wednesday.
+— Umbaá, ixé ayuíri kurí akití murakimusapiri ramé.
+# — Não, eu voltarei ali na quarta-feira.
+# "No, I will be back there on Wednesday."
