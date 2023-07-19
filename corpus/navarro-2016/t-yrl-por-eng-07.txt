@@ -47,37 +47,37 @@ Aé unheẽ: — Se mimbira, reyuri repitimũ ixé se purakisawa upé.
 # Ela diz: — Meu filho, venha ajudar-me no meu trabalho.
 # She says: "My son, come and help me in my work."
 
-Maã taá reputari ixé amunhã?
-# Que você quer que eu faça?
-# What do you want me to do?
+— Maã taá reputari ixé amunhã?
+# — Que você quer que eu faça?
+# "What do you want me to do?"
 
-Remundeka tatá ixé arama.
-# Acenda o fogo para mim.
-# Light the fire for me.
+— Remundeka tatá ixé arama.
+# — Acenda o fogo para mim.
+# "Light the fire for me."
 
-Eré.
-# Certo.
-# Right.
+— Eré.
+# — Certo.
+# "Right."
 
 Amundeka kurí tatá indé arama.
 # Acenderei o fogo para você.
 # I will light the fire for you.
 
-Ixé aputari amemũi musapiri pirá yambaú arama.
-# Eu quero cozinhar três peixes para nós comermos.
-# I want to cook three fish for us to eat.
+— Ixé aputari amemũi musapiri pirá yambaú arama.
+# — Eu quero cozinhar três peixes para nós comermos.
+# "I want to cook three fish for us to eat."
 
-Té remburi kiínha pirá resé.
-# Não ponha pimenta no peixe.
-# Do not put pepper on the fish.
+— Té remburi kiínha pirá resé.
+# — Não ponha pimenta no peixe.
+# "Do not put pepper on the fish."
 
 Ixé ayumusé pirá kiinhaíma.
 # Eu gosto de peixe sem pimenta.
 # I like fish without pepper.
 
-Té remundeka tatá iwí upé.
-# Não acenda fogo no chão.
-# Do not light fire on the ground.
+— Té remundeka tatá iwí upé.
+# — Não acenda fogo no chão.
+# "Do not light fire on the ground."
 
 Remunhã tatá memũitawa upé.
 # Faça fogo no fogão.
@@ -103,9 +103,9 @@ Antônio ururi ana piri yepeawa memũitawa kití.
 # Antônio já trouxe mais lenha para o fogão.
 # Antônio already brought more firewood for the stove.
 
-Tik!
-# Nossa!
-# Wow!
+— Tik!
+# — Nossa!
+# "Wow!"
 
 Manha, repuíri timbiú!
 # Mãe, mexa a comida!
@@ -115,13 +115,13 @@ Aé ukái uikú!
 # Ela está-se queimando!
 # It is burning up!
 
-Antônio, indé reputari ixé amunhã meyú yuíri?
-# Antônio, você quer que eu faça biju também?
-# Antônio, do you want me to make biju too?
+— Antônio, indé reputari ixé amunhã meyú yuíri?
+# — Antônio, você quer que eu faça biju também?
+# "Antônio, do you want me to make biju too?"
 
-Eẽ, meyú sé.
-# Sim, biju é gostoso.
-# Yes, biju is tasty.
+— Eẽ, meyú sé.
+# — Sim, biju é gostoso.
+# "Yes, biju is tasty."
 
 Ariré, Maria usenũi i anama-itá: — Yasú yambaú!
 # Depois, Maria chama seus familiares: — Vamos comer!
