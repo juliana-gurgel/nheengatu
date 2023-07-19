@@ -8,8 +8,9 @@ Producer: Juliana Lopes Gurgel
 Produced: May 15, 2022
 
 Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: June 15, 2023
 Translation reviewer: Juliana Lopes Gurgel
-Translation: June 15, 2023'''
+Reviewed: June 15, 2023'''
 
 Pedro usú ukapiri i kupixawa
 # Pedro vai carpir sua roça
