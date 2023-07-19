@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023''
 
-Maria umbeú yepé marandua i mimbira supé.
-# Maria conta uma história a seu filho.
-# Maria tells a story to her son.
+Maria umbeú yepé marandua i mimbira supé
+# Maria conta uma história a seu filho
+# Maria tells a story to her son
 
 Pituna usika ana.
 # A noite chegou.
@@ -27,13 +27,14 @@ Aé uyumuakú i makira upé.
 # Ele se esquenta em sua rede.
 # He warms up in his hammock.
 
-I manha upitá i makira ruakí umbeú arama yepé marandua i xupé.
-# Sua mãe fica perto da rede dele para contar uma história a ele.
-# His mother stays near his hammock to tell him a story.
+I manha upitá i makira ruakí umbeú arama yepé marandua i xupé:
+# Sua mãe fica perto da rede dele para contar uma história a ele:
+# His mother stays near his hammock to tell him a story:
 
 Yepé ara, paá, urubú nti uwasemu ne yepé suú umanú waá kwera umbaú arã.
+# text_orig = "Yepé ara, paá, urubú nti uwasemu ne yepé suú umanú waá kwera umbaú arã.
 # Dizem que, um dia, o urubu não achou nenhum animal morto (lit. que morreu) para comer.
-# They say that, one day, the vulture did not find any dead animal to eat.
+# They say that, one day, the vulture did not find any dead animal to eat
 
 Upitá sasiara yumasisawa irũmu.
 # Ficou triste e com fome.
@@ -47,25 +48,17 @@ Aintá uyumumurã.
 # Eles se saudaram.
 # They saluted each other.
 
-Asuí, paá, wirawasú upurandú urubú suí:
-# Depois, contam que o gavião perguntou ao urubu:
-# Afterwards, they say that the hawk asked the vulture:
-
-Compadre, marantaá sasiara retana indé?
-# Compadre, por que você está muito triste?
-# Compadre, why are you so sad?
+Asuí, paá, wirawasú upurandú urubú suí: — Compadre, marantaá sasiara retana indé?
+# Depois, contam que o gavião perguntou ao urubu: — Compadre, por que você está muito triste?
+# Afterwards, they say that the hawk asked the vulture: "Compadre, why are you so sad?"
 
 Indé nti reyumusurí ne maã irũmu uií?
 # Você não se alegra com nada hoje?
 # Do you not rejoice in anything today?
 
-Urubú usuaxara:
-# O urubu respondeu:
-# The vulture replied:
-
-Compadre, nti será rekwáu uií ara nti puranga, nti umanũ ne yepé suú ambaú arama?
-# Compadre, não sabe (que) hoje o dia não é bom, (que) não morreu nenhum animal para eu comer?
-# Compadre, do you not know today is not a good day, no animal has died for me to eat?
+Urubú usuaxara: — Compadre, nti será rekwáu uií ara nti puranga, nti umanũ ne yepé suú ambaú arama?
+# O urubu respondeu: — Compadre, não sabe (que) hoje o dia não é bom, (que) não morreu nenhum animal para eu comer?
+# The vulture replied: "Compadre, do you not know today is not a good day, no animal has died for me to eat?"
 
 Sesewara ixé apitá sasiara.
 # Por causa disso eu fico triste.
@@ -75,21 +68,13 @@ Aintá uyumaã.
 # Eles se olharam.
 # They looked at each other.
 
-Asuí, paá, wirawasú unheẽ:
-# Depois, contam que o gavião disse:
-# Afterwards, they say that the hawk said:
+Asuí, paá, wirawasú unheẽ: — Compadre, remunhã mayé se yawé: repisika suú sikwé, reyuká aé rembaú arã aé.
+# Depois, contam que o gavião disse: — Compadre, faça assim como eu: pegue animal vivo, mate-o para comê-lo.
+# Afterwards, they say that the hawk said: "Compadre, do like me: catch a live animal, kill it to eat it."
 
-Compadre, remunhã mayé se yawé: repisika suú sikwé, reyuká aé rembaú arã aé.
-# Compadre, faça assim como eu: pegue animal vivo, mate-o para comê-lo.
-# Compadre, do like me: catch a live animal, kill it to eat it.
-
-Ape, paá, urubú usuaxara:
-# Então, dizem que o urubu respondeu:
-# So, they say that the vulture replied:
-
-Compadre, ixé nti aputari amunhã puxiwera suú-itá supé, ma kuíri ixé se yumasí retana aikú.
-# Compadre, eu não quero fazer mal aos animais, mas agora eu estou muito faminto.
-# Compadre, I do not want to harm the animals, but now I am very hungry.
+Ape, paá, urubú usuaxara: — Compadre, ixé nti aputari amunhã puxiwera suú-itá supé, ma kuíri ixé se yumasí retana aikú.
+# Então, dizem que o urubu respondeu: — Compadre, eu não quero fazer mal aos animais, mas agora eu estou muito faminto.
+# So, they say that the vulture replied: "Compadre, I do not want to harm the animals, but now I am very hungry."
 
 Indé remukameẽ ramé mayé ixé amunhã arama, amunhã kurí.
 # Se você mostrar como é para eu fazer, eu (o) farei.
@@ -99,25 +84,17 @@ Aramé té, paá, usasá yepé wiramirĩ.
 # Nesse momento mesmo, contam que passou um passarinho.
 # At that very moment, they say that a bird passed by.
 
-Ape, paá, wirawasú unheẽ:
-# Então, contam que o gavião disse:
-# So, they say that the hawk said:
-
-Compadre, remaã ne rangawa.
-# Compadre, olhe seu exemplo.
-# Compadre, look at your example.
+Ape, paá, wirawasú unheẽ: — Compadre, remaã ne rangawa.
+# Então, contam que o gavião disse: — Compadre, olhe seu exemplo.
+# So, they say that the hawk said: "Compadre, look at your example."
 
 Wiramirĩ kutara piri uwewé kaá kití.
 # O passarinho mais rápido voou para o mato.
 # The fastest bird flew into the woods.
 
-Sakakwera wirawasú usú, ma uyutuká:
-# Atrás dele foi o gavião, mas se chocou:
-# Behind him was the hawk, but he collided:
-
-mirá rumitera pisãwera uwiké i putiá upé.
-# um pedaço de tronco de árvore entrou no seu peito.
-# a piece of tree trunk entered his chest.
+Sakakwera wirawasú usú, ma uyutuká: mirá rumitera pisãwera uwiké i putiá upé.
+# Atrás dele foi o gavião, mas se chocou: um pedaço de tronco de árvore entrou no seu peito.
+# Behind him was the hawk, but he collided: a piece of tree trunk entered his chest.
 
 Aé uyumuperewa retana.
 # Ele se feriu muito.
@@ -131,13 +108,9 @@ Uyatikú uikú mirá resé.
 # Estava dependurado na árvore.
 # He was hanging from the tree.
 
-Asuí, paá, wirawasú unheẽ:
-# Depois, contam que o gavião disse:
-# Afterwards, they say that the hawk said:
-
-Compadre, puxiwera asasá.
-# Compadre, passo mal.
-# Compadre, I feel bad.
+Asuí, paá, wirawasú unheẽ: — Compadre, puxiwera asasá.
+# Depois, contam que o gavião disse: — Compadre, passo mal.
+# Afterwards, they say that the hawk said: "Compadre, I feel bad."
 
 Mirá rumitera uwiké se putiá upé.
 # O tronco de árvore entrou no meu peito.
@@ -147,13 +120,9 @@ Reyuri reyuka ixé kwá suí!
 # Vem tirar-me daqui!
 # Come get me out of here!
 
-Urubú usuaxara:
-# O urubu respondeu:
-# The vulture replied:
-
-Compadre, se yumasí retana.
-# Compadre, eu estou muito faminto.
-# Compadre, I am very hungry.
+Urubú usuaxara: — Compadre, se yumasí retana.
+# O urubu respondeu: — Compadre, eu estou muito faminto.
+# The vulture replied: "Compadre, I am very hungry."
 
 Ixé nti aputari ayuyuká.
 # Eu não quero me matar.
