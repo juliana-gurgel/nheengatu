@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: June 15, 2023'''
 
-Pedro usú ukapiri i kupixawa.
-# Pedro vai carpir sua roça.
-# Pedro is going to plow his farm. 
+Pedro usú ukapiri i kupixawa
+# Pedro vai carpir sua roça
+# Pedro is going to plow his farm
 
 Sapukaya-apigawa unheengari ana.
 # O galo cantou.
@@ -31,13 +31,9 @@ Maria tepusimanha piri Pedro suí.
 # Maria está mais sonolenta que Pedro.
 # Maria is more sleepy than Pedro. 
 
-Pedro unheẽ ximirikú supé:
-# Pedro diz a sua esposa:
-# Pedro tells his wife: 
-
-Reruri pururé ixé arama.
-# Traga a enxada para mim.
-# Bring the hoe to me. 
+Pedro unheẽ ximirikú supé: — Reruri pururé ixé arama.
+# Pedro diz a sua esposa: — Traga a enxada para mim.
+# Pedro tells his wife: "Bring the hoe to me."
 
 Aputari ayutima siía maniaka, siía kará, naná-itá yuíri.
 # Quero plantar muita mandioca, muitos carás e abacaxis também.
@@ -47,17 +43,17 @@ Maria umeẽ yepé pururé i xupé.
 # Maria dá uma enxada a ele.
 # Maria gives him a hoe. 
 
-Maria, kwá pururé se mũyara.
-# Maria, esta enxada é do meu irmão.
-# Maria, this hoe is my brother's. 
+— Maria, kwá pururé se mũyara.
+# — Maria, esta enxada é do meu irmão.
+# "Maria, this hoe is my brother's."
 
 Mamé taá uikú se yara?
 # Onde está a minha?
 # Where is mine? 
 
-Nti akwáu.
-# Não sei.
-# I do not know. 
+— Nti akwáu.
+# — Não sei.
+# "I do not know."
 
 Rerasú indé arama ne mũ yara.
 # Leve para você a do seu irmão.
@@ -79,13 +75,9 @@ Kwemaité Pedro usú kupixawa kití.
 # Bem cedo Pedro vai à roça.
 # Early in the morning Pedro goes to the farm. 
 
-Aé unheẽ sumuara-itá supé:
-# Ele diz a seus companheiros:
-# He tells his companions: 
-
-Yasú yamunuka kwaíra mirá yamunhã arama kuiwara, yasapí arama aintá.
-# Vamos cortar poucas árvores para fazer coivara, para queimá-las.
-# We are going to cut down a few trees to make coivara, to burn them. 
+Aé unheẽ sumuara-itá supé: — Yasú yamunuka kwaíra mirá yamunhã arama kuiwara, yasapí arama aintá.
+# Ele diz a seus companheiros: — Vamos cortar poucas árvores para fazer coivara, para queimá-las.
+# He tells his companions: "We are going to cut down a few trees to make coivara, to burn them."
 
 Aé umunhã kuiwara, umuatiri mirá-itá uyusãi waá iwí upé usapí arama aintá tatá upé.
 # Ele faz coivara, amontoa os paus espalhados no chão, para queimá-los no fogo.
