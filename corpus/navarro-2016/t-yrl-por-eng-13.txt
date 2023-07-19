@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: June 15, 2023'''
 
-Akayú pisasú usika.
-# Chega o ano novo.
-# The new year arrives. 
+Akayú pisasú usika
+# Chega o ano novo
+# The new year arrives
 
 Akayú pisasú usika uikú.
 # O ano novo está chegando.
@@ -43,13 +43,9 @@ Kuíri supí aintá uyumusurí-kwáu.
 # Agora de fato eles podem se divertir.
 # Now they can actually enjoy themselves. 
 
-Maria usenũi aintá:
-# Maria os chama:
-# Maria calls them: 
-
-Yasú panhẽuka kwara kití!
-# Vamos todos para dentro de casa!
-# Let is all go indoors! 
+Maria usenũi aintá: — Yasú panhẽuka kwara kití!
+# Maria os chama: — Vamos todos para dentro de casa!
+# Maria calls them: "Let is all go indoors!"
 
 Aikwé bũa timbiú penhẽ arama!
 # Há muita comida para vocês!
@@ -63,25 +59,17 @@ Antônio, Maria mimbira, uyupirú unheengari.
 # Antônio, filho de Maria, começa a cantar.
 # Antônio, son of Maria, begins to sing. 
 
-Aintá unheẽ i xupé:
-# Dizem a ele:
-# They say to him: 
-
-Indé nheengarisararana.
-# Você é um mau cantor.
-# You are a bad singer. 
+Aintá unheẽ i xupé: — Indé nheengarisararana.
+# Dizem a ele: — Você é um mau cantor.
+# They say to him: "You are a bad singer. "
 
 Repituú renheengari!
 # Pare de cantar!
 # Stop singing! 
 
-Maria unheẽ:
-# Maria diz:
-# Maria says: 
-
-Rute, indé renheengari ramé maã, panhē mira upitá maã surí.
-# Rute, se você cantasse, toda a gente ficaria feliz.
-# Rute, if you sang, everyone would be happy. 
+Maria unheẽ: — Rute, indé renheengari ramé maã, panhē mira upitá maã surí.
+# Maria diz: — Rute, se você cantasse, toda a gente ficaria feliz.
+# Maria says: "Rute, if you sang, everyone would be happy."
 
 Panhẽ mira umbaú meyú.
 # Todas as pessoas comem beiju.
@@ -91,13 +79,9 @@ Yepé apigawa kawera usika murasí upé.
 # Um homem bêbado chega à festa.
 # A drunk man arrives at the party. 
 
-Maria uyakáu aé:
-# Maria o repreende:
-# Maria scolds him: 
-
-Remaã mamentu reikú!
-# Veja só onde você está!
-# Just look where you are! 
+Maria uyakáu aé: — Remaã mamentu reikú!
+# Maria o repreende: — Veja só onde você está!
+# Maria scolds him: "Just look where you are!"
 
 Indé nti rerikú tĩsawa?
 # Você não tem vergonha?
@@ -111,21 +95,13 @@ Resú mimi kití!
 # Vá para lá!
 # Go there! 
 
-Nhaã kawera uyana tenhuntu usikari arama i igara:
-# Aquele bêbado correu em vão procurando sua canoa:
-# That drunk ran in vain looking for his canoe: 
+Nhaã kawera uyana tenhuntu usikari arama i igara: aé nti ana uwasemu.
+# Aquele bêbado correu em vão procurando sua canoa: ele já não a encontrou.
+# That drunk ran in vain looking for his canoe: he no longer found it.
 
-aé nti ana uwasemu.
-# ele já não a encontrou.
-# he no longer found it.
-
-Maria unheẽ:
-# Maria diz:
-# Maria says: 
-
-Kawera-itá yawé tẽ.
-# Bêbados são assim mesmo.
-# Drunks are like that. 
+Maria unheẽ: — Kawera-itá yawé tẽ.
+# Maria diz: — Bêbados são assim mesmo.
+# Maria says: "Drunks are like that."
 
 Ne mairamé aintá rurí.
 # Nunca são felizes.
