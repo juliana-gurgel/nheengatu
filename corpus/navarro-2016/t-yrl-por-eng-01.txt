@@ -15,62 +15,63 @@ Maria anama
 # A família de Maria
 # Maria's family
 
-Puranga ara!
-# Bom dia!
-# Good morning!
+— Puranga ara!
+# — Bom dia!
+# "Good morning!
 
 Awá taá indé?
 # Quem é você?
 # Who are you?
 
-Ixé Maria.
-# Eu sou Maria.
-# I am Maria.
+— Ixé Maria.
+# — Eu sou Maria.
+# "I am Maria."
 
-Indé puranga, Maria!
-# Você é bonita, Maria!
-# You are beautiful, Maria!
+— Indé puranga, Maria!
+# — Você é bonita, Maria!
+# "You are beautiful, Maria!"
 
-Awá taá uikú iké?
-# Quem está aqui?
-# Who is here?
+— Awá taá uikú iké?
+# — Quem está aqui?
+# "Who is here?"
 
 Pedro, Maria mena, uikú iké.
+# text_orig = — Pedro, Maria mena, uikú iké.
 # Pedro, marido de Maria, está aqui.
 # Pedro, Maria's husband, is here.
 
-Puranga pituna, Pedro!
-# Boa noite, Pedro!
-# Good night, Pedro!
+— Puranga pituna, Pedro!
+# — Boa noite, Pedro!
+# "Good night, Pedro!"
 
 Mayé taá indé resasá?
 # Como você passa?
 # How are you doing?
 
-Puranga tẽ asasá.
-# Passo bem mesmo.
-# I am doing really well.
+— Puranga tẽ asasá.
+# — Passo bem mesmo.
+# "I am doing really well."
 
-Awá taá aé?
-# Quem é ele?
-# Who is he?
+— Awá taá aé?
+# — Quem é ele?
+# "Who is he?"
 
-Aé Antônio, Maria mimbira.
-# Ele é Antônio, filho de Maria.
-# He is Antônio, Maria's son.
+— Aé Antônio, Maria mimbira.
+# — Ele é Antônio, filho de Maria.
+# "He is Antônio, Maria's son."
 
 Pedro, Antônio, aintá Maria anama-itá.
 # Pedro e Antônio, eles são os familiares de Maria.
 # Pedro and Antônio, they are Maria's relatives.
 
-Puranga karuka, Antônio!
-# Boa tarde, Antônio!
-# Good afternoon, Antônio!
+— Puranga karuka, Antônio!
+# — Boa tarde, Antônio!
+# "Good afternoon, Antônio!"
 
 Indé puranga!
 # Você é bonito!
 # You are beautiful!
 
-Kwekatú reté!
-# Muito obrigado!
-# Thank you very much!
+— Kwekatú reté!
+# — Muito obrigado!
+# "Thank you very much!"
