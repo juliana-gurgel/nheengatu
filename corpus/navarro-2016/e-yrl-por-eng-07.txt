@@ -8,8 +8,9 @@ Producer: Dominick Maia Alexandre - Reviewer: Leonel Figueiredo de Alencar
 Produced: May 15, 2022
 
 Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 9, 2023
 Translation reviewer: Juliana Lopes Gurgel
-Translation: March 9th, 2023'''
+Reviewed: March 9, 2023'''
 
 Meyú sé.
 # Biju é gostoso.
