@@ -17,25 +17,23 @@ Murasí iwaka upé
 # Baile no céu
 # Ball in the sky
 
-Amú pituna ramé, Maria umbeú ana amú marandua i mimbira supé:
+Amú pituna ramé, Maria umbeú ana amú marandua i mimbira supé.
+# text_orig = Amú pituna ramé, Maria umbeú ana amú marandua i mimbira supé:
 # Na outra noite, Maria contou outra história a seu filho:
 # The other night, Maria told her son another story:
 
-"Yepé ara, paá, São Pedro umunhã yepé murasí iwaka kití.
-# "Dizem que, um dia, São Pedro fez um baile lá para os lados do céu.
+Yepé ara, paá, São Pedro umunhã yepé murasí iwaka kití.
+# text_orig = "Yepé ara, paá, São Pedro umunhã yepé murasí iwaka kití.
+# Dizem que, um dia, São Pedro fez um baile lá para os lados do céu.
 # "They say that, one day, São Pedro held a dance up in the sky.
 
 Ape, usenũi panhẽsuú usú arã umaã murasí.
 # Então chamou todos os animais para irem ver o baile.
 # So he called all the animals to go see the ball.
 
-Ape yautí, paá, unheẽ:
-# Contam que, então, o jabuti disse:
-# They say that, then, the tortoise said:
-
-— Ti mayé asú akití.
-# — Não há como eu ir para lá.
-# — There is no way I can go there.
+Ape yautí, paá, unheẽ: — Ti mayé asú akití.
+# Contam que, então, o jabuti disse: — Não há como eu ir para lá.
+# They say that, then, the tortoise said: "There is no way I can go there."
 
 Ixé amaã arama yepé nhaã murasí, ma nti arikú se pepú awewé arã.
 # Era para eu ver aquele baile, mas não tenho (minhas) asas para voar.
@@ -121,6 +119,7 @@ Ape yautí kwera upupuka pá.
 # Então o jabuti (que "já era") rebentou todo.
 # So the deceased tortoise bursted all over.
 
-Yawerã, paá, perewa rangawa nhuntu nhaã i pirera."
+Yawerã, paá, perewa rangawa nhuntu nhaã i pirera.
+# text_orig = Yawerã, paá, perewa rangawa nhuntu nhaã i pirera."
 # Dizem que é por isso que são somente cicatrizes (sinais de feridas) aquele seu casco."
 # They say that is why those hoofs of yours are just scars (wound marks)."
