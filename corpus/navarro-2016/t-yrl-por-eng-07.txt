@@ -11,9 +11,9 @@ Automatically translated from Portuguese to English by CorpusTranslator.
 Translation reviewer: Juliana Lopes Gurgel
 Translation: March 22, 2023'''
 
-Maria umunhã timbiú.
-# Maria faz comida.
-# Maria makes food.
+Maria umunhã timbiú
+# Maria faz comida
+# Maria makes food
 
 Maria umemũi kurí timbiú i anama-itá supé.
 # Maria vai cozinhar comida para seus parentes.
@@ -43,13 +43,9 @@ Aé umusaimbé i kisé, umunuka musapiri pirá i mena ururi waá paranã suí.
 # Ela afia sua faca, corta três peixes que seu marido trouxe do rio.
 # She sharpens her knife, cuts three fish her husband brought from the river.
 
-Aé unheẽ:
-# Ela diz:
-# She says:
-
-Se mimbira, reyuri repitimũ ixé se purakisawa upé.
-# Meu filho, venha ajudar-me no meu trabalho.
-# My son, come and help me in my work.
+Aé unheẽ: — Se mimbira, reyuri repitimũ ixé se purakisawa upé.
+# Ela diz: — Meu filho, venha ajudar-me no meu trabalho.
+# She says: "My son, come and help me in my work."
 
 Maã taá reputari ixé amunhã?
 # Que você quer que eu faça?
@@ -127,10 +123,6 @@ Eẽ, meyú sé.
 # Sim, biju é gostoso.
 # Yes, biju is tasty.
 
-Ariré, Maria usenũi i anama-itá:
-# Depois, Maria chama seus familiares:
-# Afterwards, Maria calls her relatives:
-
-Yasú yambaú!
-# Vamos comer!
-# Let us eat!
+Ariré, Maria usenũi i anama-itá: — Yasú yambaú!
+# Depois, Maria chama seus familiares: — Vamos comer!
+# Afterwards, Maria calls her relatives: "Let us eat!"
