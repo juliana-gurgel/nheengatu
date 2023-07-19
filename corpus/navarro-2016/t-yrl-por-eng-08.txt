@@ -33,7 +33,7 @@ I manha upitá i makira ruakí umbeú arama yepé marandua i xupé:
 
 Yepé ara, paá, urubú nti uwasemu ne yepé suú umanú waá kwera umbaú arã.
 # text_orig = "Yepé ara, paá, urubú nti uwasemu ne yepé suú umanú waá kwera umbaú arã.
-# Dizem que, um dia, o urubu não achou nenhum animal morto (lit. que morreu) para comer.
+# "Dizem que, um dia, o urubu não achou nenhum animal morto (lit. que morreu) para comer.
 # They say that, one day, the vulture did not find any dead animal to eat
 
 Upitá sasiara yumasisawa irũmu.
