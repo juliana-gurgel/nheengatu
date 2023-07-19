@@ -23,17 +23,17 @@ Aé surí upitá, asuí unheẽ i xupé: — Puranga karuka, Catarina!
 # Ela ficou feliz e disse-lhe: — Boa tarde, Catarina!
 # She was happy and said to her: "Good afternoon, Catarina!"
 
-Puranga karuka, Maria!
-# Boa tarde, Maria!
-# Good afternoon Maria!
+— Puranga karuka, Maria!
+# — Boa tarde, Maria!
+# "Good afternoon Maria!"
 
-Indé muíri akayú taá remurari iké kwá tawa upé?
-# Você há quantos anos mora aqui nesta cidade?
-# For how many years have you lived here in this city?
+— Indé muíri akayú taá remurari iké kwá tawa upé?
+# — Você há quantos anos mora aqui nesta cidade?
+# "For how many years have you lived here in this city?"
 
-Aikwé mukũi akayú ana ayuri se retama suí.
-# Já há dois anos, vim da minha terra.
-# Two years ago I came from my homeland.
+— Aikwé mukũi akayú ana ayuri se retama suí.
+# — Já há dois anos, vim da minha terra.
+# "Two years ago I came from my homeland."
 
 Ixé ayupukwáu ana iké.
 # Eu me acostumei aqui.
@@ -62,38 +62,38 @@ Ixé nti amandwari ayuíri akití.
 Ixé asaisú kwá tetama kuíri.
 # Eu amo esta terra agora.
 
-Kuxiíma, reyuri ramé kwá kití, mayé taá reyuri?
-# Antigamente, quando você veio para cá, como você veio?
-# In the old days, when you came here, how did you come?
+— Kuxiíma, reyuri ramé kwá kití, mayé taá reyuri?
+# — Antigamente, quando você veio para cá, como você veio?
+# "In the old days, when you came here, how did you come?"
 
 Aikwé awá ururi indé ú reputari reyuri ne retama suí ne rupí?
 # Houve quem a trouxesse ou você quis vir da sua terra por você (mesma)?
 # Did anyone bring you here or did you want to come from your homeland by yourself?
 
-Aputari ayuri se rupí.
-# Quis vir por mim (mesma).
-# I wanted to come by myself.
+— Aputari ayuri se rupí.
+# — Quis vir por mim (mesma).
+# "I wanted to come by myself."
 
 Uií ixé se rurí iké.
 # Hoje eu sou feliz aqui.
 # Today I am happy here.
 
-Awá sumuara-itá taá indé rerikú iké?
-# Quais amigos você tem aqui?
-# What friends do you have here?
+— Awá sumuara-itá taá indé rerikú iké?
+# — Quais amigos você tem aqui?
+# "What friends do you have here?"
 
-Siía sumuara.
-# Muitos amigos.
-# Many friends.
+— Siía sumuara.
+# — Muitos amigos.
+# "Many friends."
 
-Catarina, asarú indé se rendawa upé wirandé.
-# Catarina, espero-a em minha comunidade amanhã.
-# Catarina, I hope to see you in my community tomorrow.
+— Catarina, asarú indé se rendawa upé wirandé.
+# — Catarina, espero-a em minha comunidade amanhã.
+# "Catarina, I hope to see you in my community tomorrow."
 
-Eré.
-# Certo!
-# Right!
+— Eré.
+# — Certo!
+# "Right!"
 
-Té wirandé!
-# Até amanhã!
-# See you tomorrow!
+— Té wirandé!
+# — Até amanhã!
+# "See you tomorrow!"
