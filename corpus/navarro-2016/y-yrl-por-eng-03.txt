@@ -1,0 +1,53 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Asú apinaitika
+# Vou pescar (tradução nossa)
+# I'm going fishing (our translation) 
+# text_orig_yrl = ASÚ APINAITIKA
+
+# (Adermarzinho da Gaita, “O caboclo do rio Negro”)
+
+Wirandé kurí, wirandé kurí, wirandé ku’ apinaitika indé arã.
+# Amanhã, amanhã, amanhã pescarei para você.
+# Tomorrow tomorrow, tomorrow I will fish for you.
+# text_orig_yrl = Wirandé kurí, wirandé kurí, Wirandé ku’ apinaitika indé arã (bis)
+# text_orig_por = Amanhã, amanhã, Amanhã pescarei para você.
+
+Apinaitika kurí kandirú,
+# Pescarei candiru,
+# I will fish kandirú,
+
+Apinaitika kurí mamaiakũ
+# Pescarei baiacu,
+# I will fish mamaiakũ
+
+Apinaitika kurí tariíra,
+# Pescarei traíra,
+# I will fish tariíra,
+
+Apinaitika kurí tamuatá.
+# Pescarei tamuatá.
+# I will fish tamuatá.
+
+Asuí, kurí asikari yapurá, puranga arã kurí rembaú.
+# Depois, procurarei japurá para você comer bem.
+# Then, I will look for yapurá, for you to eat well.
+# text_orig_yrl = Asuí, kurí asikari yapurá, Puranga arã kurí rembaú.
+# text_orig_por = Depois, procurarei japurá Para (você) comer bem.
+
+Asuí, pituna ramé, reyúri remusakú se putiá.
+# Depois, de noite, Venha aquecer o meu peito.
+# Then, at night, come and warm my chest.
+# text_orig_yrl = Asuí, pituna ramé, Reyúri remusakú se putiá. (bis)

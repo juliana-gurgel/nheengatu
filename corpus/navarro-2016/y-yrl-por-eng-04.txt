@@ -1,0 +1,42 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Payé titikasawa
+# A profecia do pajé
+# Pajé's prophecy
+# text_orig_por = A PROFECIA DO PAJÉ
+
+# (Adermarzinho da Gaita, “O caboclo do Rio Negro”)
+
+Kwaíra ramé rẽ, paá, ixé, purangamirĩ suriwara aikú, se manha usenũi i payé, upurandú i suí: — Marã kwayé se mbira?
+# Dizem que, quando eu ainda era pequeno, estando bonitinho e sorridente, minha mãe chamou seu pajé e perguntou a ele: — Por que é assim o meu filho?
+# They say that when I was little, I was cute and smiling, my mother called her pajé and asked him: — Why is my son like that? 
+# text_orig_yrl = Kwaíra ramé rẽ, paá, ixé, purangamirĩ suriwara aikú, se manha usenũi i payé, upurandú i suí: — Marã kwayé se mbira? (ou mimbira)
+
+Umutawari, paá, ariré payé tuyuwé usasemu kwayé: — Dona, kwá kurumĩ mirĩ marupiara kurí aé, asuí kunhãwara.
+# Contam que fumou tauari e, depois, o velho pajé gritou assim: — Dona, este menininho será muito sortudo e, depois, mulherengo. (bis)
+# They say he smoked tauari and afterwards the old pajé shouted like this: "Ma'am, this little boy will be very lucky and, later on, a womanizer."
+# text_orig_yrl = Umutawari, paá, ariré payé tuyuwé usasemu kwayé: — Dona, kwá kurumĩ mirĩ marupiara kurí aé, asuí kunhãwara. (bis)
+
+Yawé arasú aikú se rikwesawa awatá waá rupí.
+# Assim estou levando minha vida por onde quer que eu ande.
+# Like this I am living my life wherever I go. 
+
+Ixé yepé kunhãwara, mayepé utitika payé tuyuwé.
+# Eu sou um mulherengo, como profetizou o velho pajé.
+# I am a womanizer, as the old pajé prophesied. 
+
+Ixé yepé marupiara, mayepé utitika payé tuyuwé.
+# Eu sou um sortudo, como profetizou o velho pajé.
+# I am lucky, as the old pajé prophesied. 

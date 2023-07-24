@@ -1,0 +1,91 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Yepé marandua Villa-Lobos umuyeréu waá yepé nheengarisawa arama
+# Uma lenda que Villa-Lobos converteu em música
+# A legend that Villa-Lobos turned into music
+# text_orig_yrl = YEPÉ MARANDUA VILLA-LOBOS UMUYERÉU WAÁ YEPÉ NHEENGARISAWA ARAMA
+# text_orig_por = UMA LENDA QUE VILLA-LOBOS CONVERTEU EM MÚSICA
+
+Heitor Villa-Lobos nheengarisawa munhangara kwera turusú piri waá amú-itá suí Brasil upé.
+# Heitor Villa-Lobos foi o maior compositor de todos no Brasil.
+# Heitor Villa-Lobos was the greatest composer of all in Brazil. 
+
+Aé unaseri Rio de Janeiro upé 1887 ramé.
+# Ele nasceu no Rio de Janeiro em 1887.
+# He was born in Rio de Janeiro in 1887.
+
+Kurumĩwasú ramé, aé uwatá-watá siía tetama rupí Brasil rupí, mamé aé uyumbué siía kawoka nheengarisawa.
+# Quando era jovem, ele viajou por muitas regiões pelo Brasil, onde ele aprendeu muitas canções de caboclos.
+# When he was young, he traveled to many regions in Brazil, where he learned many caboclo songs. 
+
+Aé usaisú retana Brasil maã-itá.
+# Ele amava muito as coisas do Brasil.
+# He loved things about Brazil very much. 
+
+Aé 1910 ramé, mairamé aé urikú 23 akayú, uyupirú ana uwatá-watá Amazônia rupí, asuí upitá mimi musapiri akayú pukusawa.
+# Ele em 1910, quando tinha vinte e três anos, começou a viajar pela Amazônia, ficou ali durante três anos.
+# In 1910, when he was twenty three years old, he began traveling through the Amazon, staying there for three years. 
+
+Aé ukunheseri ana siía mira upurungitá waá nheengatú, asuí aé umunhã nheengarisawa-itá marandua-itá irũmu Barbosa Rodrigues umupinima ana waá Poranduba Amazonense resé.
+# Ele conheceu muitas pessoas que falavam nheengatu e fez músicas com as lendas que Barbosa Rodrigues escreveu no Poranduba Amazonense.
+# He met many people who spoke Nheengatu and made songs with the legends that Barbosa Rodrigues wrote in Poranduba Amazonense.
+
+Yamaã iké yepé nheengarisawa aé umunhã waá 1952 ramé.
+# Vemos aqui uma música que ele fez em 1952.
+# Here we see a song that he made in 1952.
+
+Yepé apigawa usú ukamundú.
+# Um homem foi caçar.
+# A man went hunting. 
+
+Uwasemu suasú-kunhã i mimbira irũmu.
+# Encontrou uma veada com seu filho.
+# Found a deer with her son. 
+
+Uyumũ suasú-mimbira, suasú-mimbira, suasú-mimbira, suasú-mimbira, suasú-mimbira, suasú-mimbira, suasú-mimbira.
+# Flechou o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote.
+# Arrowed the fawn, the fawn, the fawn, the fawn, the fawn, the fawn, the fawn. 
+
+Upisika suasumirĩ.
+# Apanhou o veadinho.
+# He caught the fawn. 
+
+I manha uyawáu.
+# A mãe fugiu.
+# The mother ran away. 
+
+Umuyaxiú suasumirĩ.
+# Fez chorar o veadinho.
+# It made the little deer cry. 
+
+Suasú manha, usenũi ramé, uri i mimbira piri.
+# A mãe do veado, quando ele chamou, veio para junto de seu filho.
+# The deer's mother, when he called, came to her son. 
+
+Aé kuité uyumũ yuíri suasumirĩ manha.
+# Ele (o caçador), então, flechou também a mãe do veadinho.
+# He (the hunter), then, also shot the deer's mother with an arrow. 
+
+Umanũ, umanũ, umanũ, umanũ, umanũ, umanũ.
+# (Ela) morreu, morreu, morreu, morreu, morreu, morreu.
+# (She) died, died, died, died, died, died. 
+
+Ariré umaã sesé: i manha kwera uyumunhã waá suasú.
+# Depois olhou para ela: era sua mãe que se fizera veada.
+# Then he looked at her: it was his mother who had turned into a deer. 
+
+Yuruparí umuyeréu suasú uganani arama i mimbira ukiri ramé.
+# O Jurupari a fez virar veada para enganar seu filho enquanto dormia.
+# The Jurupari turned her into a deer to deceive her son while he was sleeping.
