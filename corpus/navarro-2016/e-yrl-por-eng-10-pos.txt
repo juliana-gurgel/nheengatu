@@ -1,0 +1,176 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 20, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 20, 2023'''
+
+Xukúi/PRSV se/PRON2 pururé/N ./PUNCT 
+# Aqui está minha enxada.
+# Here is my hoe.
+
+Nti/NEG akwáu/V mamé/ADVLC+ADVRC uikú/V kwá/ADVDX+DEMX+V kunhã/A+N yara/ADP+N ./PUNCT 
+# Não sei onde está a desta mulher.
+# I do not know where this woman's is.
+
+Se/PRON2 mũ/N pirasua/A+N ,/PUNCT ne/PRON2 yara/ADP+N umbaá/NEG ./PUNCT 
+# Meu irmão é pobre, o teu não.
+# My brother is poor, yours is not.
+
+Nhaã/DEMS uka/N se/PRON2 yara/ADP+N ./PUNCT 
+# Aquela casa é minha.
+# That house is mine.
+
+Pedro/PROPN ruka/N mirĩ/A+ADV+N ./PUNCT Pe/CLADP+PRON2 yara/ADP+N turusú/A+ADVS+INDQ ./PUNCT 
+# A casa de Pedro é pequena. A de vocês é grande.
+# Pedro's house is small. Yours is big.
+
+Kwá/ADVDX+DEMX+V ne/PRON2 igara/N ./PUNCT 
+# Esta é tua canoa.
+# This is your canoe.
+
+Awá/IND+INT+RELF yara/ADP+N taá/CQ nhaã/DEMS ?/PUNCT 
+# Aquela é propriedade de quem?
+# Whose property is that?
+
+Awá/IND+INT+RELF igara/N taá/CQ nhaã/DEMS ?/PUNCT 
+# Canoa de quem é aquela?
+# Whose canoe is that?
+
+Se/PRON2 manha/N puranga/A+ADVA piri/ADP+ADVG ne/PRON2 yara/ADP+N suí/ADP ./PUNCT 
+# Minha mãe é mais bonita que a sua.
+# My mother is prettier than yours.
+
+Kwá/ADVDX+DEMX+V apigawa/A+N pirasua/A+N piri/ADP+ADVG nhaã/DEMS suí/ADP ./PUNCT 
+# Este homem é mais pobre que aquele.
+# This man is poorer than that.
+
+Kwá/ADVDX+DEMX+V kunhã/A+N unheengari/V puranga/A+ADVA ./PUNCT 
+# Esta mulher canta bem.
+# This woman sings well.
+
+Kwá/ADVDX+DEMX+V kunhã/A+N unheengari/V puranga/A+ADVA piri/ADP+ADVG nhaã/DEMS suí/ADP ./PUNCT 
+# Esta mulher canta melhor que aquela.
+# This woman sings better than that one.
+
+Se/PRON2 manha/N puranga/A+ADVA mayé/ADVLA+ADVRA+SCONJR ne/PRON2 yara/ADP+N yawé/ADP+ADVA+IND ./PUNCT 
+# Minha mãe é tão bela como a sua.
+# My mother is as beautiful as yours.
+
+Se/PRON2 manha/N puranga/A+ADVA mayé/ADVLA+ADVRA+SCONJR ne/PRON2 yawé/ADP+ADVA+IND ./PUNCT 
+# Minha mãe é tão bonita como tu.
+# My mother is as beautiful as you are.
+
+Kwá/ADVDX+DEMX+V apigawa/A+N pirasua/A+N mayé/ADVLA+ADVRA+SCONJR nhaã/DEMS yawé/ADP+ADVA+IND ./PUNCT 
+# Este homem é tão pobre como aquele.
+# This man is as poor as that.
+
+Kwá/ADVDX+DEMX+V kunhã/A+N unheengari/V puranga/A+ADVA mayé/ADVLA+ADVRA+SCONJR nhaã/DEMS yawé/ADP+ADVA+IND ./PUNCT 
+# Esta mulher canta tão bem como aquela.
+# This woman sings as well as that one.
+
+Aé/DEMSN+PRON urikú/V suaya/N pirá/N yawé/ADP+ADVA+IND ./PUNCT 
+# Ele tem cauda como peixe.
+# He has a tail like a fish.
+
+Yané/PRON2 paya-itá/N ikewara/A+N ./PUNCT 
+# Nossos pais são daqui.
+# Our parents are from here.
+
+Kuximawara-itá/N upurakí/V retana/ADVS ./PUNCT 
+# Os antigos trabalhavam muito.
+# The ancients worked a lot.
+
+Uka/N mirá/N suiwara/ADP ./PUNCT 
+# A casa é de madeira.
+# The house is made of wood.
+
+Karuka/N rirewara/A+N pituna/N ./PUNCT 
+# O que é após a tarde é a noite.
+# What comes after the afternoon is the night.
+
+Maria/PROPN upurandú/V Pedro/PROPN resewara/ADP+N+SCONJ ./PUNCT 
+# Maria perguntou a história de Pedro.
+# Maria asked Pedro's story.
+
+Maria/PROPN upurandú/V sesewara/ADP+N+SCONJ ./PUNCT 
+# Maria perguntou a história dele.
+# Maria asked his story.
+
+Asú/V amupinima/V se/PRON2 iwí/N resewara/ADP+N+SCONJ ./PUNCT 
+# Vou escrever o que é relativo à minha terra.
+# I will write what is relative to my homeland.
+
+Asú/V amupinima/V sesewara/ADP+N+SCONJ ./PUNCT 
+# Vou escrever o que é relativo a ela.
+# I will write what concerns her.
+
+Aé/DEMSN+PRON upuú/V siía/INDQ kumandamirĩ/N ./PUNCT 
+# Ele colhe muito feijão.
+# He harvests a lot of beans.
+
+Aé/DEMSN+PRON umunhã/V siía/INDQ makira/N ./PUNCT 
+# Ele faz muitas redes.
+# He does a lot of nets.
+
+Aé/DEMSN+PRON umunuka/V kwaíra/A mirá/N ./PUNCT 
+# Ele corta poucas árvores.
+# He cuts few trees.
+
+Aé/DEMSN+PRON umururú/V kwaíra/A iwí/N ./PUNCT 
+# Ele rega pouca terra.
+# He waters little land.
+
+Remeẽ/V ixé/PRON arama/ADP+FUT+SCONJ uí/N mirĩ/A+ADV+N nhuntu/ADV ./PUNCT 
+# Dê-me só um pouco de farinha.
+# Give me just some flour.
+
+Kwaíra/A nhuntu/ADV ,/PUNCT paá/RPRT ,/PUNCT aé/DEMSN+PRON uú/V kaxirí/N ./PUNCT 
+# Contam que ele bebeu caxiri um pouco, somente.
+# They say he drank only a little caxiri.
+
+Sapukaya-apigawa/N unheengari/V retana/ADVS ./PUNCT 
+# O galo canta muito.
+# The rooster crows a lot.
+
+Aé/DEMSN+PRON upitá/V piaíwa/A2 reté/A+ADVS ne/PRON2 irũmu/ADP+SCONJ ./PUNCT 
+# Ele fica muito bravo com você.
+# He gets really mad at you.
+
+Maria/PROPN upurakí/V xinga/ADVS+INDQ ./PUNCT 
+# Maria trabalha pouco.
+# Maria works little.
+
+Aé/DEMSN+PRON tepusimanha/A+N xinga/ADVS+INDQ ./PUNCT 
+# Ele está um pouco sonolento.
+# He is a little sleepy.
+
+Aé/DEMSN+PRON upurungitá/V mirĩ/A+ADV+N ./PUNCT 
+# Ele fala pouco.
+# He talks little.
+
+Senundé/ADP+N kití/ADP xinga/ADVS+INDQ aé/DEMSN+PRON usuantí/V yepé/ART+CARD+FRUST+SCONJ tatú/N ./PUNCT 
+# Um pouco à frente dele, ele encontrou um tatu.
+# A little ahead of him, he found an armadillo.
+
+Mairamé/ADVNT+ADVRT+SCONJR usika/V ,/PUNCT apekatú/A+ADVC xinga/ADVS+INDQ upitá/V ./PUNCT 
+# Quando chegou, ficou um pouco longe.
+# When it arrived, it was a little far.
+
+Maãyawé/??? nhaá/??? kurumĩwasú/N payé/N xinga/ADVS+INDQ ,/PUNCT aé/DEMSN+PRON umaã/V ,/PUNCT paá/RPRT ,/PUNCT i/PRON2 anga/N rupí/ADP maã/COND+IND+INT+N+REL+V kunhãmukú-itá/N umunhã/V i/PRON2 xupé/ADP ./PUNCT 
+# Como aquele rapaz era um pouco pajé, contam que ele viu, por sua sombra, o que as moças faziam para ele.
+# As that young man was a bit of a pajé, they say that he saw, through his shadow, what the girls did for him.

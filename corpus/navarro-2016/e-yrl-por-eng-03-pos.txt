@@ -1,0 +1,264 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 2, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 2, 2023'''
+
+se/PRON2 igara/N 
+# minha canoa
+# minha canoa
+
+ne/PRON2 manha/N 
+# tua mãe
+# your mother
+
+i/PRON2 pindá-itá/N 
+# os anzóis dele
+# his hooks
+
+yané/PRON2 tawa/N 
+# nossa cidade
+# our city
+
+pe/CLADP+PRON2 ruka/N 
+# casa de vocês
+# your house
+
+aintá/PRON+PRON2 xirura-itá/N 
+# calças deles
+# their pants
+
+Aé/DEMSN+PRON usú/V se/PRON2 irũmu/ADP+SCONJ ./PUNCT 
+# Ele vai comigo.
+# He goes with me.
+
+Maria/PROPN upitá/V ne/PRON2 ruakí/ADP ./PUNCT 
+# Maria fica perto de ti.
+# Maria stays close to you.
+
+Pedro/PROPN usú/V apekatú/A+ADVC pe/CLADP+PRON2 suí/ADP ./PUNCT 
+# Pedro vai longe de vocês.
+# Pedro goes far from you.
+
+Reruri/V timbiú/N ixé/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Traga comida para mim.
+# Bring me food.
+
+Amunhã/V pindá-itá/N indé/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Faço anzóis para você.
+# I make hooks for you.
+
+Apurakí/V indé/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Trabalho para ti.
+# I work for you.
+
+Reruri/V aé/DEMSN+PRON ixé/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Traga-o para mim.
+# Bring him to me.
+
+Apurakí/V Maria/PROPN supé/ADP ./PUNCT 
+# Trabalho para Maria.
+# I work for Maria.
+
+Anheẽ/V "/PUNCT puranga/A+ADVA ara/N "/PUNCT aintá/PRON+PRON2 supé/ADP ./PUNCT 
+# Digo “bom dia” para eles.
+# I say “good morning” to them.
+
+Unheẽ/V paá/RPRT yepé/ART+CARD+FRUST+SCONJ ara/N i/PRON2 apigawa-itá/N supé/ADP ./PUNCT ./PUNCT ./PUNCT 
+# Contam que disse um dia aos seus homens...
+# They say that one day he said to his men...
+
+Ixé/PRON apiripana/V xirura/N i/PRON2 xupé/ADP ./PUNCT 
+# Eu compro calça para ele.
+# I buy him pants.
+
+Maria/PROPN usú/V se/PRON2 rapé/N rupí/ADP ./PUNCT 
+# Maria vai pelo meu caminho.
+# Maria goes by my way.
+
+Kuíri/ADVT penhẽ/PRON pemaramunhã/V yané/PRON2 rupí/ADP ./PUNCT 
+# Agora vocês brigam por nós.
+# Now you fight for us.
+
+Renheẽ/V kariwa/N nheenga/N rupí/ADP ./PUNCT 
+# Fale em língua de brancos.
+# Speak in white people's language.
+
+Muíri/INDQ+INT+TOT rupí/ADP taá/CQ kwá/ADVDX+DEMX+V kamixá/N ?/PUNCT 
+# Por quanto é esta camisa?
+# How much for this shirt?
+
+Ayuri/V se/PRON2 rupí/ADP ./PUNCT 
+# Vim por mim.
+# I came for myself.
+
+Remunhã/V sangawa/N rupí/ADP ./PUNCT 
+# Faça de acordo com o modelo.
+# Make according to the model.
+
+Kwá/ADVDX+DEMX+V rupí/ADP aikwé/EXST siía/INDQ mirá/N ./PUNCT 
+# Por aqui há muitas árvores.
+# There are many trees around here.
+
+Amú/IND pituna/N piterarupí/ADP ,/PUNCT asendú/V yepé/ART+CARD+FRUST+SCONJ nheenga/N ./PUNCT 
+# Pelo meio da outra noite, ouvi uma voz.
+# In the middle of the other night, I heard a voice.
+
+Aintá/PRON+PRON2 usú/V nhaã/DEMS tatatingawasú/N piterarupí/ADP ./PUNCT ./PUNCT ./PUNCT 
+# Elas foram pelo meio daquela fumaça...
+# They went through that smoke...
+
+Aintá/PRON+PRON2 umuyeréu/V mirá-itawasú/N aintá/PRON+PRON2 ararupí/ADP ./PUNCT 
+# Eles rolaram grandes paus por cima deles.
+# They rolled big sticks over them.
+
+Iwí/N wirarupí/ADP paá/RPRT aikwé/EXST pé/N ./PUNCT ./PUNCT ./PUNCT 
+# Contam que, por baixo da terra, havia caminho...
+# They say that, under the earth, there was a path...
+
+Se/PRON2 riré/ADP+SCONJ usika/V ana/PFV amú/IND apigawa/A+N ./PUNCT 
+# Depois de mim chegou outro homem.
+# Another man came after me.
+
+Murasí/N riré/ADP+SCONJ ,/PUNCT aé/DEMSN+PRON ukiri/V ana/PFV retana/ADVS ./PUNCT 
+# Após o baile, ele dormiu muito.
+# After the ball, he slept a lot.
+
+Apurandú/V ne/PRON2 suí/ADP maã/COND+IND+INT+N+REL+V aputari/V akwáu/V ./PUNCT 
+# Pergunto de você o que quero saber.
+# I ask to you what I want to know.
+
+Indé/PRON resemu/V se/PRON2 suí/ADP ./PUNCT 
+# Você nasceu (ou saiu) de mim.
+# You were born (or came out) from me.
+
+Ixé/PRON ayuri/V paranã/N suí/ADP ./PUNCT 
+# Eu venho do rio.
+# I come from the river.
+
+Aé/DEMSN+PRON uyupirú/V ana/PFV uwatá/V garapá/N suí/ADP ./PUNCT 
+# Ele começou a andar desde o porto.
+# He started walking from the harbor.
+
+Ixé/PRON asarú/V indé/PRON amukwesé/V suí/ADP ./PUNCT 
+# Eu te espero desde anteontem.
+# I have been waiting for you since the day before yesterday.
+
+Ixé/PRON asarú/V indé/PRON amukwesé/V suiwara/ADP ./PUNCT 
+# Eu te espero desde anteontem.
+# I have been waiting for you since the day before yesterday.
+
+se/PRON2 pu/ASSUM 
+# minha mão
+# my hand
+
+ne/PRON2 mimbira/N 
+# teu filho
+# your son
+
+tukana/N tĩ/N 
+# o bico do tucano
+# the beak of the toucan
+
+ne/PRON2 tawa/N 
+# tua cidade
+# your city
+
+se/PRON2 igara/N 
+# minha canoa
+# my canoe
+
+yané/PRON2 putira/N 
+# nossa flor
+# our flower
+
+Aikwé/EXST kamixá-itá/N puranga/A+ADVA nhaã/DEMS piripanasawa/N ruka/N upé/ADP+N ./PUNCT 
+# Há camisas bonitas naquela loja.
+# There are nice shirts in that store.
+
+Aikwé/EXST mukũi/CARD+INDQ igara/N paranã/N upé/ADP+N ./PUNCT 
+# Há duas canoas no rio.
+# There are two canoes on the river.
+
+Aikwé/EXST raẽ/ADV será/PQ tuxawa/N tuyuwé/A+N ?/PUNCT 
+# Existe ainda o velho tuxaua?
+# Does the old tuxaua still exist?
+
+Aiwã/ADVT amana/N ./PUNCT 
+# Já haverá chuva.
+# Soon there will be rain.
+
+Aiwã/ADVT pituna/N ./PUNCT 
+# Logo vem a noite.
+# Soon comes the night.
+
+Aiwã/ADVT tẽ/FOC+NEGI kurí/FUT ./PUNCT 
+# Logo será (ou daqui a pouco).
+# Soon it will be.
+
+Xukúi/PRSV kamixá/N ./PUNCT 
+# Aqui está a camisa.
+# Here is the shirt.
+
+Xukúi/PRSV sekuyara/N ./PUNCT 
+# Aqui está o dinheiro.
+# Here is the money.
+
+Kwá/ADVDX+DEMX+V garapá/N mirĩ/A+ADV+N ,/PUNCT nhaã/DEMS umbaá/NEG ./PUNCT 
+# Este porto é pequeno, aquele não.
+# This harbor is small, that one is not.
+
+Kwá/ADVDX+DEMX+V tawa/N puranga/A+ADVA ,/PUNCT nhaã/DEMS tawa/N puxiwera/A+ADVA+N ./PUNCT 
+# Esta cidade é bonita, aquela cidade é feia.
+# This city is beautiful, that city is ugly.
+
+Kwá-itá/DEMX mirá/N santá/A ,/PUNCT nhaã-itá/DEMS membeka/A+N+V2 ./PUNCT 
+# Estas madeiras são duras, aquelas são moles.
+# These woods are hard, those are soft.
+
+Amaã-putari/??? kwá/ADVDX+DEMX+V uri/V waá-itá/REL ./PUNCT 
+# Quero ver estes que vêm.
+# I want to see those who are coming.
+
+Asú/V kurí/FUT São/PROPN Gabriel/PROPN kití/ADP ./PUNCT 
+# Irei a São Gabriel.
+# I will go to São Gabriel.
+
+Wirandé/ADVT kurí/FUT yamunhã/V yané/PRON2 ruka/N ./PUNCT 
+# Amanhã faremos nossa casa.
+# Tomorrow we will make our home.
+
+Repitá/V kurí/FUT wirandé/ADVT iké/ADVDX ?/PUNCT 
+# Você vai ficar amanhã aqui?
+# Are you staying here tomorrow?
+
+wirandé/ADVT kurí/FUT tenhẽ/FOC 
+# amanhã mesmo
+# tomorrow
+
+Mairamé/ADVNT+ADVRT+SCONJR taá/CQ kurí/FUT indé/PRON repurungitá/V nheengatú/N ?/PUNCT 
+# Quando você falará nheengatu?
+# When will you speak nheengatu?
+
+Se/PRON2 mena/N usika/V kurí/FUT paranã/N suí/ADP ./PUNCT 
+# Meu marido vai chegar do rio.
+# My husband will arrive from the river.
+
+Mairamé/ADVNT+ADVRT+SCONJR kurí/FUT bũa/A+INDQ ,/PUNCT ixé/PRON asú/V kurí/FUT ayuká/V indé/PRON arama/ADP+FUT+SCONJ kwá/ADVDX+DEMX+V tukunaré/N ./PUNCT 
+# Quando eu for grande, eu vou matar para você este tucunaré.
+# When I am big, I am going to kill this peacock bass for you.

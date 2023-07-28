@@ -1,0 +1,194 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+1st reviewer: Leonel Figueiredo de Alencar
+1st review: June 5, 2022
+2nd reviewer: Juliana Lopes Gurgel
+2nd review: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 20, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 20, 2023'''
+
+Ape/ADVDI+ADVJ té/FOC+PREP+SCONJR usasá/V sumuara/N urubú/N ./PUNCT 
+# Nesse momento mesmo passou seu amigo urubu.
+# At that very moment his friend vulture passed by.
+
+Wirandé/ADVT tẽ/FOC+NEGI kurí/FUT amunhã/V se/PRON2 ruka/N ./PUNCT 
+# Amanhã mesmo farei minha casa.
+# Tomorrow I will build my house.
+
+Wirandé/ADVT tenhẽ/FOC kurí/FUT amunhã/V se/PRON2 ruka/N ./PUNCT 
+# Amanhã mesmo farei minha casa.
+# Tomorrow I will build my house.
+
+Ixé/PRON té/FOC+PREP+SCONJR amunhã/V ana/PFV timbiú/N ./PUNCT 
+# Eu mesmo fiz a comida.
+# I made the food myself.
+
+Yawé/ADP+ADVA+IND tẽ/FOC+NEGI aputari/V ./PUNCT 
+# É assim mesmo que eu quero.
+# That is just how I want it.
+
+Aintá/PRON+PRON2 umupuranga/V tupauku/N ./PUNCT 
+# Enfeitaram a igreja.
+# They decorated the church.
+
+Tá/PRON+PRON2 uyuká/V yepé/ART+CARD+FRUST+SCONJ tatú/N paranã/N upé/ADP+N ./PUNCT 
+# Mataram um tatu no rio.
+# They killed an armadillo at the river.
+
+Yepé/ART+CARD+FRUST+SCONJ ara/N ,/PUNCT paá/RPRT ,/PUNCT São/PROPN Pedro/PROPN umunhã/V murasí/N iwaka/N kití/ADP ./PUNCT 
+# Dizem que, um dia, São Pedro fez um baile lá para o céu.
+# They say that, one day, São Pedro held a ball in heaven.
+
+Mayé/ADVLA+ADVRA+SCONJR taá/CQ asú/V awatá/V se/PRON2 retama/N kití/ADP ?/PUNCT 
+# Como vou andar lá para a minha terra?
+# How am I going to walk there to my homeland?
+
+Mamé/ADVLC+ADVRC taá/CQ uikú/V ne/PRON2 retama/N ?/PUNCT Pará/PROPN kití/ADP ./PUNCT 
+# Onde está tua terra? Para os lados do Pará.
+# Where is your homeland? Towards Pará.
+
+yasí/N pitera/N+V kití/ADP 
+# lá para o meio do mês
+# around the middle of the month
+
+Iwakape/??? murasí/N surí/A2 ./PUNCT 
+# No céu o baile foi alegre.
+# In heaven, the ball was cheerful.
+
+Yepé/ART+CARD+FRUST+SCONJ uwapika/V igara/N gantĩme/??? ,/PUNCT amú/IND uwapika/V yakumãme/??? ./PUNCT 
+# Um sentou na proa da canoa, outro sentou na popa.
+# One sat in the bow of the canoe, another sat in the stern.
+
+Paranãme/??? igara/N upitá/V ana/PFV ./PUNCT 
+# No rio a canoa ficou.
+# The canoe stayed on the river.
+
+Yautí/N usú/V ararapewa/N kwara/N upé/ADP+N ./PUNCT 
+# O jabuti foi dentro do violão.
+# The tortoise went inside the guitar.
+
+Usuaxara/V aé/DEMSN+PRON i/PRON2 marika/N pupé/ADP ./PUNCT 
+# Respondeu ele dentro da barriga dela.
+# He replied inside her belly.
+
+Upitá/V uka/N pupé/ADP ./PUNCT 
+# Ficou dentro de casa.
+# Stayed inside the house.
+
+Pedro/PROPN usemu/V tupauku/N kwara/N suí/ADP ./PUNCT 
+# Pedro saiu de dentro da igreja.
+# Pedro came out of the church.
+
+Ixé/PRON amaã/V arama/ADP+FUT+SCONJ yepé/ART+CARD+FRUST+SCONJ nhaã/DEMS murasí/N ,/PUNCT ma/ADVJ+CCONJ nti/NEG arikú/V se/PRON2 pepú/N awewé/V arã/ADP+FUT+SCONJ ./PUNCT 
+# Era para eu ver aquele baile, mas não tenho minhas asas para voar.
+# I was supposed to see that ball, but I do not have my wings to fly.
+
+Ixé/PRON apitá/V arama/ADP+FUT+SCONJ yepé/ART+CARD+FRUST+SCONJ iké/ADVDX ./PUNCT 
+# Era para eu ficar aqui.
+# I was supposed to stay here.
+
+Watarampuá/??? ,/PUNCT nhaã/DEMS kurumiwasú/N kirimbawa/A+ADVA+N piri/ADP+ADVG waá/REL yandé/PRON retamawara/A+N aintá/PRON+PRON2 suí/ADP ,/PUNCT umendari/V arama/ADP+FUT+SCONJ waá/REL yepé/ART+CARD+FRUST+SCONJ xe/PRON2 irũmu/ADP+SCONJ ,/PUNCT nti/NEG rẽ/ADVT uyana/V kwá/ADVDX+DEMX+V kaxiwera/N ./PUNCT 
+# Uatarampuá, aquele moço que é o mais valente dos que são de nossa terra, que era para casar-se comigo, não correu ainda esta cachoeira.
+# Uatarampuá, that young man who is the bravest of those from our homeland, who was supposed to marry me, has not gone over this waterfall yet.
+
+Se/PRON2 kerpi/V2 ./PUNCT 
+# Eu sonho.
+# I dream.
+
+Ne/PRON2 kerpi/V2 ./PUNCT 
+# Você sonha.
+# You dream.
+
+I/PRON2 kerpi/V2 ./PUNCT 
+# Ele sonha.
+# He dreams.
+
+Yané/PRON2 kerpi/V2 ./PUNCT 
+# Nós sonhamos.
+# We dream.
+
+Pe/CLADP+PRON2 kerpi/V2 ./PUNCT 
+# Vocês sonham.
+# You dream.
+
+Aintá/PRON+PRON2 kerpi/V2 ./PUNCT 
+# Eles sonham.
+# They dream.
+
+Ixé/PRON se/PRON2 akanhemu/V+V2 ./PUNCT 
+# Eu me assusto.
+# I get scared.
+
+Indé/PRON ne/PRON2 akanhemu/V+V2 ./PUNCT 
+# Você se assusta.
+# You get scared.
+
+Aé/DEMSN+PRON i/PRON2 akanhemu/V+V2 ./PUNCT 
+# Ele se assusta.
+# He gets scared.
+
+Yandé/PRON yané/PRON2 akanhemu/V+V2 ./PUNCT 
+# Nós nos assustamos.
+# We get scared.
+
+Penhẽ/PRON pe/CLADP+PRON2 akanhemu/V+V2 ./PUNCT 
+# Vocês se assustam.
+# You get scared.
+
+Aintá/PRON+PRON2 tá/PRON+PRON2 akanhemu/V+V2 ./PUNCT 
+# Eles se assustam.
+# They get scared.
+
+Ixé/PRON se/PRON2 resarái/V2 ./PUNCT 
+# Eu me esqueço.
+# I forget.
+
+Indé/PRON ne/PRON2 resarái/V2 ./PUNCT 
+# Você se esquece.
+# You forget.
+
+Aé/DEMSN+PRON sesarái/V2 ./PUNCT 
+# Ele se esquece.
+# He forgets.
+
+Yandé/PRON yané/PRON2 resarái/V2 ./PUNCT 
+# Nós nos esquecemos.
+# We forget.
+
+Penhẽ/PRON pe/CLADP+PRON2 resarái/V2 ./PUNCT 
+# Vocês se esquecem.
+# You forget.
+
+Aintá/PRON+PRON2 tá/PRON+PRON2 resarái/V2 ./PUNCT 
+# Eles se esquecem.
+# They forget.
+
+I/PRON2 kwema/N+V2 ./PUNCT 
+# Amanhece.
+# It dawns.
+
+Ee/??? ruí/N+V2 ./PUNCT 
+# Eu sangro.
+# I bleed.
+
+Pedro/PROPN tuí/N+V2 ./PUNCT 
+# Pedro sangra.
+# Pedro bleeds.
+
+Aintá/PRON+PRON2 ruí/N+V2 ./PUNCT 
+# Eles sangram.
+# They bleed.

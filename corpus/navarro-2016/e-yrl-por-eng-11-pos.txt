@@ -1,0 +1,187 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 20, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 20, 2023'''
+
+Yepé/ART+CARD+FRUST+SCONJ ara/N Tupana/N usú/V uwatá/V ,/PUNCT uxari/V tatá/N uka/N ukara/N kití/ADP ./PUNCT 
+# Um dia Tupã foi andar e deixou o fogo para fora de casa.
+# One day Tupã went for a walk and left the fire outside the house.
+
+Ukara/N suí/ADP ana/PFV ,/PUNCT paá/RPRT ,/PUNCT uri/V yepé/ART+CARD+FRUST+SCONJ uíwa/N ./PUNCT 
+# Contam que, de fora, veio uma flecha.
+# They say that an arrow came from outside.
+
+Aé/DEMSN+PRON usú/V uwari/V ukara/N kití/ADP ./PUNCT 
+# Ele foi cair fora.
+# He fell to outside.
+
+Pedro/PROPN utuká/V ukena/N ./PUNCT 
+# Pedro bateu à porta.
+# Pedro knocked on the door.
+
+Pedro/PROPN utuká-tuká/??? ukena/N ./PUNCT 
+# Pedro bateu à porta repetidamente.
+# Pedro knocked on the door repeatedly.
+
+Pedro/PROPN ukupí-kupiri/??? i/PRON2 iwí/N ./PUNCT 
+# Pedro roça muitas vezes sua terra.
+# Pedro often farms his land.
+
+Reyeré-yeréu/??? igara/N upé/ADP+N ./PUNCT 
+# Você vira muitas vezes na canoa.
+# You turn around many times in the canoe.
+
+Taína/N upuẽ-puẽ/??? pirá-itá/N ./PUNCT 
+# A criança fica pondo a mão nos peixes.
+# The child keeps putting his hand on the fish.
+# The child keeps putting her hand on the fish.
+
+Aintá/PRON+PRON2 usendú/V kunhã-itá/N upuká-puká/??? ./PUNCT 
+# Eles ouviram as mulheres rir continuamente.
+# They heard the women laugh continuously.
+
+Pedro/PROPN uyuká-yuká/V suú-itá/N ./PUNCT 
+# Pedro matou cada um dos animais.
+# Pedro killed each one of the animals.
+
+Kunhã/A+N i/PRON2 pukú-pukú/??? ./PUNCT 
+# A mulher é muito alta.
+# The woman is very tall.
+
+Ne/PRON2 ranha-itá/N purã-puranga/??? ./PUNCT 
+# Teus dentes são muito bonitos.
+# Your teeth are very beautiful.
+
+Apigawa/A+N puxí/A+ADVA ukaú-kaú/??? ,/PUNCT paá/RPRT ./PUNCT 
+# Contam que o homem mau ficou muito bêbado.
+# They say the bad man got very drunk.
+
+Nhaã/DEMS pituna/N suí/ADP ,/PUNCT paá/RPRT ,/PUNCT yepé/ART+CARD+FRUST+SCONJ yepé/ART+CARD+FRUST+SCONJ kunhãmukú-itá/N usasá/V akití/ADVDI ./PUNCT 
+# Contam que, desde aquela noite, as moças, uma a uma, passaram para lá.
+# They say that, since that night, the girls, one by one, went there.
+
+Taria-itá/N uyuká/V yepé/ART+CARD+FRUST+SCONJ yepé/ART+CARD+FRUST+SCONJ i/PRON2 maramunhangara-itá/N ./PUNCT 
+# Os tarias mataram, um por um, os guerreiros dele.
+# The Tarias killed his warriors one by one.
+
+Maria/PROPN ,/PUNCT Pedro/PROPN ,/PUNCT Antônio/PROPN aintá/PRON+PRON2 usemu/V uwatá-watá/V arama/ADP+FUT+SCONJ ./PUNCT 
+# Maria, Pedro, Antônio saem para passear.
+# Maria, Pedro, Antônio go out for a walk.
+
+Kunhã-itá/N tá/PRON+PRON2 usemu/V tá/PRON+PRON2 uikú/V kaá/N suí/ADP kuíri/ADVT ./PUNCT 
+# As mulheres estão saindo da mata agora.
+# The women are coming out of the woods now.
+
+Ne/PRON2 maã/COND+IND+INT+N+REL+V aintá/PRON+PRON2 urikú/V aintá/PRON+PRON2 umbaú/V arã/ADP+FUT+SCONJ ./PUNCT 
+# Nada eles têm para eles comerem.
+# They have nothing for them to eat.
+
+Upukwari/V aintá/PRON+PRON2 yepé/ART+CARD+FRUST+SCONJ amú-itá/IND resé/ADP+SCONJ ./PUNCT 
+# Amarraram-nos uns nos outros.
+# They tied us to each other.
+
+Kunhãmukú-itá/N yepé/ART+CARD+FRUST+SCONJ aintá/PRON+PRON2 suí/ADP usú/V uikú/V uyumana/V aé/DEMSN+PRON ,/PUNCT amú-itá/IND upurungitá/V puranga/A+ADVA ./PUNCT 
+# As moças, algumas delas estavam indo abraçá-lo, outras falavam bonito.
+# The girls, some of them were going to hug him, others were talking beautifully.
+
+Awá/IND+INT+RELF usendú/V aintá/PRON+PRON2 upurungitá/V uruyari/V katú/A2+ADVS Piriripi/PROPN uikú/V ana/PFV aintá/PRON+PRON2 pu/ASSUM resé/ADP+SCONJ ./PUNCT 
+# Quem as ouvia falar acreditava bem que Piriripi estava nas mãos deles.
+# Those who heard them talk really believed that Piriripi was in their hands.
+
+Ixé/PRON nti/NEG kirimbawa/A+ADVA+N amaramunhã/V arama/ADP+FUT+SCONJ awá/IND+INT+RELF irũmu/ADP+SCONJ ./PUNCT 
+# Eu não sou valente para brigar com ninguém.
+# I am not brave to fight with anyone.
+
+Mayawé/SCONJR kuíri/ADVT pekwáu/V ana/PFV maã/COND+IND+INT+N+REL+V kurí/FUT pemunhã/V ,/PUNCT asú/V ana/PFV ./PUNCT 
+# Como agora vocês já sabem o que farão, eu já vou.
+# Since you now know what you are going to do, I am going.
+
+Nti/NEG ukwáu/V maã/COND+IND+INT+N+REL+V unheẽ/V ./PUNCT 
+# Não sabe o que diz.
+# He does not knows what he says.
+# She does not knows what she says.
+
+Nti/NEG yambeú-kwáu/??? maã/COND+IND+INT+N+REL+V i/PRON2 xupé/ADP ./PUNCT 
+# Não podemos contar nada a ele.
+# We cannot tell him anything.
+
+Manungara/IND amaã/V waá/REL asú/V ambeú/V penhẽ/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Algo que vi vou contar para vocês.
+# I will tell you something I saw.
+
+Upisí-pisika/??? aintá/PRON+PRON2 pira/N awá/IND+INT+RELF usikari/V maãnungara/IND yawé/ADP+ADVA+IND ./PUNCT 
+# Ficava apalpando seus corpos como quem procura algo.
+# I kept feeling their bodies like someone who is looking for something.
+
+Se/PRON2 paya/N nti/NEG kurí/FUT unheẽ/V maãnungara/IND ./PUNCT 
+# Meu pai não dirá nada.
+# My father will not say anything.
+
+Nti/NEG asaisú/V ne maã/IND i/PRON2 suí/ADP ./PUNCT 
+# Não sovino nada dele.
+# I do not sting anything from him.
+
+Nti/NEG yambeú-kwáu/??? maã/COND+IND+INT+N+REL+V i/PRON2 xupé/ADP ./PUNCT 
+# Não podemos contar-lhe nada.
+# We cannot tell you anything.
+
+Mayawé/SCONJR nti yepé/IND apigawa/A+N usaisú/V nhaã/DEMS kunhãmukú/A+N ,/PUNCT aé/DEMSN+PRON nti/NEG upurasí/V ./PUNCT 
+# Como nenhum homem amava aquela moça, ela não dançou.
+# Since no man loved that girl, she did not dance.
+
+Kurí/FUT mirĩ/A+ADV+N xinga/ADVS+INDQ ,/PUNCT nti awá/IND ukwáu/V masuí/ADVLC+ADVNC+ADVRC uyukwáu/V mira/N ./PUNCT 
+# Um pouquinho depois, ninguém sabe donde apareceu gente.
+# A little later, nobody knows where people came from.
+
+Upanhẽ/TOT urikú/V aintá/PRON+PRON2 piá/N surí/A2 ./PUNCT 
+# Todos tinham seus corações felizes.
+# Everyone had their hearts happy.
+
+Panhẽ/TOT kunhã/A+N usú/V ana/PFV ./PUNCT 
+# Todas as mulheres foram.
+# All the women went.
+
+Suá/N i/PRON2 kiá/A2 pawa/TOT+TOTAL+V ./PUNCT 
+# A cara dele está toda suja.
+# His face is all dirty.
+
+Ambaú/V pá/IND pirá/N ./PUNCT 
+# Comi todo o peixe.
+# I ate all the fish.
+
+Ambaú/V pá/IND ./PUNCT 
+# Comi tudo.
+# I ate everything.
+
+I/PRON2 kiá/A2 pá/IND upitá/V ./PUNCT 
+# Ele ficou todo sujo.
+# He got all dirty.
+
+Yepé/ART+CARD+FRUST+SCONJ ara/N makú/N usú/V i/PRON2 irũmu/ADP+SCONJ umbaú/V ira/N kaapura/A+N ./PUNCT 
+# Um dia o macu foi com ele comer mel silvestre.
+# One day the macu went with him to eat wild honey.
+
+Ixé/PRON iwakapura/A+N mira/N !/PUNCT 
+# Eu sou pessoa celestial!
+# I am a heavenly person!
+
+Ukiri/V mukũi/CARD+INDQ ara/N pura/A+N ./PUNCT 
+# Dormiu dois dias inteiros.
+# He slept two whole days.
+# She slept two whole days.

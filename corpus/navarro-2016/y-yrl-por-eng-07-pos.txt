@@ -1,0 +1,96 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Yepé/ART+CARD+FRUST+SCONJ marandua/N Villa-Lobos/PROPN umuyeréu/V waá/REL yepé/ART+CARD+FRUST+SCONJ nheengarisawa/N arama/ADP+FUT+SCONJ 
+# Uma lenda que Villa-Lobos converteu em música
+# A legend that Villa-Lobos turned into music
+# text_orig_yrl = YEPÉ MARANDUA VILLA-LOBOS UMUYERÉU WAÁ YEPÉ NHEENGARISAWA ARAMA
+# text_orig_por = UMA LENDA QUE VILLA-LOBOS CONVERTEU EM MÚSICA
+
+Heitor/??? Villa-Lobos/PROPN nheengarisawa/N munhangara/A+N kwera/A+PRET turusú/A+ADVS+INDQ piri/ADP+ADVG waá/REL amú-itá/IND suí/ADP Brasil/PROPN upé/ADP+N ./PUNCT 
+# Heitor Villa-Lobos foi o maior compositor de todos no Brasil.
+# Heitor Villa-Lobos was the greatest composer of all in Brazil.
+
+Aé/DEMSN+PRON unaseri/V Rio/PROPN de/??? Janeiro/PROPN upé/ADP+N 1887/??? ramé/ADP+SCONJ ./PUNCT 
+# Ele nasceu no Rio de Janeiro em 1887.
+# He was born in Rio de Janeiro in 1887.
+
+Kurumĩwasú/N ramé/ADP+SCONJ ,/PUNCT aé/DEMSN+PRON uwatá-watá/V siía/INDQ tetama/N rupí/ADP Brasil/PROPN rupí/ADP ,/PUNCT mamé/ADVLC+ADVRC aé/DEMSN+PRON uyumbué/V siía/INDQ kawoka/N nheengarisawa/N ./PUNCT 
+# Quando era jovem, ele viajou por muitas regiões pelo Brasil, onde ele aprendeu muitas canções de caboclos.
+# When he was young, he traveled to many regions in Brazil, where he learned many caboclo songs.
+
+Aé/DEMSN+PRON usaisú/V retana/ADVS Brasil/PROPN maã-itá/N+REL ./PUNCT 
+# Ele amava muito as coisas do Brasil.
+# He loved things about Brazil very much.
+
+Aé/DEMSN+PRON 1910/??? ramé/ADP+SCONJ ,/PUNCT mairamé/ADVNT+ADVRT+SCONJR aé/DEMSN+PRON urikú/V 23/??? akayú/N ,/PUNCT uyupirú/V ana/PFV uwatá-watá/V Amazônia/PROPN rupí/ADP ,/PUNCT asuí/ADVT+CCONJ upitá/V mimi/ADVDI musapiri/CARD akayú/N pukusawa/ADP+SCONJ ./PUNCT 
+# Ele em 1910, quando tinha vinte e três anos, começou a viajar pela Amazônia, ficou ali durante três anos.
+# In 1910, when he was twenty three years old, he began traveling through the Amazon, staying there for three years.
+
+Aé/DEMSN+PRON ukunheseri/V ana/PFV siía/INDQ mira/N upurungitá/V waá/REL nheengatú/N ,/PUNCT asuí/ADVT+CCONJ aé/DEMSN+PRON umunhã/V nheengarisawa-itá/N marandua-itá/N irũmu/ADP+SCONJ Barbosa/PROPN Rodrigues/PROPN umupinima/V ana/PFV waá/REL Poranduba/PROPN Amazonense/PROPN resé/ADP+SCONJ ./PUNCT 
+# Ele conheceu muitas pessoas que falavam nheengatu e fez músicas com as lendas que Barbosa Rodrigues escreveu no Poranduba Amazonense.
+# He met many people who spoke Nheengatu and made songs with the legends that Barbosa Rodrigues wrote in Poranduba Amazonense.
+
+Yamaã/V iké/ADVDX yepé/ART+CARD+FRUST+SCONJ nheengarisawa/N aé/DEMSN+PRON umunhã/V waá/REL 1952/??? ramé/ADP+SCONJ ./PUNCT 
+# Vemos aqui uma música que ele fez em 1952.
+# Here we see a song that he made in 1952.
+
+Yepé/ART+CARD+FRUST+SCONJ apigawa/A+N usú/V ukamundú/V ./PUNCT 
+# Um homem foi caçar.
+# A man went hunting.
+
+Uwasemu/V suasú-kunhã/N i/PRON2 mimbira/N irũmu/ADP+SCONJ ./PUNCT 
+# Encontrou uma veada com seu filho.
+# Found a deer with her son.
+
+Uyumũ/V suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ,/PUNCT suasú-mimbira/??? ./PUNCT 
+# Flechou o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote, o veado filhote.
+# Arrowed the fawn, the fawn, the fawn, the fawn, the fawn, the fawn, the fawn.
+
+Upisika/V suasumirĩ/N ./PUNCT 
+# Apanhou o veadinho.
+# He caught the fawn.
+
+I/PRON2 manha/N uyawáu/V ./PUNCT 
+# A mãe fugiu.
+# The mother ran away.
+
+Umuyaxiú/V suasumirĩ/N ./PUNCT 
+# Fez chorar o veadinho.
+# It made the little deer cry.
+
+Suasú/N manha/N ,/PUNCT usenũi/V ramé/ADP+SCONJ ,/PUNCT uri/V i/PRON2 mimbira/N piri/ADP+ADVG ./PUNCT 
+# A mãe do veado, quando ele chamou, veio para junto de seu filho.
+# The deer's mother, when he called, came to her son.
+
+Aé/DEMSN+PRON kuité/ADVM+ADVT uyumũ/V yuíri/ADV+CCONJ+V suasumirĩ/N manha/N ./PUNCT 
+# Ele (o caçador), então, flechou também a mãe do veadinho.
+# He (the hunter), then, also shot the deer's mother with an arrow.
+
+Umanũ/??? ,/PUNCT umanũ/??? ,/PUNCT umanũ/??? ,/PUNCT umanũ/??? ,/PUNCT umanũ/??? ,/PUNCT umanũ/??? ./PUNCT 
+# (Ela) morreu, morreu, morreu, morreu, morreu, morreu.
+# (She) died, died, died, died, died, died.
+
+Ariré/ADVT umaã/V sesé/ADP :/PUNCT i/PRON2 manha/N kwera/A+PRET uyumunhã/V waá/REL suasú/N ./PUNCT 
+# Depois olhou para ela: era sua mãe que se fizera veada.
+# Then he looked at her: it was his mother who had turned into a deer.
+
+Yuruparí/PROPN umuyeréu/V suasú/N uganani/V arama/ADP+FUT+SCONJ i/PRON2 mimbira/N ukiri/V ramé/ADP+SCONJ ./PUNCT 
+# O Jurupari a fez virar veada para enganar seu filho enquanto dormia.
+# The Jurupari turned her into a deer to deceive her son while he was sleeping.

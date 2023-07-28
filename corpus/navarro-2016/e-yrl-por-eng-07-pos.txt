@@ -1,0 +1,96 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre - Reviewer: Leonel Figueiredo de Alencar
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 9, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 9, 2023'''
+
+Meyú/N sé/A+ADVA ./PUNCT 
+# Biju é gostoso.
+# Biju is tasty.
+
+Akayú/N yukisé/N seẽ/A+N ./PUNCT 
+# Suco de caju é doce.
+# Cashew juice is sweet.
+
+Resú/V paranã/N kití/ADP !/PUNCT 
+# Vá ao rio!
+# Go to the river!
+
+Té/FOC+PREP+SCONJR resú/V paranã/N kití/ADP !/PUNCT 
+# Não vá ao rio!
+# Do not go to the river!
+
+Pemunhã/V timbiú/N i/PRON2 xupé/ADP !/PUNCT 
+# Façam comida para ele!
+# Make food for him!
+
+Té/FOC+PREP+SCONJR pemunhã/V timbiú/N i/PRON2 xupé/ADP !/PUNCT 
+# Não façam comida para ele!
+# Do not make food for him!
+
+Yapitá/V iké/ADVDX !/PUNCT 
+# Fiquemos aqui!
+# Let us stay here!
+
+Té/FOC+PREP+SCONJR yapitá/V iké/ADVDX !/PUNCT 
+# Não fiquemos aqui!
+# Let us not stay here!
+
+Apigawa/A+N usemu/V ana/PFV i/PRON2 tawa/N suí/ADP ./PUNCT 
+# O homem saiu de sua cidade.
+# The man left his city.
+
+Apigawa/A+N umusemu/V ana/PFV kunhã/A+N i/PRON2 tawa/N suí/ADP ./PUNCT 
+# O homem fez a mulher sair de sua cidade.
+# The man made the woman leave her city.
+
+Panhẽ/TOT musapiri/CARD ,/PUNCT paá/RPRT ,/PUNCT aintá/PRON+PRON2 urikú/V aintá/PRON+PRON2 rimirikú/N ./PUNCT 
+# Dizem que todos os três tinham suas esposas.
+# They say that all three had their wives.
+
+Mukũi/CARD+INDQ itá/N umanũ/??? ana/PFV ./PUNCT 
+# Os dois já morreram.
+# The two have already died.
+
+Aé/DEMSN+PRON upitá/V ana/PFV mbauíma/A nhaã/DEMS pituna/N ramé/ADP+SCONJ ./PUNCT 
+# Ele ficou sem comer naquela noite.
+# He did not eat that night.
+
+Pedro/PROPN upitá/V purakisawaíma/A ./PUNCT 
+# Pedro fica sem trabalho.
+# Peter is out of work.
+
+Ixé/PRON aú/V kambí/N seẽíma/A ./PUNCT 
+# Eu bebo leite sem açúcar.
+# I drink unsweetened milk.
+
+kamixá/N sepiasuíma/A 
+# camisa barata
+# cheap shirt
+
+Ape/ADVDI+ADVJ yautí/N kwera/A+PRET upupuka/V pá/IND ./PUNCT 
+# Aí o jabuti rebentou todo.
+# Then the tortoise got all busted up.
+
+Kurumĩ/N umbaú/V pawa/TOT+TOTAL+V ./PUNCT 
+# O menino come tudo.
+# The boy eats everything.
+
+I/PRON2 kiá/A2 pá/IND upitá/V ./PUNCT 
+# Ele ficou todo sujo.
+# He got all dirty.

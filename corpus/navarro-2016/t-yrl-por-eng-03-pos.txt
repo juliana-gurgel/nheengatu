@@ -1,0 +1,148 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 22, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 22, 2023'''
+
+São/PROPN Gabriel/PROPN upé/ADP+N 
+# Em São Gabriel
+# At São Gabriel
+
+Maria/PROPN usemu/V igara/N irũmu/ADP+SCONJ ./PUNCT 
+# Maria sai com a canoa.
+# Maria leaves with the canoe.
+
+Aé/DEMSN+PRON usú/V São/PROPN Gabriel/PROPN kití/ADP ./PUNCT 
+# Ela vai a São Gabriel.
+# She goes to São Gabriel.
+
+São/PROPN Gabriel/PROPN tawa/N puranga/A+ADVA ,/PUNCT apekatú/A+ADVC Barra/PROPN suí/ADP ./PUNCT 
+# São Gabriel é uma cidade bonita, distante de Manaus.
+# São Gabriel is a beautiful city, far from Manaus.
+
+Siía/INDQ mira/N umurari/V ape/ADVDI+ADVJ ./PUNCT 
+# Muitas pessoas moram ali.
+# Many people live there.
+
+Aé/DEMSN+PRON upiripana/V kurí/FUT maã-itá/N+REL i/PRON2 mimbira/N supé/ADP ,/PUNCT i/PRON2 mena/N supé/ADP yuíri/ADV+CCONJ+V ./PUNCT 
+# Ela vai comprar coisas para seu filho, para seu marido também.
+# She will buy things for her son, for her husband too.
+
+Aé/DEMSN+PRON usika/V ape/ADVDI+ADVJ ,/PUNCT usú/V yepé/ART+CARD+FRUST+SCONJ piripanasawa/N ruka/N kití/ADP ./PUNCT 
+# Ela chega lá, vai a uma loja.
+# She gets there, goes to a store.
+
+Aé/DEMSN+PRON unheẽ/V yepé/ART+CARD+FRUST+SCONJ meẽsara/N supé/ADP :/PUNCT —/PUNCT Ixé/PRON aputari/V yepé/ART+CARD+FRUST+SCONJ kamixá/N se/PRON2 mimbira/N supé/ADP ./PUNCT 
+# Ela diz a um vendedor: — Eu quero uma camisa para meu filho.
+# She says to a seller: "I want a shirt for my son."
+
+Aé/DEMSN+PRON urikú/V mukũi/CARD+INDQ akayú/N ./PUNCT 
+# Ele tem dois anos.
+# He is two years old.
+
+—/PUNCT Kwá/ADVDX+DEMX+V kamixá/N puranga/A+ADVA retana/ADVS ./PUNCT 
+# — Esta camisa é muito bonita.
+# "This shirt is very beautiful."
+
+Aé/DEMSN+PRON sepiasuíma/A ./PUNCT 
+# Ela é barata.
+# She is cheap.
+
+—/PUNCT Maã/COND+IND+INT+N+REL+V taá/CQ aikwé/EXST se/PRON2 mena/N supé/ADP ?/PUNCT 
+# — Que há para o meu marido?
+# "What is there for my husband?"
+
+—/PUNCT Maã/COND+IND+INT+N+REL+V taá/CQ indé/PRON reputari/V ne/PRON2 mena/N supé/ADP ?/PUNCT 
+# — Que você quer para seu marido?
+# "What do you want for your husband?"
+
+—/PUNCT Se/PRON2 mena/N upurakí/V kurí/FUT garapá/N upé/ADP+N ./PUNCT 
+# — Meu marido vai trabalhar no porto.
+# "My husband is going to work at the port."
+
+Aé/DEMSN+PRON uputari/V yepé/ART+CARD+FRUST+SCONJ xirura/N pisasú/A ./PUNCT 
+# Ele quer uma calça nova.
+# He wants new pants.
+
+I/PRON2 xirura-itá/N suruka/A+V ./PUNCT 
+# As calças dele estão rasgadas.
+# His pants are ripped.
+
+—/PUNCT Kwá/ADVDX+DEMX+V puranga/A+ADVA ./PUNCT 
+# — Esta é bonita.
+# "This is beautiful."
+
+—/PUNCT Muíri/INDQ+INT+TOT rupí/ADP taá/CQ kwá/ADVDX+DEMX+V xirura/N ?/PUNCT 
+# — Por quanto é esta calça?
+# "How much are these pants for?"
+
+—/PUNCT Mukũi/CARD+INDQ real/??? ./PUNCT 
+# — Dois reais.
+# "Two reais."
+
+—/PUNCT Muíri/INDQ+INT+TOT rupí/ADP nhaã/DEMS ?/PUNCT 
+# — Por quanto é aquela?
+# "How much is that one?"
+
+—/PUNCT Nhaã/DEMS xirura/N mukũi/CARD+INDQ real/??? yuíri/ADV+CCONJ+V ./PUNCT 
+# — Aquela calça é dois reais também.
+# "Those pants are two reais too."
+
+—/PUNCT Aputari/V nhaã/DEMS ./PUNCT 
+# — Quero aquela.
+# "I want that one."
+
+—/PUNCT Xukúi/PRSV xirura/N ./PUNCT 
+# — Aqui está a calça.
+# "Here are the pants."
+
+Nti/NEG reputari/V ne maã/IND indé/PRON arama/ADP+FUT+SCONJ ?/PUNCT 
+# Não quer nada para você?
+# Do you not want anything for you?
+
+—/PUNCT Umbaá/NEG ./PUNCT 
+# — Não.
+# "No."
+
+Ariré/ADVT kurí/FUT apiripana/V maã-itá/N+REL ixé/PRON arama/ADP+FUT+SCONJ ./PUNCT 
+# Depois comprarei coisas para mim.
+# I will buy things for myself later.
+
+Xukúi/PRSV sekuyara/N ./PUNCT 
+# Aqui está o dinheiro.
+# Here is the money.
+
+Maria/PROPN usepimeẽ/??? ./PUNCT 
+# Maria paga.
+# Maria pays.
+
+Meẽsara/N upupeka/V panhẽ/TOT maã-itá/N+REL ./PUNCT 
+# O vendedor embrulha todas as coisas.
+# The seller wraps all things.
+
+—/PUNCT Xukúi/PRSV sekuyaramirĩ/N ./PUNCT 
+# — Aqui está o troco.
+# "Here is the change."
+
+Maria/PROPN umukwekatú/V :/PUNCT —/PUNCT Kwekatú/A+N reté/A+ADVS !/PUNCT 
+# Maria agradece: — Muito obrigada!
+# Maria thanks: "Thank you very much!"
+
+Ariré/ADVT ,/PUNCT aé/DEMSN+PRON usú/V amú/IND piripanasawa/N ruka/N kití/ADP ./PUNCT 
+# Depois, ela vai a uma outra loja.
+# Afterwards, she goes to another store.

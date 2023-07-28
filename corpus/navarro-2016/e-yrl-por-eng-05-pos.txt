@@ -1,0 +1,228 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 9, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 9, 2023'''
+
+Asaisú/V se/PRON2 manha/N ./PUNCT 
+# Amo minha mãe.
+# I love my mother.
+
+Asaisú/V se/PRON2 maã-itá/N+REL ./PUNCT 
+# Sovino minhas coisas.
+# I am stingy with my things
+
+Yasú/V tendawa/N kití/ADP yamunhã/V arama/ADP+FUT+SCONJ kupixawa/N ./PUNCT 
+# Vamos à comunidade para fazer a roça.
+# We go to the community to work at the farm.
+
+Apitá/V ne/PRON2 ruka/N upé/ADP+N apurungitá/V arama/ADP+FUT+SCONJ ne/PRON2 irũmu/ADP+SCONJ ./PUNCT 
+# Fico na sua casa para falar com você.
+# I will stay at your house to talk to you.
+
+Xukúi/PRSV pirá/N indé/PRON rembaú/V arã/ADP+FUT+SCONJ ./PUNCT 
+# Aqui está o peixe para você comer.
+# Here is the fish for you to eat.
+
+Remunhã/V ne/PRON2 kakurí/N nti/NEG arã/ADP+FUT+SCONJ rewatá/V remundá/V se/PRON2 kakurí/N ./PUNCT 
+# Faça o seu cacuri para não andar furtando o meu cacuri.
+# Make your own cacuri so you do not go around stealing my cacuri.
+
+Maria/PROPN umaã/V ixé/PRON ./PUNCT 
+# Maria me vê.
+# Maria sees me.
+
+Ixé/PRON aruri/V aé/DEMSN+PRON kwá/ADVDX+DEMX+V kití/ADP ./PUNCT 
+# Eu o trago para cá.
+# I bring him here.
+
+Pedro/PROPN umaã/V kurí/FUT indé/PRON suka/N+V upé/ADP+N ./PUNCT 
+# Pedro vai ver-te na casa dele.
+# Pedro will see you at his house.
+
+Mundawasú/N upisika/V ana/PFV aé/DEMSN+PRON suka/N+V upé/ADP+N ./PUNCT 
+# O ladrão o apanhou na casa dele.
+# The thief caught him in his house.
+
+Asarú/V remanũ/??? ambaú/V arã/ADP+FUT+SCONJ indé/PRON ./PUNCT 
+# Espero você morrer para comê-lo.
+# Hope you die to eat you.
+
+Asú/V ramé/ADP+SCONJ ,/PUNCT arasú/V se/PRON2 mimbira/N ./PUNCT 
+# Quando vou, levo meu filho.
+# When I go, I take my son.
+
+Arasú/V ramé/ADP+SCONJ timbiú/N ,/PUNCT nti/NEG apitá/V yumasisawa/N irũmu/ADP+SCONJ ./PUNCT 
+# Quando levo comida, não fico com fome.
+# When I bring food, I do not get hungry.
+
+Nti/NEG ramé/ADP+SCONJ repurakí/V ,/PUNCT indé/PRON repitá/V pirasua/A+N ./PUNCT 
+# Se não trabalhas, tu ficas pobre.
+# If you do not work, you become poor.
+
+Nti/NEG ramé/ADP+SCONJ manungara/IND rerikú/V ,/PUNCT remeẽ/V uí/N nhuntu/ADV ./PUNCT 
+# Se não tens nada, dá só farinha.
+# If you do not have anything, give just flour.
+
+Kwaíra/A ramé/ADP+SCONJ rẽ/ADVT ixé/PRON ,/PUNCT anheengari/V puranga/A+ADVA ./PUNCT 
+# Quando eu (era) ainda pequeno, cantava bem.
+# When I (was) still small, I sang well.
+
+Indé/PRON ramé/ADP+SCONJ ,/PUNCT nti/NEG aputari/V ./PUNCT 
+# Se for você, não quero.
+# If it is you, I do not want it.
+
+Asú/V murakipí/N ramé/ADP+SCONJ ./PUNCT 
+# Vou na segunda-feira.
+# I am going on Monday.
+
+Akiri/V pituna/N ramé/ADP+SCONJ ./PUNCT 
+# Durmo de noite.
+# I sleep at night.
+
+Ayuíri/V mituú/N ramé/ADP+SCONJ ./PUNCT 
+# Volto no domingo.
+# I will be back on Sunday.
+
+Amú/IND ara/N ramé/ADP+SCONJ ana/PFV ,/PUNCT paá/RPRT ,/PUNCT aintá/PRON+PRON2 upurandú/V :/PUNCT 
+# No outro dia, conta-se que eles perguntaram:
+# The other day, they are said to have asked:
+
+Nti/NEG aé/DEMSN+PRON uputari/V será/PQ indé/PRON ?/PUNCT 
+# Ele não quis você?
+# He did not want you?
+
+Mairamé/ADVNT+ADVRT+SCONJR arasú/V timbiú/N ,/PUNCT ixé/PRON nti/NEG apitá/V yumasisawa/N irũmu/ADP+SCONJ ./PUNCT 
+# Quando levo comida, eu não fico com fome.
+# When I bring food, I do not get hungry.
+
+Maria/PROPN usú/V ana/PFV suka/N+V kití/ADP ./PUNCT 
+# Maria foi para sua casa.
+# Maria went to her house.
+
+Ixé/PRON apitá/V ana/PFV se/PRON2 retama/N upé/ADP+N ./PUNCT 
+# Eu fiquei na minha terra.
+# I stayed in my land.
+
+Ixé/PRON apurungitá/V ana/PFV aikú/V mairamé/ADVNT+ADVRT+SCONJR indé/PRON rewiké/V ./PUNCT 
+# Eu estava falando quando você entrou.
+# I was just talking when you came in.
+
+Aé/DEMSN+PRON nti/NEG uyukataka/V ;/PUNCT umaã/V yepé/ART+CARD+FRUST+SCONJ iwaka/N kití/ADP ,/PUNCT unheengari/V uikú/V yepé/ART+CARD+FRUST+SCONJ nheengarisawa/N surí/A2 ./PUNCT 
+# Ele não se mexeu; olhava para o céu, estando a cantar uma canção alegre.
+# He did not move; looked at the sky, singing a happy song.
+
+Mayawé/SCONJR ixé/PRON maraari/A+V2 aikú/V yepé/ART+CARD+FRUST+SCONJ ,/PUNCT ayenũ/V se/PRON2 mimbira/N ruakí/ADP ,/PUNCT akiri/V ana/PFV ./PUNCT 
+# Como eu estava cansado, deitei-me perto de meu filho e dormi.
+# As I was tired, I lay down next to my son and slept.
+
+Se/PRON2 manha/N unheẽ/V kwera/A+PRET ixé/PRON arama/ADP+FUT+SCONJ :/PUNCT 
+# Minha mãe dizia para mim:
+# My mother used to say to me:
+
+Nhaã/DEMS se/PRON2 kurumĩ/N ./PUNCT 
+# Aquele é meu menino.
+# That is my boy.
+
+Kuxiíma/ADVT ,/PUNCT reyuri/V ramé/ADP+SCONJ kwá/ADVDX+DEMX+V kití/ADP ,/PUNCT mayé/ADVLA+ADVRA+SCONJR taá/CQ reyuri/V ?/PUNCT 
+# Antigamente, quando você veio para cá, como você veio?
+# Erstwhile, when you came here, how did you come?
+
+Kunhã/A+N surí/A2 ./PUNCT 
+# A mulher é feliz.
+# The woman is happy.
+
+Ixé/PRON se/PRON2 rakú/A2 aikú/V ./PUNCT 
+# Eu estou quente.
+# I am hot.
+
+Uka/N sakú/A+A2+ADV ./PUNCT 
+# A casa é quente.
+# The house is hot.
+
+Aé/DEMSN+PRON sakú/A+A2+ADV ./PUNCT 
+# Ela é quente.
+# She is hot.
+
+Aintá/PRON+PRON2 rakú/A2 ./PUNCT 
+# Elas são quentes.
+# They are hot.
+
+Se/PRON2 rikwé/A2+N aikú/V ./PUNCT 
+# Eu estou vivo.
+# I am alive.
+
+Kwá/ADVDX+DEMX+V wirá/N sikwé/A2+N uikú/V ./PUNCT 
+# Este pássaro está vivo.
+# This bird is alive.
+
+Maria/PROPN uyupirú/V umunhã/V timbiú/N i/PRON2 anama-itá/N supé/ADP ./PUNCT 
+# Maria começa a fazer comida para seus familiares.
+# Maria starts making food for her family members.
+
+Aputari/V apurungitá/V ne/PRON2 irũmu/ADP+SCONJ ./PUNCT 
+# Quero falar com você.
+# I want to talk to you.
+
+Pedro/PROPN usú/V upurungitá/V Maria/PROPN irũmu/ADP+SCONJ suka/N+V upé/ADP+N ./PUNCT 
+# Pedro vai falar com Maria na sua casa.
+# Pedro goes to talk to Maria at her house.
+
+Ixé/PRON axari/V usasá/V pituna/N ./PUNCT 
+# Eu deixo passar a noite.
+# I let the night goes.
+
+Maria/PROPN upiripana-putari/??? kamixá-itá/N i/PRON2 mena/N supé/ADP ./PUNCT 
+# Maria quer comprar camisas para seu marido.
+# Maria wants to buy shirts for her husband.
+
+Maria/PROPN mimbira/N upurungitá-kwáu/??? nheengatú/N ./PUNCT 
+# O filho de Maria sabe falar nheengatu.
+# Maria's son can speak Nheengatu.
+
+Amunhã-pawa/N se/PRON2 purakisawa/N ./PUNCT 
+# Acabei de fazer meu trabalho.
+# I just finished my job.
+
+Usika-pawa/N ./PUNCT 
+# Acabou de chegar.
+# Just arrived.
+
+Uyenũ-yuíri/??? ./PUNCT 
+# Voltou a deitar.
+# He went back to bed.
+
+Aputari/V Pedro/PROPN usika/V uií/ADVT ./PUNCT 
+# Quero que Pedro chegue hoje.
+# I want Pedro to arrive today.
+
+ixé/PRON ayuri/V ./PUNCT 
+# eu venho.
+# I come.
+
+indé/PRON reyuri/V ./PUNCT 
+# você vem.
+# you come.
+
+aé/DEMSN+PRON uri/V ./PUNCT 
+# ele vem.
+# he comes.
+
+aintá/PRON+PRON2 uri/V ./PUNCT 
+# eles vêm.
+# they come.

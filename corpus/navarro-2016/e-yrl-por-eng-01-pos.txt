@@ -1,0 +1,180 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:33 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Dominick Maia Alexandre
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 1st, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 1st, 2023'''
+
+Ixé/PRON kurumĩ/N ./PUNCT 
+# Eu sou menino.
+# I am a boy.
+
+Indé/PRON kunhã/A+N ./PUNCT 
+# Tu és mulher.
+# You are a woman.
+
+Aé/DEMSN+PRON apigawa/A+N ./PUNCT 
+# Ele é homem.
+# He is a man.
+
+Ixé/PRON aikú/V iké/ADVDX ./PUNCT 
+# Eu estou aqui.
+
+Yandé/PRON yasasá/V puranga/A+ADVA ./PUNCT 
+# We are well.
+
+Ixé/PRON puranga/A+ADVA ./PUNCT 
+# Eu sou bonito.
+# I am beautiful.
+
+Se/PRON2 pusé/A+A2 ./PUNCT 
+# Eu sou pesado.
+# I am heavy.
+
+kurumĩ/N puranga/A+ADVA 
+# menino bonito
+# beautiful boy
+
+Kurumĩ/N puranga/A+ADVA ./PUNCT 
+# O menino é bonito.
+# The boy is beautiful.
+
+Pedro/PROPN pisasú/A ./PUNCT 
+# Pedro é novo.
+# Pedro is young.
+
+Maria/PROPN puranga/A+ADVA ./PUNCT 
+# Maria é bonita.
+# Maria is beautiful.
+
+Ixé/PRON pisasú/A ./PUNCT 
+# Eu sou novo.
+# I am young.
+
+Puranga/A+ADVA ,/PUNCT eré/CONS ,/PUNCT peikú/V iké/ADVDX ./PUNCT 
+# É bom, ó sim, que vocês estejam aqui.
+# It is good, oh yes, that you are here.
+
+Igara/N i/PRON2 pusé/A+A2 ./PUNCT 
+# A canoa é pesada.
+# The canoe is heavy.
+
+Kurumĩ/N i/PRON2 kiá/A2 ./PUNCT 
+# O menino é sujo.
+# The boy is dirty.
+
+Igara/N pisasú/A ./PUNCT 
+# A canoa é nova.
+# The canoe is new.
+
+Apigawa/A+N puranga/A+ADVA ./PUNCT 
+# O homem é bonito.
+# The man is beautiful.
+
+ara/N puranga/A+ADVA 
+# dia bonito
+# dia bom
+# beautiful day
+# good day
+
+Puranga/A+ADVA ara/N !/PUNCT 
+# Bom dia!
+# Good morning!
+
+Yepé/ART+CARD+FRUST+SCONJ pisasú/A ara/N usika/V ./PUNCT 
+# Um novo dia chega.
+# A new day arrives.
+
+Aé/DEMSN+PRON puranga/A+ADVA uikú/V ./PUNCT 
+# Ela está bonita.
+# She is beautiful.
+
+Aé/DEMSN+PRON puranga/A+ADVA ./PUNCT 
+# Ela é bonita.
+# She is beautiful.
+
+Indé/PRON ne/PRON2 kiá/A2 ./PUNCT 
+# Tu és sujo.
+# You are dirty.
+
+Yandé/PRON yané/PRON2 pusé/A+A2 ./PUNCT 
+# Nós somos pesados.
+# We are heavy.
+
+kunhã/A+N puranga/A+ADVA 
+# mulher direita
+# proper woman
+
+Reyenũ/V puranga/A+ADVA !/PUNCT 
+# Deita direito!
+# Lie down straight!
+
+taína/N surí/A2 
+# criança alegre
+# happy child
+
+Surí/A2 ayumbué/V ./PUNCT 
+# Alegremente aprendo.
+# I happily learn.
+
+apigawa/A+N kirimbawa/A+ADVA+N 
+# homem forte
+# strong man
+
+Reyapukúi/V kirimbawa/A+ADVA+N ./PUNCT 
+# Reme com força.
+# Row hard.
+
+timbiú/N sé/A+ADVA 
+# comida gostosa
+# tasty food
+
+Repuká/V sé/A+ADVA ./PUNCT 
+# Rias gostosamente.
+# Laugh nicely.
+
+Mamé/ADVLC+ADVRC Barcelos/PROPN ?/PUNCT 
+# Onde é Barcelos?
+# Where is Barcelos?
+
+Mamé/ADVLC+ADVRC taá/CQ Barcelos/PROPN ?/PUNCT 
+# Onde é Barcelos?
+# Where is Barcelos?
+
+Mimi/ADVDI katú/A2+ADVS aé/DEMSN+PRON ./PUNCT 
+# É bem ali.
+# It is right there.
+
+Indé/PRON mimiwara/N ./PUNCT 
+# Você é de lá.
+# You are from there.
+
+Joana/PROPN mena/N 
+# marido de Joana
+# Joan's husband
+
+Pedro/PROPN igara/N 
+# canoa de Pedro
+# Pedro's canoe
+
+paranã/N ií/N 
+# água do rio
+# river water
+
+Maria/PROPN mimbira/N 
+# filho de Maria
+# Mary's son

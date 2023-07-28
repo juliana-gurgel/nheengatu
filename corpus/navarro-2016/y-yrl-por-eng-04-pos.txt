@@ -1,0 +1,47 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Payé/N titikasawa/N 
+# A profecia do pajé
+# Pajé's prophecy
+# text_orig_por = A PROFECIA DO PAJÉ
+
+# (Adermarzinho da Gaita, “O caboclo do Rio Negro”)
+
+Kwaíra/A ramé/ADP+SCONJ rẽ/ADVT ,/PUNCT paá/RPRT ,/PUNCT ixé/PRON ,/PUNCT purangamirĩ/A+ADVA suriwara/A+N aikú/V ,/PUNCT se/PRON2 manha/N usenũi/V i/PRON2 payé/N ,/PUNCT upurandú/V i/PRON2 suí/ADP :/PUNCT —/PUNCT Marã/ADVRU kwayé/ADVA se/PRON2 mbira/N ?/PUNCT 
+# Dizem que, quando eu ainda era pequeno, estando bonitinho e sorridente, minha mãe chamou seu pajé e perguntou a ele: — Por que é assim o meu filho?
+# They say that when I was little, I was cute and smiling, my mother called her pajé and asked him: — Why is my son like that?
+# text_orig_yrl = Kwaíra ramé rẽ, paá, ixé, purangamirĩ suriwara aikú, se manha usenũi i payé, upurandú i suí: — Marã kwayé se mbira? (ou mimbira)
+
+Umutawari/V ,/PUNCT paá/RPRT ,/PUNCT ariré/ADVT payé/N tuyuwé/A+N usasemu/V kwayé/ADVA :/PUNCT —/PUNCT Dona/PROPN ,/PUNCT kwá/ADVDX+DEMX+V kurumĩ/N mirĩ/A+ADV+N marupiara/A+N kurí/FUT aé/DEMSN+PRON ,/PUNCT asuí/ADVT+CCONJ kunhãwara/A+N ./PUNCT 
+# Contam que fumou tauari e, depois, o velho pajé gritou assim: — Dona, este menininho será muito sortudo e, depois, mulherengo. (bis)
+# They say he smoked tauari and afterwards the old pajé shouted like this: "Ma'am, this little boy will be very lucky and, later on, a womanizer."
+# text_orig_yrl = Umutawari, paá, ariré payé tuyuwé usasemu kwayé: — Dona, kwá kurumĩ mirĩ marupiara kurí aé, asuí kunhãwara. (bis)
+
+Yawé/ADP+ADVA+IND arasú/V aikú/V se/PRON2 rikwesawa/N awatá/V waá/REL rupí/ADP ./PUNCT 
+# Assim estou levando minha vida por onde quer que eu ande.
+# Like this I am living my life wherever I go.
+
+Ixé/PRON yepé/ART+CARD+FRUST+SCONJ kunhãwara/A+N ,/PUNCT mayepé/SCONJR utitika/V payé/N tuyuwé/A+N ./PUNCT 
+# Eu sou um mulherengo, como profetizou o velho pajé.
+# I am a womanizer, as the old pajé prophesied.
+
+Ixé/PRON yepé/ART+CARD+FRUST+SCONJ marupiara/A+N ,/PUNCT mayepé/SCONJR utitika/V payé/N tuyuwé/A+N ./PUNCT 
+# Eu sou um sortudo, como profetizou o velho pajé.
+# I am lucky, as the old pajé prophesied.

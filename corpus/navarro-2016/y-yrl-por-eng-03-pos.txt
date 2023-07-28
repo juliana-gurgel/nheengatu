@@ -1,0 +1,58 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: July 19, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: July 24, 2023'''
+
+Asú/V apinaitika/V 
+# Vou pescar (tradução nossa)
+# I'm going fishing (our translation)
+# text_orig_yrl = ASÚ APINAITIKA
+
+# (Adermarzinho da Gaita, “O caboclo do rio Negro”)
+
+Wirandé/ADVT kurí/FUT ,/PUNCT wirandé/ADVT kurí/FUT ,/PUNCT wirandé/ADVT ku’/??? apinaitika/V indé/PRON arã/ADP+FUT+SCONJ ./PUNCT 
+# Amanhã, amanhã, amanhã pescarei para você.
+# Tomorrow tomorrow, tomorrow I will fish for you.
+# text_orig_yrl = Wirandé kurí, wirandé kurí, Wirandé ku’ apinaitika indé arã (bis)
+# text_orig_por = Amanhã, amanhã, Amanhã pescarei para você.
+
+Apinaitika/V kurí/FUT kandirú/N ,/PUNCT 
+# Pescarei candiru,
+# I will fish kandirú,
+
+Apinaitika/V kurí/FUT mamaiakũ/??? 
+# Pescarei baiacu,
+# I will fish mamaiakũ
+
+Apinaitika/V kurí/FUT tariíra/N ,/PUNCT 
+# Pescarei traíra,
+# I will fish tariíra,
+
+Apinaitika/V kurí/FUT tamuatá/N ./PUNCT 
+# Pescarei tamuatá.
+# I will fish tamuatá.
+
+Asuí/ADVT+CCONJ ,/PUNCT kurí/FUT asikari/V yapurá/N ,/PUNCT puranga/A+ADVA arã/ADP+FUT+SCONJ kurí/FUT rembaú/V ./PUNCT 
+# Depois, procurarei japurá para você comer bem.
+# Then, I will look for yapurá, for you to eat well.
+# text_orig_yrl = Asuí, kurí asikari yapurá, Puranga arã kurí rembaú.
+# text_orig_por = Depois, procurarei japurá Para (você) comer bem.
+
+Asuí/ADVT+CCONJ ,/PUNCT pituna/N ramé/ADP+SCONJ ,/PUNCT reyúri/??? remusakú/V se/PRON2 putiá/N ./PUNCT 
+# Depois, de noite, Venha aquecer o meu peito.
+# Then, at night, come and warm my chest.
+# text_orig_yrl = Asuí, pituna ramé, Reyúri remusakú se putiá. (bis)

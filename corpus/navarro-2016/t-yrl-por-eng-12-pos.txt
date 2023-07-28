@@ -1,0 +1,108 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: June 15, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: June 15, 2023'''
+
+Maria/PROPN umupuranga/V suka/N+V 
+# Maria embeleza sua casa
+# Maria beautifies her home
+
+Akayú/N pausawa/N usika/V uikú/V ./PUNCT 
+# O fim do ano está chegando.
+# The end of the year is coming.
+
+Ne/PRON2 awá/IND+INT+RELF usú/V mbuesawa/N ruka/N kití/ADP kuíri/ADVT ./PUNCT 
+# Ninguém vai à escola agora.
+# Nobody goes to school now.
+
+Maria/PROPN umupitá/V amuramé/ADVT i/PRON2 amũ/N umurari/V waá/REL Barra/PROPN upé/ADP+N yepé/ART+CARD+FRUST+SCONJ yepé/ART+CARD+FRUST+SCONJ ara/N rupí/ADP ./PUNCT 
+# Maria hospeda às vezes sua irmã que mora em Manaus por alguns dias.
+# Maria sometimes hosts her sister who lives in Manaus for a few days.
+
+Sera/N Rute/PROPN ./PUNCT 
+# Seu nome é Rute.
+# Her name is Rute.
+
+Aé/DEMSN+PRON nti/NEG rẽ/ADVT usika/V ./PUNCT 
+# Ela não chegou ainda.
+# She has not arrived yet.
+
+Aé/DEMSN+PRON usika/V nhuntu/ADV amú/IND wirandé/ADVT ./PUNCT 
+# Ela chegará somente depois de amanhã.
+# She will arrive only the day after tomorrow.
+
+Nhaã/DEMS pukusawa/ADP+SCONJ muíri/INDQ+INT+TOT ara/N Maria/PROPN umupuranga/V suka/N+V ./PUNCT 
+# Enquanto isso, cada dia Maria enfeita sua casa.
+# Meanwhile, each day Maria decorates her house.
+
+Suka/N+V urikú/V mukũi/CARD+INDQ ukapí/N ./PUNCT 
+# Sua casa tem dois quartos.
+# Her house has two bedrooms.
+
+Yepesawa/ORD ukapí/N Antônio/PROPN yara/ADP+N ,/PUNCT mukũisawa/ADVO+ORD ukapí/N mamé/ADVLC+ADVRC Maria/PROPN ukiri/V i/PRON2 mena/N irũmu/ADP+SCONJ ./PUNCT 
+# O primeiro quarto é o de Antônio e o segundo quarto é onde Maria dorme com seu marido.
+# The first bedroom is Antônio's and the second bedroom is where Maria sleeps with her husband.
+
+Aé/DEMSN+PRON nti/NEG rẽ/ADVT upawa/V umunhã/V suka/N+V ./PUNCT 
+# Ela não acabou ainda de fazer sua casa.
+# She has not finished making her home yet.
+
+Aé/DEMSN+PRON umuputira/V ana/PFV ukapí-itá/N ,/PUNCT umusasá/V iwí-murutinga/N suka/N+V rupitá-itá/N resé/ADP+SCONJ ,/PUNCT umungaturú/V uka-pupekasara/N ./PUNCT 
+# Ela floriu os quartos, passou cal nas paredes de sua casa, consertou o telhado.
+# She flowered the rooms, whitewashed the walls of her house, repaired the roof.
+
+Aé/DEMSN+PRON surí/A2 retana/ADVS uikú/V ./PUNCT 
+# Ela está muito feliz.
+# She is very happy.
+
+Aé/DEMSN+PRON upurandú/V i/PRON2 mena/N suí/ADP :/PUNCT —/PUNCT Pedro/PROPN ,/PUNCT mairamé/ADVNT+ADVRT+SCONJR taá/CQ indé/PRON remupinima/V ukapí/N mamé/ADVLC+ADVRC Rute/PROPN usú/V ukiri/V ?/PUNCT 
+# Ela pergunta a seu marido: — Pedro, quando você pintará o quarto em que Rute vai dormir?
+# She asks her husband: "Pedro, when are you going to paint the room where Rute is going to sleep?"
+
+—/PUNCT Wirandé/ADVT ./PUNCT 
+# — Amanhã.
+# "Tomorrow."
+
+Ixé/PRON amupinima/V arama/ADP+FUT+SCONJ yepé/ART+CARD+FRUST+SCONJ nhaã/DEMS ukapí/N kwesé/ADVT ./PUNCT 
+# Era para eu pintar (ou ter pintado) aquele quarto ontem.
+# I was supposed to paint (or have painted) that room yesterday.
+
+Rute/PROPN urikú/V i/PRON2 mena/N ./PUNCT 
+# Rute tem seu marido.
+# Rute has her husband.
+
+Yawerã/ADVJ aé/DEMSN+PRON ururi/V kurí/FUT aé/DEMSN+PRON ./PUNCT 
+# Por isso, ela o trará.
+# Therefore, she will bring him.
+
+Maria/PROPN usú/V umupitá/V i/PRON2 amũ/N suka/N+V upé/ADP+N té/FOC+PREP+SCONJR akayú/N pisasú/A yupirungawa/N ./PUNCT 
+# Maria vai hospedar sua irmã em sua casa até o começo do ano novo.
+# Maria is going to host her sister in her house until the beginning of the new year.
+
+Rute/PROPN usasá/V kurí/FUT yepé/ART+CARD+FRUST+SCONJ yasí/N Maria/PROPN rendawa/N upé/ADP+N ./PUNCT 
+# Rute passará um mês na comunidade de Maria.
+# Rute will spend a month in Maria's community.
+
+Maria/PROPN umunhã/V kurí/FUT yepé/ART+CARD+FRUST+SCONJ murasí/N i/PRON2 xupé/ADP ./PUNCT 
+# Maria fará uma festa para ela.
+# Maria will throw a party for her.
+
+Aé/DEMSN+PRON umusurí/V kurí/FUT murasí/N nheengarisara-itá/N irũmu/ADP+SCONJ ./PUNCT 
+# Ela vai alegrar a festa com cantores.
+# She will brighten up the party with singers.

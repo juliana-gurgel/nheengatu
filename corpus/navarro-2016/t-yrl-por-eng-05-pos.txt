@@ -1,0 +1,107 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 22, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 22, 2023'''
+
+Maria/PROPN uwasemu/V yepé/ART+CARD+FRUST+SCONJ sumuara-kunhã/N 
+# Maria encontra uma amiga
+# Maria meets a friend
+
+Garapá/N upé/ADP+N Maria/PROPN uwasemu/V ana/PFV yepé/ART+CARD+FRUST+SCONJ sumuara-kunhã/N umurari/V waá/REL tawa/N upé/ADP+N ./PUNCT 
+# No porto, Maria encontrou uma amiga que mora na cidade.
+# At the port, Maria met a friend who lives in the city.
+
+Aé/DEMSN+PRON surí/A2 upitá/V ,/PUNCT asuí/ADVT+CCONJ unheẽ/V i/PRON2 xupé/ADP :/PUNCT —/PUNCT Puranga/A+ADVA karuka/N ,/PUNCT Catarina/PROPN !/PUNCT 
+# Ela ficou feliz e disse-lhe: — Boa tarde, Catarina!
+# She was happy and said to her: "Good afternoon, Catarina!"
+
+—/PUNCT Puranga/A+ADVA karuka/N ,/PUNCT Maria/PROPN !/PUNCT 
+# — Boa tarde, Maria!
+# "Good afternoon Maria!"
+
+—/PUNCT Indé/PRON muíri/INDQ+INT+TOT akayú/N taá/CQ remurari/V iké/ADVDX kwá/ADVDX+DEMX+V tawa/N upé/ADP+N ?/PUNCT 
+# — Você há quantos anos mora aqui nesta cidade?
+# "For how many years have you lived here in this city?"
+
+—/PUNCT Aikwé/EXST mukũi/CARD+INDQ akayú/N ana/PFV ayuri/V se/PRON2 retama/N suí/ADP ./PUNCT 
+# — Já há dois anos, vim da minha terra.
+# "Two years ago I came from my homeland."
+
+Ixé/PRON ayupukwáu/V ana/PFV iké/ADVDX ./PUNCT 
+# Eu me acostumei aqui.
+# I got used here.
+
+Ixé/PRON nti/NEG amandwari/V ayuíri/V se/PRON2 anama-itá/N ruka/N kití/ADP ./PUNCT 
+# Eu não penso em voltar para a casa dos meus familiares.
+# I do not think about going back to my family's house.
+
+Akwáu/V katú/A2+ADVS ixé/PRON nti/NEG ayupukwáu/V akití/ADVDI ./PUNCT 
+# Sei bem que eu não me acostumo por ali.
+# I know well that I do not get used over there.
+
+Apitá/V kurí/FUT iké/ADVDX té/FOC+PREP+SCONJR mairamé/ADVNT+ADVRT+SCONJR Tupana/N uputari/V ./PUNCT 
+# Ficarei aqui até quando Deus quiser.
+# I will stay here as long as God wants.
+
+Mayé/ADVLA+ADVRA+SCONJR taá/CQ asú/V awatá/V se/PRON2 retama/N kití/ADP amaã/V arã/ADP+FUT+SCONJ nhuntu/ADV se/PRON2 anama-itá/N ?/PUNCT 
+# Como vou andar para os lados da minha terra somente para ver meus parentes?
+# How am I going to walk to my homeland just to see my relatives?
+
+Ixé/PRON nti/NEG amandwari/V ayuíri/V akití/ADVDI ./PUNCT 
+# Eu não penso em voltar para lá.
+# I do not think about going back there.
+
+Ixé/PRON asaisú/V kwá/ADVDX+DEMX+V tetama/N kuíri/ADVT ./PUNCT 
+# Eu amo esta terra agora.
+
+—/PUNCT Kuxiíma/ADVT ,/PUNCT reyuri/V ramé/ADP+SCONJ kwá/ADVDX+DEMX+V kití/ADP ,/PUNCT mayé/ADVLA+ADVRA+SCONJR taá/CQ reyuri/V ?/PUNCT 
+# — Antigamente, quando você veio para cá, como você veio?
+# "In the old days, when you came here, how did you come?"
+
+Aikwé/EXST awá/IND+INT+RELF ururi/V indé/PRON ú/V reputari/V reyuri/V ne/PRON2 retama/N suí/ADP ne/PRON2 rupí/ADP ?/PUNCT 
+# Houve quem a trouxesse ou você quis vir da sua terra por você (mesma)?
+# Did anyone bring you here or did you want to come from your homeland by yourself?
+
+—/PUNCT Aputari/V ayuri/V se/PRON2 rupí/ADP ./PUNCT 
+# — Quis vir por mim (mesma).
+# "I wanted to come by myself."
+
+Uií/ADVT ixé/PRON se/PRON2 rurí/A2 iké/ADVDX ./PUNCT 
+# Hoje eu sou feliz aqui.
+# Today I am happy here.
+
+—/PUNCT Awá/IND+INT+RELF sumuara-itá/N taá/CQ indé/PRON rerikú/V iké/ADVDX ?/PUNCT 
+# — Quais amigos você tem aqui?
+# "What friends do you have here?"
+
+—/PUNCT Siía/INDQ sumuara/N ./PUNCT 
+# — Muitos amigos.
+# "Many friends."
+
+—/PUNCT Catarina/PROPN ,/PUNCT asarú/V indé/PRON se/PRON2 rendawa/N upé/ADP+N wirandé/ADVT ./PUNCT 
+# — Catarina, espero-a em minha comunidade amanhã.
+# "Catarina, I hope to see you in my community tomorrow."
+
+—/PUNCT Eré/CONS ./PUNCT 
+# — Certo!
+# "Right!"
+
+—/PUNCT Té/FOC+PREP+SCONJR wirandé/ADVT !/PUNCT 
+# — Até amanhã!
+# "See you tomorrow!"

@@ -1,0 +1,141 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.'
+
+Producer: Juliana Lopes Gurgel
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: March 22, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: March 22, 2023'''
+
+Maria/PROPN umbeú/V yepé/ART+CARD+FRUST+SCONJ marandua/N i/PRON2 mimbira/N supé/ADP 
+# Maria conta uma história a seu filho
+# Maria tells a story to her son
+
+Pituna/N usika/V ana/PFV ./PUNCT 
+# A noite chegou.
+# The night has come.
+
+Umbaú/V riré/ADP+SCONJ ,/PUNCT Maria/PROPN mimbira/N usú/V ukiri/V ./PUNCT 
+# Depois de comer, o filho de Maria vai dormir.
+# After eating, Maria's son goes to sleep.
+
+Aé/DEMSN+PRON uyumuakú/V i/PRON2 makira/N upé/ADP+N ./PUNCT 
+# Ele se esquenta em sua rede.
+# He warms up in his hammock.
+
+I/PRON2 manha/N upitá/V i/PRON2 makira/N ruakí/ADP umbeú/V arama/ADP+FUT+SCONJ yepé/ART+CARD+FRUST+SCONJ marandua/N i/PRON2 xupé/ADP :/PUNCT 
+# Sua mãe fica perto da rede dele para contar uma história a ele:
+# His mother stays near his hammock to tell him a story:
+
+Yepé/ART+CARD+FRUST+SCONJ ara/N ,/PUNCT paá/RPRT ,/PUNCT urubú/N nti/NEG uwasemu/V ne yepé/IND suú/N+V umanú/V waá/REL kwera/A+PRET umbaú/V arã/ADP+FUT+SCONJ ./PUNCT 
+# text_orig = "Yepé ara, paá, urubú nti uwasemu ne yepé suú umanú waá kwera umbaú arã.
+# "Dizem que, um dia, o urubu não achou nenhum animal morto (lit. que morreu) para comer.
+# They say that, one day, the vulture did not find any dead animal to eat
+
+Upitá/V sasiara/A yumasisawa/N irũmu/ADP+SCONJ ./PUNCT 
+# Ficou triste e com fome.
+# Got sad and hungry.
+
+Ape/ADVDI+ADVJ ,/PUNCT paá/RPRT ,/PUNCT uyumuruakí/V sesé/ADP wirawasú/N ./PUNCT 
+# Dizem que, então, aproximou-se dele o gavião.
+# They say that then the hawk approached him.
+
+Aintá/PRON+PRON2 uyumumurã/V ./PUNCT 
+# Eles se saudaram.
+# They saluted each other.
+
+Asuí/ADVT+CCONJ ,/PUNCT paá/RPRT ,/PUNCT wirawasú/N upurandú/V urubú/N suí/ADP :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT marantaá/ADVR sasiara/A retana/ADVS indé/PRON ?/PUNCT 
+# Depois, contam que o gavião perguntou ao urubu: — Compadre, por que você está muito triste?
+# Afterwards, they say that the hawk asked the vulture: "Compadre, why are you so sad?"
+
+Indé/PRON nti/NEG reyumusurí/V ne maã/IND irũmu/ADP+SCONJ uií/ADVT ?/PUNCT 
+# Você não se alegra com nada hoje?
+# Do you not rejoice in anything today?
+
+Urubú/N usuaxara/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT nti/NEG será/PQ rekwáu/V uií/ADVT ara/N nti/NEG puranga/A+ADVA ,/PUNCT nti/NEG umanũ/??? ne yepé/IND suú/N+V ambaú/V arama/ADP+FUT+SCONJ ?/PUNCT 
+# O urubu respondeu: — Compadre, não sabe (que) hoje o dia não é bom, (que) não morreu nenhum animal para eu comer?
+# The vulture replied: "Compadre, do you not know today is not a good day, no animal has died for me to eat?"
+
+Sesewara/ADP+N+SCONJ ixé/PRON apitá/V sasiara/A ./PUNCT 
+# Por causa disso eu fico triste.
+# Because of this I feel sad.
+
+Aintá/PRON+PRON2 uyumaã/V ./PUNCT 
+# Eles se olharam.
+# They looked at each other.
+
+Asuí/ADVT+CCONJ ,/PUNCT paá/RPRT ,/PUNCT wirawasú/N unheẽ/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT remunhã/V mayé/ADVLA+ADVRA+SCONJR se/PRON2 yawé/ADP+ADVA+IND :/PUNCT repisika/V suú/N+V sikwé/A2+N ,/PUNCT reyuká/V aé/DEMSN+PRON rembaú/V arã/ADP+FUT+SCONJ aé/DEMSN+PRON ./PUNCT 
+# Depois, contam que o gavião disse: — Compadre, faça assim como eu: pegue animal vivo, mate-o para comê-lo.
+# Afterwards, they say that the hawk said: "Compadre, do like me: catch a live animal, kill it to eat it."
+
+Ape/ADVDI+ADVJ ,/PUNCT paá/RPRT ,/PUNCT urubú/N usuaxara/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT ixé/PRON nti/NEG aputari/V amunhã/V puxiwera/A+ADVA+N suú-itá/N supé/ADP ,/PUNCT ma/ADVJ+CCONJ kuíri/ADVT ixé/PRON se/PRON2 yumasí/A2+N retana/ADVS aikú/V ./PUNCT 
+# Então, dizem que o urubu respondeu: — Compadre, eu não quero fazer mal aos animais, mas agora eu estou muito faminto.
+# So, they say that the vulture replied: "Compadre, I do not want to harm the animals, but now I am very hungry."
+
+Indé/PRON remukameẽ/V ramé/ADP+SCONJ mayé/ADVLA+ADVRA+SCONJR ixé/PRON amunhã/V arama/ADP+FUT+SCONJ ,/PUNCT amunhã/V kurí/FUT ./PUNCT 
+# Se você mostrar como é para eu fazer, eu (o) farei.
+# If you show me how to do it, I will do it.
+
+Aramé/ADVJ+ADVT té/FOC+PREP+SCONJR ,/PUNCT paá/RPRT ,/PUNCT usasá/V yepé/ART+CARD+FRUST+SCONJ wiramirĩ/N ./PUNCT 
+# Nesse momento mesmo, contam que passou um passarinho.
+# At that very moment, they say that a bird passed by.
+
+Ape/ADVDI+ADVJ ,/PUNCT paá/RPRT ,/PUNCT wirawasú/N unheẽ/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT remaã/V ne/PRON2 rangawa/N ./PUNCT 
+# Então, contam que o gavião disse: — Compadre, olhe seu exemplo.
+# So, they say that the hawk said: "Compadre, look at your example."
+
+Wiramirĩ/N kutara/ADVA piri/ADP+ADVG uwewé/V kaá/N kití/ADP ./PUNCT 
+# O passarinho mais rápido voou para o mato.
+# The fastest bird flew into the woods.
+
+Sakakwera/ADP+N wirawasú/N usú/V ,/PUNCT ma/ADVJ+CCONJ uyutuká/V :/PUNCT mirá/N rumitera/N pisãwera/V uwiké/V i/PRON2 putiá/N upé/ADP+N ./PUNCT 
+# Atrás dele foi o gavião, mas se chocou: um pedaço de tronco de árvore entrou no seu peito.
+# Behind him was the hawk, but he collided: a piece of tree trunk entered his chest.
+
+Aé/DEMSN+PRON uyumuperewa/V retana/ADVS ./PUNCT 
+# Ele se feriu muito.
+# He was very hurt.
+
+Ape/ADVDI+ADVJ ,/PUNCT paá/RPRT ,/PUNCT urubú/N usú/V sakakwera/ADP+N merupí/ADVA ,/PUNCT té/FOC+PREP+SCONJR mairamé/ADVNT+ADVRT+SCONJR umaã/V wirawasú/N ./PUNCT 
+# Então, dizem que o urubu foi atrás dele devagar, quando viu o gavião.
+# So, they say the vulture went after him slowly, when he saw the hawk.
+
+Uyatikú/V uikú/V mirá/N resé/ADP+SCONJ ./PUNCT 
+# Estava dependurado na árvore.
+# He was hanging from the tree.
+
+Asuí/ADVT+CCONJ ,/PUNCT paá/RPRT ,/PUNCT wirawasú/N unheẽ/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT puxiwera/A+ADVA+N asasá/V ./PUNCT 
+# Depois, contam que o gavião disse: — Compadre, passo mal.
+# Afterwards, they say that the hawk said: "Compadre, I feel bad."
+
+Mirá/N rumitera/N uwiké/V se/PRON2 putiá/N upé/ADP+N ./PUNCT 
+# O tronco de árvore entrou no meu peito.
+# The tree trunk entered my chest.
+
+Reyuri/V reyuka/V ixé/PRON kwá/ADVDX+DEMX+V suí/ADP !/PUNCT 
+# Vem tirar-me daqui!
+# Come get me out of here!
+
+Urubú/N usuaxara/V :/PUNCT —/PUNCT Compadre/PROPN ,/PUNCT se/PRON2 yumasí/A2+N retana/ADVS ./PUNCT 
+# O urubu respondeu: — Compadre, eu estou muito faminto.
+# The vulture replied: "Compadre, I am very hungry."
+
+Ixé/PRON nti/NEG aputari/V ayuyuká/V ./PUNCT 
+# Eu não quero me matar.
+# I do not want to kill myself.
+
+Asarú/V indé/PRON remanú/V ambaú/V arama/ADP+FUT+SCONJ indé/PRON ./PUNCT 
+# Espero você morrer para o comer.
+# I will wait you die to eat you.

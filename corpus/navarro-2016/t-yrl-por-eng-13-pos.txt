@@ -1,0 +1,116 @@
+'''Automatically POS-tagged by Nheengatagger.
+Operator: Juliana Lopes Gurgel.
+Date: Wed Jul 26 19:44:34 2023.
+Metadata of the original corpus file reproduced below.'''
+
+'''This text file contains aligned sentences in Nheengatu, Portuguese and English from the following source:
+
+NAVARRO, Eduardo de Almeida. Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica. 2. ed. São Paulo: Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2016.
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: May 15, 2022
+Reviewer: Juliana Lopes Gurgel
+Reviewed: July 19, 2023
+
+Automatically translated from Portuguese to English by CorpusTranslator.
+Translated: June 15, 2023
+Translation reviewer: Juliana Lopes Gurgel
+Reviewed: June 15, 2023'''
+
+Akayú/N pisasú/A usika/V 
+# Chega o ano novo
+# The new year arrives
+
+Akayú/N pisasú/A usika/V uikú/V ./PUNCT 
+# O ano novo está chegando.
+# The new year is coming.
+
+São/PROPN Gabriel/PROPN upé/ADP+N mira-itá/N uyumuatiri/V usarú/V arama/ADP+FUT+SCONJ pisayé/N ./PUNCT 
+# Em São Gabriel as pessoas se ajuntam para esperar a meia-noite.
+# In São Gabriel, people gather to wait for midnight.
+
+Maria/PROPN usenũi/V ana/PFV mira-itá/N upinaitikawera/V sendawa/N ruakí/ADP uri/V arama/ADP+FUT+SCONJ suka/N+V kití/ADP ./PUNCT 
+# Maria convidou pessoas que costumam pescar perto de sua comunidade para virem a sua casa.
+# Maria invited people who used to fish near her community to come to her house.
+
+Uri/V apigawa-itá/N unheengariwera/V umusurí/V arama/ADP+FUT+SCONJ murasí/N ./PUNCT 
+# Vêm homens cantadores para alegrar a festa.
+# Male singers come to brighten up the party.
+
+Pituna/N sakurana/A ./PUNCT 
+# A noite está pouco quente (morna).
+# The night is a little warm.
+
+Panhẽ/TOT mira/N usú/V ukara/N kití/ADP ./PUNCT 
+# Todas as pessoas vão para fora.
+# All people go outside.
+
+Kuíri/ADVT supí/CERT+N aintá/PRON+PRON2 uyumusurí-kwáu/V ./PUNCT 
+# Agora de fato eles podem se divertir.
+# Now they can actually enjoy themselves.
+
+Maria/PROPN usenũi/V aintá/PRON+PRON2 :/PUNCT —/PUNCT Yasú/V panhẽuka/??? kwara/N kití/ADP !/PUNCT 
+# Maria os chama: — Vamos todos para dentro de casa!
+# Maria calls them: "Let is all go indoors!"
+
+Aikwé/EXST bũa/A+INDQ timbiú/N penhẽ/PRON arama/ADP+FUT+SCONJ !/PUNCT 
+# Há muita comida para vocês!
+# There is plenty of food for you!
+
+Aikwé/EXST bũa/A+INDQ meyú-itá/N yurá/N árupi/ADP pembaú/V arama/ADP+FUT+SCONJ !/PUNCT 
+# Há grandes bijus sobre o jirau para vocês comerem!
+# There are big bijus on the jirau for you to eat!
+
+Antônio/PROPN ,/PUNCT Maria/PROPN mimbira/N ,/PUNCT uyupirú/V unheengari/V ./PUNCT 
+# Antônio, filho de Maria, começa a cantar.
+# Antônio, son of Maria, begins to sing.
+
+Aintá/PRON+PRON2 unheẽ/V i/PRON2 xupé/ADP :/PUNCT —/PUNCT Indé/PRON nheengarisararana/N ./PUNCT 
+# Dizem a ele: — Você é um mau cantor.
+# They say to him: "You are a bad singer. "
+
+Repituú/V renheengari/V !/PUNCT 
+# Pare de cantar!
+# Stop singing!
+
+Maria/PROPN unheẽ/V :/PUNCT —/PUNCT Rute/PROPN ,/PUNCT indé/PRON renheengari/V ramé/ADP+SCONJ maã/COND+IND+INT+N+REL+V ,/PUNCT panhē/??? mira/N upitá/V maã/COND+IND+INT+N+REL+V surí/A2 ./PUNCT 
+# Maria diz: — Rute, se você cantasse, toda a gente ficaria feliz.
+# Maria says: "Rute, if you sang, everyone would be happy."
+
+Panhẽ/TOT mira/N umbaú/V meyú/N ./PUNCT 
+# Todas as pessoas comem beiju.
+# All people eat beiju.
+
+Yepé/ART+CARD+FRUST+SCONJ apigawa/A+N kawera/N usika/V murasí/N upé/ADP+N ./PUNCT 
+# Um homem bêbado chega à festa.
+# A drunk man arrives at the party.
+
+Maria/PROPN uyakáu/V aé/DEMSN+PRON :/PUNCT —/PUNCT Remaã/V mamentu/ADV reikú/V !/PUNCT 
+# Maria o repreende: — Veja só onde você está!
+# Maria scolds him: "Just look where you are!"
+
+Indé/PRON nti/NEG rerikú/V tĩsawa/N ?/PUNCT 
+# Você não tem vergonha?
+# You do not have shame?
+
+Reikuntu/V mimi/ADVDI !/PUNCT 
+# Fique quieto ali!
+# Be quiet over there!
+
+Resú/V mimi/ADVDI kití/ADP !/PUNCT 
+# Vá para lá!
+# Go there!
+
+Nhaã/DEMS kawera/N uyana/V tenhuntu/ADVA usikari/V arama/ADP+FUT+SCONJ i/PRON2 igara/N :/PUNCT aé/DEMSN+PRON nti/NEG ana/PFV uwasemu/V ./PUNCT 
+# Aquele bêbado correu em vão procurando sua canoa: ele já não a encontrou.
+# That drunk ran in vain looking for his canoe: he no longer found it.
+
+Maria/PROPN unheẽ/V :/PUNCT —/PUNCT Kawera-itá/N yawé/ADP+ADVA+IND tẽ/FOC+NEGI ./PUNCT 
+# Maria diz: — Bêbados são assim mesmo.
+# Maria says: "Drunks are like that."
+
+Ne/PRON2 mairamé/ADVNT+ADVRT+SCONJR aintá/PRON+PRON2 rurí/A2 ./PUNCT 
+# Nunca são felizes.
+# They are never happy.
