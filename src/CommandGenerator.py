@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
 # Authors: Juliana Lopes Gurgel <julianalgurgel@alu.ufc.br>
-# Last update: July 27, 2023
+# Last update: July 29, 2023
 
-# This program generates commands to extract sentences in Nheengatu with occurrences of POS-tags or ambiguities and to count their occurrences in text files automatically POS-tagged by Nheengatagger.
+# This program generates commands to extract sentences in Nheengatu 
+# with occurrences of POS-tags or ambiguities and to count these occurrences 
+# in text files automatically POS-tagged by Nheengatagger.
 
 POStags = ["???", "A", "A2", "ADP", "ADV", "ADVA", "ADVC", "ADVD", "ADVDI", "ADVDX",
            "ADVG", "ADVJ", "ADVL", "ADVLA", "ADVLC", "ADVLT", "ADVM", "ADVNC", "ADVNT",
@@ -25,7 +27,7 @@ ambiguities = ["A2\+ADVS","A2\+N","A\+A2","A\+A2\+ADV","A\+ADVA","A\+ADVA\+N","A
                "COND\+IND\+INT\+N\+REL\+V","DEMSN\+PRON","FOC\+NEGI","FOC\+PREP\+SCONJR","IND\+INT\+RELF",
                "IND\+NEG","INDQ\+INT\+TOT","N\+REL","N\+V","N\+V2","PRON\+PRON2","TOT\+TOTAL\+V","V\+V2"]
 
-print('''This program generates commands to extract sentences in Nheengatu with occurrences of POS-tags or ambiguities and to count their occurrences in text files automatically POS-tagged by Nheengatagger.
+print('''This program generates commands to extract sentences in Nheengatu with occurrences of POS-tags or ambiguities and to count these occurrences in text files automatically POS-tagged by Nheengatagger.
 
 Nheengatagger available at: https://github.com/CompLin/nheengatu/tree/main/src
 
