@@ -62,11 +62,11 @@ while True:
             break
         if inpt == 'count POS-tags':
             for POS_tag in POStags:
-                print(f"""grep -E -c "/{POS_tag}+[[:space:]]" *pos.txt""")
+                print(f"""echo "$(grep -R /{POS_tag}\\  | wc -l) matches in $(grep -Rl /{POS_tag}\\  | wc -l) *pos.txt\"""")
             break
         if inpt == 'count ambiguities':
             for ambiguity in ambiguities:
-                print(f"""grep -E -c "/{ambiguity}+[[:space:]]" *pos.txt""")
+                print(f"""echo "$(grep -R /{ambiguity}\\  | wc -l) matches in $(grep -Rl /{ambiguity}\\  | wc -l) *pos.txt\"""")
             break
     except:
         print('\nInvalid input')
