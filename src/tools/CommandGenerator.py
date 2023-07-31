@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Authors: Juliana Lopes Gurgel <julianalgurgel@alu.ufc.br>
-# Last update: July 27, 2023
+# Last update: July 29, 2023
 
 # This program generates commands to extract sentences in Nheengatu 
 # with occurrences of POS-tags or ambiguities and to count these occurrences 
