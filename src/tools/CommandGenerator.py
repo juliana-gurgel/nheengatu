@@ -60,13 +60,21 @@ while True:
             for ambiguity in ambiguities:
                 print(f"grep -E '(/{ambiguity}+[[:space:]])' *pos.txt  > /home/juliana/complin/nheengatu/data/corpus/navarro-2016/corpus/occurrences_ambiguities/{ambiguity}_occurrences.txt")
             break
-        if inpt == 'count POS-tags':
+        if inpt == 'POS-tags_occurrences':
             for POS_tag in POStags:
-                print(f"""echo "$(grep -R /{POS_tag}\\  | wc -l) matches in $(grep -Rl /{POS_tag}\\  | wc -l) *pos.txt\"""")
+                print(f"""grep -E -o "(\/{POS_tag}[[:space:]])" *pos.txt | wc -l""")
             break
-        if inpt == 'count ambiguities':
+        if inpt == 'ambiguities_occurrences':
             for ambiguity in ambiguities:
-                print(f"""echo "$(grep -R /{ambiguity}\\  | wc -l) matches in $(grep -Rl /{ambiguity}\\  | wc -l) *pos.txt\"""")
+                print(f"""grep -E -o "(\/{ambiguity}[[:space:]])" *pos.txt | wc -l""")
+            break
+        if inpt == 'POS-tags_sentences':
+            for POS_tag in POStags:
+                print(f"""grep -E "(\/{POS_tag}[[:space:]])" *pos.txt | wc -l""")
+            break
+        if inpt == 'ambiguities_sentences':
+            for ambiguity in ambiguities:
+                print(f"""grep -E "(\/{ambiguity}[[:space:]])" *pos.txt | wc -l""")
             break
     except:
         print('\nInvalid input')
