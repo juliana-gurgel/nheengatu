@@ -131,13 +131,9 @@ Mayawé/SCONJR ixé/PRON maraari/A+V2 aikú/V yepé/ART+CARD+FRUST+SCONJ ,/PUNCT
 # Como eu estava cansado, deitei-me perto de meu filho e dormi.
 # As I was tired, I lay down next to my son and slept.
 
-Se/PRON2 manha/N unheẽ/V kwera/A+PRET ixé/PRON arama/ADP+FUT+SCONJ :/PUNCT 
-# Minha mãe dizia para mim:
-# My mother used to say to me:
-
-Nhaã/DEMS se/PRON2 kurumĩ/N ./PUNCT 
-# Aquele é meu menino.
-# That is my boy.
+Se/PRON2 manha/N unheẽ/V kwera/A+PRET ixé/PRON arama/ADP+FUT+SCONJ :/PUNCT —/PUNCT Nhaã/DEMS se/PRON2 kurumĩ/N ./PUNCT
+# Minha mãe dizia para mim: — Aquele é meu menino.
+# My mother used to say to me: "That is my boy".
 
 Kuxiíma/ADVT ,/PUNCT reyuri/V ramé/ADP+SCONJ kwá/ADVDX+DEMX+V kití/ADP ,/PUNCT mayé/ADVLA+ADVRA+SCONJR taá/CQ reyuri/V ?/PUNCT 
 # Antigamente, quando você veio para cá, como você veio?
