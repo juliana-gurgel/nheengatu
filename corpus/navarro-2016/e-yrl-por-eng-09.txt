@@ -176,7 +176,7 @@ I kwema.
 # Amanhece.
 # It dawns.
 
-Ee ruí.
+Se ruí.
 # Eu sangro.
 # I bleed.
 
