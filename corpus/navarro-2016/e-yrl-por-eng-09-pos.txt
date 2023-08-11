@@ -181,7 +181,7 @@ I/PRON2 kwema/N+V2 ./PUNCT
 # Amanhece.
 # It dawns.
 
-Ee/??? ruí/N+V2 ./PUNCT 
+Se/PRON2 ruí/N+V2 ./PUNCT 
 # Eu sangro.
 # I bleed.
 
