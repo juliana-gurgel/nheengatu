@@ -28,8 +28,10 @@ Aé apigawa.
 
 Ixé aikú iké.
 # Eu estou aqui.
+# I am here.
 
 Yandé yasasá puranga.
+# Nós passamos bem.
 # We are well.
 
 Ixé puranga.
