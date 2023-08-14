@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Authors: Juliana Lopes Gurgel <julianalgurgel@alu.ufc.br>
-# Last update: July 29, 2023
+# Last update: August 14, 2023
 
 # This program generates commands to extract sentences in Nheengatu 
 # with occurrences of POS-tags or ambiguities and to count these occurrences 
@@ -62,19 +62,19 @@ while True:
             break
         if inpt == 'POS-tags_occurrences':
             for POS_tag in POStags:
-                print(f"""grep -E -o "(\/{POS_tag}[[:space:]])" *pos.txt | wc -l""")
+                print(f"""grep -E -o "(\/{POS_tag}+[[:space:]])" *pos.txt | wc -l""")
             break
         if inpt == 'ambiguities_occurrences':
             for ambiguity in ambiguities:
-                print(f"""grep -E -o "(\/{ambiguity}[[:space:]])" *pos.txt | wc -l""")
+                print(f"""grep -E -o "(\/{ambiguity}+[[:space:]])" *pos.txt | wc -l""")
             break
         if inpt == 'POS-tags_sentences':
             for POS_tag in POStags:
-                print(f"""grep -E "(\/{POS_tag}[[:space:]])" *pos.txt | wc -l""")
+                print(f"""grep -E "(\/{POS_tag}+[[:space:]])" *pos.txt | wc -l""")
             break
         if inpt == 'ambiguities_sentences':
             for ambiguity in ambiguities:
-                print(f"""grep -E "(\/{ambiguity}[[:space:]])" *pos.txt | wc -l""")
+                print(f"""grep -E "(\/{ambiguity}+[[:space:]])" *pos.txt | wc -l""")
             break
     except:
         print('\nInvalid input')
