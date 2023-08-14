@@ -38,9 +38,9 @@ Type 'POS-tag' if you want to generate a command for one specific POS-tag in amb
 
 Type 'ambiguities' if you want to generate commands for all ambiguities.
 
-Type 'count POS-tags' if you want to generate commands to count the occurrences of all POS-tags.
+Type 'count POS-tags' if you want to generate commands to count sentences with occurrences of all POS-tags.
 
-Type 'count ambiguities' if you want to generate commands to count the occurrences of all ambiguities.
+Type 'count ambiguities' if you want to generate commands to count sentences with occurrences of all ambiguities.
 ''')
 
 while True:
