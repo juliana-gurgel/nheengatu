@@ -4,7 +4,7 @@
 
 # This program extracts ambiguities from sentences POS-tagged by Nheengatagger contained in all files in a directory.
 
-# Usage:
+# Usage in Linux command line:
 
 # To extract all occurrences of ambiguities from the files:
 # ls <path-of-directory> *.txt | xargs -I {} python <path-of-directory> AmbiguitiesExtractor.py {} > file-1.txt
