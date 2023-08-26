@@ -30,3 +30,4 @@ build-backend = "poetry.core.masonry.api"
 
 [project.urls]
 "Bug Tracker" = "https://github.com/juliana-gurgel/nheengatu/tree/main/src/NheengataggerDisambiguator"
+
