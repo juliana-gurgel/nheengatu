@@ -47,29 +47,18 @@ Para gerar a tabela de contexto a partir de um corpus etiquetado pelo Nheengatag
 ```
 desambiguador [--log-level=<log-level>] contexto <path-of-corpus> <path-of-tagset> --out <path-of-contexto>
 ```
-Para desambiguar um conjunto de arquivos em um diretório:
-```
-desambiguador [--log-level=<log-level>] corpus <path-of-corpus> --contexto <path-of-contexto>
-```
 Para desambiguar uma sentença:
 ```
 desambiguador [--log-level=<log-level>] sentenca <sentenca> --contexto <path-of-contexto>
+```
+Para desambiguar um conjunto de arquivos em um diretório:
+```
+cat <path-of-directory>*.txt | grep -v '^#' | grep -v '^$' | gawk 'NR>7 {print}' | xargs -I {} desambiguador --log-level=INFO sentenca {} --contexto <path-of-contexto>
 ```
 Informações:
 ```
 desambiguador (--h | --help)
 desambiguador (--v | --version)
-```
-Exemplos de uso:
-```
-# Para gerar a tabela de contexto a partir de um corpus etiquetado pelo Nheengatagger:
-desambiguador --log-level=DEBUG contexto /home/user/Documents/desambiguador-nheengatu/data/navarro-2016/ /home/user/Documents/desambiguador-nheengatu/data/tagset.xlsx --out /home/user/Documents/desambiguador-nheengatu/data/contexto.csv
-
-# Para desambiguar um conjunto de arquivos em um diretório:
-desambiguador --log-level=DEBUG corpus /home/user/Documents/desambiguador-nheengatu/data/corpus --frequencia /home/user/Documents/desambiguador-nheengatu/data/contexto.csv
-
-# Para desambiguar uma sentença:
-desambiguador sentenca 'Ara/N puranga/A+ADV !/PUNCT' --contexto /home/user/Documents/desambiguador-nheengatu/data/contexto.csv
 ```
 Os comandos ficam salvos em um arquivo de histórico, usualmente no diretório raiz do usuário (`$HOME`)
 
