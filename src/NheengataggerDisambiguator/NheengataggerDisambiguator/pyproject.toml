@@ -1,20 +1,20 @@
 [tool.poetry]
-name = "desambiguador-nheengatu"
+name = "NheengataggerDisambiguator"
 version = "0.1.0"
-description = "Desambiguador para língua Nheengatu"
+description = "Pacote Python para desambiguar sentenças em nheengatu etiquetadas automaticamente pelo Nheengatagger."
 authors = [
   "Juliana Gurgel <julianagurgel@letras.ufc.br>",
   "Victor Santos <victor_santos@fisica.ufc.br>",
 ]
 license = "LGPL-2.1-only"
 readme = "README.md"
-homepage = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu"
-repository = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu"
-keywords = ["nheengatu", "linguistics"]
-packages = [{include = "desambiguador_nheengatu"}]
+homepage = "https://github.com/juliana-gurgel/nheengatu/tree/main/src/NheengataggerDisambiguator"
+repository = "https://github.com/juliana-gurgel/nheengatu/tree/main/src/NheengataggerDisambiguator"
+keywords = ["nheengatu", "linguistics", "postagging"]
+packages = [{include = "disambiguator_src"}]
 
 [tool.poetry.scripts]
-desambiguador = 'desambiguador_nheengatu.cli:cli'
+desambiguador = 'disambiguator_src.cli:cli'
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -29,4 +29,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [project.urls]
-"Bug Tracker" = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu/-/issues"
+"Bug Tracker" = "https://github.com/juliana-gurgel/nheengatu/tree/main/src/NheengataggerDisambiguator"
