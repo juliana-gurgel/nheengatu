@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "desambiguador-nheengatu"
+version = "0.1.0"
+description = "Desambiguador para língua Nheengatu"
+authors = [
+  "Juliana Gurgel <julianagurgel@letras.ufc.br>",
+  "Victor Santos <victor_santos@fisica.ufc.br>",
+]
+license = "LGPL-2.1-only"
+readme = "README.md"
+homepage = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu"
+repository = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu"
+keywords = ["nheengatu", "linguistics"]
+packages = [{include = "desambiguador_nheengatu"}]
+
+[tool.poetry.scripts]
+desambiguador = 'desambiguador_nheengatu.cli:cli'
+
+[tool.poetry.dependencies]
+python = "^3.8"
+docopt = "^0.6.2"
+pandas = "^2.0.1"
+llist = "^0.7.1"
+openpyxl = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[project.urls]
+"Bug Tracker" = "https://gitlab.com/padawanphysicist/desambiguador-nheengatu/-/issues"
