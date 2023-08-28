@@ -1,0 +1,155 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 11:58:02 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Mairamé arikú puyepé akayú amaã, yepé ara, yepé sangawa amurupí retana, yepé papera resé kaawasú resewara sera waá Mbeusawa uyusasá ana waá-itá.
+# Certa vez, quando eu tinha seis anos, vi uma bela foto em um livro sobre a floresta tropical chamado Histórias da Vida Real.
+# When I was six years old I once saw a beautiful picture in a book about the rainforest called Real Life Stories.
+# Lorsque j’avais six ans j’ai vu, une fois, une magnifique image, dans un livre sur la forêt vierge qui s’appelait Histoires vécues. 
+
+Aé umukameẽ yepé buyawasú umukuna uikú waá yepé suú kaapura.
+# Representava uma boa cobra engolindo uma fera.
+# It depicted a boa snake swallowing a beast.
+# Ça représentait un serpent boa qui avalait un fauve. 
+
+Xukúi sangawa.
+# Aqui está a cópia do desenho.
+# Here is the copy of the drawing.
+# Voilà la copie du dessin. 
+
+Papera unheẽ: “Buyawasú-itá umukuna aintá rimiara pawa usuú-suú-íma aintá. Asuí aintá ti ukataka-kwáu, aintá ukíri puyepé yasí aintá apú pukusawa.”
+# O livro dizia: “As jibóias engolem suas presas inteiras, sem mastigá-las. Então eles não conseguem se mover e dormem durante os seis meses de sua digestão.”
+# The book said: “Boa constrictors swallow their prey whole, without chewing it. Then they cannot move and they sleep for the six months of their digestion.”
+# On disait dans le livre: “Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion.” 
+
+Aramé amanduari retana kaá mbeusawa-itá resé asuí, se rupí tẽ, amunhã- kwáu, yepé pinimasara rupiara irumu, se yepesawa kwatiarisawa.
+# Pensei então muito nas aventuras da selva e, por sua vez, consegui, com um lápis de cor, fazer meu primeiro desenho.
+# I then thought a lot about the adventures of the jungle and, in turn, I succeeded, with a colored pencil, in drawing my first drawing.
+# J’ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j’ai réussi, avec un crayon de couleur, à tracer mon premier dessin. 
+
+Se yepesawa kwatiarisawa. Yawé tẽ upitá: Amukameẽ se munhangawa puranga piri mira-itá turusú ana waá-itá supé, asuí apurandú aintá suí sa se kwatiarisawa umusikié aintá.
+# Meu desenho número 1. Foi assim: mostrei minha obra-prima para os adultos e perguntei se meu desenho os assustava.
+# My drawing number 1. It was like this: I showed my masterpiece to grown-ups and asked them if my drawing scared them.
+# Mon dessin numéro 1. Il était comme ça: J’ai montré mon chef-d’œuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur. 
+
+Aintá usuaxara kwayé-ntu: “Marã taá maã yepé xapewa umusikié?”
+# Eles me responderam: “Por que um chapéu seria assustador?”
+# They answered me: “Why would a hat be scary?”
+# Elles m’ont répondu: “Pourquoi un chapeau ferait-il peur?” 
+
+Se kwatiarisawa ti umukameẽ yepé xapewa.
+# Meu desenho não representava um chapéu.
+# My drawing did not represent a hat.
+# Mon dessin ne représentait pas un chapeau. 
+
+Aé umukameẽ yepé buyawasú i apú waá erepanti kwera resewara.
+# Representava uma boa cobra digerindo um elefante.
+# It depicted a boa snake digesting an elephant.
+# Il représentait un serpent boa qui digérait un éléphant. 
+
+Aramé akwatiari buyawasú i pira kwara rupí mira-itá turusú tá umaã-kwáu arama puranga piri.
+# Desenhei então o interior da jibóia, para que os adultos pudessem entender.
+# I then drew the inside of the boa snake, so that grown-ups could understand.
+# J’ai alors dessiné l’intérieur du serpent boa, afin que les grandes personnes puissent comprendre. 
+
+Ti ramé yamusakakanga puranga pawa, aintá ti upisika puranga.
+# Eles sempre precisam de explicações.
+# They always need explanations.
+# Elles ont toujours besoin d’explications. 
+
+Yawé upitá se mukũisáwa kwatiarisawa: Mira-itá turusú tá umungitá ixé se resarái arama buyawasú kwatiarisawa-itá suí, ayumbué arama puranga piri iwí-kwausawa, mirasawa-itá marandua, paparisawa asuí yané nheenga.
+# Meu desenho número 2 foi assim: Os adultos me aconselharam a deixar de lado os desenhos de jibóias abertos ou fechados e focar em geografia, história, aritmética e gramática.
+# My drawing number 2 was like this: Grown-ups advised me to leave open or closed boa snake drawings aside, and focus instead on geography, history, arithmetic, and grammar.
+# Mon dessin numéro 2 était comme ça: Les grandes personnes m’ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire. 
+
+Yawé, puyepé akayú irumu, axari se suí yepé puranga murakí kwatiarisara yawé.
+# Foi assim que desisti, aos seis anos, de uma magnífica carreira de pintor.
+# This is how I gave up, at the age of six, a magnificent career as a painter.
+# C’est ainsi que j’ai abandonné, à l’âge de six ans, une magnifique carrière de peintre. 
+
+Se rimutara uyaruka nhaãsé mira-itá turusú ti uwasemu se kwatiarisawa-itá puranga.
+# Fiquei desanimado com o fracasso do meu desenho número 1 e do meu desenho número 2.
+# I had been discouraged by the failure of my drawing number 1 and my drawing number 2.
+# J’avais été découragé par l’insuccès de mon dessin numéro 1 et de mon dessin numéro 2. 
+
+Mira-itá turusú ti usika tá ukwáu nẽ maã aintá rupí tẽ, sesewara taína-itá upitá tá kweré retana, nhaãsé, panhẽ mairamé, tá urikuté umbué pawa mira-itá turusú supé.
+# Os adultos nunca entendem nada sozinhos, e é cansativo para as crianças dar-lhes sempre e sempre explicações...
+# Grown-ups never understand anything on their own, and it's tiring for children to always and always give them explanations...
+# Les grandes personnes ne comprennent jamais rien toutes seules, et c’est fatigant, pour les enfants, de toujours et toujours leur donner des explications… 
+
+Aramé arikuté aparawaka amú murakí asuí ayumbué atiari pepusantá.
+# Então tive que escolher outro emprego e aprendi a pilotar aviões.
+# So I had to choose another job and I learned to fly planes.
+# J’ai donc dû choisir un autre métier et j’ai appris à piloter des avions. 
+
+Awewé ana xinga Iwí pawa ara rupí.
+# Já voei por todo o mundo.
+# I have flown all over the world.
+# J’ai volé un peu partout dans le monde. 
+
+Iwí-kwausawa, supí, upitimũ retana ixé.
+# E a geografia, é verdade, me serviu muito.
+# And geography, it is true, has served me a lot.
+# Et la géographie, c’est exact, m’a beaucoup servi. 
+
+Aramé yeperesé amaã-kwáu amurupí China Arizona suí.
+# Soube reconhecer, à primeira vista, a China do Arizone.
+# I knew how to recognize, at first glance, the China of the Arizone.
+# Je savais reconnaître, du premier coup d’œil, la Chine de l’Arizone. 
+
+Kwá upitimũ retana mairamé yayusupari pituna ramé.
+# Isto é muito útil se você se perder durante a noite.
+# This is very useful if you got lost during the night.
+# C’est très utile, si l’on s’est égaré pendant la nuit. 
+
+Yawé, se rikwesawa pukusawa, akwáu ana siía mira musarái-íma-wera waá- itá.
+# Tive assim, durante a minha vida, muitos contactos com muitas pessoas sérias.
+# I thus had, during my life, heaps of contacts with heaps of serious people.
+# J’ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux. 
+
+Aikú ana retana mira-itá turusú irumu. Akwáu aintá puranga retana, ma kwá ti upitimũ retana ixé awasemu arama aintá mira katú piri.
+# Convivi muito com adultos. Eu os vi muito de perto. Realmente não melhorou minha opinião.
+# I have lived a lot with grown-ups. I saw them very closely. It did not really improve my opinion.
+# J’ai beaucoup vécu chez les grandes personnes. Je les ai vues de très près. Ça n’a pas trop amélioré mon opinion. 
+
+Mairamé asuantí yepé mira turusú ukwawara xinga waá, apuranduwera i suí se rangawa yepesawa resewara, amukaturú rẽ waá se irumu.
+# Quando conheci uma que me parecia um pouco lúcida, experimentei nela o meu desenho número 1 que sempre guardei.
+# When I met one who seemed a little lucid to me, I experimented on her with my drawing number 1 which I have always kept.
+# Quand j’en rencontrais une qui me paraissait un peu lucide, je faisais l’expérience sur elle de mon dessin numéro 1 que j’ai toujours conservé. 
+
+Akwáu-putari sa aé ukwawara tẽ.
+# Eu queria saber se ela era realmente compreensiva.
+# I wanted to know if she was really understanding.
+# Je voulais savoir si elle était vraiment compréhensive. 
+
+Ma, panhẽ mairamé, nhaã mira usuaxara ixé arama: “Kwá yepé xapewa”.
+# Mas ela sempre me respondia: “É um chapéu”.
+# But she always answered me: “It’s a hat”.
+# Mais toujours elle me répondait: “C’est un chapeau”. 
+
+Aramé ti ana apurungitá buyawasú resé, nẽ kaawasú resé, nẽ yasitatá resé. Amunhã-ntu i yawé.
+# Então não falei com ele sobre cobras, ou florestas virgens, ou estrelas. Eu me coloquei ao alcance.
+# So I didn't talk to him about boa snakes, or virgin forests, or stars. I put myself within reach.
+# Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni de d’étoiles. Je me mettais à sa portée. 
+
+Apurungitá tetama-itá ruixawa-itá resé asuí muamundewa-itá resé.
+# Conversei com ele sobre bridge, golfe, política e gravatas.
+# I talked to him about bridge, golf, politics and ties.
+# Je lui parlais de bridge, de golf, de politique et de cravates. 
+
+Yawé nhaã mira turusú surí retana upitá, ukwáu resewara yepé apigawa mayé i yawé...
+# E o adulto ficou muito feliz em conhecer um homem tão razoável...
+# And the grown-up was very happy to know such a reasonable man...
+# Et la grande personne était bien contente de connaître un homme aussi raisonnable... 
