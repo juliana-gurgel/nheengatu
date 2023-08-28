@@ -1,0 +1,76 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:06:31 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Amú iwaka-retama upé umurari yepé kawera.
+# O próximo planeta era habitado por um bebedor.
+# The next planet was inhabited by a drinker.
+# La planète suivante était habitée par un buveur. 
+
+Muruxawamirĩ upitá xinga-ntu mimi, ma kwayé tẽ nhaã tendawa uxari aé sasiara retana.
+# Esta visita foi muito curta, mas mergulhou o principezinho numa grande melancolia:
+# This visit was very short but it plunged the little prince into a great melancholy:
+# Cette visite fut très courte mais elle plongea le petit prince dans une grande mélancolie: 
+
+- Maá taá remunhã iké? - muruxawamirĩ upurandú kawera suí, ukirirĩ uikú waá kawĩ rirú riía ruakí, yepé-yepé teresemu-íma asuí amu-itá teresemu.
+# "O que você está fazendo aqui? ele disse ao bebedor, que encontrou sentado em silêncio diante de uma coleção de garrafas vazias e de uma coleção de garrafas cheias.
+# "What are you doing here? he said to the drinker, whom he found seated in silence before a collection of empty bottles and a collection of full bottles.
+# “Que fais-tu là? dit-il au buveur, qu’il trouva installé en silence devant une collection de bouteilles vides et une collection de bouteilles pleines. 
+
+- Akaú - kawera usuaxara sasiara xinga.
+# - Eu bebo, respondeu o bebedor, com ar pesaroso.
+# - I drink, answered the drinker, with a mournful air.
+# - Je bois, répondit le buveur, d’un air lugubre. 
+
+- Marã taá rekaú? - muruxawamirĩ upurandú i suí.
+# - Por que você está bebendo? perguntou o pequeno príncipe.
+# - Why are you drinking? asked the little prince.
+# - Pourquoi bois-tu? lui demanda le petit prince. 
+
+- Se resarái arã - usuaxara kawera.
+# - Para esquecer, respondeu o bebedor.
+# - To forget, answered the drinker.
+# - Pour oublier, répondit le buveur. 
+
+- Maã taá reputari ne resarái? - upurandú muruxawamirĩ, sasiara ana uikú waá sesewara.
+# - Para esquecer o quê? perguntou o principezinho que já sentia pena dele.
+# - To forget what? inquired the little prince who was already feeling sorry for him.
+# - Pour oublier quoi? s’enquit le petit prince qui déjà le plaignait. 
+
+- Se resarái arã asaã tĩsáwa - kawera unheẽ umuyawika i akanga.
+# - Para esquecer que tenho vergonha, confessou o bebedor, abaixando a cabeça.
+# - To forget that I'm ashamed, confessed the drinker, lowering his head.
+# - Pour oublier que j’ai honte, avoua le buveur en baissant la tête. 
+
+- Tĩsáwa maã resewara? - upurandú muruxawamirĩ, upitimũ-putari waá aé.
+# - Vergonha de quê? perguntou o principezinho, que queria ajudá-lo.
+# - Ashamed of what? inquired the little prince, who wanted to help him.
+# - Honte de quoi? s’informa le petit prince qui désirait le secourir. 
+
+- Tĩsáwa akaú resewara! - kawera unheẽ, asuí uikuntu amú í.
+# - Que vergonha beber!” finalizou o bebedor que se fechou definitivamente em silêncio.
+# - Shame to drink!” finished the drinker who shut himself up definitively in silence.
+# - Honte de boire!” acheva le buveur qui s’enferma définitivement dans le silence. 
+
+Ariré muruxawamirĩ usú rẽ i suí, i akanhemu xinga.
+# E o principezinho foi embora, perplexo.
+# And the little prince went away, perplexed.
+# Et le petit prince s’en fut, perplexe. 
+
+“Mira-itá turusú amurupí retana, tá amurupí retana tẽ”, umanduari muruxawamirĩ i watasawa pukusawa.
+# “Os adultos são definitivamente muito, muito estranhos”, disse ele para si mesmo durante a viagem.
+# “Grownups are definitely very, very weird,” he said to himself during the trip.
+# “Les grandes personnes sont décidément très très bizarres”, se disait-il en lui-même durant le voyage. 
+

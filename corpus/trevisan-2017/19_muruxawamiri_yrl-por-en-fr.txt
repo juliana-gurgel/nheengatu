@@ -1,0 +1,81 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:12:47 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Muruxawamirĩ uyupiri yepé iwitera iwaté.
+# O pequeno príncipe escalou uma alta montanha.
+# The little prince climbed a high mountain.
+# Le petit prince fit l’ascencion d’une haute montagne. 
+
+Aé ukwáu-ntu iwitera-itá urikú waá senipiã iwatesawa mayé musapiri iwitepuka setama suiwara yawé.
+# As únicas montanhas que ele conheceu foram os três vulcões na altura dos joelhos.
+# The only mountains he had ever known were the three knee-high volcanoes.
+# Les seules montagnes qu’il eût jamais connues étaient les trois volcans qui lui arrivaient au genou. 
+
+Muruxawamirĩ supé, iwitepuka uwéu uikú waá mayé wapikawamirĩ yawé.
+# E ele usou o vulcão extinto como banquinho.
+# And he used the extinct volcano as a stool.
+# Et il se servait du volcan éteint comme d’un tabouret. 
+
+“Yepé iwitera iwaté árupi mayé nhaã yawé”, umanduari muruxawamirĩ, “amaã kurí Iwí pawa asuí panhẽ mira…”
+# “De uma montanha tão alta como esta, disse para si mesmo, de repente verei todo o planeta e todos os homens…”
+# “From a mountain as high as this, he said to himself, I shall suddenly see the whole planet and all men…”
+# “D’une montagne haute comme celle-ci, se dit-il donc, j’apercevrai d’un coup toute la planète et tous les hommes…” 
+
+Ma umaã-ntu itá sakapirawara mayé awí-itá yawé.
+# Mas ele não viu nada além de agulhas afiadas de rocha.
+# But he saw nothing but sharp needles of rock.
+# Mais il n’aperçut rien que des aiguilles de roc bien aiguisées. 
+
+- Yané ara - unheẽ aé tenhuntu.
+# “Olá,” ele disse casualmente.
+# “Hello,” he said casually.
+# “Bonjour, dit-il à tout hasard. 
+
+- Yané ara… Yané ara… Yané ara… - usuaxara itá-nheenga.
+# - Alô... Alô... Alô..., respondeu o eco.
+# - Hello... Hello... Hello..., answered the echo.
+# - Bonjour... Bonjour... Bonjour..., répondit l’écho. 
+
+- Awá taá indé? - unheẽ muruxawamirĩ.
+# - Quem é você? disse o pequeno príncipe.
+# - Who are you? said the little prince.
+# - Qui êtes-vous? dit le petit prince. 
+
+- Awá taá indé... awá taá indé... awá taá indé... - usuaxara itá-nheenga.
+# - Quem é você... quem é você... quem é você..., respondeu o eco.
+# - Who are you... who are you... who are you..., answered the echo.
+# - Qui êtes-vous... qui êtes-vous... qui êtes-vous..., répondit l’écho. 
+
+- Aputari penhẽ se rumuara-itá arama, anhuíra aikú... - unheẽ aé.
+# - Sejam meus amigos, estou sozinho, disse ele.
+# - Be my friends, I am alone, he said.
+# - Soyez mes amis, je suis seul, dit-il. 
+
+- Anhuíra aikú... anhuíra aikú... anhuíra aikú... - usuaxara itá-nheenga.
+# - Estou sozinho... estou sozinho... estou sozinho...”, respondeu o eco.
+# - I am alone... I am alone... I am alone...”, answered the echo.
+# - Je suis seul... je suis seul... je suis seul...”, répondit l’écho. 
+
+“Kwá tetama amurupí retana!”, umanduari aramé. “Iké tikangawara pá, sakapirawara pá, yukirawara pá. Asuí mira-itá umanduariwara mayé amú-itá yawé.
+# “Que planeta engraçado! ele pensou então. Está tudo seco, picante e salgado. E as pessoas não têm imaginação.
+# “What a funny planet! he thought then. It's all dry, and all sharp and all salty. And people lack imagination.
+# “Quelle drôle de planète! pensa-t-il alors. Elle est toute sèche, et toute pointue et toute salée. Et les hommes manquent d’imagination. 
+
+Aintá nẽ mairamé unheẽ manungara amurupí… Se retama upé arikú yepé putira: panhẽ mairamé aé upurungitá se renundé.
+# Eles repetem o que lhes dizem... Em casa eu tinha uma flor: ela sempre falava primeiro...”
+# They repeat what they are told... At home I had a flower: she always spoke first...”
+# Ils répètent ce qu’on leur dit... Chez moi j’avais une fleur: elle parlait toujours la première…” 
+

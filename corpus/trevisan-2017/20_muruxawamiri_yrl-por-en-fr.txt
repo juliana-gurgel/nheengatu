@@ -1,0 +1,91 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:13:08 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Ma muruxawamirĩ, uwatá retana riré iwikuí rapé-itá rupí, itá rapé-itá rupí asuí tendawa-itá irusanga rupí, aé uwasemu yepé pewasú.
+# Mas aconteceu que o principezinho, depois de muito caminhar pelas areias, pedras e neves, finalmente descobriu um caminho.
+# But it happened that the little prince, having walked for a long time through sands, rocks and snows, finally discovered a road.
+# Mais il arriva que le petit prince, ayant longtemps marché à travers les sables, les rocs et les neiges, découvrit enfin une route. 
+
+Pewasú-itá, panhẽ aintá usika té mira-itá.
+# E todas as estradas vão para os homens.
+# And the roads all go to men.
+# Et les routes vont toutes chez les hommes. 
+
+- Yané ara! - unheẽ aé.
+# "Olá", disse ele.
+# "Hello," he said.
+# “Bonjour”, dit-il. 
+
+Aikwé ape yepé putira-itá piranga riía.
+# Era um jardim cheio de rosas.
+# It was a garden full of roses.
+# C’était un jardin fleuri de roses. 
+
+- Yané ara! - unheẽ putira-itá piranga.
+# - “Olá”, disseram as rosas.
+# - “Hello”, said the roses.
+# - “Bonjour”, dirent les roses. 
+
+Muruxawamirĩ umaã aintá resé. Panhẽ aintá mayé i putira yawé.
+# O pequeno príncipe olhou para eles. Todos pareciam sua flor.
+# The little prince looked at them. They all looked like his flower.
+# Le petit prince les regarda. Elles ressemblaient toutes à sa fleur. 
+
+- Awá taá penhẽ? - upurandú aé i akanhemu.
+# "Quem é você? ele perguntou a eles, surpreso.
+# "Who are you? he asked them, amazed.
+# “Qui êtes-vous? leur demanda-t-il, stupéfait. 
+
+- Yandé putira-itá piranga - usuaxara aintá.
+# - Somos rosas, disseram as rosas.
+# - We are roses, said the roses.
+# - Nous sommes des roses, dirent les roses. 
+
+- Ah! - unheẽ muruxawamirĩ.
+# - Oh!" disse o pequeno príncipe...
+# - Oh!” said the little prince...
+# - Ah!” fit le petit prince... 
+
+Aé upitá sasiara retana. I putira unheẽ i xupé aé yepé putira amurupí panhẽ suí.
+# E ele se sentiu muito infeliz. Sua flor lhe disse que ela era a única de sua espécie no universo.
+# And he felt very unhappy. Her flower had told her that she was the only one of her kind in the universe.
+# Et il se sentit très malheureux. Sa fleur lui avait raconté qu’elle était seule de son espèce dans l’univers. 
+
+Ma aé umaã, nhaã putiratiwa upé-ntu, siía putira mayé i yara yawé.
+# E eis que havia cinco mil deles, todos iguais, num só jardim!
+# And behold, there were five thousand of them, all alike, in one garden!
+# Et voici qu’il en était cinq mille, toutes semblables, dans un seul jardin! 
+
+“Se putira upitá maã tĩsáwa irumu”, umanduari aé, “aé umaã ramé maã kwa putira-itá... aramé utusé maã asuí unheẽ maã aé umanũ ana uikú ti arã-ntu uyumaã tĩsáwa retana irumu.
+# “Ela ficaria muito chateada, pensou ele, se visse isso... tossiria muito e fingiria que estava morta para escapar do ridículo.
+# “She would be very upset, he thought, if she saw that... she would cough a lot and pretend to die to escape ridicule.
+# “Elle serait bien vexée, se dit-il, si elle voyait ça... elle tousserait énormément et ferait semblant de mourir pour échapper au ridicule. 
+
+Sesewara arikuté maã apisirũ aé, nhaãsé araneíma aé umanũ-putari maã supí umumirĩ arã-ntu ixé.
+# E eu teria que fingir que cuidava dela, porque senão, para me humilhar também, ela se deixaria morrer mesmo...”
+# And I would have to pretend to take care of her, because otherwise, to humiliate myself too, she would really let herself die...”
+# Et je serais bien obligé de faire semblant de la soigner, car, sinon, pour m’humilier moi aussi, elle se laisserait vraiment mourir...” 
+
+Ariré umanduari rẽ: “Se rurí kwera arikú yepé putira resewara amurupí amú-itá suí, ma maã arikú supí yepé putira mayé amú-itá yawé. Yepé putira asuí musapiri iwitepuka urikú waá se renipiã iwatesawa, asuí araneíma yepé iwitepuka-itá suí ti kurí uyuíri upuka amú í. Kwá maã-itá ti umuyeréu ixé yepé muruxawa supí arã…”
+# Então ele disse novamente para si mesmo: “Achei que era rico com uma única flor e só tenho uma rosa comum. Isso e meus três vulcões na altura dos joelhos, um dos quais pode estar extinto para sempre, não fazem de mim um grande príncipe..."
+# Then he said to himself again: “I thought I was rich with a single flower, and I only have an ordinary rose. That and my three knee-high volcanoes, one of which may be extinct forever, doesn't make me a great prince..."
+# Puis il se dit encore: “Je me croyais riche d’une fleur unique, et je ne possède qu’une rose ordinaire. Ça et mes trois volcans qui m’arrivent au genou, et dont l’un, peut-être, est éteint pour toujours, ça ne fait pas de moi un bien grand prince...” 
+
+Asuí, aé uyaxiú uyenũ kapiĩ resé.
+# E, deitado na grama, ele chorou.
+# And, lying in the grass, he wept.
+# Et, couché dans l’herbe, il pleura. 
+

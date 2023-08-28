@@ -1,0 +1,251 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 11:59:49 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Asuí ayumbué amú maã sesewara: iwaka-retama masuí muruxawamirĩ uri, aé kwera turusú piri xinga yepé uka suí!
+# Aprendi assim uma segunda coisa muito importante: o seu planeta natal era pouco maior que uma casa!
+# I had thus learned a second very important thing: it was that his home planet was barely larger than a house!
+# J’avais ainsi appris une seconde chose très importante: c’est que sa planète d’origine était à peine plus grande qu’une maison! 
+
+Ma kwá ti umuakanhemu ixé.
+# Não poderia me surpreender muito.
+# It could not surprise me much.
+# Ça ne pouvait pas m’étonner beaucoup. 
+
+Akwáu ti aikwé anhũ iwaka-retama turusú mayé Iwí, Yupiteri, Máriti u Wénusi yawé, tá urikú ana waá aintá rera, ma aikwé yuíri amú-itá, kwaíra retana, ti waá-itá yamaã-kwáu nẽ yasitatá-maãsára irumu.
+# Eu sabia muito bem que, além dos grandes planetas como a Terra, Júpiter, Marte, Vênus, aos quais foram dados nomes, existem centenas de outros que às vezes são tão pequenos que é muito difícil vê-los através do telescópio.
+# I knew very well that apart from the big planets like Earth, Jupiter, Mars, Venus, to which names have been given, there are hundreds of others which are sometimes so small that it is very difficult to see them through the telescope.
+# Je savais bien qu’en dehors des grosses planètes comme la Terre, Jupiter, Mars, Vénus, auxquelles on a donné des noms, il y a en a des centaines d’autres qui sont quelquefois si petites qu’on a beaucoup de mal à les apercevoir au télescope. 
+
+Mairamé yepé yasitatá-sikarisara uwasemu yepé aintá suiwara, useruka aé yepé paparisawa rupí. Yawé kwá iwaka-retama uyuseruka-kwáu “iwaka-retama 325”.
+# Quando um astrônomo descobre um deles, ele lhe dá um número como nome. Ele o chama, por exemplo: “Asteróide 325”.
+# When an astronomer discovers one of them, he gives it a number as its name. He calls it for example: “Asteroid 325”.
+# Quand un astronome découvre l’une d’elles, il lui donne pour nom un numéro. Il l’appelle par exemple: “l’astéroïde 325”. 
+
+Aruyari tẽ muruxawamirĩ uri yepé tetama suí sera waá “iwaka-retama B 612”.
+# Tenho sérias razões para acreditar que o planeta de onde veio o pequeno príncipe é o asteróide B 612.
+# I have serious reason to believe that the planet from which the little prince came is asteroid B 612.
+# J’ai de sérieuses raisons de croire que la planète d’où venait le petit prince est l’astéroïde B 612. 
+
+Cet astéroïde n’a été aperçu qu’une fois au télescope, en 1909, par un astronome turc.
+# 1909 remou, yepé yasitatá-sikarisara Turquiawara umaã kwá iwaka-retama yepé yasitatá-maãsára pupé.
+# 1909 rowed, yepé yasitatá-sikarisara Turquiawara umaã kwá iwaka-retama yepé yasitatá-maãsára pupé.
+# 1909 ramé, yepé yasitatá-sikarisara Turquiawara umaã kwá iwaka-retama yepé yasitatá-maãsára pupé. 
+
+Nhaã akayú ramé, aé umukameẽ i wasemusawa yepé wayurí upé yasitatá- sikarisara-itá irumu Iwí retama riía suiwara.
+# Ele fez então uma grande demonstração de sua descoberta num congresso internacional de astronomia.
+# He had then made a great demonstration of his discovery at an international congress of astronomy.
+# Il avait fait alors une grande démonstration de sa découverte à un congrès internacional d’astronomie. 
+
+Ma nẽ awá uruyari sesé i muamundewa resewara. Mira-itá turusú tá yawé tẽ.
+# Mas ninguém acreditou nele por causa de sua fantasia. Os adultos são assim.
+# But nobody believed him because of his costume. Grown-ups are like that.
+# Mais personne ne l’avait cru à cause de son costume. Les grandes personnes sont comme ça. 
+
+Ma tá uyupirũ uruyari iwaka-retama B 612 wasemusawa resé mairamé yepé muruxawa puxí retana Turquiawara umundú setamawara-itá umuamundéu mayé Europawara-itá yawé.
+# Felizmente para a reputação do asteróide B 612, um ditador turco impôs ao seu povo, sob pena de morte, que se vestisse com roupas europeias.
+# Fortunately for the reputation of asteroid B 612, a Turkish dictator imposed on his people, on pain of death, to dress in European clothing.
+# Heureusement pour la réputation de l’astéroïde B 612, un dictateur turc imposa à son peuple, sous peine de mort, de s’habiller à l’européenne. 
+
+Yasitatá-sikarisara umukameẽ i wasemusawa, amú í, 1920 ramé. Aramé, mayé umundéu uikú yepé muamundewa puranga retana, tá uruyari sesé.
+# O astrônomo repetiu sua demonstração em 1920, com uma roupa muito elegante. E desta vez todos concordaram.
+# The astronomer repeated his demonstration in 1920, in a very elegant outfit. And this time everyone agreed.
+# L’astronome refit sa démonstration en 1920, dans un habit très élégant. Et cette fois-ci tout le monde fut de son avis. 
+
+Ambeú ramé penhẽ arama siía maã iwaka-retama B 612 resewara, mayé i paparisawa, yawé amunhã mira-itá turusú resewara.
+# Se eu te contei esses detalhes do asteroide B 612 e te dei o seu número, é por causa dos adultos.
+# If I told you these details about the asteroid B 612 and if I gave you its number, it is because of the grown-ups.
+# Si je vous ai raconté ces détails sur l’astéroïde B 612 et si je vous ai confié son numéro, c’est à cause des grandes personnes. 
+
+Mira-itá turusú usaisú paparisawa-itá.
+# Os adultos adoram números.
+# Grown-ups love numbers.
+# Les grandes personnes aiment les chiffres. 
+
+Mairamé yapurungitá yané rumuara pisasú resé, aintá ti upurandú nẽ mairamé sesewara tẽ.
+# Quando você conta a eles sobre um novo amigo, eles nunca perguntam sobre o essencial.
+# When you tell them about a new friend, they never ask you about the essentials.
+# Quand vous leur parlez d’un nouvel ami, elles ne vous questionnent jamais sur l’essentiel. 
+
+Aintá ti upurandú nẽ mairamé: “Mayé taá i nheenga? Mayewa musaraisawa umusurí piri waá aé? Umuatiri será panapanã-itá?”
+# Eles nunca dizem: “Como soa a voz dele? Quais são seus jogos favoritos? Ele coleciona borboletas?
+# They never tell you, “How does his voice sound? What are his favorite games? Does he collect butterflies?”
+# Elles ne vous disent jamais: “Quel est le son de sa voix? Quels sont les jeux qu’il préfère? Est-ce qu’il collectionne les papillons?” 
+
+Ma tá upurandú: “Muíri akayú aé urikú? Muíri mũ aé urikú? Muíri i pusesawa urikú? Muíri real i paya upisika?”
+# Eles perguntam: “Quantos anos ele tem? Quantos irmãos ele tem? Quanto ele pesa? Quanto ganha o pai dele?”
+# They ask you, “How old is he? How many brothers does he have? How much does he weigh? How much does his father earn?”
+# Elles vous demandent: “Quel âge a-t-il? Combien a-t-il de frères? Combien pèse-t- il? Combien gagne son père?” 
+
+Aramé, yawé-ntu tá uruyari tá ukwáu aé.
+# Só então eles pensam que o conhecem.
+# Only then do they think they know him.
+# Alors seulement elles croient le connaître. 
+
+Yanheẽ ramé mira-itá turusú supé: “Amaã yepé uka piranga puranga retana, putira-itá irumu ukenaĩ upé asuí pikasú-itá uka-pupekasara upé…”, aintá ti umanduari-kwáu kwá uka rangawa.
+# Se você disser aos adultos: “Vi uma linda casa de tijolos rosa, com gerânios nas janelas e pombas no telhado...”, eles não conseguem imaginar esta casa.
+# If you say to grown-ups: “I saw a beautiful pink brick house, with geraniums in the windows and doves on the roof...”, they fail to imagine this house.
+# Si vous dites aux grandes personnes: “J’ai vu une belle maison en briques roses, avec des géraniums aux fenêtres et des colombes sur le toit...”, elles ne parviennent pas à s’imaginer cette maison. 
+
+Uwatari rẽ yanheẽ aintá supé: “Amaã yepé uka sepiasú retana.”
+# Você tem que dizer a eles: “Vi uma casa que vale cem mil francos”.
+# You have to tell them: “I saw a house worth a hundred thousand francs.”
+# Il faut leur dire: “J’ai vu une maison de cent mille francs.” 
+
+Aramé aintá unheẽ: “Kwá uka puranga tẽ!”
+# Então exclamam: “Que lindo!”
+# Then they exclaim: “How pretty!”
+# Alors elles s’écrient: “Comme c’est joli!” 
+
+Yawé, yanheẽ ramé aintá supé: “Muruxawamirĩ ti yepé marandua nhaãsé aé puranga retana, aé upuká asuí uputari yepé suumé mimbira. Awá-ntu sikwé uputari-kwáu yepé suumé mimbira”, aintá ti uruyari kurí yané resé asuí tá unheẽ kurí yandé mayé taína-itá yawé!
+# Então, se você disser a eles: “A prova de que o pequeno príncipe existiu é que ele era adorável, que ria e que queria uma ovelha. Quando você quer uma ovelha é a prova de que você existe”, vão encolher os ombros e te chamar de criança!
+# So, if you tell them, “The proof that the little prince existed is that he was lovely, that he laughed, and that he wanted a sheep. When you want a sheep, it's proof that you exist”, they will shrug their shoulders and call you a child!
+# Ainsi, si vous leur dites, “La preuve que le petit prince a existé c’est qu’il était ravissant, qu’il riait, et qu’il voulait un mouton. Quand on veut un mouton, c’est la preuve qu’on existe”, elles hausseront les épaules et vous traiteront d’enfant! 
+
+Ma yanheẽ ramé : “Tetama masuí aé uri iwaka-retama B 612”, aramé aintá uruyari kurí asuí ti kurí tá umunhã amú-itá purandusawa.
+# Mas se você lhes disser: “O planeta de onde ele veio é o asteróide B 612”, então eles ficarão convencidos e deixarão você em paz com suas perguntas.
+# But if you tell them, "The planet he came from is asteroid B 612," then they'll be convinced, and they'll leave you alone with their questions.
+# Mais si vous leur dites: “La planète d’où il venait est l’astéroïde B 612”, alors elles seront convaincues, et elles vous laisseront tranquille avec leurs questions. 
+
+Yawé tẽ aintá. I katú rẽ ti yaxari yasaisú aintá sesewara.
+# Eles são assim. Você não precisa culpá-los.
+# They are like that. You don't have to blame them.
+# Elles sont comme ça. Il ne faut pas leur en vouloir. 
+
+Taína-itá urikuté tá susanga retana mira-itá turusú irumu.
+# As crianças devem perdoar muito os adultos.
+# Children should be very forgiving of grown-ups.
+# Les enfants doivent être très indulgents envers les grandes personnes. 
+
+Ma yandé arama, yakwáu puranga waá mayé kwá sikwesawa, paparisawa-itá ti tẽ maã-itá supiwara!
+# Mas, claro, nós que entendemos a vida não nos importamos muito com números!
+# But, of course, we who understand life don't care much about numbers!
+# Mais, bien sûr, nous qui comprenons la vie, nous nous moquons bien des números! 
+
+Aputari maã ayupirũ kwá papera mayé marandua-itá kuxiimawara yawé. Aputari maã ayupirũ aé kwayé: “Aikwé, paá, yepé muruxawamirĩ umurari waá yepé iwaka-retama upé turusú piri xinga i suí, awá supé uwatari rẽ yepé sumuara...”
+# Eu teria gostado de começar esta história como um conto de fadas. Eu teria gostado de dizer: “Era uma vez um pequeno príncipe que vivia num planeta pouco maior que ele e que precisava de um amigo...”.
+# I would have liked to start this story like a fairy tale. I would have liked to say: “Once upon a time there was a little prince who lived on a planet barely larger than himself, and who needed a friend...”
+# J’aurais aimé commencer cette histoire à la façon de contes de fées. J’aurais aimé dire: “Il était une fois un petit prince qui habitait une planète à peine plus grande que lui, et qui avait besoin d’un ami...” 
+
+Mira-itá supé ukwáu waá-itá sikwesawa purangasawa, araneíma kwá supiwara piri.
+# Para quem entende a vida, ela teria parecido muito mais real.
+# For those who understand life, it would have seemed much more real.
+# Pour ceux qui comprennent la vie, ça aurait eu l’air beaucoup plus vrai. 
+
+Ti asaisú tá umaã ara rupí se papera.
+# Porque não gosto que as pessoas leiam meu livro levianamente.
+# Because I don't like people to read my book lightly.
+# Car je n’aime pas qu’on lise mon livre à la légère. 
+
+Sasiara retana apitá mairamé ambeú kwá manduarisawa-itá.
+# Sinto-me muito triste em contar essas lembranças.
+# I feel so sad to recount these memories.
+# J’éprouve tant de chagrin à raconter ces souvenirs. 
+
+Aikwé ana puyepé akayú se rumuara usú ana se suí i suumé mimbira irumu.
+# Há seis anos, meu amigo partiu com suas ovelhas.
+# Six years ago my friend left with his sheep.
+# Il y a six ans déjà que mon ami s’en est allé avec son mouton. 
+
+Ambeú sesewara kwá papera upé nhaãsé ti aputari se resarái i suí.
+# Se tento descrevê-lo aqui é para não esquecer.
+# If I try to describe it here, it is in order not to forget.
+# Si j’essaie ici de le décrire, c’est afin de ne pas oublier. 
+
+Sasiara retana yané resarái yané rumuara suí.
+# É triste esquecer um amigo.
+# It's sad to forget a friend.
+# C’est triste d’oublier un ami. 
+
+Nẽ panhẽ awá urikú yepé sumuara.
+# Nem todo mundo teve um amigo.
+# Not everyone has had a friend.
+# Tout le monde n’a pas eu un ami. 
+
+Araneíma ayeréu yepé mira turusú mayé amú-itá yawé, upurungitá-ntu waá- itá paparisawa resewara.
+# E posso me tornar como adultos que só se interessam por números.
+# And I can become like grown-ups who are only interested in numbers.
+# Et je puis devenir comme les grandes personnes qui ne s’intéressent plus qu’aux chiffres. 
+
+Sesewara tẽ apiripana yepé pinimasara rupiara riía.
+# Então ainda foi por isso que comprei uma caixa de cores e lápis.
+# So that's still why I bought a box of colors and pencils.
+# C’est donc pour ça encore que j’ai acheté une boîte de couleurs et des crayons. 
+
+Iwasú ixé arama ayuíri akwatiari uií ara ramé, nhaãsé, mairamé arikú puyepé akayú, ayumbué-ntu akwatiari buyawasú rangawa-itá!
+# É difícil voltar a desenhar, na minha idade, quando nunca se fez outra tentativa senão a de jibóia fechada e a de jibóia aberta, aos seis anos!
+# It's hard to get back to drawing, at my age, when you've never made any other attempts than that of a closed boa and that of an open boa, at the age of six!
+# C’est dur de se remettre au dessin, à mon âge, quand on n’a jamais fait d’autres tentatives que celle d’un boa fermé et celle d’un boa ouvert, à l’âge de six ans! 
+
+Asikari kurí amunhã sangawa-itá puranga piri akwáu waá-itá.
+# É claro que tentarei fazer retratos o mais semelhantes possível.
+# I will, of course, try to make portraits as similar as possible.
+# J’essaierai, bien sûr, de faire des portraits le plus ressemblants possible. 
+
+Ma ti tẽ akwáu sa akwáu kurí.
+# Mas não tenho certeza se terei sucesso.
+# But I'm not quite sure I'll succeed.
+# Mais je ne suis pas tout à fait certain de réussir. 
+
+Yepé kwatiarisawa usemu pu puranga, ma amú-itá usemu ana amurupí.
+# Um design desaparece e o outro não parece mais.
+# One design goes, and the other no longer looks like.
+# Un dessin va, et l’autre ne ressemble plus. 
+
+Ixé yuíri ayuganani xinga sangawa turususawa resewara.
+# Cometo alguns erros, também no tamanho.
+# I make some errors, also on the size.
+# Je me trompe un peu aussi sur la taille. 
+
+Amuramé muruxawamirĩ usemu turusú retana, amuramé kwaíra retana.
+# Aqui o pequeno príncipe é grande demais. Aí é muito pequeno.
+# Here the little prince is too big. There it is too small.
+# Ici le petit prince est trop grand. Là il est trop petit. 
+
+Ti amanduari puranga retana i muamundewa pinimasawa resé.
+# Também estou hesitante quanto à cor de sua fantasia.
+# I'm also hesitant about the color of his costume.
+# J’hésite aussi sur la couleur de son costume. 
+
+Aramé amunhã siía kwatiarisawa, yepé-yepé puranga, umú-itá puxiwera.
+# Então eu tateio assim e assim, de alguma forma.
+# So I grope like this and like that, somehow.
+# Alors je tâtonne comme ci et comme ça, tant bien que mal. 
+
+Se resarái kurí rẽ siía maã suí, ma ayururéu pe suí peyerũ arama ixé.
+# Finalmente, estarei errado em alguns detalhes mais importantes. Mas isso, você terá que me perdoar.
+# Finally, I will be wrong on some more important details. But that, you will have to forgive me.
+# Je me tromperai enfin sur certains détails plus importants. Mais ça, il faudra me le pardonner. 
+
+Se rumuara nẽ mairamé umusakakanga amu-itá nheenga irumu maã aé unheẽ waá.
+# Meu amigo nunca deu explicações.
+# My friend never gave explanations.
+# Mon ami ne donnait jamais d’explications. 
+
+Araneíma aé umaité ixé mayé i yawé.
+# Talvez ele pensasse que eu era como ele.
+# Maybe he thought I was like him.
+# Il me croyait peut-être semblable à lui. 
+
+Ma ixé amurupí i suí, ti amaã-kwáu suumé mimbira patuá pitera rupí.
+# Mas eu, infelizmente, não sei ver as ovelhas através dos caixotes.
+# But me, unfortunately, I don't know how to see the sheep through the crates.
+# Mais moi, malheureusement, je ne sais pas voir les moutons à travers les caisses. 
+
+Araneíma ixé xinga mayé mira-itá turusú yawé. Tuyué apitá pu aikú.
+# Talvez eu seja um pouco como os adultos. Devo ter envelhecido.
+# Maybe I'm a bit like grown-ups. I must have got older.
+# Je suis peut-être un peu comme les grandes personnes. J’ai dû vieillir. 
+

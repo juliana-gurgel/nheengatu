@@ -1,0 +1,101 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:15:09 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+- Yané ara - unheẽ muruxawamirĩ.
+# “Olá”, disse o pequeno príncipe.
+# “Hello,” said the little prince.
+# “Bonjour, dit le petit prince. 
+
+- Yané ara - unheẽ mira-siyesara muyereusara.
+# - Olá, disse o manobrista.
+# - Hello, said the switchman.
+# - Bonjour, dit l’aiguilleur. 
+
+- Maã taá remunhã iké? - upurandú muruxawamirĩ.
+# - O que você está fazendo aqui? disse o pequeno príncipe.
+# - What are you doing here? said the little prince.
+# - Que fais-tu ici? dit le petit prince. 
+
+- Ambuí mira-itá suaxara-itá rupí, aikwé mira riía muíri suaxara suí - unheẽ muyereusara. - Amusemu mira-siyesara-itá urasú waá aintá, amuramé katusawa kití, amuramé yaparasawa kití...
+# - Eu separo os passageiros, em pacotes de mil, disse o manobrista. Eu despacho os trens que os transportam, às vezes para a direita, às vezes para a esquerda.”
+# - I sort the passengers, in packets of a thousand, said the switchman. I dispatch the trains that carry them, sometimes to the right, sometimes to the left.”
+# - Je trie les voyageurs, par paquets de mille, dit l’aiguilleur. J’expédie les trains qui les emportent, tantôt vers la droite, tantôt vers la gauche.” 
+
+Aramé yepé mira-siyesara sendí, tiapuwara mayé tupã yawé, umurirí tendawa mamé muyereusara upurakí waá.
+# E uma corredeira iluminada, estrondosa como um trovão, sacudiu a caixa de distribuição.
+# And an illuminated rapid, rumbling like thunder, shook the switch box.
+# Et un rapide illuminé, grondant comme le tonnerre, fit trembler la cabine d’aiguillage. 
+
+- Tá ranhẽ retana tá uikú - unheẽ muruxawamirĩ. - Maã taá aintá usikari uikú?
+# “Eles estão com pressa”, disse o principezinho. O que eles estão procurando?
+# "They are in a hurry," said the little prince. What are they looking for?
+# “Ils sont bien pressés, dit le petit prince. Que cherchent-ils? 
+
+- Nẽ mira-siyesara tiarisara ukwáu - unheẽ muyereusara.
+# - O próprio homem na locomotiva não sabe disso”, disse o manobrista.
+# - The man in the locomotive doesn't know it himself,” said the switchman.
+# - L’homme de la locomotive l’ignore lui-même”, dit l’aiguilleur. 
+
+Yepé tiapú uri uikú waá amú suaxara suí umukameẽ mukũisáwa mira-siyesara sendí.
+# E retumbou, na direção oposta, uma segunda corredeira iluminada.
+# And rumbled, in the opposite direction, a second illuminated rapid.
+# Et gronda, en sens inverse, un second rapide illuminé. 
+
+- Mira-itá uyuíri ana uikú? - upurandú muruxawamirĩ.
+# “Eles já estão voltando? perguntou o pequeno príncipe...
+# “Are they coming back already? asked the little prince…
+# “Ils reviennent déjà? demanda le petit prince… 
+
+- Kwá amú mira-itá - unheẽ muyereusara. - Nhaã mira-itá usemu uikú asuí kwa-itá uwiké uikú.
+# - Eles não são iguais, disse o manobrista. É uma troca.
+# - They are not the same, said the switchman. It's an exchange.
+# - Ce ne sont pas les mêmes, dit l’aiguilleur. C’est un échange. 
+
+- Ti tá rurí será mamé tá uikú waá?
+# - Eles não estavam felizes onde estavam?
+# - They weren't happy where they were?
+# - Ils n’étaient pas contents, là où ils étaient? 
+
+- Mira-itá nẽ mairamé tá rurí mamé tá uikú - unheẽ muyereusara.
+# - Nunca estamos felizes onde estamos”, disse o manobrista.
+# - We are never happy where we are,” said the switchman.
+# - On n’est jamais content là où l’on est”, dit l’aiguilleur. 
+
+Aramé, tá usendú tiapú uri uikú waá musapirisawa mira-siyesara sendí suí.
+# E ressoou o trovão de uma terceira corredeira iluminada.
+# And rumbled the thunder of an illuminated third rapid.
+# Et gronda le tonnerre d’un troisième rapide illuminé. 
+
+- Kwá mira-itá uyana tá uikú amú mira-itá rakakwera usemu waá-itá kwá suí tá renundé? - upurandú muruxawamirĩ.
+# “Eles estão perseguindo os primeiros viajantes? perguntou o pequeno príncipe.
+# “They are chasing the first travellers? asked the little prince.
+# “Ils poursuivent les premiers voyageurs? demanda le petit prince. 
+
+- Aintá ti uyana tá uikú nẽ awá rakakwera - unheẽ muyereusara. - Tá ukiri mira-siyesara upé, tá ripusí tá uikú. Taína-itá-ntu upitá umaã ukara kití.
+# “Eles não estão perseguindo absolutamente nada”, disse o manobrista. Eles dormem lá, ou então bocejam. Só as crianças batem o nariz nas janelas.
+# "They're not chasing anything at all," said the switchman. They sleep in there, or else they yawn. The children alone smash their noses against the windows.
+# - Ils ne poursuivent rien du tout, dit l’aiguilleur. Ils dorment là-dedans, ou bien ils bâillent. Les enfants seuls écrasent leur nez contre les vitres. 
+
+- Taína-itá-ntu ukwáu maã tá usikari waá - unheẽ muruxawamirĩ. - Aintá usasá siía ara yepé taína-rangawa irumu asuí tá usaisú tá umusarái i irumu, tá uyaxiú mairamé amú awá upisika aé i suí…
+# - Só as crianças sabem o que procuram, disse o principezinho. Eles perdem tempo com uma boneca de pano, e ela se torna muito importante, e se ela for tirada deles, eles choram...
+# - Only children know what they are looking for, said the little prince. They lose time for a rag doll, and it becomes very important, and if it is taken away from them, they cry...
+# - Les enfants seuls savent ce qu’ils cherchent, fit le petit prince. Ils perdent du temps pour une poupée de chiffons, et elle devient très importante, et si on la leur enlève, ils pleurent… 
+
+- Aintá tá rurí… - unheẽ muyereusara.
+# - Eles têm sorte”, disse o manobrista.
+# - They are lucky,” said the switchman.
+# - Ils ont de la chance”, dit l’aiguilleur. 
+

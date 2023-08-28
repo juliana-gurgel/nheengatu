@@ -1,0 +1,241 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:08:37 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Yepepusawa iwaka-retama amurupí retana. Aé mirĩ piri amú-itá suí.
+# O quinto planeta era muito curioso. Era o menor de todos.
+# The fifth planet was very curious. It was the smallest of them all.
+# La cinquième planète était très curieuse. C’était la plus petite de toutes. 
+
+Nhaã tetama upé aikwé-ntu tendawa yepé lamparina supé asuí lamparina mundekasara supé.
+# Só havia espaço suficiente para um poste e um acendedor de lâmpadas.
+# There was just enough room there for a lamppost and a lamplighter.
+# Il y avait là juste assez de place pour loger un réverbère et un allumeur de réverbères. 
+
+Muruxawamirĩ ti ukwáu nhaãsé, iwaka upé, aikwé yepé tetama uka-íma asuí mira-íma, mamé aikwé-ntu yepé lamparina asuí yepé lamparina mundekasara.
+# O pequeno príncipe não conseguia entender para que propósito, em algum lugar no céu, em um planeta sem casa e sem população, um poste de luz e um acendedor poderiam servir.
+# The little prince could not explain to himself what use could be made, somewhere in the sky, on a planet without a house or population, of a streetlamp and a lamplighter.
+# Le petit prince ne parvenait pas à s’expliquer à quoi pouvaient servir, quelque part dans le ciel, sur une planète sans maison ni population, un réverbère et un allumeur de réverbères. 
+
+Ma umanduari:
+# No entanto, ele diz para si mesmo:
+# However, he says to himself:
+# Cependant il se dit en lui-même: 
+
+“Araneíma kwá apigawa yepé yakwaíma. Ma muruxawa, apigawa warixí, apigawa umunhã-ntu waá paparisawa-itá, kawera yuíri, panhẽ aintá yakwaíma piri kwá apigawa suí.
+# “Talvez este homem seja um absurdo. Porém, ele é menos absurdo que o rei, que o vaidoso, que o empresário e que o bebedor.
+# “Perhaps this man is absurd. However, he is less absurd than the king, than the vain, than the businessman and than the drinker.
+# “Peut-être bien que cet homme est absurde. Cependant il est moins absurde que le roi, que le vaniteux, que le businessman et que le buveur. 
+
+Amurupí amú mira-ítá suí, kwá apigawa murakí puranga amú awá supé. Mairamé umundeka lamparina, nhaã mayé yepé yasitatá uyukwáu ramé maã iwaka upé u mayé yepé putira usemu ramé maã iwí suí.
+# Pelo menos seu trabalho tem significado. Quando ele acende seu poste, é como se estivesse dando à luz mais uma estrela, ou uma flor.
+# At least his work has meaning. When he lights his lamppost, it is as if he were giving birth to one more star, or a flower.
+# Au moins son travail a-t-il un sens. Quand il allume son réverbère, c’est comme s’il faisait naître une étoile de plus, ou une fleur. 
+
+Ma mairamé umuwéu lamparina, aé umukiri putira u yasitatá. Kwá yepé murakí puranga. Aé puranga nhaãsé upitimũ-kwáu amú awá.”
+# Quando ele apaga seu poste, ele faz dormir a flor ou a estrela. É uma ocupação muito bonita. Isso é realmente útil porque é lindo."
+# When he puts out his lamppost, it puts the flower or the star to sleep. It is a very pretty occupation. This is really useful since it is beautiful."
+# Quand il éteint son réverbère, ça endort la fleur ou l’étoile. C’est une occupation très jolie. C’est véritablement utile puisque c’est joli.” 
+
+Mairamé usika nhaã tetama upé, aé umumurã nhaã lamparina mundekasara.
+# Ao se aproximar do planeta, cumprimentou respeitosamente o isqueiro:
+# When he approached the planet, he respectfully greeted the lighter:
+# Lorsqu’il aborda la planète, il salua respectueusement l’allumeur: 
+
+- Yané ara. Marã taá remuwéu kuíri tẽ ne lamparina?
+# "Bom dia. Por que você simplesmente desligou a luz da rua?
+# "Good morning. Why did you just turn off your streetlight?
+# “Bonjour. Pourquoi viens-tu d’éteindre ton réverbère? 
+
+- Se retama rikusawa resewara - usuaxara mundekasara. - Yané ara.
+# “Essa é a ordem”, respondeu o acendedor. Bom dia.
+# "That's the order," replied the lamplighter. Good morning.
+# - C’est la consigne, répondit l’allumeur. Bonjour. 
+
+- Mayewa taá ne retama rikusawa?
+# - Qual é o depósito?
+# - What is the deposit?
+# - Qu’est-ce que la consigne? 
+
+- Se lamparina muweusawa. Yané pituna.
+# - É para desligar o poste da minha rua. Boa noite."
+# - It's to turn off my street lamp. Good evening."
+# - C’est d’éteindre mon réverbère. Bonsoir.” 
+
+Aramé umundeka aé amú í.
+# E ele ligou novamente.
+# And he turned it back on.
+# Et il le ralluma. 
+
+- Marã taá remundeka lamparina amú í?
+# “Mas por que você simplesmente ligou novamente?
+# “But why did you just turn it back on?
+# “Mais pourquoi viens-tu de le rallumer? 
+
+- Se retama rikusawa resewara - usuaxara mundekasara.
+# “Essa é a ordem”, respondeu o acendedor.
+# "That's the order," replied the lamplighter.
+# - C’est la consigne, répondit l’allumeur. 
+
+- Ixé ti akwáu - unheẽ muruxawamirĩ.
+# - Não entendo, disse o principezinho.
+# - I don't understand, said the little prince.
+# - Je ne comprends pas, dit le petit prince. 
+
+- Ti aikwé nẽ maã rekwáu arã - unheẽ mundekasara. Arikuté apusú se retama rikusawa. Yané ara.
+# - Não há nada para entender, disse o isqueiro. A instrução é a instrução. Bom dia."
+# - There is nothing to understand, said the lighter. The instruction is the instruction. Good morning."
+# - Il n’y a rien à comprendre, dit l’allumeur. La consigne c’est la consigne. Bonjour.” 
+
+Asuí umuwéu lamparina.
+# E ele apagou seu poste.
+# And he put out his lamppost.
+# Et il éteignit son réverbère. 
+
+Ariré umutikanga i siwá yepé panu piranga irumu.
+# Depois enxugou a testa com um lenço xadrez vermelho.
+# Then he mopped his brow with a red-checkered handkerchief.
+# Puis il s’épongea le front avec un mouchoir à carreaux rouges. 
+
+- Se murakí iwasú retana. Kuxiíma ti kwayé. Amuwéu kwema ramé asuí amundeka pituna ramé. Arikú yepé ara remirera apituú arã asuí pituna remirera akiri arã...
+# “Eu faço um péssimo trabalho aqui. Costumava ser razoável. Desliguei de manhã e liguei à noite. Eu tinha o resto do dia para descansar e o resto da noite para dormir...
+# “I do a terrible job here. It used to be reasonable. I turned off in the morning and turned on in the evening. I had the rest of the day to rest, and the rest of the night to sleep...
+# “Je fais là un métier terrible. C’était raisonnable autrefois. J’éteignais le matin et j’allumais le soir. J’avais le reste du jour pour me reposer, et le reste de la nuit pour dormir... 
+
+- Asuí, ne retama rikusawa uyumuamurupí?
+# - E, desde então, as instruções mudaram?
+# - And, since that time, the instructions have changed?
+# - Et, depuis cette époque, la consigne a changé? 
+
+- Aé ti uyumuamurupí - unheẽ mundekasara. - Kwá se apatukasawa! Tetama, muíri akayú, uyeréu kutara piri, ma sikusawa ti utirika!
+# - A instrução não mudou, disse o isqueiro. É aqui que reside o drama! O planeta tem girado cada vez mais rápido ano após ano, e as instruções não mudaram!
+# - The instruction has not changed, said the lighter. This is where the drama lies! The planet from year to year has turned faster and faster, and the instructions have not changed!
+# - La consigne n’a pas changé, dit l’allumeur. C’est bien là le drame! La planète d’année en année a tourné de plus en plus vite, et la consigne n’a pas changé! 
+
+- Aramé? - unheẽ muruxawamirĩ.
+# - ENTÃO? disse o pequeno príncipe.
+# - SO? said the little prince.
+# - Alors? dit le petit prince. 
+
+- Kuíri, mayé aé uyeréu yepé í muíri minutu, ti apituú-kwáu nẽ mairamé. Amundeka asuí amuwéu yepé í muíri minutu!
+# - Então agora que faz uma revolução por minuto, não tenho um segundo de descanso. Eu ligo e desligo uma vez por minuto!
+# - So now that it does one revolution per minute, I don't have a second of rest. I turn on and off once a minute!
+# - Alors maintenant qu’elle fait un tour par minute, je n’ai plus une seconde de repos. J’allume et j’éteins une fois par minute! 
+
+- Kwá amurupí! Ara-itá iké tá uikupukú yepé minutu!
+# - Isso é engraçado! Seus dias duram um minuto!
+# - Now that's funny! Your days last a minute!
+# - Ça c’est drôle! Les jours chez toi durent une minute! 
+
+- Kwá amurupí tẽ - unheẽ mundekasara. - Aikwé ana yepé yasí yapurungitá yaikú waá.
+# - Não tem graça nenhuma, disse o acendedor. Estamos conversando há um mês.
+# - It's not funny at all, said the lamplighter. We've been talking together for a month now.
+# - Ce n’est pas drôle du tout, dit l’allumeur. Ça fait déjà un mois que nous parlons ensemble. 
+
+- Yepé yasí?
+# - Um mês?
+# - A month?
+# - Un mois? 
+
+- Eẽ. Puyepeyepepú minutu. Puyepeyepepú ara! Yané pituna.
+# - Sim. Trinta minutos. Trinta dias! Boa noite."
+# - Yes. Thirty minutes. Thirty days! Good evening."
+# - Oui. Trente minutes. Trente jours! Bonsoir.” 
+
+Amú í aé umundeka lamparina.
+# E ele ligou seu poste novamente.
+# And he turned on his lamppost again.
+# Et il ralluma son réverbère. 
+
+Muruxawamirĩ usaisú nhaã lamparina mundekasara upusú waá setama rikusawa muíri ara.
+# O principezinho olhou para ele e gostou daquele isqueiro tão fiel às instruções.
+# The little prince looked at him and he liked this lighter who was so faithful to the instructions.
+# Le petit prince le regarda et il aima cet allumeur qui était tellement fidèle à la consigne. 
+
+Umanduari kurasí wapikasawa-itá resé umaã-kwáu waá-itá umutirika xinga i wapikawa.
+# Ele se lembrou dos pores do sol que ele mesmo assistiu uma vez, puxando sua cadeira.
+# He remembered the sunsets that he himself once went for, pulling out his chair.
+# Il se souvint des couchers de soleil que lui-même allait autrefois chercher, en tirant sa chaise. 
+
+Aramé upitimũ-putari nhaã mundekasara:
+# Ele queria ajudar seu amigo:
+# He wanted to help his friend:
+# Il voulut aider son ami: 
+
+- Remaã... akwáu mayé repituú-kwáu mairamé indé reputari...
+# “Sabe… eu conheço uma maneira de descansar quando você quiser…
+# “You know…I know a way to rest whenever you want…
+# “Tu sais… je connais un moyen de te reposer quand tu voudrais… 
+
+- Apituú-putari panhẽ mairamé - unheẽ mundekasara.
+# - Ainda quero”, disse o isqueiro.
+# - I still want to,” said the lighter.
+# - Je veux toujours”, dit l’allumeur. 
+
+Yandé yakwáu murakisara asuí yatimamanha.
+# Porque você pode ser fiel e preguiçoso ao mesmo tempo.
+# Because you can be faithful and lazy at the same time.
+# Car on peut être, à la fois, fidèle et paresseux. 
+
+Muruxawamirĩ unheẽ rẽ:
+# O pequeno príncipe continuou:
+# The little prince continued:
+# Le petit prince poursuivit: 
+
+- Ne retama kwaíra retana, rerikuté rewatá xinga-ntu ukwáu arã aé pá. Indé rerikuté-ntu rewatá merupí repitá arã kurasí wírupi. Mairamé repituú-putari, indé rewatá kurí... asuí ara uikupukú kurí muíri reputari.
+# “Seu planeta é tão pequeno que você pode contorná-lo em três passos. Basta caminhar devagar o suficiente para ficar sempre ao sol. Quando quiser descansar você caminhará... e o dia durará o tempo que você quiser.
+# “Your planet is so small that you go around it in three strides. You just have to walk slowly enough to always stay in the sun. When you want to rest you will walk... and the day will last as long as you want.
+# “Ta planète est tellement petite que tu en fais le tour en trois enjambées. Tu n’as qu’à marcher assez lentement pour rester toujours au soleil. Quand tu voudras te reposer tu marcheras... et le jour durera aussi longtemps que tu voudras. 
+
+- Kwá ti upitimũ retana ixé - unheẽ mundekasara. - Maã asaisú piri waá akiri- kwáu.
+# - Isso não me ajuda muito, disse o acendedor. O que eu amo na vida é dormir.
+# - That doesn't help me much, said the lamplighter. What I love in life is sleeping.
+# - Ça ne m’avance pas à grand-chose, dit l’allumeur. Ce que j’aime dans la vie, c’est dormir. 
+
+- Yawé… ti apitimũ-kwáu indé - unheẽ muruxawamirĩ.
+# - Dá azar, disse o principezinho.
+# - It's bad luck, said the little prince.
+# - Ce n’est pas de chance, dit le petit prince. 
+
+- Ti mayé - unheẽ mundekasara. - Yané ara.
+# - Dá azar, disse o isqueiro. Bom dia."
+# - It's bad luck, said the lighter. Good morning."
+# - Ce n’est pas de chance, dit l’allumeur. Bonjour.” 
+
+Asuí umuwéu lamparina.
+# E ele apagou seu poste.
+# And he put out his lamppost.
+# Et il éteignit son réverbère. 
+
+“Kwá apigawa”, umanduari muruxawamirĩ i watasawa pukusawa amú tetama kití, “kwá apigawa maã mutara-íma amú-itá rupí - muruxawa, apigawa warixí, kawera asuí apigawa umunhã-ntu waá paparisawa-itá. Ma aé anhuãté mira ti waá amaité yakwaíma. Araneíma nhaãsé aé umanduari manungara resé amurupí i suí tẽ.”
+# “Aquele”, disse o pequeno príncipe para si mesmo, enquanto continuava sua jornada, “aquele seria desprezado por todos os outros, pelo rei, pelo vaidoso, pelo bebedor, pelo comerciante. Porém, é o único que não me parece ridículo. Talvez seja porque ele cuida de algo diferente de si mesmo.
+# "That one," said the little prince to himself, as he continued his journey further, "that one would be despised by all the others, by the king, by the vain, by the drinker, by the businessman. However, it is the only one that does not seem ridiculous to me. It is, perhaps, because he takes care of something other than himself.
+# “Celui-là, se dit le petit prince, tandis qu’il poursuivait plus loin son voyage, celui- là serait méprisé par tous les autres, par le roi, par le vaniteux, par le buveur, par le businessman. Cependant c’est le seul qui ne me paraisse pas ridicule. C’est, peut-être, parce qu’il s’occupe d’autre chose que de soi-même.” 
+
+Asuí aé rẽ unheẽ sasiara xinga:
+# Ele suspirou de pesar e disse para si mesmo novamente:
+# He sighed with regret and said to himself again:
+# Il eut un soupir de regret et se dit encore: 
+
+“Aé anhuãté mira ukwáu maã waá se rumuara. Ma setama kwaíra retana. Ti mayé mukũi mira upitá mimi...”
+# “Este é o único que eu poderia ter feito meu amigo. Mas seu planeta é realmente muito pequeno. Não há espaço para dois...”
+# “This is the only one I could have made my friend. But his planet is really too small. There is no room for two…”
+# “Celui-là est le seul dont j’eusse pu faire mon ami. Mais sa planète est vraiment trop petite. Il n’y a pas de place pour deux…” 
+
+Muruxawamirĩ ti maã unheẽ-putari aé sasiara uikú uxari resewara nhaã iwaka-retama puranga retana siía, siía, siía kurasí wapikasawa irumu muíri ara.
+# O que o pequeno príncipe não ousava admitir para si mesmo era que sentia falta deste planeta abençoado por causa, sobretudo, dos mil quatrocentos e quarenta pores do sol a cada vinte e quatro horas!
+# What the little prince didn't dare admit to himself was that he missed this blessed planet because, above all, of the one thousand four hundred and forty sunsets every twenty-four hours!
+# Ce que le petit prince n’osait pas s’avouer, c’est qu’il regrettait cette planète bénie à cause, surtout, des mille quatre cent quarante couchers de soleil par vingt-quatre heures! 
+

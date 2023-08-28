@@ -1,0 +1,106 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:01:15 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Ah!, muruxawamirĩ, ariré ayupirũ amaã puranga piri xinga ne rikwesawa sasiara resewara.
+# Ah! principezinho, fui entendendo, aos poucos, sua vidinha melancólica.
+# Ah! little prince, I understood, little by little, your little melancholy life.
+# Ah! petit prince, j’ai compris, peu à peu, ainsi, ta petite vie mélancolique. 
+
+Siía ara pukusawa, repitá-ntu ne rurí kurasí wapikasawa-itá purangasawa irumu.
+# Há muito tempo você só tinha como distração a suavidade do pôr do sol.
+# You had long had for distraction only the softness of the sunsets.
+# Tu n’avais eu longtemps pour distraction que la douceur des couchers de soleil. 
+
+Akwáu sesewara, ara irundisawa kwema ramé, mairamé renheẽ ixé arama:
+# Fiquei sabendo desse novo detalhe, no quarto dia da manhã, quando você me disse:
+# I learned this new detail, the fourth day in the morning, when you said to me:
+# J’ai appris ce détail nouveau, le quatrième jour au matin, quand tu m’as dit: 
+
+- Ixé asaisú amaã kurasí wapikasawa. Yasú yamaã yepé kurasí wapikasawa...
+# “Eu gosto do pôr do sol. Vamos ver um pôr do sol...
+# “I like sunsets. Let's go see a sunset...
+# “J’aime bien les couchers de soleil. Allons voir un coucher de soleil… 
+
+- Ma yarikuté yasarú...
+# - Mas você tem que esperar...
+# - But you have to wait...
+# - Mais il faut attendre... 
+
+- Maã taá yarikuté yasarú?
+# - Esperar pelo quê?
+# - Wait for what?
+# - Attendre quoi? 
+
+- Yarikuté yasarú kurasí uwapika.
+# - Espere o sol se pôr.
+# - Wait for the sun to go down.”
+# - Attendre que le soleil se couche.” 
+
+Ne akanhemu retana yupirungawa ramé, ma asuí reyupirũ repuká ne resé tẽ. Aramé, renheẽ ixé arama:
+# Você pareceu muito surpreso no início e depois riu de si mesmo. E você me disse:
+# You looked very surprised at first, and then you laughed at yourself. And you said to me:
+# Tu as eu l’air très surpris d’abord, et puis tu as ri de toi-même. Et tu m’as dit: 
+
+- Amaité, muíri tendawa upé, aikú se retama upé.
+# "Sinto-me sempre em casa!"
+# "I always feel at home!"
+# “Je me crois toujours chez moi!” 
+
+Supí, mairamé yandara Estados Unidos upé, panhẽ awá ukwáu, kurasí uwapika França árupi.
+# De fato. Quando é meio-dia nos Estados Unidos, o sol, como todos sabem, se põe sobre a França.
+# Indeed. When it is noon in the United States, the sun, everyone knows, sets over France.
+# En effet. Quand il est midi aux États-Unis, le soleil, tout le monde le sait, se couche sur la France. 
+
+Akwáu ramé maã, asú maã França kití yepé minutu rupí amaã arama kurasí wapikasawa, ma França upitá apekatú retana.
+# Bastaria poder ir à França em um minuto para assistir ao pôr do sol. Infelizmente a França está muito longe.
+# It would be enough to be able to go to France in one minute to watch the sunset. Unfortunately France is far too far away.
+# Il suffirait de pouvoir aller en France en une minute pour assister au coucher du soleil. Malheureusement la France est bien trop éloignée. 
+
+Ma, ne iwaka-retama upé, rerikuté remutirika xinga-ntu ne wapikawa.
+# Mas, no seu planeta tão pequeno, bastava puxar a cadeira alguns passos para trás.
+# But, on your so small planet, you just had to pull your chair back a few steps.
+# Mais, sur ta si petite planète, il te suffisait de tirer ta chaise de quelques pas. 
+
+Yawé remaã-kwáu kurasí uwapika muíri í reputári waá ...
+# E você assistia o crepúsculo sempre que queria...
+# And you watched the twilight whenever you wanted to...
+# Et tu regardais le crépuscule chaque fois que tu le désirais... 
+
+- Yepé ara, amaã kurasí uwapika 44 í!
+# “Um dia vi o sol se pôr quarenta e quatro vezes!”
+# “One day I saw the sun go down forty-four times!”
+# “Un jour, j’ai vu le soleil se coucher quarante-quatre fois!” 
+
+Ariré xinga indé remuapiri:
+# E um pouco depois você adicionou:
+# And a little later you added:
+# Et un peu plus tard tu ajoutais: 
+
+- Indé rekwáu… mairamé sasiara yaikú, i katú yamaã-maã kurasí wapikasawa...
+# “Sabe... quando estamos tão tristes gostamos do pôr do sol...
+# “You know... when we are so sad we like sunsets...
+# “Tu sais... quand on est tellement triste on aime les couchers de soleil... 
+
+- Indé kuité sasiara retana reikú mairamé remaã kurasí uwapika 44 í?
+# - No dia das quarenta e quatro vezes você ficou tão triste?
+# - On the day of the forty-four times, were you so sad?”
+# - Le jour des quarante-quatre fois, tu étais donc tellement triste?” 
+
+Ma muruxawamirĩ ti usuaxara nẽ maã.
+# Mas o principezinho não respondeu.
+# But the little prince did not answer.
+# Mais le petit prince ne répondit pas. 
+

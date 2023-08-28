@@ -1,0 +1,356 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:13:30 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Ariré xinga uyukwáu yepé yawara kaapura:
+# E então a Raposa apareceu:
+# And then the Fox appeared:
+# C’est alors qu’apparut le renard: 
+
+- Yané ara - unheẽ yawara kaapura.
+# “Olá”, disse a raposa.
+# “Hello,” said the fox.
+# “Bonjour, dit le renard. 
+
+- Yané ara - usuaxara muruxawamirĩ, uyeréu waá amú suaxara kití ma ti umaã nẽ maã.
+# - Olá, respondeu educadamente o principezinho, que se virou mas não viu nada.
+# - Hello, politely replied the little prince, who turned around but saw nothing.
+# - Bonjour, répondit poliment le petit prince, qui se retourna mais ne vit rien. 
+
+- Aikú iké - unheẽ nheenga - kumãíwa wírupi...
+# - Estou aqui, disse a voz, debaixo da macieira...
+# - I'm here, said the voice, under the apple tree...
+# - Je suis là, dit la voix, sous le pommier... 
+
+- Awá taá indé? - unheẽ muruxawamirĩ. - Indé puranga retana...
+# - Quem é você? disse o pequeno príncipe. Você é muito bonita...
+# - Who are you? said the little prince. You're quite pretty...
+# - Qui es-tu? dit le petit prince. Tu es bien joli... 
+
+- Ixé yepé yawara kaapura - unheẽ aé.
+# - Eu sou uma raposa, disse a raposa.
+# - I am a fox, said the fox.
+# - Je suis un renard, dit le renard. 
+
+- Reyuri remusarái se irumu - unheẽ muruxawamirĩ. - Sasiara retana aikú...
+# - Venha brincar comigo, ofereceu o principezinho. Eu estou tão triste...
+# - Come and play with me, suggested the little prince. I'm so sad...
+# - Viens jouer avec moi, lui proposa le petit prince. Je suis tellement triste... 
+
+- Ti amusarai-kwáu ne irumu - unheẽ yawara kaapura. - Indé ti rẽ reyusá se piá.
+# - Não posso brincar com você, disse a raposa. Eu não estou domesticado.
+# - I can't play with you, said the fox. I am not tamed.
+# - Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas apprivoisé. 
+
+- Ah! Reyerũ ixé - unheẽ muruxawamirĩ.
+# -Ah! desculpe”, disse o pequeno príncipe.
+# - Ah! sorry,” said the little prince.
+# - Ah! pardon”, fit le petit prince. 
+
+Ma, umanduari xinga riré, aé umuapiri:
+# Mas, depois de refletir, acrescentou:
+# But, on reflection, he added:
+# Mais, après réflexion, il ajouta: 
+
+- Maã taá renheẽ-putari kwá nheenga-itá irumu?
+# "O que significa 'domesticado'?"
+# "What does "tame" mean'?"
+# “Qu’est-ce que signifie ‘apprivoiser’?” 
+
+- Indé ti ikewara - unheẽ yawara kaapura. Maã taá resikari reikú?
+# - Você não é daqui, disse a raposa, o que você está procurando?
+# - You're not from here, said the fox, what are you looking for?
+# - Tu n’es pas d’ici, dit le renard, que cherches-tu? 
+
+- Asikari mira-itá - unheẽ muruxawamirĩ. - Maã taá indé renheẽ-putari nhaã nheenga-itá irumu?
+# - Estou procurando os homens, disse o principezinho. O que significa "domesticado"?
+# - I'm looking for the men, said the little prince. What does "tame" mean"?
+# - Je cherche les hommes, dit le petit prince. Qu’est-ce que signifie “apprivoiser”? 
+
+- Mira-itá - unheẽ yawara kaapura - tá urikú mukawa asuí tá ukamundú. Kwá umusikié! Tá umimbáu sapukaya yuíri. Anhuãté maã puranga tá umunhã waá. Resikari será sapukaya-itá?
+# - Os homens, disse a raposa, têm armas e caçam. É muito constrangedor! Eles também criam galinhas. É o seu único interesse. Você está procurando galinhas?
+# - The men, said the fox, they have guns and they hunt. It's quite embarrassing! They also breed chickens. It is their only interest. Are you looking for chickens?
+# - Les hommes, dit le renard, ils ont des fusils et ils chassent. C’est bien gênant! Ils élèvent aussi des poules. C’est leur seul intérêt. Tu cherches des poules? 
+
+- Umbaá - unheẽ muruxawamirĩ. - Akwáu-putari mira-itá. - Maã taá indé renheẽ-putari nhaã nheenga-itá irumu?
+# - Não, disse o principezinho. Estou procurando alguns amigos. O que significa "domesticado"?
+# - No, said the little prince. I am looking for some friends. What does "tame" mean"?
+# - Non, dit le petit prince. Je cherche des amis. Qu’est-ce que signifie “apprivoiser”? 
+
+- Nhaã nheenga-itá umukameẽ manungara siía mira tá resarái ana waá - unheẽ yawara kaapura. - Aintá irumu, anheẽ-putari ti rẽ yarikú nẽ yepé yusana nungara umuapiri waá yandé.
+# - É uma coisa muito esquecida, disse a raposa. Significa “criar links…”.
+# - It is a thing too forgotten, said the fox. It means “to create links…”.
+# - C’est une chose trop oubliée, dit le renard. Ça signifie “créer des liens…”. 
+
+- “Yepé yusana nungara umuapiri waá yandé”?
+# - Criar links?
+# - Create links?
+# - Créer des liens? 
+
+- Yawé tẽ - unheẽ yawara kaapura. - Indé ti rẽ ixé arã yepé kurumĩ amurupí amú-itá suí. Ixé ti rẽ awatari indé arã, indé yuíri ti rẽ rewatari ixé arã. Ixé rẽ indé arã yepé yawara kaapura mayé amú-itá yawé. Ma, reyusá ramé se piá, yawatari kurí amú supé. Yawé indé kurí ixé arã amurupí amú-itá kurumĩ suí, ixé kurí indé arã amurupí amú-itá yawara kaapura suí...
+# - Claro, disse a raposa. Você ainda é para mim apenas um garotinho muito parecido com cem mil garotinhos. E eu não preciso de você. E você não precisa mais de mim. Sou apenas uma raposa para você, como cem mil raposas. Mas, se você me domesticar, precisaremos um do outro. Você será único no mundo para mim. Serei para você único no mundo...
+# - Of course, said the fox. You are still for me only a little boy quite similar to a hundred thousand little boys. And I don't need you. And you do not need me any more. I am only a fox to you, like a hundred thousand foxes. But, if you tame me, we will need each other. You will be unique in the world for me. I will be for you unique in the world...
+# - Bien sûr, dit le renard. Tu n’es encore pour moi qu’un petit garçon tout semblable à cent mille petits garçons. Et je n’ai pas besoin de toi. Et tu n’as pas besoin de moi non plus. Je ne suis pour toi qu’un renard semblable à cent mille renards. Mais, si tu m’apprivoises, nous aurons besoin l’un de l’autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde... 
+
+- Amaité akwáu kuíri - unheẽ muruxawamirĩ. - Aikwé yepé putira... amaité aé uyusá ana se piá...
+# - Estou começando a entender, disse o principezinho. Tem uma flor... acho que ela me domou...
+# - I'm beginning to understand, said the little prince. There is a flower... I think it tamed me...
+# - Je commence à comprendre, dit le petit prince. Il y a une fleur... je crois qu’elle m’a apprivoisé... 
+
+- Araneíma kwá supisawa - unheẽ yawara kaapura. - Yamaã tẽ siía maã Iwí upé...
+# - É possível, disse a raposa. Vemos todo tipo de coisas na Terra…
+# - It is possible, said the fox. We see all sorts of things on Earth…
+# - C’est possible, dit le renard. On voit sur la Terre toutes sortes de choses… 
+
+- Oh! Kwá ti uyusasá Iwí upé - unheẽ muruxawamirĩ.
+# - Oh! não está na Terra”, disse o pequeno príncipe.
+# - Oh! it is not on Earth,” said the little prince.
+# - Oh! ce n’est pas sur la Terre”, dit le petit prince. 
+
+Aramé yawara kaapura umanduá-duari:
+# A raposa parecia muito intrigada:
+# The fox looked very intrigued:
+# Le renard parut très intrigué: 
+
+- Amú iwaka-retama upé?
+# “Em outro planeta?
+# “On another planet?
+# “Sur une autre planète? 
+
+- Eẽ.
+# - Sim.
+# - Yes.
+# - Oui. 
+
+- Aikwé kamundusara-itá kwá tetama upé?
+# - Existem caçadores naquele planeta?
+# - Are there hunters on that planet?
+# - Il y a des chasseurs, sur cette planète-là? 
+
+- Umbaá.
+# - Não.
+# - No.
+# - Non. 
+
+- Kwá puranga retana! Aikwé sapukaya-itá?
+# - É interessante! E galinhas?
+# - That's interesting! And chickens?
+# - Ça, c’est intéressant! Et des poules? 
+
+- Umbaá.
+# - Não.
+# - No.
+# - Non. 
+
+- Nẽ pawa puranga retana - unheẽ yawara kaapura.
+# - Nada é perfeito”, suspirou a raposa.
+# - Nothing is perfect”, sighed the fox.
+# - Rien n’est parfait”, soupira le renard. 
+
+Ariré xinga yawara kaapura unheẽ rẽ:
+# Mas a raposa voltou à ideia:
+# But the fox came back to his idea:
+# Mais le renard revint à son idée: 
+
+- Ixé arã, panhẽ ara yepewasú pawa. Akamundú sapukaya-itá, mira-itá ukamundú ixé. Panhẽ sapukaya tá yepewasú, panhẽ mira tá yepewasú yuíri.
+# “Minha vida é monótona. Eu caço galinhas, os homens me caçam. Todas as galinhas são iguais e todos os homens são iguais.
+# “My life is monotonous. I hunt chickens, men hunt me. All chickens are alike, and all men are alike.
+# “Ma vie est monotone. Je chasse les poules, les hommes me chassent. Toutes les poules se ressemblent, et tous les hommes se ressemblent. 
+
+Kwá umusasiara xinga ixé. Ma, reyusá ramé se piá, panhẽ ara kurí ixé arã mayé yepé ara kurasiwara yawé.
+# Então estou um pouco entediado. Mas, se você me domesticar, minha vida ficará brilhante.
+# So I'm a little bored. But, if you tame me, my life will become bright.
+# Je m’ennuie donc un peu. Mais, si tu m’apprivoises, ma vie sera comme ensoleillée. 
+
+Akwáu kurí tiapú ne pirusawa suí, aé kurí amurupí amú-itá suí. Amú pirusawa-itá umuwiké ixé iwí kwara upé. Ma, ne pirusawa-itá usenũi kurí ixé mayé yepé nheengarisawa yawé, asuí ixé asemu kurí se kwara suí.
+# Conhecerei um passo que será diferente de todos os outros. Os outros passos me fazem ir para a clandestinidade. O seu vai me chamar para fora da toca, como música.
+# I will know a footstep that will be different from all the others. The other steps make me go underground. Yours will call me out of the burrow, like music.
+# Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m’appellera hors du terrier, comme une musique. 
+
+Asuí, remaã! Indé remaã-kwáu apekatú kwá suí awatí kupixawa-itá? Ti ambaú miapé. Ixé arã awatí ti puranga. Awatí kupixawa-itá, ti tá umumanduari ixé nẽ maã resé.
+# E então olhe! Você vê os campos de trigo ali? Eu não como pão. O trigo para mim é inútil. Os campos de trigo não me lembram nada.
+# And then look! Do you see the wheat fields over there? I do not eat bread. Wheat for me is useless. Wheat fields don't remind me of anything.
+# Et puis regarde! Tu vois, là-bas, les champs de blé? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. 
+
+Kwá umusasiara ixé! Ma ne awa pinimasawa itá-tawá nungara. Aramé, puranga retana kurí mairamé indé reyusá se piá!
+# E isso é triste! Mas você tem cabelos dourados. Então será maravilhoso quando você me domesticar!
+# And that is sad! But you have golden hair. So it will be wonderful when you tame me!
+# Et ça, c’est triste! Mais tu as des cheveux couleur d’or. Alors ce sera merveilleux quand tu m’auras apprivoisé! 
+
+Awatí rawa, tawá waá, umumanduari kurí ixé ne resé. Asaisú kurí tiapú awatí rawa umunhã waá mairamé iwitú upeyú...
+# O trigo, que é dourado, vai me lembrar de você. E eu gostaria do som do vento no trigo…”
+# Wheat, which is golden, will remind me of you. And I would like the sound of the wind in the wheat…”
+# Le blé, qui est doré, me fera souvenir de toi. Et j’aimerai le bruit du vent dans le blé…” 
+
+Yawara kaapura ukirirĩ asuí umaã-maã muruxawamirĩ resé:
+# A raposa ficou em silêncio e olhou longamente para o principezinho:
+# The fox was silent and looked at the little prince for a long time:
+# Le renard se tut et regarda longtemps le petit prince: 
+
+- Ayururéu ne suí... reyusá se piá! - unheẽ yawara kaapura.
+# “Por favor... me domine! ele disse.
+# “Please... tame me! he said.
+# “S’il te plaît... apprivoise-moi! dit-il. 
+
+- Puranga maã - unheẽ muruxawamirĩ -, ma ti aikupukú-kwáu iké. Uwatari rẽ awasemu mira-itá asuí amaã siía maã.
+# - Não me importo, respondeu o principezinho, mas não tenho muito tempo. Tenho amigos para descobrir e muitas coisas para saber.
+# - I don't mind, answered the little prince, but I don't have much time. I have friends to discover and many things to know.
+# - Je veux bien, répondit le petit prince, mais je n’ai pas beaucoup de temps. J’ai des amis à découvrir et beaucoup de choses à connaître. 
+
+- Yakwáu katú nhaã-ntu yamukaturú waá yané piá kwara upé - unheẽ yawara kaapura. - Uií ara mira-itá ti ana tá ukwáu nẽ maã katú reté. Aintá upiripana pá piripanasawa ruka-itá upé. Ma, mayé ti yamaã piripanasawa ruka- itá uvenderi waá mira-itá, ti ana tá urikú aintá rumuara. Reputari ramé ixé ne rumuara arã, reyusá se piá!
+# - Só conhecemos as coisas que domesticamos, disse a raposa. Os homens não têm mais tempo para saber de nada. Ele compra coisas prontas nas lojas. Mas como não existem vendedores de amigos, os homens não têm mais amigos. Se você quer um amigo, me domine!
+# - We only know the things we tame, said the fox. Men no longer have the time to know anything. He buys ready-made things at the stores. But since there are no sellers of friends, men no longer have friends. If you want a friend, tame me!
+# - On ne connaît que les choses que l’on apprivoise, dit le renard. Les hommes n’ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n’existe point de marchands d’amis, les hommes n’ont plus d’amis. Si tu veux un ami, apprivoise-moi! 
+
+- Maã taá arikuté amunhã? - unheẽ muruxawamirĩ.
+# - O que deveria ser feito? disse o pequeno príncipe.
+# - What should be done? said the little prince.
+# - Que faut-il faire? dit le petit prince. 
+
+- Rerikuté resarú - usuaxara yawara kaapura. - Rewapika kurí apekatú xinga se suí, kapiĩ resé. Amaã kurí ne resé se resá rakapira irumu asuí ti renheẽ kurí nẽ maã. Nheenga-itá ti uxari yandé yamaã puranga. Ma, muíri ara, rewapika kurí se ruakí piri...
+# - Você tem que ter muita paciência, respondeu a raposa. Primeiro você vai sentar um pouco longe de mim, assim, na grama. Vou olhar para você com o canto do olho e você não dirá nada. A linguagem é uma fonte de mal-entendidos. Mas, a cada dia, você poderá sentar-se um pouco mais perto...”
+# - You have to be very patient, answered the fox. You will first sit a little far from me, like that, in the grass. I'll look at you out of the corner of my eye and you won't say anything. Language is a source of misunderstanding. But, each day, you will be able to sit a little closer...”
+# - Il faut être très patient, répondit le renard. Tu t’assoiras d’abord un peu loin de moi, comme ça, dans l’herbe. Je te regarderai du coin de l’œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t’asseoir un peu plus près...” 
+
+Amú ara ramé, muruxawamirĩ uyuíri.
+# No dia seguinte o principezinho voltou.
+# The next day the little prince returned.
+# Le lendemain revint le petit prince. 
+
+- Puranga piri maã reyuíri ramé maã yepé tẽ ara pisáwera ramé - unheẽ yawara kaapura. Reyuri ramé muíri ara karuka pitérupi, karuka yupirungawa ramé ana se rurí. Mairamé watari xinga resika renundé, ixé susangaíma ana: resika ramé kurí se rurí katú! Ma, reyuri ramé mairamé-ntu, ti mayé amukaturu se piá asuantí arama indé... Sesewara puranga maã yarikú yané rikusawa!
+# “Teria sido melhor voltar na mesma hora”, disse a raposa. Se você vier, por exemplo, às quatro da tarde, às três horas começarei a ficar feliz. Quanto mais o tempo passar, mais feliz me sentirei. Às quatro horas já estarei agitado e preocupado: descobrirei o preço da felicidade! Mas se você vier a qualquer hora, nunca saberei a hora de vestir meu coração... É preciso ritos.
+# “It would have been better to come back at the same time,” said the fox. If you come, for example, at four o'clock in the afternoon, at three o'clock I shall begin to be happy. The more time passes, the happier I will feel. At four o'clock, already, I will be agitated and worried: I will discover the price of happiness! But if you come anytime, I'll never know what time to dress my heart... It takes rites.
+# “Il eût mieux valu revenir à la même heure, dit le renard. Si tu viens, par exemple, à quatre heures de l’après-midi, dès trois heures je commencerai d’être heureux. Plus l’heure avancera, plus je me sentirai heureux. À quatre heures, déjà, je m’agiterai et m’inquiéterai: je découvrirai le prix du bonheur! Mais si tu viens n’importe quand, je ne saurai jamais à quelle heure m’habiller le cœur... Il faut des rites. 
+
+- Maã taá renheẽ-putari “yané rikusawa” irumu? - unheẽ muruxawamirĩ.
+# - O que é um ritual? disse o pequeno príncipe.
+# - What is a ritual? said the little prince.
+# - Qu’est-ce qu’un rite? dit le petit prince. 
+
+- Kwá yuíri manungara mira-itá tá resarái waá - unheẽ yawara kaapura. Kwá umunhã yepé ara amurupí amú suí, yepé ara pisáwera amurupí amú-itá suí. Kamundusara-itá upurasí muíri supapáu kunhãmukú irumu tawa suiwara. Aramé supapáu yepé ara puranga retana! Kwá ara ramé, awatawara kukuratiwa rupí. Kamundusara-itá upurasí ramé maã mayewa ara ramé-ntu, ara-itá ti maã amurupí, asuí nẽ mairamé apituú-kwáu maã.
+# - Também é algo muito esquecido, disse a raposa. É isso que diferencia um dia dos outros dias, uma hora das outras horas. Existe um ritual, por exemplo, entre meus caçadores. Dançam às quintas-feiras com as meninas da aldeia. Então quinta-feira é um dia maravilhoso! Vou caminhar até a vinha. Se os caçadores dançassem a qualquer hora, os dias seriam todos iguais e eu não teria feriados.
+# - It is also something too forgotten, said the fox. This is what makes a day different from other days, an hour from other hours. There is a ritual, for example, among my hunters. They dance on Thursdays with the girls from the village. So thursday is a wonderful day! I will walk to the vineyard. If the hunters danced at any time, the days would all be the same, and I would have no holidays.
+# - C’est aussi quelque chose de trop oublié, dit le renard. C’est ce qui fait qu’un jour est différent des autres jours, une heure, des autres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils dansent le jeudi avec les filles du village. Alors le jeudi est jour merveilleux! Je vais me promener jusqu’à la vigne. Si les chasseurs dansaient n’importe quand, les jours se ressembleraient tous, et je n’aurais point de vacances.” 
+
+Yawé, muruxawamirĩ uyusá yawara kaapura piá. Ma, mairamé urikuté usú i suí:
+# Então o principezinho domesticou a raposa. E quando a hora da partida estava próxima:
+# So the little prince tamed the fox. And when the hour of departure was near:
+# Ainsi, le petit prince apprivoisa le renard. Et quand l’heure du départ fut proche: 
+
+- Ah! - unheẽ yawara kaapura. - Ixé asú ayaxiú.
+# "Oh! disse a raposa... vou chorar.
+# “Oh! said the fox... I will cry.
+# “Ah! dit le renard... Je pleurerai. 
+
+- Indé tẽ reputari kwayé - unheẽ muruxawamirĩ. - Ti maã axari-putari indé sasiara, ma indé reputari ixé ayusá maã ne piá...
+# - A culpa é sua, disse o principezinho, eu não te desejei mal, mas você queria que eu te domesticasse...
+# - It's your fault, said the little prince, I didn't wish you any harm, but you wanted me to tame you...
+# - C’est ta faute, dit le petit prince, je ne te souhaitais point de mal, mais tu as voulu que je t’apprivoise... 
+
+- Aputari tẽ - unheẽ yawara kaapura.
+# - Claro, disse a raposa.
+# - Of course, said the fox.
+# - Bien sûr, dit le renard. 
+
+- Ma indé resú reyaxiú! - unheẽ muruxawamirĩ.
+# - Mas você vai chorar! disse o pequeno príncipe.
+# - But you're going to cry! said the little prince.
+# - Mais tu vas pleurer! dit le petit prince. 
+
+- Asú tẽ - unheẽ yawara kaapura.
+# - Claro, disse a raposa.
+# - Of course, said the fox.
+# - Bien sûr, dit le renard. 
+
+- Ma ti kurí rerikú nẽ maã ne irumu!
+# - Então você não ganha nada!
+# - Then you gain nothing!
+# - Alors tu n’y gagnes rien! 
+
+- Arikú kurí manungara supí - unheẽ yawara kaapura - awatí rawa resewara.
+# - Eu ganhei, disse a raposa, por causa da cor do trigo.”
+# - I win, said the fox, because of the color of the wheat.”
+# - J’y gagne, dit le renard, à cause de la couleur du blé.” 
+
+Asuí, aé umuapiri:
+# Então ele acrescentou:
+# Then he added:
+# Puis il ajouta: 
+
+- Resú remaã amu í putira-itá piranga. Remaã kurí ne yara amurupí amú-itá suí. Reyuíri kurí renheẽ arã “té kurimirĩ” ixé arã, asuí ambéu kurí manungara indé arã.
+# “Vá ver as rosas novamente. Você entende que o seu é único no mundo. Você voltará para se despedir de mim e eu lhe darei um segredo de presente.
+# “Go see the roses again. You understand that yours is unique in the world. You will come back to say goodbye to me, and I will give you a secret as a gift.”
+# “Va revoir les roses. Tu comprendras que la tienne est unique au monde. Tu reviendras me dire adieu, et je te ferai cadeau d’un secret.” 
+
+Aramé muruxawamirĩ usú umaã putira-itá piranga:
+# O principezinho foi ver novamente as rosas:
+# The little prince went to see the roses again:
+# Le petit prince s’en fut revoir les roses: 
+
+- Penhẽ ti mayé se putira yawé, penhẽ ti rẽ nẽ maã. Nẽ awá rẽ uyusá penhẽ piá, penhẽ yuíri ti rẽ peyusá nẽ awá piá. Penhẽ mayé yawara kaapura yawé ixé akwáu renundé aé. Aé kwera yepé yawara kaapura mayé amú-itá yawé. Ma amuyeréu aé se rumuara arã, kuíri aé amurupí panhẽ yawara kaapura suí.
+# “Vocês não são nada parecidos com minha rosa, vocês ainda não são nada”, disse ele. Ninguém domesticou você e você não domesticou ninguém. Você é como minha raposa era. Era apenas uma raposa como centenas de milhares de outras. Mas eu fiz dele meu amigo, e ele agora é único no mundo.”
+# "You are not at all like my rose, you are nothing yet," he told them. No one tamed you and you tamed no one. You are like my fox was. It was just a fox like a hundred thousand others. But I made him my friend, and he is now unique in the world.”
+# “Vous n’êtes pas du tout semblables à ma rose, vous n’êtes rien encore, leur dit-il. Personne ne vous a apprivoisées et vous n’avez apprivoisé personne. Vous êtes comme était mon renard. Ce n’était qu’un renard semblable à cent mille autres. Mais j’en ai fait mon ami, et il est maintenant unique au monde.” 
+
+Aramé putira-itá piranga upitá sasiara retana.
+# E as rosas ficaram muito envergonhadas.
+# And the roses were very embarrassed.
+# Et les roses étaient bien gênées. 
+
+- Penhẽ puranga, ma penhẽ ti rẽ amurupí ixé arã - unheẽ muruxawamirĩ. - Nẽ awá umanũ kurí penhẽ rupí. Amú mira umaité maã se putira mayé penhẽ yawé. Ma ixé arã aé purunga piri penhẽ suí, nhaãsé amururú aé. Nhaãsé amburi aé yepé riruwasú sakakanga upé. Nhaãsé apisirũ aé iwituwasú suí yepé iwitú-pitasukasara irumu. Nhaãsé ayuká tapurú-itá uikú waá sesé (axari-ntu mukũi u musapiri panapanã-itá resewara). Nhaãsé asendú aé ukururuka u upurungitá i purangasawa resé, asuí amuramé ukirirĩ. Nhaãsé aé se putira piranga.
+# “Vocês são lindos, mas estão vazios”, ele disse novamente. Não podemos morrer por você. Claro, minha rosa, um transeunte comum pensaria que se parece com você. Mas sozinha ela é mais importante que todos vocês, pois foi ela quem reguei. Porque foi ela que coloquei sob o vidro. Pois é ela que eu protegi perto da tela. Pois foi ela cujas lagartas eu matei (exceto as duas ou três das borboletas). Pois foi ela quem ouvi reclamar, ou gabar-se, ou mesmo às vezes calar-se. Já que é minha rosa.
+# "You are beautiful, but you are empty," he told them again. We can not die for you. Of course, my own rose, an ordinary passer-by would think it looks like you. But on her own she is more important than all of you, since she is the one I watered. Because it is she that I put under glass. Since it is her that I sheltered by the screen. Since it is she whose caterpillars I killed (except the two or three for the butterflies). Since it is she whom I have listened to complain, or boast, or even sometimes be silent. Since it is my rose.”
+# “Vous êtes belles, mais vous êtes vides, leur dit-il encore. On ne peut pas mourir pour vous. Bien sûr, ma rose à moi, un passant ordinaire croirait qu’elle vous ressemble. Mais à elle seule elle est plus important que vous toutes, puisque c’est elle que j’ai arrosée. Puisque c’est elle que j’ai mise sous globe. Puisque c’est elle que j’ai abritée par le paravent. Puisque c’est elle dont j’ai tué les chenilles (sauf les deux ou trois pour les papillons). Puisque c’est elle que j’ai écoutée se plaindre, ou se vanter, ou même quelquefois se taire. Puisque c’est ma rose.” 
+
+Asuí uyuíri yawara kaapura piri:
+# E ele voltou para a raposa:
+# And he came back to the fox:
+# Et il revint vers le renard: 
+
+- Té kurimirĩ... - unheẽ aé.
+# "Adeus", ele disse...
+# "Goodbye," he said...
+# “Adieu, dit-il... 
+
+- Té kurimirĩ - unheẽ yawara kaapura. - Xukúi maã nẽ mairamé waá anheẽ nẽ awá supé: yamaã-ntu puranga yané piá irumu. Yané resá ti umaã-kwáu maã-itá rumitera.
+# - Adeus, disse a raposa. Aqui está o meu segredo. É muito simples: só vemos bem com o coração. O que é essencial é invisível aos olhos.
+# - Farewell, said the fox. Here is my secret. It is very simple: we only see well with the heart. What is essential is invisible to the eye.
+# - Adieu, dit le renard. Voici mon secret. Il est très simple: on ne voit bien qu’avec le cœur. L’essentiel est invisible pour les yeux. 
+
+- Yané resá ti umaã-kwáu maã-itá rumitera - unheẽ muruxawamirĩ ti arã sesarái.
+# - O essencial é invisível aos olhos, repetiu o principezinho, para lembrar.
+# - The essential is invisible to the eyes, repeated the little prince, in order to remember.
+# - L’essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir. 
+
+- Ara resasá waá ne putira irumu umuyeréu aé yepé putira amurupí amú-itá suí.
+# - É o tempo que você desperdiçou com sua rosa que a torna tão importante.
+# - It is the time you have wasted on your rose that makes your rose so important.
+# - C’est le temps que tu as perdu pour ta rose qui fait ta rose si importante. 
+
+- Ara asasá waá se putira irumu... - unheẽ muruxawamirĩ ti arã sesarái.
+# - É o tempo que perdi pela minha rosa..., disse o principezinho, para lembrar.
+# - It's the time I lost for my rose..., said the little prince, in order to remember.
+# - C’est le temps que j’ai perdu pour ma rose..., fit le petit prince, afin de se souvenir. 
+
+- Mira-itá tá resarái kwá supisawa - unheẽ yawara kaapura. - Té ne resarái i suí! Rerikuté repisirũ awá piá reyusá waá. Rerikuté repisirũ ne putira...
+# - Os homens esqueceram esta verdade, disse a raposa. Mas você não deve esquecer isso. Tu te tornas eternamente responsável por aquilo que cativas. Você é responsável pela sua rosa...
+# - Men have forgotten this truth, said the fox. But you must not forget it. You become responsible forever for what you have tamed. You are responsible for your rose...
+# - Les hommes ont oublié cette vérité, dit le renard. Mais tu ne dois pas l’oublier. Tu deviens responsable pour toujours de ce que tu as apprivoisé. Tu es responsable de ta rose... 
+
+- Arikuté apisirũ se putira... - unheẽ yuíri muruxawamirĩ ti arã sesarái.
+# - Eu sou o responsável pela minha rosa...”, repetiu o principezinho, para lembrar.
+# - I am responsible for my rose...”, repeated the little prince, in order to remember.
+# - Je suis responsable de ma rose...”, répéta le petit prince, afin de se souvenir. 
+

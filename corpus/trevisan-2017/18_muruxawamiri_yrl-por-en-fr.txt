@@ -1,0 +1,56 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:12:34 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Muruxawamirĩ uyasá nhaã tetama mira-íma ma uwasemu yepé-ntu putira. Yepé putira musapiri putira-rawa irumu, yepé putiramirĩ mayé amú-itá yawé...
+# O pequeno príncipe atravessou o deserto e só encontrou uma flor. Uma flor com três pétalas, uma flor sem nada...
+# The little prince crossed the desert and only encountered a flower. A flower with three petals, a flower of nothing at all...
+# Le petit prince traversa le désert et ne rencontra qu’une fleur. Une fleur à trois pétales, une fleur de rien du tout... 
+
+- Yané ara - unheẽ muruxawamirĩ.
+# “Olá”, disse o pequeno príncipe.
+# “Hello,” said the little prince.
+# “Bonjour, dit le petit prince. 
+
+- Yané ara - unheẽ putira.
+# - Olá, disse a flor.
+# - Hello, said the flower.
+# - Bonjour, dit la fleur. 
+
+- Indé rekwáu mamé mira-itá uikú? - upurandú muruxawamirĩ.
+# - Onde estão os homens? perguntou o pequeno príncipe educadamente.
+# - Where are the men?" asked the little prince politely.
+# - Où sont les hommes?” demanda poliment le petit prince. 
+
+Nhaã putira, yepé ara, umaã ana usasá yepé miratiwa:
+# A flor, um dia, viu passar uma caravana:
+# The flower, one day, had seen a caravan pass:
+# La fleur, un jour, avait vu passer une caravane: 
+
+- Mira-itá? Amaité aikwé puyepé u pumukũi. Aikwé ana siía akayú ixé amaã yepé mira. Nẽ mairamé yakwáu mamé aintá uikú. Iwitú urasú aintá. Aintá ti urikú tá rapú, sesewara iwasú yamaã aintá.
+# "Homens? Acredito que sejam seis ou sete, e os vi há anos. Mas você nunca sabe onde encontrá-los. O vento os faz divagar. Eles não têm raízes, isso incomoda muito.
+# "Men? There are, I believe, six or seven. I saw them years ago. But you never know where to find them. The wind sends them rambling. They lack roots, it bothers them a lot.
+# “Les hommes? Il en existe, je crois, six ou sept. Je les ai aperçus il y a des années. Mais on ne sait jamais où les trouver. Le vent les promène. Ils manquent de racines, ça les gêne beaucoup. 
+
+- Té kurimirĩ - unheẽ muruxawamirĩ.
+# - Adeus, disse o principezinho.
+# - Farewell, said the little prince.
+# - Adieu, fit le petit prince. 
+
+- Té kurimirĩ - unheẽ putira.
+# - Adeus”, disse a flor.
+# - Farewell,” said the flower.
+# - Adieu”, dit la fleur. 
+

@@ -1,0 +1,291 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 11:58:27 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Sesewara aikú yepenhũ, nẽ awá irumu apurungitá arama supí, té ara mairamé se pepusantá upena yepé tetama mira-íma upé, sera waá Saara, aikwé ana puyepé akayú.
+# Então, vivi sozinho, sem ninguém com quem conversar, até um colapso no deserto do Saara, há seis anos.
+# So I lived alone, with no one to really talk to, until a breakdown in the Sahara desert six years ago.
+# J’ai ainsi vécu seul, sans personne avec qui parler véritablement, jusqu’à une panne dans le désert du Sahara, il y a six ans. 
+
+Manungara upena uikú se pepusantá mukatakasara upé.
+# Algo quebrou no meu motor.
+# Something was broken in my engine.
+# Quelque chose s’était cassé dans mon moteur. 
+
+Mayé ti aikwé nẽ awá se irumu, arikuté amungaturú se pepusantá se rupí tẽ.
+# E como não tinha mecânico nem passageiros comigo, preparei-me para tentar realizar sozinho um reparo difícil.
+# And since I had neither mechanic nor passengers with me, I prepared myself to try and pull off a difficult repair all by myself.
+# Et comme je n’avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile. 
+
+Nhaã, ixé arama, se rikwesawa u se manũsawa.
+# Era uma questão de vida ou morte para mim.
+# It was a matter of life or death for me.
+# C’était pour moi une question de vie ou de mort. 
+
+Arikú-ntu ií aú arama pumusapiri ara pukusawa.
+# Mal tive água para beber durante oito dias.
+# I barely had water to drink for eight days.
+# J’avais à peine de l’eau à boire pour huit jours. 
+
+Yepesawa pituna ramé akiri iwikuí árupi, apekatú retana mayewa tetama suí- ntu mamé mira-itá uikú.
+# Então, na primeira noite, adormeci na areia, a mil milhas de qualquer terra habitada.
+# So the first night I fell asleep on the sand a thousand miles from any inhabited land.
+# Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée. 
+
+Yawé aikú yepenhũ piri awá uyusupari waá suí yepé igaramirĩ irumu paranãwasú pitérupi.
+# Eu estava muito mais isolado do que um náufrago numa jangada no meio do oceano.
+# I was much more isolated than a castaway on a raft in the middle of the ocean.
+# J’étais bien plus isolé qu’un naufragé sur un radeau au milieu de l’oceán. 
+
+Aramé pemanduari mayé tẽ se akanhemu, mairamé, kwemaité, yepé nheengamirĩ amurupí umupaka ixé.
+# Então você pode imaginar minha surpresa, ao amanhecer, quando uma vozinha engraçada me acordou.
+# So you can imagine my surprise, at daybreak, when a funny little voice woke me up.
+# Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m’a réveillé. 
+
+Unheẽ: ...
+# Ela disse: ...
+# She said: ...
+# Elle disait: ... 
+
+- Ayururéu ne suí... rekwatiari ixé arã yepé suumé76 mimbira!
+# "Por favor, desenhe uma ovelha para mim!
+# "Please draw me a sheep!
+# “S’il vous plaît… dessine-moi un mouton! 
+
+- Maã taá?
+# - Ah!
+# - Eh!
+# - Hein! 
+
+- Rekwatiari ixé arã yepé suumé mimbira...
+# - Desenhe uma ovelha para mim..."
+# - Draw me a sheep..."
+# - Dessine-moi un mouton...” 
+
+Apuri se akanhemu mayé yepé uerawa uwari ramé maã se árupi, akitika se resá asuí amaã katú sesé.
+# Eu pulei de pé como se tivesse sido atingido por um raio. Esfreguei bem os olhos. Eu dei uma boa olhada.
+# I jumped to my feet as if struck by lightning. I rubbed my eyes well. I took a good look.
+# J’ai sauté sur mes pieds comme si j’avais été frappé par la foudre. J’ai bien frotté mes yeux. J’ai bien regardé. 
+
+Aramé amaã yepé apigawamirĩ amurupí retana umanhana uikú waá ixé.
+# E vi um sujeitinho extraordinário que me olhava gravemente.
+# And I saw a quite extraordinary little fellow who was looking at me gravely.
+# Et j’ai vu un petit bonhomme tout à fait extraordinaire qui me considérait gravement. 
+
+Xukúi sangawa puranga piri amunhã-kwáu waá sesé asuiwara.
+# Este é o melhor retrato que consegui fazer dele mais tarde.
+# This is the best portrait I later managed to make of him.
+# Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui. 
+
+Ma nhaã apigawamirĩ, supí, puranga piri katú se kwatiarisawa suí.
+# Mas meu desenho, claro, é muito menos lindo que o modelo.
+# But my drawing, of course, is much less lovely than the model.
+# Mais mon dessin, bien sûr, est beaucoup moins ravissant que le modèle. 
+
+Ti usemu kwayé se resewara-ntu.
+# Não é minha culpa.
+# It's not my fault.
+# Ce n’est pas ma faute. 
+
+Mairamé arikú puyepé akayú mira-itá turusú uyuka se suí se rimutara ti arama apurakí kwatiarisara yawé, sesewara ayumbué-ntu akwatiari buyawasú-itá.
+# Fui desencorajado em minha carreira de pintor pelos adultos, aos seis anos de idade, e não aprendi nada a desenhar, exceto jibóias fechadas e jibóias abertas.
+# I had been discouraged in my career as a painter by grown-ups, at the age of six, and I had learned nothing to draw except closed boas and open boas.
+# J’avais été découragé dans ma carrière de peintre par les grandes personnes, à l’âge de six ans, et je n’avais rien appris à dessiner, sauf les boas fermés et les boas ouverts. 
+
+Amaã-maã nhaã apigawamirĩ resé se resá-itá irumu tá teresemu akanhemusawa irumu.
+# Então olhei para esta aparição com os olhos arregalados de espanto.
+# So I looked at this apparition with eyes wide with astonishment.
+# Je regardai donc cette apparition avec des yeux tout ronds d’étonnement. 
+
+Té pe resarái ixé aikú aramé apekatú retana mayewa tetama suí-ntu mamé mira-itá uikú.
+# Não esqueça que eu estava a mil milhas de qualquer região habitada.
+# Do not forget that I was a thousand miles from any inhabited region.
+# N’oubliez pas que je me trouvais à mille milles de toute région habitée. 
+
+Ma nhaã apigawamirĩ ti uyukwáu mayé awá uyusupari waá yawé, nẽ i kweré retana nungara, nẽ i yumasí retana, nẽ i isí retana, nẽ sikiesawa turusú irumu.
+# Mas meu amiguinho não me parecia nem perdido, nem morto de cansaço, nem morto de fome, nem morto de sede, nem morto de medo.
+# But my little fellow didn't seem to me either lost, or dead of fatigue, or dead of hunger, or dead of thirst, or dead of fear.
+# Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. 
+
+Aé ti tẽ yepé kurumimirĩ nungara uyusupari waá yepé tetama mira-íma upé, apekatú retana mayewa tetama suí-ntu mamé mira-itá umurari.
+# Ele não se parecia em nada com uma criança perdida no meio do deserto, a milhares de quilômetros de qualquer região habitada.
+# He looked nothing like a child lost in the middle of the desert, a thousand miles from any inhabited region.
+# Il n’avait en rien l’apparence d’un enfant perdu au milieu du désert, à mille milles de toute région habitée. 
+
+Mairamé apurungitá-kwáu, anheẽ i xupé:
+# Quando finalmente consigo falar, digo a ele:
+# When I finally manage to speak, I tell him:
+# Quand je réussis enfin à parler, je lui dis: 
+
+- Ma... maã taá remunhã iké?
+# "O que você está fazendo aqui?"
+# "What are you doing here?"
+# “Mais... qu’est-ce que tu fais là?” 
+
+Aramé unheẽ amú í ixé arama, kuíri merupí, unheẽ waá yawé manungara satambika retana:
+# E então ele repetiu para mim, bem baixinho, como se fosse algo muito sério:
+# And then he repeated to me, very softly, as if something very serious:
+# Et il me répéta alors, tout doucement, comme une chose très sérieuse: 
+
+- Ayururéu ne suí... rekwatiari ixé arã yepé suumé mimbira!
+# "Por favor, desenhe uma ovelha para mim..."
+# "Please draw me a sheep..."
+# “S’il vous plaît... dessine-moi un mouton...” 
+
+Mairamé usika manungara ti tẽ yakwáu waá, puranga piri yapusú aé.
+# Quando o mistério é muito impressionante, não ousamos desobedecer.
+# When the mystery is too impressive, we dare not disobey.
+# Quand le mystère est trop impressionant, on n’ose pas désobéir. 
+
+Apekatú retana mayewa tetama suí-ntu mamé mira-itá uikú asuí sikiesawa irumu manusawa suí, nhaã pawa akangaiwasawa nungara. Ma yawé tẽ apisika yepé papera asuí yepé pinimasara rupiara.
+# Por mais absurdo que me parecesse, a mil quilômetros de todos os lugares habitados e com risco de vida, tirei do bolso uma folha de papel e uma caneta-tinteiro.
+# As absurd as it seemed to me a thousand miles from all inhabited and life-threatening places, I pulled out of my pocket a sheet of paper and a fountain pen.
+# Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe. 
+
+Ma, aramé tẽ, amanduari ayumbué-ntu puranga iwí-kwausawa, mirasawa-itá marandua, paparisawa asuí yané nheenga. Asuí anheẽ apigawamirĩ supé (se piaíwa xinga aikú) ti akwatiari-kwáu.
+# Mas aí me lembrei que tinha estudado principalmente geografia, história, aritmética e gramática e disse ao homenzinho (com um pouco de mau humor) que não sabia desenhar.
+# But then I remembered that I had mainly studied geography, history, arithmetic and grammar and I told the little man (with a little bad humor) that I did not know how to draw.
+# Mais je me rappelai alors que j’avais surtout étudié la géographie, l’histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner. 
+
+Aé usuaxara ixé arama:
+# Ele me respondeu:
+# He answered me:
+# Il me répondit: 
+
+- Puranga pá. Rekwatiari ixé arã yepé suumé mimbira.
+# "Não importa. Desenhe-me uma ovelha."
+# "It doesn't matter. Draw me a sheep."
+# “Ça ne fait rien. Dessine-moi un mouton.” 
+
+Mayé nẽ mairamé akwatiari ana kwera yepé suumé mimbira, amunhã i xupé yepé sangawa akwáu katú waá: se yepesawa kwatiarisawa.
+# Como nunca tinha desenhado uma ovelha, refiz, para ele, um dos dois únicos desenhos de que fui capaz. O da boa fechada.
+# As I had never drawn a sheep, I redid, for him, one of the only two drawings of which I was capable. That of the closed boa.
+# Comme je n’avais jamais dessiné un mouton je refis, pour lui, l’un des deux seuls dessins dont j’étais capable. Celui du boa fermé. 
+
+Ma se akanhemu apitá mairamé asendú nhaã apigawamirĩ unheẽ ixé arama:
+# E fiquei surpreso ao ouvir o homenzinho me responder:
+# And I was amazed to hear the little man answer me:
+# Et je fus stupéfait d’entendre le petit bonhomme me répondre: 
+
+- Umbaá, umbaá! Ti aputari yepé erepanti kwera yepé buyawasú kwara upé. Buyawasú i yawaité retana asuí erepanti turusú retana. Mamé ixé amurari panhẽ maã mirĩ. Uwatari tẽ ixé arã yepé suumé mimbira. Rekwatiari ixé arã yepé suumé mimbira.
+# "Não! Não! Não quero um elefante numa jibóia. Uma jibóia é muito perigosa e um elefante é muito pesado. Minha casa é apertada. Eu preciso de uma ovelha. Desenhe-me uma ovelha."
+# "No! No! I don't want an elephant in a boa. A boa is very dangerous, and an elephant is very cumbersome. My place is tight. I need a sheep. Draw me a sheep."
+# “Non! Non! Je ne veux pas d’un éléphant dans un boa. Un boa c’est très dangereux, et un éléphant c’est très encombrant. Chez moi c’est tout petit. J’ai besoin d’un mouton. Dessine-moi un mouton.” 
+
+Aramé akwatiari.
+# Então eu desenhei.
+# So I drew.
+# Alors j’ai dessiné. 
+
+Umaã katú asuí unheẽ:
+# Ele olhou com atenção, então:
+# He looked carefully, then:
+# Il regarda attentivement, puis: 
+
+- Umbaá! Kwá i maasí retana. Rekwatiari amú ixé arã.
+# "Não! Esse já está muito doente. Faça outro."
+# "No! That one is already very ill. Do another one."
+# “Non! Celui-là est déjà très malade. Fais-en un autre.” 
+
+Aramé akwatiari.
+# Eu desenhei:
+# I drew:
+# Je dessinai: 
+
+Se rumuara upuká seẽ:
+# Meu amigo sorri gentilmente, indulgentemente:
+# My friend smiles kindly, indulgently:
+# Mon ami sourit gentiment, avec indulgence: 
+
+- Rekwáu tẽ kwá ti yepé suumé mimbira. Kwá yepé suumé waimĩ. Aé urikú i aka-itá.
+# “Veja... não é uma ovelha, é um carneiro. Ele tem chifres…”
+# “You see... it's not a sheep, it's a ram. He has horns…”
+# “Tu vois bien... ce n’est pas un mouton, c’est un bélier. Il a des cornes...” 
+
+Aramé amunhã yuíri se kwatiarisawa:
+# Então refiz meu desenho ainda:
+# So I redid my drawing yet:
+# Je refis donc encore mon dessin: 
+
+Ma, mayé amú kwatiarisawa-itá yawé, muruxawamirĩ ti uputari nhaã yuíri:
+# Mas foi recusado, como os anteriores:
+# But it was refused, like the previous ones:
+# Mais il fut refusé, comme les précédents: 
+
+- Kwá waimĩ retana. Ixé aputari yepé suumé mimbira upitá waá se irumũ siía ara rupí.
+# “Este é muito antigo. Eu quero uma ovelha que viva muito.”
+# “This one is too old. I want a long-lived sheep.”
+# “Celui-là est trop vieux. Je veux un mouton qui vive longtemps.” 
+
+Aramé, mayé susanga-íma ana aikú asuí ti maã aikupukú-putari amungaturú arama se pepusantá mukatakasara, amunhã kutara nungara amú kwatiarisawa.
+# Então, por falta de paciência, como estava com pressa para começar a desmontar meu motor, rabisquei este desenho:
+# So, for lack of patience, as I was in a hurry to start dismantling my engine, I scribbled this drawing:
+# Alors, faute de patience, comme j’avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci: 
+
+Asuí anheẽ:
+# Então eu joguei:
+# Then I threw:
+# Et je lançai: 
+
+- Kwá yepé patuá. Suumé mimbira reputari waá uikú patuá kwara upé.
+# “Essa é a caixa registradora. A ovelha que você quer está nele.”
+# "That's the cash register. The sheep you want is in it.”
+# “Ça c’est la caisse. Le mouton que tu veux est dedans.” 
+
+Ma se akanhemu retana mairamé amaã uwerá nhaã kurumĩ purandusara ruá.
+# Mas fiquei bastante surpreso ao ver o rosto do meu jovem juiz se iluminar:
+# But I was quite surprised to see my young judge's face light up:
+# Mais je fus bien surpris de voir s’illuminer le visage de mon jeune juge: 
+
+- Yawé tẽ aputari waá! Remaité será kwá suumé mimbira umbaú kapĩ turusú?
+# “Era exatamente assim que eu queria! Você acha que esta ovelha precisa de muita grama?
+# “That’s exactly how I wanted it! Do you think this sheep needs a lot of grass?
+# “C’est tout à fait comme ça que je le voulais! Crois-tu qu’il faille beaucoup d’herbe à ce mouton? 
+
+- Marã taá?
+# - Para que?
+# - For what?
+# - Pourquoi? 
+
+- Nhaãsé mamé amurari panhẽ maã mirĩ...
+# - Porque minha casa é muito pequena...
+# - Because my house is very small...
+# - Parce que chez moi c’est tout petit... 
+
+- Kapĩ mirĩ uikú ana puranga. Ameẽ indé arã yepé suumé mimbira mirĩ retana.
+# - Certamente isso será suficiente. Eu te dei uma ovelhinha.”
+# - Surely that will suffice. I gave you a tiny little sheep.”
+# - Ça suffira sûrement. Je t’ai donné un tout petit mouton.” 
+
+Umuyawika i akanga kwatiarisawa resé.
+# Ele inclinou a cabeça em direção ao desenho:
+# He tilted his head towards the drawing:
+# Il pencha la tête vers le dessin: 
+
+- Aé ti tẽ kwaíra retana… Remaã! Ukiri ana...
+# “Não tão pequeno assim... Aqui! Ele adormeceu..."
+# “Not so small as that... Here! He fell asleep..."
+# “Pas si petit que ça... Tiens! Il s’est endormi...” 
+
+Kwayé akwáu nhaã muruxawamirĩ.
+# E foi assim que conheci o pequeno príncipe.
+# And that's how I met the little prince.
+# Et c’est ainsi que je fis la connaissance du petit prince. 
+
+Xukúi sangawa puranga piri amunhã-kwáu waá sesé asuiwara.
+# Este é o melhor retrato que consegui fazer dele mais tarde.
+# This is the best portrait I later managed to make of him.
+# Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui. 
+

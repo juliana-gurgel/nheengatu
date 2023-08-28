@@ -1,0 +1,56 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:15:33 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+- Yané ara - unheẽ muruxawamirĩ.
+# “Olá”, disse o pequeno príncipe.
+# “Hello,” said the little prince.
+# “Bonjour, dit le petit prince. 
+
+- Yané ara - unheẽ venderisara.
+# - Olá”, disse o comerciante.
+# - Hello”, said the merchant.
+# - Bonjour”, dit le marchand. 
+
+Aé yepé pusanga venderisara umupawa waá-itá isisawa. Ti arama yané isí yapitá, yarikuté yaú kwá pusanga yepé í muíri sumana.
+# Ele era um traficante de pílulas avançadas para matar a sede. Engolimos um por semana e não sentimos mais necessidade de beber.
+# He was a dealer in advanced thirst quenching pills. We swallow one a week and we no longer feel the need to drink.
+# C’était un marchand de pilules perfectionnées qui apaisent la soif. On en avale une par semaine et l’on n’éprouve plus le besoin de boire. 
+
+- Marã taá revenderi kwá? - unheẽ muruxawamirĩ.
+# “Por que você está vendendo isso? disse o pequeno príncipe.
+# “Why are you selling this? said the little prince.
+# “Pourquoi vends-tu ça? dit le petit prince. 
+
+- Nhaãsé mira-itá urikú kurí ara piri sumana pukusawa - unheẽ venderisara. - Ti ramé tá uú ií, tá umunhã-kwáu kurí amú maã-itá sumana pukusawa.
+# - Economiza muito tempo, disse o comerciante. Os especialistas fizeram cálculos. Economizamos cinquenta e três minutos por semana.
+# - It's a big time saver, said the merchant. Experts have made calculations. We save fifty-three minutes a week.
+# - C’est une grosse économie de temps, dit le marchand. Les experts ont fait des calculs. On épargne cinquante-trois minutes par semaine. 
+
+- Maã taá aintá umunhã kurí sumana pukusawa?
+# - E o que fazemos com esses cinquenta e três minutos?
+# - And what do we do with these fifty-three minutes?
+# - Et que fait-on de ces cinquante-trois minutes? 
+
+- Maã-ntu tá uputari waá…”
+# - Fazemos o que quisermos...”
+# - We do what we want...”
+# - On en fait ce que l’on veut...” 
+
+“Ixé”, umanduari muruxawamirĩ, “arikú ramé maã ara piri sumana pukusawa, ixé awatá maã merupí té yepé ií-kwara kití...”
+# “Eu, disse o principezinho para si mesmo, se tivesse cinquenta e três minutos para gastar, caminharia bem devagar em direção a uma fonte...”
+# “Me, thought the little prince, if I had fifty-three minutes to spend, I would walk very slowly towards a fountain...”
+# “Moi, se dit le petit prince, si j’avais cinquante-trois minutes à dépenser, je marcherais tout doucement vers une fontaine...” 
+

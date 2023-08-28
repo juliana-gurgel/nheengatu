@@ -1,0 +1,256 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:00:31 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Muíri ara ayumbué manungara tetama resewara masuí aé uri asuí i watasawa resewara.
+# Todos os dias aprendia alguma coisa sobre o planeta, sobre a partida, sobre a viagem.
+# Every day I learned something about the planet, about the departure, about the trip.
+# Chaque jour j’apprenais quelque chose sur la planète, sur le départ, sur le voyage. 
+
+Ma kwá usika merupí, maã-itá rupí upurungitá waá kwera se irumu.
+# Veio muito lentamente, aleatoriamente a partir dos reflexos.
+# It came very slowly, at random from the reflections.
+# Ça venait tout doucement, au hasard des réflexions. 
+
+Kwayé, musapirisawa ara ramé, akwáu baobá-itá resewara.
+# Foi assim que, no terceiro dia, vivi o drama dos baobás.
+# This is how, on the third day, I experienced the drama of the baobabs.
+# C’est ainsi que, le troisième jour, je connus le drame de baobabs. 
+
+Akwáu baoba-itá resewara suumé mimbira resewara, mairamé muruxawamirĩ upurandú se suí:
+# Desta vez foi novamente graças às ovelhas, porque de repente o principezinho me interrogou, como se estivesse tomado por uma séria dúvida:
+# This time again it was thanks to the sheep, because suddenly the little prince questioned me, as if seized with serious doubt:
+# Cette fois-ci encore ce fut grâce au mouton, car brusquement le petit prince m’interrogea, comme pris d’un doute grave: 
+
+- Supisawa será suumé mimbira-itá umbaú yaitiwa?
+# “É verdade, não é, que as ovelhas comem arbustos?
+# "It's true, isn't it, that sheep eat shrubs?
+# “C’est bien vrai, n’est-ce pas, que les moutons mangent les arbustes? 
+
+- Eẽ. Supí.
+# - Sim. É verdade.
+# - Yes. It's true.
+# - Oui. C’est vrai. 
+
+- Ah! Ixé se rurí!
+# -Ah! Eu estou feliz!"
+# - Ah! I am happy!"
+# - Ah! Je suis content!” 
+
+Ti akwáu nhaãsé puranga tẽ suumé mimbira-itá umbaú maã yaitiwa.
+# Eu não entendia por que era tão importante que as ovelhas comessem os arbustos.
+# I didn't understand why it was so important for the sheep to eat the shrubs.
+# Je ne compris pas pourquoi il était si important que les moutons mangeassent les arbustes. 
+
+Ma muruxawamirĩ umuapiri:
+# Mas o principezinho acrescentou:
+# But the little prince added:
+# Mais le petit prince ajouta: 
+
+- Yawé tá umbaú baobá-itá yuíri?
+# "Então eles também comem os baobás?"
+# "So they also eat the baobabs?"
+# “Par conséquent ils mangent aussi les baobabs?” 
+
+Anheẽ muruxawamirĩ supé baobá amurupí yaitiwa suí, yepé baobá mirá turusú mayé yepé tupauku yawé, asuí aé urasú ramé tẽ maã yepé erepanti riía i irumu, aintá ti uitika-kwáu maã nẽ yepé baobá.
+# Mostrei ao pequeno príncipe que os baobás não são arbustos, mas árvores do tamanho de igrejas e que, mesmo que ele levasse consigo uma manada inteira de elefantes, essa manada não superaria um único baobá.
+# I pointed out to the little prince that the baobabs are not shrubs, but trees as big as churches and that, even if he took with him a whole herd of elephants, this herd would not overcome a single baobab. .
+# Je fis remarquer au petit prince que les baobabs ne sont pas des arbustes, mais des arbres grands comme des églises et que, si même il emportait avec lui tout un troupeau d’éléphants, ce troupeau ne viendrait pas à bout d’un seul baobab. 
+
+Manduarisawa yepé erepanti riía resewara umupuká muruxawamirĩ:
+# A ideia da manada de elefantes fez o principezinho rir:
+# The idea of ​​the herd of elephants made the little prince laugh:
+# L’idée du troupeau d’éléphants fit rire le petit prince: 
+
+- Arikuté maã amburi aintá yepé amú árupi...
+# “Devíamos colocá-los um em cima do outro...”
+# “We should put them on top of each other...”
+# “Il faudrait les mettre les uns sur les autres...” 
+
+Ma, kwausawa irumu, unheẽ:
+# Mas ele comentou sabiamente:
+# But he remarked wisely:
+# Mais il remarqua avec sagesse: 
+
+- Baobá-itá uyumunhã renundé, aintá kwaíra.
+# “Os baobás, antes de crescerem, começam por ser pequenos.
+# “The baobabs, before growing, they start by being small.
+# “Les baobabs, avant de grandir, ça commence par être petit. 
+
+- Supí! Ma, marã taá indé reputari ne suumé mimbira umbaú baobá kwaíra waá-itá?
+# - Isso mesmo! Mas por que você quer que suas ovelhas comam os baobás?”
+# - That's right! But why do you want your sheep to eat the little baobabs?”
+# - C’est exact! Mais pourquoi veux-tu que tes moutons mangent les petits baobabs?” 
+
+Aé usuaxara: “Remaã katu!”, mayé unheẽ ramé maã manungara sakakanga retana.
+# Ele respondeu: “Bem! Vamos ver!", como se fosse óbvio.
+# He replied: “Well! Let's see!", as if it were obvious.
+# Il me répondit: “Ben! Voyons!”, comme s’il s’agissait là d’une évidence. 
+
+Arikuté amanduari katú akwáu arama maã aé unheẽ-putari uikú waá.
+# E precisei de um grande esforço de inteligência para entender esse problema sozinho.
+# And it took me a great effort of intelligence to understand this problem on my own.
+# Et il me fallut un grand effort d’intelligence pour comprendre à moi seul ce problème. 
+
+Supí, aikwé muruxawamirĩ retama upé, mayé panhẽ iwaka-retama upé yawé, íwa-itá puranga, íwa-itá puxí.
+# E, de fato, no planeta do pequeno príncipe havia, como em todos os planetas, grama boa e grama ruim.
+# And indeed, on the planet of the little prince, there were, as on all planets, good grass and bad grass.
+# Et en effet, sur la planète du petit prince, il y avait, comme sur toutes les planètes, de bonnes herbes et de mauvaises herbes. 
+
+Yawé, aikwé tainha-itá puranga íwa-itá puranga suiwara asuí tainha-itá puxí íwa-itá puxí suiwara.
+# Daí as sementes boas das ervas daninhas boas e as sementes ruins das ervas daninhas.
+# Hence good seeds from good weeds and bad seeds from weeds.
+# Par conséquent de bonnes graines de bonnes herbes et de mauvaises graines de mauvaises herbes. 
+
+Ma ti yamaã-kwáu tainha-itá.
+# Mas as sementes são invisíveis.
+# But the seeds are invisible.
+# Mais les graines sont invisibles. 
+
+Aintá ukiri iwí marika upé té ara mairamé yepé aintá suiwara uparawaka upaka asuí usemu.
+# Eles dormem no segredo da terra até que um deles queira acordar.
+# They sleep in the secrecy of the earth until it takes the fancy of one of them to wake up.
+# Elles dorment dans le secret de la terre jusqu’à ce qu’il prenne fantaisie à l’une d’elles de se réveiller. 
+
+Aramé, upaka riré, aé usú usemu merupí asuí umukameẽ kurasí supé yepé puranga sakangamirĩ.
+# Então ela se espreguiça e primeiro empurra timidamente um lindo e inofensivo galhinho em direção ao sol.
+# So she stretches herself, and first timidly pushes a lovely harmless little twig towards the sun.
+# Alors elle s’étire, et pousse d’abord timidement vers le soleil une ravissante petite brindille inoffensive. 
+
+Kwá sakangamirĩ ramé íwa puranga suiwara, yaxari-kwáu aé usemu asuí uyumunhã.
+# Se for um galho de rabanete ou roseira, podemos deixá-lo crescer como quiser.
+# If it is a twig of radish or rosebush, we can let it grow as it wishes.
+# S’il s’agit d’une brindille de radis ou de rosier, on peut la laisser pousser comme elle veut. 
+
+Ma yepé íwa puxí ramé, yarikuté yayuka mairamé yamaã aé.
+# Mas se for uma planta ruim, você deve arrancá-la imediatamente, assim que souber reconhecê-la.
+# But if it is a bad plant, you must uproot the plant immediately, as soon as you know how to recognize it.
+# Mais s’il s’agit d’une mauvaise plante, il faut arracher la plante aussitôt, dès qu’on a su la reconnaître. 
+
+Aikwé tainha-itá puxí retana muruxawamirĩ retama upé... baobá rainha-itá.
+# Mas havia sementes terríveis no planeta do pequeno príncipe… eram sementes de baobá.
+# But there were terrible seeds on the planet of the little prince… they were baobab seeds.
+# Or il y avait des graines terribles sur la planète du petit prince… c’étaient les graines de baobabs. 
+
+Setama iwí teresemu uikú tá irumu.
+# O solo do planeta estava infestado com isso.
+# The soil of the planet was infested with it.
+# Le sol de la planète en était infesté. 
+
+Ti ramé yamaã kutara nungara nhaã íwamirĩ yepé baobá, ti yayuka-kwáu aé asuiwara.
+# Mas um baobá, se você demorar demais, nunca mais poderá se livrar dele.
+# But a baobab, if you take it too late, you can never get rid of it again.
+# Or un baobab, si l’on s’y prend trop tard, on ne peut jamais plus s’en débarrasser. 
+
+Aé upupeka tetama pawa, asuí sapú-itá umukwara iwí.
+# Isso desorganiza todo o planeta. Ele a perfurou com suas raízes.
+# It clutters the whole planet. He perforing her with his roots.
+# Il encombre toute la planète. Il la perfore de ses racines. 
+
+Yepé tetama ramé kwaíra retana ma aikwé siía baobá sesé, aé upuka pawa.
+# E se o planeta for demasiado pequeno e se os embondeiros forem demasiado numerosos, eles fazem-no explodir.
+# And if the planet is too small, and if the baobabs are too numerous, they make it burst.
+# Et si la planète est trop petit, et si les baobabs sont trop nombreux, ils la font éclater. 
+
+“Yarikuté yamanhana yaikú”, muruxawamirĩ unheẽ ixé arama.
+# “É uma questão de disciplina, disse-me o principezinho mais tarde.
+# “It’s a matter of discipline, the little prince told me later.
+# “C’est une question de discipline, me disait plus tard le petit prince. 
+
+“Mairamé yapawa yayuyusí kwema ramé, yarikuté yamunhã tetama yusisawa”.
+# Ao terminar a lavagem matinal, você deve lavar o planeta com cuidado.
+# When you have finished your morning wash, you must carefully wash the planet.
+# Quand on a terminé sa toilette du matin, il faut faire soigneusement la toilette de la planète. 
+
+Yarikuté yayuka baobá-itá panhẽ mairamé yamaã-kwáu aintá amurupí íwa- itá puranga suí, nhaãsé baobá pisasú mayé íwa puranga yawé.
+# É necessário forçar-se regularmente a arrancar os baobás assim que se distinguem das roseiras com as quais muito se assemelham quando são muito jovens.
+# It is necessary to force oneself regularly to pull up the baobabs as soon as they are distinguished from the rosebushes to which they very much resemble when they are very young.
+# Il faut s’astreindre régulièrement à arracher les baobabs dès qu’on les distingue d’avec les rosiers auxquels ils ressemblent beaucoup quand ils sont très jeunes. 
+
+Kwá yepé murakí maraariwera retana, ma ti iwasú.
+# É um trabalho muito chato, mas muito fácil.”
+# It is very boring work, but very easy.”
+# C’est un travail très ennuyeux, mais très facile.” 
+
+Yepé ara, aé umungitá ixé amunhã arama yepé kwatiarisawa puranga, amukameẽ arama baobá-itá yawaitesawa taína-itá se retamawara supé.
+# E um dia ele me aconselhou a me esforçar para fazer um belo desenho, para colocá-lo na cabeça das crianças da minha casa.
+# And one day he advised me to apply myself to succeeding in a beautiful drawing, to get it into the heads of the children in my house.
+# Et un jour il me conseilla de m’appliquer à réussir un beau dessin, pour bien faire entrer ça dans la tête des enfants de chez moi. 
+
+“Yepé ara, tá uwatá ramé”, unheẽ ixé arama, “kwá kurí puranga aintá supé.
+# “Se um dia eles viajarem, ele me disse, isso poderia ser útil para eles.
+# “If they travel one day, he told me, it could be useful to them.
+# “S’ils voyagent un jour, me disait-il, ça pourra leur servir. 
+
+Amuramé yaikupukú-kwáu yapawa arama yepé murakí.
+# Às vezes é fácil adiar o trabalho.
+# It is sometimes without inconvenience to postpone one's work.
+# Il est quelquefois sans inconvénient de remettre à plus tard son travail. 
+
+Ma baobá-itá resewara panhẽ mairamé yepé yawaitesawa turusú retana.
+# Mas, se forem baobás, é sempre um desastre.
+# But, if it is baobabs, it is always a disaster.
+# Mais, s’il s’agit des baobabs, c’est toujours une catastrophe. 
+
+Akwáu yepé iwaka-retama mamé umurari yepé apigawa yatimamanha. Ape, aé uxari uyumunhã musapiri yaitiwa...”
+# Conheci um planeta habitado por uma preguiça. Ele havia negligenciado três arbustos...”
+# I knew a planet, inhabited by a sloth. He had neglected three shrubs...”
+# J’ai connu une planète, habitée par un paresseux. Il avait négligé trois arbustes...” 
+
+Aramé, muruxawamirĩ nheenga-itá rupí, ixé akwatiari-kwáu nhaã iwaka- retama.
+# E, seguindo as instruções do principezinho, desenhei este planeta.
+# And, on the instructions of the little prince, I drew this planet.
+# Et, sur les indications du petit prince, j’ai dessiné cette planète-là. 
+
+Ti aputari tá uwasemu ixé yepé mira mungitasara.
+# Não gosto de parecer um moralista.
+# I do not like to sound like a moralist.
+# Je n’aime guère prendre le ton d’un moraliste. 
+
+Ma, mayé kwaíra mira-itá ukwáu baobá-itá yawaitesawa mairamé amú awá uyusupari uikú yepé tetama upé mamé aikwé siía mirá kwayé, anheẽ penhẽ arama:
+# Mas o perigo dos baobás é tão pouco conhecido, e os riscos que corre quem se perde num asteróide são tão consideráveis, que desta vez abro uma excepção à minha reserva.
+# But the danger of the baobabs is so little known, and the risks run by anyone who gets lost in an asteroid are so considerable, that for once I make an exception to my reserve.
+# Mais le danger des baobabs est si peu connu, et les risques courus par celui qui s’égarerait dans un astéroïde sont si considérables, que, pour une fois, je fais exception à ma réserve. 
+
+“Taína-itá, pemaã katú baobá-itá resé!”
+# Eu digo: “Crianças! Cuidado com os baobás!”
+# I say: “Children! Watch out for the baobabs!”
+# Je dis: “Enfants! Faites attention aux baobabs!” 
+
+Aikupukú retana apawa arama nhaã kwatiarisawa nhaãsé amukameẽ-putari puranga retana se rumuara-itá supé yawaitesawa-itá yasasá waá baobá-itá resewara.
+# Foi para alertar os meus amigos de um perigo que eles enfrentavam há muito tempo, como eu, sem saber, que me esforcei tanto neste desenho.
+# It was to warn my friends of a danger that they had been brushing against for a long time, like myself, without knowing it, that I worked so hard on this drawing.
+# C’est pour avertir mes amis d’un danger qu’ils frôlaient depuis longtemps, comme moi-même, sans le connaître, que j’ai tant travaillé ce dessin-là. 
+
+Se mbuesawa upitimũ-kwáu aintá.
+# A lição que eu estava dando valeu a pena.
+# The lesson I was giving was worth it.
+# La leçon que je donnais en valait la peine. 
+
+Araneíma pepurandú kurí: “Marã taá ti yamaã, kwá papera upé, amú kwatiarisawa puranga mayé baobá-itá kwatiarisawa yawé?”
+# Você pode se perguntar: por que não há outros desenhos neste livro tão grandiosos quanto o desenho dos baobás?
+# You may wonder: Why aren't there other drawings in this book as grandiose as the drawing of the baobabs?
+# Vous vous demanderez peut-être: Pourquoi n’y a-t-il pas, dans ce livre, d’autres dessins aussi grandioses que le dessin des baobabs? 
+
+Se suaxarasawa yawé-ntu: Ixé akwatiari-putari, ma aé ti upitá puranga.
+# A resposta é muito simples: tentei mas não consegui.
+# The answer is very simple: I tried but I could not succeed.
+# La réponse est bien simple: J’ai essayé mais je n’ai pas pu réussir. 
+
+Mairamé akwatiari baobá-itá, ixé amanduari aikú-ntu yawaitesawa resé aintá resewara. Les baobabs. Baobá-itá.
+# Quando desenhei os baobás fui movido por um sentimento de urgência.
+# When I drew the baobabs I was driven by a sense of urgency.
+# Quand j’ai dessiné les baobabs j’ai été animé par le sentiment de l’urgence. 
+

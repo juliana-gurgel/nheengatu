@@ -1,0 +1,456 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:18:04 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Aikwé, nhaã ií-kwara ruakí, yepé uka rupitá kwera itá suiwara. Mairamé ayuíri se murakí suí, amú ara ramé, amaã, apekatú retana, se muruxawamirĩ uwapika uka rupitá upé, uyatimú setimã-itá. Aramé, asendú aé unheẽ:
+# Ao lado do poço havia a ruína de um antigo muro de pedra. Quando voltei do trabalho na noite seguinte, vi de longe meu principezinho sentado ali, com as pernas balançando. E eu o ouvi falando:
+# There was, beside the well, a ruin of an old stone wall. When I came back from work the next evening, I saw my little prince from afar sitting up there, his legs dangling. And I heard him speaking:
+# Il y avait, à côté du puits, une ruine de vieux mur de pierre. Lorsque je revins de mon travail, le lendemain soir, j’aperçus de loin mon petit prince assis là-haut, les jambes pendantes. Et je l’entendis qui parlait: 
+
+- Indé ne resarái será? - unheẽ aé. - Iké ti tendawa!
+# "Você não se lembra disso? ele disse. Não está bem aqui!"
+# "Don't you remember that? he said. It's not quite here!"
+# “Tu ne t’en souviens donc pas? disait-il. Ce n’est pas tout à fait ici!” 
+
+Amú nheenga usuaxara i xupé, nhaãsé muruxawamirĩ unheẽ rẽ:
+# Outra voz sem dúvida lhe respondeu, pois ele respondeu:
+# Another voice no doubt answered him, since he replied:
+# Une autre voix lui répondit sans doute, puisqu’il répliqua: 
+
+- Eré, uií ara, ma tendawa ti iké...
+# "Se! Se! é o dia, mas este não é o lugar...”
+# "If! If! it is the day, but this is not the place...”
+# “Si! Si! c’est bien le jour, mais ce n’est pas ici l’endroit...” 
+
+Aramé, awatá nhaã uka rupitá kití. Ti amaã asuí ti asendú nẽ awá. Ma, amú í, muruxawamirĩ unheẽ:
+# Continuei minha caminhada em direção à parede. Eu ainda não vi ou ouvi ninguém. No entanto, o pequeno príncipe respondeu novamente:
+# I continued my walk towards the wall. I still didn't see or hear anyone. Yet the little prince replied again:
+# Je poursuivis ma marche vers le mur. Je ne voyais ni n’entendais toujours personne. Pourtant le petit prince répliqua de nouveau: 
+
+- ... Eré. Remaã kurí iwikuí upé marupí awatá ana. Resarú-ntu ixé. Aikú kurí ape kwá pituna ramé.
+# "... Claro. Você verá onde começa meu rastro na areia. Você apenas tem que esperar por mim. Estarei lá esta noite.
+# "... Of course. You will see where my trace begins in the sand. You just have to wait for me. I will be there tonight.”
+# “... Bien sûr. Tu verras où commence ma trace dans le sable. Tu n’as qu’à m’y attendre. J’y serai cette nuit.” 
+
+Aikú ana nhaã uka rupitá ruakí ma ti rẽ amaã-kwáu nẽ maã.
+# Eu estava a vinte metros da parede e ainda não conseguia ver nada.
+# I was twenty meters from the wall and still couldn't see anything.
+# J’étais à vingt mètres du mur et je ne voyais toujours rien. 
+
+Muruxawamirĩ unheẽ rẽ, yepé kirirĩ riré:
+# O principezinho disse novamente, depois de um silêncio:
+# The little prince said again, after a silence:
+# Le petit prince dit encore, après un silence: 
+
+- Puranga tẽ será ne sasisawa? Kwá sasisawa ti kurí umupurará ixé ara pukú rupí?
+# “Você tem um bom veneno? Tem certeza de que não vai me fazer sofrer por muito tempo?"
+# “Do you have good venom? Are you sure you won't make me suffer for long?"
+# “Tu as du bon venin? Tu es sûr de ne pas me faire souffrir longtemps?” 
+
+Apitá ape, se piá i akanhemu, ma ti rẽ asendú aikú nẽ maã.
+# Parei, com o coração apertado, mas ainda não entendia.
+# I stopped, my heart sinking, but I still didn't understand.
+# Je fis halte, le cœur serré, mais je ne comprenais toujours pas. 
+
+- Kuíri tẽ, resemu kwá suí - unheẽ muruxawamirĩ… - Ixé awiyé-putari!
+# “Agora vá embora, ele disse... eu quero descer!”
+# “Now go away, he said... I want to come down!”
+# “Maintenant, va-t’en, dit-il... Je veux redescendre!” 
+
+Aramé, amaã iwí kití, uka rupitá pí ruakí, asuí se akanhemu! Nhaã tendawa upé, upuámu uikú muruxawamirĩ ruakí yepé buya tawá uyuká-kwáu maã waá aé kutara retana!
+# Então eu mesmo olhei para a base da parede e pulei! Ele estava lá, apontando para o principezinho, uma daquelas cobras amarelas que matam em trinta segundos.
+# So I looked down at the base of the wall myself, and jumped up! He was there, pointing up at the little prince, one of those yellow snakes that kill you in thirty seconds.
+# Alors j’abaissai moi-même les yeux vers le pied du mur, et je fis un bond! Il était là, dressé vers le petit prince, un de ces serpentes jaunes qui vous exécutent en trente secondes. 
+
+Yeperesé asikari se mukawamirĩ asuí awatá kutara piri, ma, mairamé usendú tiapú amunhã waá, nhaã buya ukanhemu iwikuí upé mayé ií rapé yawé utipáu kutara waá, asuí merupí uyumundéu siía itá pitérupi.
+# Enquanto procurava no bolso para sacar o revólver, corri, mas com o barulho que fiz, a cobra deixou-se afundar suavemente na areia, como um jato d'água que morre, e, sem apertar, espremeu-se entre as pedras com um leve barulho de metal.
+# While searching my pocket to pull out my revolver, I took a run, but at the noise I made, the snake let itself sink gently into the sand, like a jet of water that dies, and, without squeeze, squeezed between the stones with a slight clank of metal.
+# Tout en fouillant ma poche pour en tirer mon revolver, je pris le pas de course, mais, au bruit que je fis, le serpent se laissa doucement couler dans le sable, comme un jet d’eau qui meurt, et, sans trop se presser, se faufila entre les pierres avec un léger bruit de métal. 
+
+Asika uka rupitá kití asuí asupiri-kwáu muruxawamirĩ se iuwá resé, aé suaíwa uikú mayé iwikuí yawé.
+# Cheguei à parede bem a tempo de receber meu homenzinho príncipe, pálido como a neve.
+# I reached the wall just in time to receive my little man of a prince, pale as snow.
+# Je parvins au mur juste à temps pour y recevoir dans les bras mon petit bonhomme de prince, pâle comme la neige. 
+
+- Maã taá indé remunhã reikú iké? Repurungitá kuíri buya-itá irumu?
+# “Que história é essa! Agora você está falando com cobras!”
+# “What is this story! You are now talking with snakes!”
+# “Quelle est cette histoire-là! Tu parles maintenant avec les serpents!” 
+
+Ayurari panu kitanga aé ururiwera waá i ayura resé. Amururú i siwá asuí ameẽ ií mirĩ i xupé. Aramé ti apurandú nẽ maã i suí.
+# Eu tinha desfeito seu eterno cachecol de ouro. Molhei suas têmporas e o fiz beber. E agora não ousei perguntar nada a ele.
+# I had undone his eternal gold muffler. I had wet his temples and made him drink. And now I dared not ask him anything.
+# J’avais défait son éternel cache-nez d’or. Je lui avais mouillé les tempes et l’avais fait boire. Et maintenant je n’osais plus rien lui demander. 
+
+Umaã pusé se resá resé asuí uyumana se ayura. Asaã i piá utuká mayé wirá piá yawé umanũ uikú waá yepé mukawa puka resewara. Aé unheẽ ixé arama:
+# Ele olhou para mim gravemente e colocou os braços em volta do meu pescoço. Senti seu coração bater como o de um pássaro moribundo quando foi baleado por um rifle. Ele me diz:
+# He looked at me gravely and put his arms around my neck. I felt his heart beating like that of a dying bird when he was shot with a rifle. He tells me:
+# Il me regarda gravement et m’entoura le cou de ses bras. Je sentais battre son cœur comme celui d’un oiseau qui meurt, quand on l’a tiré à la carabine. Il me dit: 
+
+- Se rurí aikú nhaãsé remungaturú-kwáu ana ne pepusantá. Reyuíri-kwáu kurí ne ruka kití…
+# “Estou feliz que você encontrou o que estava faltando em sua máquina. Você pode ir para casa...
+# “I'm glad you found what your machine was missing. You can go home...
+# “Je suis content que tu aies trouvé ce qui manquait à ta machine. Tu vas pouvoir rentrer chez toi... 
+
+- Mayé taá indé rekwáu ana?
+# - Como você sabe!"
+# - How do you know!"
+# - Comment sais-tu!” 
+
+Ayuri anheẽ arama i xupé, iwasusawa turusú irumu, ixé amupawa ana se murakí!
+# Acabava de lhe dizer que, contra todas as esperanças, tinha conseguido o meu trabalho!
+# I had just come to tell him that, against all hope, I had succeeded in my work!
+# Je venais justement lui annoncer que, contre toute espérance, j’avais réussi mon travail! 
+
+Aé ti usuaxara se purandusawa, ma umuapiri:
+# Ele não respondeu à minha pergunta, mas acrescentou:
+# He didn't answer my question, but he added:
+# Il ne répondit rien à ma question, mais il ajouta: 
+
+- Ixé yuíri ayuíri kurí uií se ruka kití...
+# “Eu também vou para casa hoje...”
+# “I too am going home today...”
+# “Moi aussi, aujourd’hui, je rentre chez moi...” 
+
+Asuí, sasiara xinga, unheẽ:
+# Então, melancolia:
+# Then, melancholy:
+# Puis, mélancolique: 
+
+- Se rapé pukú piri retana… iwasú piri retana...
+# “É muito mais longe… é muito mais difícil…”
+# "It's much further...it's much more difficult..."
+# “C’est bien plus loin... c’est bien plus difficile…” 
+
+Asaã tẽ manungara amurupí retana usika uikú.
+# Senti que algo extraordinário estava acontecendo.
+# I felt that something extraordinary was happening.
+# Je sentais bien qu’il se passait quelque chose d’extraordinaire. 
+
+Ayumana kirimbawa aé mayé aé ramé maã yepé tainamirĩ, ma uwari pu uikú yepé kwara tipí upé asuí ti amunhã-kwáu nẽ maã apitimũ arama aé…
+# Abracei-o como a uma criança, mas parecia-me que ele estava afundando verticalmente num abismo sem que eu pudesse contê-lo...
+# I hugged him like a little child, and yet it seemed to me that he was sinking vertically into an abyss without my being able to hold him back...
+# Je le serrais dans les bras comme un petit enfant, et cependant il me semblait qu’il coulait verticalement dans un abîme sans que je puisse rien pour le retenir... 
+
+Sesá-itá ana pusé, tá ukanhemu tá uikú, apekatú retana:
+# Ele tinha um olhar sério, perdido muito longe:
+# He had a serious look, lost very far away:
+# Il avait le regard sérieux, perdu très loin: 
+
+- Arikú ne suumé mimbira, i patuá asuí i yurú-pukwarisara...
+# “Eu tenho suas ovelhas. E eu tenho a caixa para o carneiro. E eu tenho o focinho...”
+# “I have your sheep. And I have the crate for the mutton. And I have the muzzle...”
+# “J’ai ton mouton. Et j’ai la caisse pour le mouton. Et j’ai la muselière...” 
+
+Aé upuká, ma sasiara xinga uikú.
+# E ele sorriu melancolicamente.
+# And he smiled wistfully.
+# Et il sourit avec mélancolie. 
+
+Asarú retana. Asaã i pira uyumuakú merupí amú í:
+# Esperei muito tempo. Senti que ele estava esquentando aos poucos:
+# I waited a long time. I felt that he was warming up little by little:
+# J’attendis longtemps. Je sentais qu’il se réchauffait peu à peu: 
+
+- Apigawamirĩ, resikié...
+# "Homenzinho, você estava com medo ..."
+# "Little man, you were scared..."
+# “Petit bonhomme, tu as eu peur...” 
+
+Supí, aé usikié! Ma upuká seẽ:
+# Ele estava com medo, é claro! Mas ele ri baixinho:
+# He had been scared, of course! But he laughs softly:
+# Il avait eu peur, bien sûr! Mais il rit doucement: 
+
+- Asikié piri rẽ kwá pituna ramé...
+# “Estarei com muito mais medo esta noite…”
+# “I will be much more scared tonight…”
+# “J’aurai bien plus peur ce soir…” 
+
+Amú í asikié nhaãsé asaã ti maã apitimũ-kwáu aé. Asikié ti asendú amú í nhaã pukasawa. Aé ixé arama mayé yepé ií-kwara yawé tetama mira-íma upé.
+# Mais uma vez me senti congelado pela sensação do irreparável. E percebi que não suportaria a ideia de nunca mais ouvir aquela risada. Era como uma fonte no deserto para mim.
+# Again I felt frozen by the feeling of the irreparable. And I realized that I couldn't bear the thought of never hearing that laugh again. It was like a fountain in the desert to me.
+# De nouveau je me sentis glacé par le sentiment de l’irréparable. Et je compris que je ne supportais pas l’idée de ne plus jamais entendre ce rire. C’était pour moi comme une fontaine dans le désert. 
+
+- Apigawamirĩ, asendú-putari rẽ ne pukasawa...
+# "Homenzinho, ainda quero ouvir você rir..."
+# "Little man, I still want to hear you laugh..."
+# “Petit bonhomme, je veux encore t’entendre rire...” 
+
+Ma aé unheẽ ixé arama:
+# Mas ele me diz:
+# But he tells me:
+# Mais il me dit: 
+
+- Kwá pituna ramé, aikwé ana yepé akayú asika waá iké. Se yasitatá uikú kurí tendawa árupi mamé asika akayú kwera ramé...
+# “Esta noite fará um ano. Minha estrela estará bem acima de onde caí no ano passado...
+# “Tonight will be a year. My star will be right above where I fell last year...
+# “Cette nuit, ça fera un an. Mon étoile se trouvera juste au-dessus de l’endroit où je suis tombé l’année dernière... 
+
+- Apigawamirĩ, yepé-ntu kerpisawa puxiwera kwá mbeusawa buya, suantisawa asuí yasitatá resewara...
+# - Homenzinho, não é um sonho ruim essa história de uma cobra e um encontro e uma estrela...”
+# - Little man, isn't it a bad dream, this story of a snake and a date and a star...”
+# - Petit bonhomme, n’est-ce pas que c’est un mauvais rêve cette histoire de serpent et de rendez-vous et d’étoile...” 
+
+Ma ti usuaxara se purandusawa. Asuí, unheẽ rẽ:
+# Mas ele não respondeu à minha pergunta. Ele me diz:
+# But he didn't answer my question. He tells me:
+# Mais il ne répondit pas à ma question. Il me dit: 
+
+- Maã-itá rumitera, yané resá ti umaã-kwáu...
+# “O que é importante não se vê...
+# “What is important, it cannot be seen...
+# “Ce qui est important, ça ne se voit pas... 
+
+- Supí...
+# - Claro...
+# - Of course...
+# - Bien sûr... 
+
+- Putira yawé. Resaisú ramé yepé putira uikú waá yepé yasitatá upé, puranga retana remaã iwaka kití pituna ramé. Panhẽ yasitatá tá upitá putirawara.
+# - É como a flor. Se você ama uma flor que está em uma estrela, à noite é agradável olhar para o céu. Todas as estrelas floresceram.
+# - It's like the flower. If you love a flower that is in a star, it is sweet at night to look at the sky. All the stars are flourished.
+# - C’est comme pour la fleur. Si tu aimes une fleur qui se trouve dans une étoile, c’est doux, la nuit, de regarder le ciel. Toutes les étoiles sont fleuries. 
+
+- Tá upitá tẽ...
+# - Claro...
+# - Of course...
+# - Bien sûr... 
+
+- Ií yawé. Ií remeẽ waá ixé arã nheengarisawa nungara, ií-kwara wawakawara asuí tupasama resewara... Remanduari será?... kwá ií i katú
+# - É como água. Aquele que você me deu de beber parecia música, por causa da roldana e da corda... você lembra... era bom.
+# - It's like water. The one you gave me to drink was like music, because of the pulley and the rope... you remember... it was good.
+# - C’est comme pour l’eau. Celle que tu m’as donnée à boire était comme une musique, à cause de la poulie et de la corde... tu te rappelles... elle était bonne. 
+
+- Eẽ, ixé amanduari...
+# - Claro...
+# - Of course...
+# - Bien sûr... 
+
+- Pituna ramé, remaã kurí yasitatá-itá resé. Se retama kwairamirĩ, ti amukameẽ-kwáu indé arã mamé upitá se yasitatá. Ma... yawé puranga piri. Se yasitatá kurí indé arã yepé amú-itá pitérupi. Aramé, resaisú kurí remaã panhẽ aintá... Aintá kurí ne rumuara-itá. Asuí, axari kurí yepé kwekatú indé arã...
+# - Você verá as estrelas à noite. É muito pequeno para eu mostrar onde está o meu. É melhor assim. Minha estrela, será para você uma das estrelas. Então, todas as estrelas, vocês vão gostar de olhar para elas… Serão todas suas amigas. E então vou te dar um presente…”
+# - You will look at the stars at night. It's too small for me to show you where mine is. It's better like that. My star, it will be for you one of the stars. So, all the stars, you will like to look at them… They will be all your friends. And then I'm going to give you a present…”
+# - Tu regarderas, la nuit, les étoiles. C’est trop petit chez moi pour que je te montre où se trouve la mienne. C’est mieux comme ça. Mon étoile, ça sera pour toi une des étoiles. Alors, toutes les étoiles, tu aimeras les regarder… Eles seront toutes tes amies. Et puis je vais te faire un cadeau…” 
+
+Aé upuká amú í.
+# Ele ri novamente.
+# He laughs again.
+# Il rit encore. 
+
+- Ah! Apigawamirĩ, se rumuara, ne pukasawa umusurí ixé!
+# "Oh! carinha, carinha, adoro ouvir essa risada!
+# “Oh! little guy, little guy, I love to hear that laugh!
+# “Ah! petit bonhomme, petit bonhomme, j’aime entendre ce rire! 
+
+- Se pukasawa, aé kurí se kwekatú indé arã... aé kurí mayé ií yawé…
+# - Justamente será meu presente... será como para a água...
+# - Precisely it will be my gift... it will be like for water...
+# - Justement ce sera mon cadeau... ce sera comme pour l’eau… 
+
+- Maã taá renheẽ-putari?
+# - O que você quer dizer?
+# - What do you mean?
+# - Que veux-tu dire? 
+
+- Muíri mira umaã manungara amurupí mairamé umaã yasitatá-itá. Tá umukameẽ pé-itá watawera-itá supé. Amú mira-itá umaité aintá maãmirĩ uwerá waá-itá. Kwawara-itá umaité aintá iwasusawa-itá. Nhaã apigawa umunhãwera-ntu waá paparisawa-itá umaité aintá itá-tawá nungara. Ma panhẽ yasitatá ukirirĩ. Indé, amurupí kwá mira-itá suí, rerikú kurí yasitatá-itá mayé nẽ awá yawé nẽ mairamé urikú ana aintá...
+# - As pessoas têm estrelas que não são iguais. Para alguns que viajam, as estrelas são guias. Para outros, não passam de pequenas luzes. Para outros, que são estudiosos, são problemas. Para o meu empresário, eles eram ouro. Mas todas essas estrelas estão em silêncio. Você terá estrelas como ninguém tem...
+# - People have stars that are not the same. For some, who travel, the stars are guides. For others they are nothing but little lights. For others, who are scholars, they are problems. For my businessman they were gold. But all those stars are silent. You will have stars like no one has...
+# - Les gens ont des étoiles qui ne sont pas les mêmes. Pour les uns, qui voyagent, les étoiles sont des guides. Pour d’autres elles ne sont rien que de petites lumières. Pour d’autres, qui sont savants, elles sont des problèmes. Pour mon businessman elles étaient de l’or. Mais toutes ces étoiles-lá se taisent. Toi, tu auras des étoiles comme personne n’en a... 
+
+- Maã taá renheẽ-putari?
+# - O que você quer dizer?
+# - What do you mean?
+# - Que veux-tu dire? 
+
+- Mairamé remaã iwaka kití pituna ramé, aikú kurí yepé yasitatá upé, ape apuká kurí aikú; kwá kurí, indé arã, mayé panhẽ yasitatá upuká ramé maã. Yawé, indé-ntu rerikú kurí yasitatá-itá upuká-kwáu waá-itá.
+# - Quando você olhar para o céu à noite, já que vou morar em um deles, já que vou rir em um deles, então será para você como se todas as estrelas estivessem rindo. Você terá estrelas que sabem rir!”
+# - When you look at the sky at night, since I will live in one of them, since I will laugh in one of them, then it will be for you as if all the stars were laughing. You will have stars who know how to laugh!”
+# - Quand tu regarderas le ciel, la nuit, puisque j’habiterai dans l’une d’elles, puisque je rirai dans l’une d’elles, alors ce sera pour toi comme si riaient toutes les étoiles. Tu auras, toi, des étoiles qui savent rire!” 
+
+Asuí upuká amú í.
+# E ele ri novamente.
+# And he laughs again.
+# Et il rit encore. 
+
+- Mairamé kwá ara usasá (yané rikwesawa ramé panhẽ maã usasá), reyumusurí kurí rekwáu ana resewara ixé. Panhẽ mairamé indé kurí se rumuara. Repuká-putari kurí se irumu. Amuramé repirari kurí ne ruka ukenaĩ reyumusurí arã-ntu... Ne rumuara-itá ti kurí tá ukwáu nhaãsé repuká-puká mairamé remaã iwaka kití. Aramé renheẽ kurí tá supé: “Yasitatá-itá panhẽ mairamé tá umupuká ixé!” Mira-itá umanduari kurí indé akangaíwa repitá. Kwá kurí yané musaraisawa...
+# “E quando você estiver consolado (nós sempre nos consolamos) você ficará feliz por ter me conhecido. Você sempre será meu amigo. Você vai querer rir comigo. E às vezes você vai abrir sua janela, assim mesmo, para se divertir... E seus amigos ficarão muito surpresos ao ver você rir enquanto olha para o céu. Então você dirá a eles: “Sim, as estrelas sempre me fazem rir!” E eles vão pensar que você é louco. Eu teria pregado uma peça muito desagradável em você...”
+# “And when you are consoled (we always console each other) you will be happy to have known me. You will always be my friend. You will want to laugh with me. And you will sometimes open your window, just like that, for fun... And your friends will be very surprised to see you laugh while looking at the sky. So you will tell them: “Yes, the stars always make me laugh!” And they'll think you're crazy. I would have played a very nasty trick on you...”
+# “Et quand tu seras consolé (on se console toujours) tu seras content de m’avoir connu. Tu seras toujours mon ami. Tu auras envie de rire avec moi. Et tu ouvriras parfois ta fenêtre, comme ça, pour le plaisir... Et tes amis seront bien étonnés de te voir rire en regardant le ciel. Alors tu leur diras: “Oui, les étoiles, ça me fait toujours rire!” Et ils te croiront fou. Je t’aurai joué un bien vilain tour...” 
+
+Muruxawamirĩ upuká amú í.
+# E ele ri novamente.
+# And he laughs again.
+# Et il rit encore. 
+
+- Kwá kurí mayé ameẽ ramé maã indé arã marakamirĩ riía upuká-kwáu waá- itá...
+# “Será como se eu tivesse lhe dado, em vez de estrelas, montes de sininhos que sabem rir...”
+# “It will be as if I had given you, instead of stars, heaps of little bells that know how to laugh...”
+# “Ce sera comme si je t’avais donné, au lieu d’étoiles, des tas de petits grelots qui savent rire...” 
+
+Amú í aé upuká. Asuí, ukirirĩ:
+# E ele ri novamente. Então ele ficou sério novamente:
+# And he laughs again. Then he became serious again:
+# Et il rit encore. Puis il redevint sérieux: 
+
+- Kwá pituna ramé... ayururéu ne suí... ti aputari reyuri.
+# “Esta noite... você sabe... não venha.
+# “Tonight...you know...don't come.
+# “Cette nuit... tu sais... ne viens pas. 
+
+- Ti kurí axari indé.
+# - Eu não vou te deixar.
+# - I will not leave you.
+# - Je ne te quitterai pas. 
+
+- Remanduari kurí ixé apurará aikú... remanduari kurí amanũ aikú. Yawé tẽ. Té reyuri remaã ixé! Ti mayé...
+# - Vou parecer que estou com dor... Vou parecer um pouco como se estivesse morrendo. É assim. Não venha ver, não vale a pena...
+# - I'll look like I'm in pain... I'll look a bit like I'm dying. It's like that. Don't come see it, it's not worth it...
+# - J’aurai l’air d’avoir mal... j’aurai un peu l’air de mourir. C’est comme ça. Ne viens pas voir ça, ce n’est pas la peine... 
+
+- Ti kurí axari indé.
+# - Eu não vou te deixar."
+# - I will not leave you."
+# - Je ne te quitterai pas.” 
+
+Ma aé i akanhemu uikú.
+# Mas ele estava preocupado.
+# But he was concerned.
+# Mais il était soucieux. 
+
+- Ayururéu ne suí… yuíri buya resewara. Ti aputari aé usuú indé... Buya-itá puxí. Tá usaisú tá usuú...
+# “Eu te digo isso... também é por causa da cobra. Ele não deve morder você... As cobras são más. Ele pode morder por diversão...
+# “I tell you that... it is also because of the snake. He must not bite you... Snakes are mean. It can bite for fun...
+# “Je te dis ça... c’est à cause aussi du serpent. Il ne faut pas qu’il te morde... Les serpents, c’est méchant. Ça peut mordre pour le plaisir... 
+
+- Ti kurí axari indé.
+# - Eu não vou te deixar."
+# - I will not leave you."
+# - Je ne te quitterai pas.” 
+
+Ma manungara umupituú xinga aé:
+# Mas algo o tranquilizou:
+# But something reassured him:
+# Mais quelque chose le rassura: 
+
+- Supisawa ti waá tá urikú sasisawa mukũisáwa suusawa supé...
+# “É verdade que eles não têm mais veneno para a segunda mordida…”
+# "It's true that they have no more venom for the second bite..."
+# “C’est vrai qu’ils n’ont plus de venin pour la seconde morsure...” 
+
+Nhaã pituna ramé, ti amaã aé usú se suí. Aé usemu tiapú-íma. Mairamé asika- kwáu i piri, aé ti upituú uwatá, uwatá uikú senundé kití, kutara retana. Unheẽ-ntu kwayé:
+# Naquela noite eu não o vi começar. Ele escapou sem fazer barulho. Quando consegui alcançá-lo ele caminhava com determinação, com passos rápidos. Ele apenas me diz:
+# That night I did not see him start. He had escaped without a sound. When I managed to reach him he was walking determinedly, with a quick step. He just tells me:
+# Cette nuit-là je ne le vis pas se mettre en route. Il s’était évadé sans bruit. Quand je réussis à le rejoindre il marchait décidé, d’un pas rapide. Il me dit seulement: 
+
+- Ah! Reikú iké...
+# "Oh! Você está lá..."
+# “Oh! You're there..."
+# “Ah! tu es là...” 
+
+Aramé aé upisika se pú resé. Ma, amú í, upitá manduariwara:
+# E ele me pegou pela mão. Mas ele se atormentou novamente:
+# And he took me by the hand. But he tormented himself again:
+# Et il me prit par la main. Mais il se tourmenta encore: 
+
+- Kwá ti kurí puranga indé arã. Indé repurará. Remanduari kurí ixé amanũ aikú ma ti supisawa...
+# "Você estava errado. Você sentirá dor. Vou parecer que estou morto e não será verdade..."
+# "You were wrong. You will be in pain. I'll look like I'm dead and it won't be true..."
+# “Tu as eu tort. Tu auras de la peine. J’aurai l’air d’être mort et ce ne sera pas vrai...” 
+
+Aramé ixé akirirĩ.
+# Fiquei em silêncio.
+# I was silent.
+# Moi je me taisais. 
+
+- Indé rekwáu. Se rapé apekatú retana. Ti arasú-kwáu se pira. Aé i pusé retana.
+# "Você entende. É muito longe. Não posso tirar esse corpo. É muito pesado."
+# "You understand. It is too far. I can't take that body away. It's too heavy."
+# “Tu comprends. C’est trop loin. Je ne peux pas emporter ce corps-là. C’est trop lourd.” 
+
+Ti anheẽ nẽ maã.
+# Fiquei em silêncio.
+# I was silent.
+# Moi je me taisais. 
+
+- Se pira kurí yepé mirá kwera pirera yawé. Mirá kwera pirera ti umusasiara nẽ awá.
+# “Mas será como uma velha casca abandonada. Não é um latido velho e triste..."
+# “But it will be like an old abandoned bark. It's not sad old bark..."
+# “Mais ce sera comme une vieille écorce abandonnée. Ce n’est pas triste les vieilles écorces...” 
+
+Ixé rẽ aikuntu.
+# Fiquei em silêncio.
+# I was silent.
+# Moi je me taisais. 
+
+Aé ukanhemu xinga i kirimbasawa. Ma unheẽ rẽ:
+# Ele ficou um pouco desanimado. Mas ele fez outro esforço:
+# He got a little discouraged. But he made another effort:
+# Il se découragea un peu. Mais il fit encore un effort: 
+
+- Puranga kurí! Ixé yuíri amaã kurí yasitatá-itá resé. Panhẽ yasitatá kurí mayé ií-kwara yawé urikú waá-itá yepé ií-kwara wawakawara. Panhẽ yasitatá umupawa kurí se isisawa...
+# “Isso vai ser bom, você sabe. Eu também olharei para as estrelas. Todas as estrelas serão poços com polias enferrujadas. Todas as estrelas vão me servir uma bebida…”
+# “That will be nice, you know. I too will look at the stars. All stars will be pits with a rusty pulley. All the stars will pour me a drink…”
+# “Ce sera gentil, tu sais. Moi aussi, je regarderai les étoiles. Toutes les étoiles seront des puits avec une poulie rouillée. Toutes les étoiles me verseront à boire…” 
+
+Ti rẽ anheẽ-kwáu nẽ maã.
+# Fiquei em silêncio.
+# I was silent.
+# Moi je me taisais. 
+
+- Kwá kurí surí retana! Indé rerikú kurí siía marakamirĩ, ixé arikú kurí siía ií-kwara...
+# "Vai ser muito divertido! Você terá quinhentos milhões de sinos, eu terei quinhentos milhões de fontes...”
+# “It will be so much fun! You will have five hundred million bells, I will have five hundred million fountains...”
+# “Ce sera tellement amusant! Tu auras cinq cents millions de grelots, j’aurais cinq cents millions de fontaines...” 
+
+Aramé aé yuíri ukirirĩ, nhaãsé uyaxiú uikú...
+# E ele também ficou calado, porque estava chorando...
+# And he was silent too, because he was crying...
+# Et il se tut aussi, parce qu’il pleurait... 
+
+- Iké tendawa. Rexari ixé yepenhũ.
+# "Está aqui. Deixe-me dar um passo sozinho.”
+# "It's here. Let me take a step on my own.”
+# “C’est là. Laisse-moi faire un pas tout seul.” 
+
+Aramé aé uwapika nhaãsé usikié. Asuí, unheẽ rẽ:
+# E ele sentou-se porque estava com medo. Ele diz novamente:
+# And he sat down because he was afraid. He says again:
+# Et il s’assit parce qu’il avait peur. Il dit encore: 
+
+- Indé rekwáu ana... se putira... arikuté apisirũ aé! Aé pitua retana! I piá i katú. Aé urikú irundí-ntu yú uyupisirũ arã...
+# “Sabe... minha flor... eu sou o responsável por isso! E ela é tão fraca! E ela é tão ingênua. Ela tem quatro espinhos inúteis para protegê-la do mundo…”
+# “You know... my flower... I am responsible for this! And she is so weak! And she's so naive. She has four worthless thorns to protect her from the world…”
+# “Tu sais... ma fleur... j’en suis responsable! Et elle est tellement faible! Et elle est tellement naïve. Elle a quatre épines de rien du tout pour la protéger contre le monde…” 
+
+Awapika yuíri nhaãsé se kweré retana apuamu resewara aikú. Aramé aé unheẽ:
+# Sentei-me porque não conseguia mais ficar de pé. Ele diz:
+# I sat down because I couldn't stand up anymore. He says:
+# Moi je m’assis parce que je ne pouvais plus me tenir debout. Il dit: 
+
+- Kwá kurí yawé tẽ...
+# "É isso, é tudo..."
+# "That's it that's all..."
+# “Voilà... C’est tout...” 
+
+Aé rẽ usarú xinga, asuí upuamu. Uyupirũ uwatá. Ixé ti akataka-kwáu.
+# Ele hesitou um pouco mais e depois se levantou. Ele deu um passo. Eu não conseguia me mover.
+# He hesitated a little longer, then he got up. He took a step. I couldn't move.
+# Il hésita encore un peu, puis il se releva. Il fit un pas. Moi je ne pouvais pas bouger. 
+
+Amaã yepé werasawa tawá setimã ruakí. Aé upitá mimi, ti ukataka. Aé yuíri ti usasemu. Asuí uwari merupí mayé yepé mirá kwera yawé. Iwikuí resewara, ti aikwé tiapú.
+# Não havia nada além de um flash amarelo perto do tornozelo. Ele permaneceu imóvel por um momento. Ele não gritou. Ele caiu suavemente como uma árvore cai. Nem fez barulho por causa da areia.
+# There was nothing but a yellow flash near his ankle. He remained motionless for a moment. He didn't shout. He fell softly as a tree falls. It didn't even make a sound, because of the sand.
+# Il n’y eut rien qu’un éclair jaune près de sa cheville. Il demeura un instant immobile. Il ne cria pas. Il tomba doucement comme tombe un arbre. Ça ne fit même pas de bruit, à cause du sable. 
+

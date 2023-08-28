@@ -1,0 +1,246 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:01:32 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Yepepusawa ara ramé, suumé mimbira rẽ resewara, akwáu manungara yumimiwera muruxawamirĩ rikwesawa resewara.
+# No quinto dia, novamente graças às ovelhas, este segredo da vida do pequeno príncipe me foi revelado.
+# On the fifth day, again thanks to the sheep, this secret of the life of the little prince was revealed to me.
+# Le cinquième jour, toujours grâce au mouton, ce secret de la vie du petit prince me fut révélé. 
+
+Aé kutara nungara upurandú se suí manungara umanduari pu uikú waá siía ara pukusawa:
+# Ele me perguntou abruptamente, sem preâmbulos, como resultado de um problema meditado por muito tempo em silêncio:
+# He asked me abruptly, without preamble, as the result of a problem meditated on for a long time in silence:
+# Il me demanda avec brusquerie, sans préambule, comme le fruit d’un problème longtemps médité en silence: 
+
+- Yepé suumé mimbira, umbaú ramé yaitiwa, umbaú será putira yuíri?
+# “Uma ovelha, se come os arbustos, também come as flores?
+# “A sheep, if it eats the shrubs, it also eats the flowers?
+# “Un mouton, s’il mange les arbustes, il mange aussi les fleurs? 
+
+- Eẽ, yepé suumé mimbira umbaú panhẽ maã aé uwasemu waá.
+# - Uma ovelha come tudo o que encontra.
+# - A sheep eats everything it meets.
+# - Un mouton mange tout ce qu’il rencontre. 
+
+- Aé yuíri umbaú putira-itá urikú waá tá yú-itá?
+# - Até flores que têm espinhos?
+# - Even flowers that have thorns?
+# - Même les fleurs qui ont des épines? 
+
+- Eẽ, aé yuíri umbaú nhaã-itá.
+# - Sim. Até flores que têm espinhos.
+# - Yes. Even flowers that have thorns.
+# - Oui. Même les fleurs qui ont des épines. 
+
+- Kwayé, marã taá putira urikú i yú?
+# - Então os espinhos, para que servem?
+# - So the thorns, what are they for?”
+# - Alors les épines, à quoi servent-elles?” 
+
+Ti asuaxara-kwáu. Aramé ayuka-putari aikú yepé beruma ti waá usemu se pepusantá mukatakasara suí.
+# Eu não sabia. Eu estava muito ocupado tentando desapertar um parafuso que estava muito apertado no meu motor.
+# I did not know. I was then very busy trying to unscrew a bolt that was too tight on my engine.
+# Je ne le savais pas. J’étais alors très occupé à essayer de dévisser un boulon trop serré de mon moteur. 
+
+Amanduari kwera siía maã puxiwera resé ti resewara amungaturú-kwáu aikú se pepusantá, asuí arikú ií mirĩ-ntu aú arama. Sesewara asikié.
+# Fiquei muito preocupado porque meu colapso começava a me parecer muito grave e a água para beber que estava acabando me fazia temer o pior.
+# I was very worried because my breakdown was beginning to appear very serious to me, and the water to drink which was running out made me fear the worst.
+# J’étais très soucieux car ma panne commençait de m’apparaître comme très grave, et l’eau à boire qui s’épuisait me faisait craindre le pire. 
+
+- Yú-itá... marã taá putira urikú i yú?
+# “Os espinhos, para que servem?”
+# “The thorns, what are they for?”
+# “Les épines, à quoi servent-elles?” 
+
+Muruxawamirĩ nẽ mairamé uxari tẽ yepé purandusawa umunhã riré aé.
+# O pequeno príncipe nunca desistia de uma pergunta depois de feita.
+# The little prince never gave up on a question once he had asked it.
+# Le petit prince ne renonçait jamais à une question, une fois qu’il l’avait posée. 
+
+Mayé se piaíwa aikú nhaã beruma resewara, asuaxara maã-ntu:
+# Fiquei irritado com meu raio e respondi bobagem:
+# I was irritated by my bolt and I replied nonsense:
+# J’étais irrité par mon boulon et je répondis n’importe quoi: 
+
+- Yú-itá ti puranga, putira-itá urikú tá yú-itá nhaãsé aintá puxí!
+# “Os espinhos são inúteis, são pura maldade das flores!
+# “The thorns are useless, they are pure wickedness on the part of the flowers!
+# “Les épines, ça ne sert à rien, c’est de la pure méchanceté de la part des fleurs! 
+
+- Oh!
+# - Oh!"
+# - Oh!"
+# - Oh!” 
+
+Aé usarú xinga, asuí unheẽ ixé arama i piaíwa xinga:
+# Mas depois de um silêncio ele me lançou, com uma espécie de ressentimento:
+# But after a silence he threw at me, with a kind of resentment:
+# Mais après un silence il me lança, avec une sorte de rancune: 
+
+- Ti aruyari ne resé! Putira-itá pitua. Aintá ti puxí. Tá uyupisirũ maã irumu tá urikú waá asuí tá uruyari tá kirimbawa retana tá yú-itá resewara...
+# "Eu não acredito em você! As flores são fracas. Eles são ingênuos. Eles se tranquilizam da melhor maneira que podem. Eles acham que são terríveis com seus espinhos…”
+# "I do not believe you! The flowers are weak. They are naive. They reassure themselves as best they can. They think they are terrible with their thorns…”
+# “Je ne te crois pas! Les fleurs sont faibles. Elles sont naïves. Elles se rassurent comme elles peuvent. Elles se croient terribles avec leurs épines…” 
+
+Ti asuaxara nẽ maã. Aramé amanduari: “Ti ramé usemu kwá beruma, asú ayuka aé yepé petekasara pupé.”
+# Eu não respondi. Naquele momento eu disse a mim mesmo: “Se esse ferrolho ainda resistir, vou derrubá-lo com um golpe de martelo”.
+# I didn't answer. At that moment I said to myself: “If this bolt still resists, I will knock it out with a blow of a hammer.”
+# Je ne répondis rien. À cet instant-là je me disais: “Si ce boulon résiste encore, je le ferai sauter d’un coup de marteau.” 
+
+Ma muruxawamirĩ umuapatuka amú í se manduarisawa-itá:
+# O principezinho voltou a perturbar minhas reflexões:
+# The little prince disturbed my reflections again:
+# Le petit prince dérangea de nouveau mes réflexions: 
+
+- Indé, indé remaité tẽ putira-itá...
+# “E você acredita que as flores...
+# “And you believe that the flowers...
+# “Et tu crois, toi, que les fleurs... 
+
+- Umbaá! Umbaá! Ti amaité nẽ maã! Asuaxara maã-ntu. Ti apitá amanduari tenhuntusawa resé!
+# - Mas não! Mas não! Eu não acredito em nada! Eu respondi qualquer coisa. Eu cuido de coisas sérias!”
+# - But no! But no! I don't believe anything! I answered anything. I take care of serious things!”
+# - Mais non! Mais non! Je ne crois rien! J’ai répondu n’importe quoi. Je m’occupe, moi, de choses sérieuses!” 
+
+Aé umaã se resé akanhemusawa irumu:
+# Ele olhou para mim estupefato.
+# He looked at me dumbfounded.
+# Il me regarda stupéfait. 
+
+- Tenhuntusawa!
+# “Coisas sérias!”
+# “Serious things!”
+# “De choses sérieuses!” 
+
+Aramé aikú se petekasara pupé se pú resé, i kiá mukatakasara resewara, asuí amuyawika yepé maã amurupí resé aé uwasemu waá kwera puxiwera retana.
+# Ele me viu, com o martelo na mão e os dedos pretos de graxa, inclinado sobre um objeto que lhe parecia muito feio.
+# He saw me, my hammer in my hand, and my fingers black with grease, leaning over an object which seemed to him very ugly.
+# Il me voyait, mon marteau à la main, et le doigts noirs de cambouis, penché sur un objet qui lui semblait très laid. 
+
+- Indé repurungitá mayé mira-itá turusú yawé!
+# “Vocês falam como adultos!”
+# “You talk like grown-ups!”
+# “Tu parles comme les grandes personnes!” 
+
+Nhaã uxari ixé tĩsáwa irumu. Asuí, aé umuapiri santá:
+# Isso me deixou um pouco envergonhado. Mas, implacavelmente, ele acrescentou:
+# It made me a little ashamed. But, ruthlessly, he added:
+# Ça me fit un peu honte. Mais, impitoyable, il ajouta: 
+
+- Indé ti remanduari puranga... indé remunani pawa!
+# “Você confunde tudo... você mistura tudo!”
+# “You confuse everything... you mix everything!”
+# “Tu confonds tout... tu mélanges tout!” 
+
+Aé i piaíwa retana uikú tẽ. Iwitú umuwewé i awa itá-tawá nungara.
+# Ele estava realmente muito irritado. Ele balançou os cabelos dourados ao vento:
+# He was really very irritated. He shook golden hair in the wind:
+# Il était vraiment très irrité. Il secouait au vent des cheveux tout dorés: 
+
+- Akwáu yepé iwaka-retama mamé umurari yepé apigawa piranga retana nẽ mairamé usetuna waá yepé putira sakwena.
+# “Eu conheço um planeta onde existe um cavalheiro carmesim. Ele nunca cheirou uma flor.
+# “I know a planet where there is a crimson gentleman. He has never smelled a flower.
+# “Je connais une planète où il y a un monsieur cramoisi. Il n’a jamais respiré une fleur. 
+
+Aé yuíri nẽ mairamé umaã yepé yasitatá resé asuí nẽ mairamé usaisú nẽ awá. Aé usasá panhẽ ara umunhã-ntu paparisawa-itá, asuí muíri ara aé unheẽ mayé ne yawé:
+# Ele nunca olhou para uma estrela. Ele nunca amou ninguém. Ele nunca fez nada além de acréscimos. E o dia todo ele repete como você:
+# He never looked at a star. He never loved anyone. He never did anything but additions. And all day he repeats like you:
+# Il n’a jamais regardé une étoile. Il n’a jamais aimé personne. Il n’a jamais rien fait d’autre que des additions. Et toute la journée il répète comme toi: 
+
+“Ti amanduari tenhuntusawa resé, ixé yepé apigawa murakisara! Ixé yepé apigawa murakisara!” Yawé surí aé upitá. Ma aé ti yepé apigawa, aé yepé urupé!
+# 'Eu sou um homem sério! Sou um homem sério!’, e isso o faz inchar de orgulho. Mas não é um homem, é um cogumelo!
+# 'I am a serious man! I am a serious man!’, and that makes him swell with pride. But it's not a man, it's a mushroom!
+# ‘Je suis un homme sérieux! Je suis un homme sérieux!’, et ça le fait gonfler d’orgueil. Mais ce n’est pas un homme, c’est un champignon! 
+
+- Maã taá?
+# - Um o quê?
+# - A what?
+# - Un quoi? 
+
+- Yepé urupé!
+# - Um fungo!"
+# - A fungus!"
+# - Un champignon!” 
+
+Muruxawamirĩ, aramé tẽ, i piaíwa piri uikú rẽ.
+# O pequeno príncipe estava agora pálido de raiva.
+# The little prince was now quite pale with anger.
+# Le petit prince était maintenant tout pâle de colère. 
+
+Aikwé ana tẽ siía akayú putira-itá urikú tá yú-itá. Aikwé ana tẽ siía akayú yuíri suumé mimbira-itá umbaú putira-itá, tá yú-itá irumu tẽ.
+# “As flores produzem espinhos há milhões de anos. As ovelhas comem flores há milhões de anos.
+# “Flowers have been making thorns for millions of years. Sheep have been eating flowers for millions of years.
+# “Il y a des millions d’années que les fleurs fabriquent des épines. Il y a des millions d’années que les moutons mangent quand même les fleurs. 
+
+Remaité tẽ yepé tenhuntusawa yandé yasikari yakwáu nhaãsé putira-itá urikú tá yú-itá ti ramé tá upisirũ kurí aintá?
+# E não é sério tentar entender por que eles se esforçam tanto para fazer espinhos que nunca servem para nada?
+# And isn't it serious to try to understand why they go to such lengths to make thorns that never serve any purpose?
+# Et ce n’est pas sérieux de chercher à comprendre pourquoi elles se donnent tant de mal pour se fabriquer des épines qui ne servent jamais à rien? 
+
+Yepé tenhuntusawa será suumé mimbira-itá maramunhangawa putira-itá irumu? Nhaã apigawa piranga paparisawa-itá, tá supiwara piri putira-itá mbeusawa suí?
+# Não é importante a guerra das ovelhas e das flores? Não é mais sério e mais importante do que a adição de um cavalheiro vermelho e gordo?
+# It is not important the war of sheep and flowers? Isn't it more serious and more important than the additions of a fat red gentleman?
+# Ce n’est pas important la guerre des moutons et des fleurs? C’est n’est pas plus sérieux et plus important que les additions d’un gros monsieur rouge? 
+
+Akwáu ramé yepé putira amurupí amú-itá suí, uikú waá se retama upé, asuí, yepé kwema ramé, yepé suumé mimbira uyuká-kwáu aé, umaã-íma maã umunhã waá, - kwá yepé tenhuntusawa?!
+# E se eu mesmo conheço uma flor única no mundo, que não existe em lugar nenhum, exceto no meu planeta, e que uma ovelhinha pode aniquilar de uma vez, assim, numa manhã, sem perceber, não importa o que aconteça. ele faz!"
+# And if I, myself, know a flower unique in the world, which does not exist anywhere, except on my planet, and which a little sheep can annihilate all at once, like that, one morning, without realizing it doesn't matter what he does!”
+# Et si je connais, moi, une fleur unique au monde, qui n’existe nulle part, sauf dans ma planète, et qu’un petit mouton peut anéantir d’un seul coup, comme ça, un matin, sans se rendre compte de ce qu’il fait, ce n’est pas important ça!” 
+
+Suá upitá piranga, asuí umuapiri:
+# Ele corou e continuou:
+# He blushed, then resumed:
+# Il rougit, puis reprit: 
+
+- Amú awá usaisú ramé yepé putira amurupí panhẽ suí, kwá i katú ana umusurí arã aé mairamé umaã kwá putira resé.
+# “Se alguém ama uma flor que só existe em uma entre milhões e milhões de estrelas, isso é o suficiente para deixá-lo feliz quando olha para ela.
+# "If someone loves a flower that only exists in one of millions and millions of stars, that's enough to make him happy when he looks at them.
+# “Si quelqu’un aime une fleur qui n’existe qu’à un exemplaire dans les millions et les millions d’étoiles, ça suffit pour qu’il soit heureux quand il les regarde. 
+
+Yawé, aé umanduari-kwáu: “Se putira uikú yepé tendawa kití...”
+# Ele diz para si mesmo: 'Minha flor está aí em algum lugar...'
+# He says to himself: 'My flower is there somewhere...'
+# Il se dit: ‘Ma fleur est là quelque part...’ 
+
+Ma, suumé mimbira umbaú ramé putira, awá supé usaisú aé mayé panhẽ yasitatá uxari tá uwerá ramé maã! Kwá yepé tenhuntusawa?!
+# Mas, se a ovelha come a flor, é para ela como se, de repente, todas as estrelas se apagassem! E isso não é importante!"
+# But, if the sheep eats the flower, it is for him as if, suddenly, all the stars went out! And that's not important!"
+# Mais, si le mouton mange la fleur, c’est pour lui comme si, brusquement, toutes les étoiles s’éteignaient! Et ce n’est pas important ça!” 
+
+Asuí, ti ana unheẽ nẽ maã. Aramé tẽ aé uyupirũ uyaxiú. Pituna usika. Axari se murakí rupiara-itá.
+# Ele não pôde dizer mais nada. De repente, ele começou a chorar. A noite havia caído. Eu tinha deixado cair minhas ferramentas.
+# He couldn't say anything more. He suddenly burst into tears. Night had fallen. I had dropped my tools.
+# Il ne put rien dire de plus. Il éclata brusquement en sanglots. La nuit était tombée. J’avais lâché mes outils. 
+
+Ayupirũ apuká petekasara resé, beruma resé, isisawa resé asuí manũsawa resé.
+# Não me importei com meu martelo, meu raio, sede e morte.
+# I didn't care about my hammer, my bolt, thirst and death.
+# Je me moquais bien de mon marteau, de mon boulon, de la soif et de la mort. 
+
+Aramé aikwé, yepé iwaka-retama upé, se yara, sera waá Iwí, yepé muruxawamirĩ amurí arama!
+# Havia, numa estrela, um planeta, o meu, a Terra, um principezinho para consolar!
+# There was, on a star, a planet, mine, the Earth, a little prince to console!
+# Il y avait, sur une étoile, une planète, la mienne, la Terre, un petit prince à consoler! 
+
+Asupiri aé se yuwá resé, amuyatimú aé. Asuí anheẽ: “Putira resaisú waá uikú katú... Akwatiari kurí yepé yurú-pukwarisara ne suumé mimbira supé... asuí yepé kurara ne putira supé... Ixé...”
+# Eu o peguei no braço. Eu balancei ele. Eu lhe disse: “A flor que você ama não está em perigo... Vou desenhar um focinho para ela, para suas ovelhas... Vou desenhar uma armadura para sua flor... Eu...”
+# I took him in my arm. I rocked him. I said to him: “The flower you love is not in danger... I will design a muzzle for it, for your sheep... I will design armor for your flower... I...”
+# Je le pris dans le bras. Je le berçai. Je lui disais: “La fleur que tu aimes n’est pas en danger... Je lui dessinerai une muselière, à ton mouton... Je te dessinerai une armure pour ta fleur... Je...” 
+
+Aramé ti akwáu maã unheẽ i xupé. Aikú tĩsáwa irumu. Ti akwáu mayé amurí aé, mayé ayumuruakí sesé... Nẽ awá ukwáu supí sesayukisé retama!
+# Eu não sabia bem o que dizer. Eu me senti muito estranho. Não sabia como chegar, onde me juntar... É tão misteriosa, a terra das lágrimas!
+# I didn't quite know what to say. I felt very awkward. I didn't know how to reach it, where to join it... It's so mysterious, the land of tears!
+# Je ne savais pas trop quoi dire. Je me sentais très maladroit. Je ne savais comment l’atteindre, où le rejoindre... C’est tellement mystérieux, le pays des larmes! 
+

@@ -1,0 +1,186 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:15:45 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Aikwé ana pumusapiri ara se pepusantá upena uikú waá nhaã tetama mira- íma upé. Mairamé muruxawamirĩ umbéu venderisara resewara, aú aikú se ií tikira anhuarama.
+# Estávamos no oitavo dia do meu colapso no deserto, e eu ouvi a história do comerciante enquanto bebia a última gota do meu suprimento de água:
+# We were on the eighth day of my breakdown in the desert, and I had listened to the story of the merchant while drinking the last drop of my supply of water:
+# Nous en étions au huitième jour de ma panne dans le désert, et j’avais écouté l’histoire du marchand en buvant la dernière goutte de ma provision d’eau: 
+
+- Ah! - anheẽ muruxawamirĩ supé. - Ne manduarisawa-itá, tá puranga retana, ma ti rẽ amungaturú se pepusantá, ti arikú nẽ maã aú arã, se rurí maã yuíri awatá-kwáu ramé maã té yepé ií-kwara kití!
+# "Oh! Eu disse ao principezinho, são muito bonitas as suas lembranças, mas ainda não consertei meu avião, não tenho mais nada para beber, e ficaria feliz também se pudesse caminhar bem devagar até uma fonte!
+# “Oh! I said to the little prince, they are very pretty, your memories, but I haven't repaired my plane yet, I have nothing more to drink, and I would be happy, too, if I could walk very slowly towards a fountain!
+# “Ah! dis-je au petit prince, ils sont bien jolis, tes souvenirs, mais je n’ai pas encore réparé mon avion, je n’ai plus rien à boire, et je serais heureux, moi aussi, si je pouvais marcher tout doucement vers une fontaine! 
+
+- Se rumuara, yawara kaapura, unheẽ ixé arã…
+# - Minha amiga raposa, ele me disse...
+# - My friend the fox, he said to me...
+# - Mon ami le renard, me dit-il... 
+
+- Apigawamirĩ, kwá amurupí yawara kaapura nheenga-itá suí!
+# - Meu homenzinho, não se trata mais da raposa!
+# - My little man, it's not about the fox anymore!
+# - Mon petit bonhomme, il ne s’agit plus du renard! 
+
+- Marã taá?
+# - Para que?
+# - For what?
+# - Pourquoi? 
+
+- Nhaãsé yasú yamanũ isisawa suí...
+# - Porque vamos morrer de sede...”
+# - Because we are going to die of thirst...”
+# - Parce qu’on va mourir de soif...” 
+
+Aé ti umanduariwera mayé se yawé. Asuí, unheẽ ixé arama:
+# Ele não entendeu meu raciocínio, respondeu:
+# He did not understand my reasoning, he replied:
+# Il ne comprit pas mon raisonnement, il me répondit: 
+
+- Panhẽ mira umanũ kurí, ma, yané rikwesawa pukusawa, yarikuté yarikú yané rumuara. Se rurí retana arikú resewara yawara kaapura se rumuara yawé...
+# “É bom ter um amigo, mesmo que vamos morrer. Eu, estou muito feliz por ter tido uma amiga raposa..."
+# “It is good to have had a friend, even if we are going to die. Me, I'm very happy to have had a fox friend..."
+# “C’est bien d’avoir eu un ami, même si l’on va mourrir. Moi, je suis bien content d’avoir eu un ami renard...” 
+
+“Aé ti umaã yawaitesawa turusawa”, amanduari. “Nẽ mairamé i yumasí uikú nẽ i isí. Kurasí xinga uikú ana puranga i xupé...”
+# “Ele não mede o perigo, digo para mim mesmo. Ele nunca está com fome ou com sede. Um pouco de sol basta para ele...”
+# “He does not measure the danger, I say to myself. He is never hungry or thirsty. A little sun is enough for him...”
+# “Il ne mesure pas le danger, me dis-je. Il n’a jamais ni faim ni soif. Un peu de soleil lui suffit...” 
+
+Ma aé umaã se resé asuí usuaxara se manduarisawa supé:
+# Mas ele olhou para mim e respondeu ao meu pensamento:
+# But he looked at me and answered my thought:
+# Mais il me regarda et répondit à ma pensée: 
+
+- Se isí yuíri… yarikuté yasikari yepé ií-kwara...
+# "Eu também estou com sede... vamos procurar um poço..."
+# "I'm thirsty too... let's look for a well..."
+# “J’ai soif aussi... cherchons un puits...” 
+
+Ti aruyari aikú nhaã resé: usikari yepé ií-kwara nhaã tetama mira-íma turusú retana upé yepé akangaiwasawa. Ma, yawé tẽ, yayupirũ yawatá.
+# Fiz um gesto de cansaço: é um absurdo procurar um poço, ao acaso, na imensidão do deserto. No entanto, partimos.
+# I made a gesture of weariness: it is absurd to look for a well, at random, in the immensity of the desert. However, we set off.
+# J’eus un geste de lassitude: il est absurde de chercher un puits, au hasard, dans l’immensité du désert. Cependant nous nous mîmes en marche. 
+
+Yaikú ana kwera apekatú mairamé pituna usika asuí yasitatá-itá uyupirũ tá uwerá iwaka upé.
+# Depois de caminharmos horas em silêncio, a noite caiu e as estrelas começaram a brilhar.
+# When we had walked for hours in silence, night fell, and the stars began to light up.
+# Quand nous eûmes marché, des heures, en silence, la nuit tomba, et les étoiles commencèrent de s’éclairer. 
+
+Ixé amaã yasitatá-itá mayé yepé kerpisawa upé, nhaãsé isisawa uxari ixé takua irumu. Nheenga-itá muruxawamirĩ unheẽ waá ti tá usemu se akanga suí.
+# Eu os vi como num sonho, com um pouco de febre, por causa da minha sede. As palavras do principezinho dançaram na minha memória:
+# I saw them as if in a dream, having a little fever, because of my thirst. The words of the little prince danced in my memory:
+# Je les apercevais comme en rêve, ayant un peu de fièvre, à cause de ma soif. Les mots du petit prince dansaient dans ma mémoire: 
+
+- Ne isí yuíri? - apurandú i suí.
+# “Então você também está com sede?” Eu perguntei a ele.
+# “So you are thirsty too?” I asked him.
+# “Tu as donc soif, toi aussi?” lui demandai-je. 
+
+Ma aé ti usuaxara se purandusawa. Unheẽ-ntu kwayé:
+# Mas ele não respondeu à minha pergunta. Ele simplesmente me diz:
+# But he didn't answer my question. He simply tells me:
+# Mais il ne répondit pas à ma question. Il me dit simplement: 
+
+- Ií yuíri ukwáu katú yané piá supé...
+# “A água também pode ser boa para o coração…”
+# “Water can also be good for the heart…”
+# “L’eau peut aussi être bonne pour le cœur…” 
+
+Ti akwáu maã aé unheẽ-putari waá, ma aikuntu... Amaã puranga piri ti apurandú-randú i suí.
+# Não entendi a sua resposta mas fiquei em silêncio... Sabia muito bem que não era necessário questioná-lo.
+# I did not understand his answer but I was silent... I knew very well that it was not necessary to question him.
+# Je ne compris pas sa réponse mais je me tus... Je savais bien qu’il ne fallait pas l’interroger. 
+
+Aé i kweré ana uikú. Uwapika. Awapika suakí. Asuí, yepé kirirĩ riré, aé unheẽ rẽ:
+# Ele estava cansado. Ele sentou. Sentei-me ao lado dele. E, depois de um silêncio, disse novamente:
+# He was tired. He sat. I sat down next to him. And, after a silence, he said again:
+# Il était fatigué. Il s’assit. Je m’assis auprès de lui. Et, après un silence, il dit encore: 
+
+- Yasitatá aintá puranga yepé putira resewara ti waá yamaã-kwáu...
+# “As estrelas são lindas por causa de uma flor que não podemos ver...”
+# “The stars are beautiful, because of a flower that we cannot see...”
+# “Les étoiles sont belles, à cause d’une fleur que l’on ne voit pas...” 
+
+Asuaxara “supí”, asuí akirirĩ. Amaã-maã iwikuí iwitera-itá sendí yasí rupí.
+# Respondi “claro” e olhei, sem falar, as dobras de areia sob a lua.
+# I answered “of course” and looked, without speaking, at the folds of sand under the moon.
+# Je répondis “bien sûr” et je regardai, sans parler, les plis du sable sous la lune. 
+
+- Tetama mira-íma puranga - aé unheẽ.
+# “O deserto é lindo”, acrescentou...
+# “The desert is beautiful”, he added...
+# “Le désert est beau”, ajouta-t-il... 
+
+Supí, tetama mira-íma puranga tẽ. Panhẽ mairamé asaisú tetama-itá mira- íma. Yawapika yepé iwikuí iwitera resé. Ti yamaã nẽ maã. Ti yasendú nẽ maã. Ma, mairamé nẽ awá usarú uikú, manungara uwerá kirirĩ rupí...
+# E era verdade. Sempre adorei o deserto. Fica em uma duna de areia. Não vemos nada. Não ouvimos nada. E ainda assim algo brilha no silêncio...
+# And it was true. I always loved the desert. It sits on a sand dune. We see nothing. We hear nothing. And yet something shines in silence...
+# Et c’était vrai. J’ai toujours aimé le désert. On s’assoit sur une dune de sable. On ne voit rien. On n’entend rien. Et cependant quelque chose rayonne en silence… 
+
+- Yepé maã umupuranga tetama mira-íma - unheẽ muruxawamirĩ: aé uyumimi-kwáu yepé ií-kwara mayewa tendawa upé-ntu.
+# “O que torna o deserto bonito, diz o principezinho, é que ele esconde um poço em algum lugar...”
+# “What makes the desert beautiful, says the little prince, is that it hides a well somewhere...”
+# “Ce qui embellit le désert, dit le petit prince, c’est qu’il cache un puits quelque part...” 
+
+Se akanhemu amaã resewara kwá amurupí iwikuí werasawa. Mairamé kwaíra rẽ ixé, amurari yepé uka kuxiimawara upé. Ape, tá umbeú marandua-itá, aikwé manungara mayé itá-tawá yawé uyutima uikú waá iwí upé.
+# Fiquei surpreso ao compreender de repente esse brilho misterioso da areia. Quando eu era menino, morava em uma casa antiga e diz a lenda que ali estava enterrado um tesouro.
+# I was surprised to suddenly understand this mysterious radiance of the sand. When I was a little boy, I lived in an old house, and the legend said that a treasure was buried there.
+# Je fus surpris de comprendre soudain ce mystérieux rayonnement du sable. Lorsque j’étais petit garçon, j’habitais une maison ancienne, et la légende racontait qu’un trésor y était enfoui. 
+
+Nẽ mairamé tá uwasemu-kwáu kwá itá-tawá, araneíma tẽ nẽ awá usikari ana aé. Ma kwá marandua umusurí panhẽ awá. Se ruka uyumimi manungara i piá kwara upé...
+# É claro que ninguém jamais soube como descobri-lo, nem talvez sequer o tenha procurado. Mas ele encantou toda a casa. Minha casa escondia um segredo no fundo de seu coração...
+# Of course, no one has ever known how to discover it, nor perhaps even looked for it. But he enchanted this whole house. My house hid a secret deep in its heart...
+# Bien sûr, jamais personne n’a su le découvrir, ni peut-être même ne l’a cherché. Mais il enchantait toute cette maison. Ma maison cachait un secret au fond de son cœur... 
+
+- Supí - anheẽ muruxawamirĩ supé -, uka, yasitatá-itá asuí tetama mira-íma, maã umupuranga aintá ti uyumaã-kwáu yané resá rupí!
+# “Sim, eu disse ao principezinho, seja a casa, as estrelas ou o deserto, o que torna a sua beleza é invisível!
+# “Yes, I said to the little prince, whether it is the house, the stars or the desert, what makes their beauty is invisible!
+# “Oui, dis-je au petit prince, qu’il s’agisse de la maison, des étoiles ou du désert, ce qui fait leur beauté est invisible! 
+
+- Se rurí aikú - unheẽ muruxawamirĩ - remanduari resewara mayé yawara kaapura yawé.
+# - Que bom, disse ele, que você concorda com minha raposa.
+# - I'm glad, he said, that you agree with my fox.
+# - Je suis content, dit-il, que tu sois d’accord avec mon renard.” 
+
+Mayé muruxawamirĩ ukiri ana uikú, amburi aé se iuwá resé asuí awatá se renundé kití. Aramé, se piá surí retana nhaãsé arasú aikú se irumu nhaã apigawamirĩ itá-tawá nungara.
+# Quando o principezinho adormeceu, tomei-o nos braços e parti novamente. Eu fui tocado. Parecia-me carregar um tesouro frágil.
+# As the little prince fell asleep, I took him in my arms and set off again. I was touched. It seemed to me to carry a fragile treasure.
+# Comme le petit prince s’endormait, je le pris dans mes bras, et me remis en route. J’étais ému. Il me semblait porter un trésor fragile. 
+
+Uyukwáu ixé arama aé maã pitua piri aikwé waá Iwí upé. Amaã aikú, yasí werasawa irumu, nhaã suá suaíwa, sesá-itá usikindáu, i awa urirí waá iwitú irumu. Aramé, amanduari:
+# Até me pareceu que não havia nada mais frágil na Terra. Olhei, à luz da lua, aquela testa pálida, aqueles olhos fechados, aquelas mechas de cabelo que tremiam ao vento, e disse para mim mesmo:
+# It even seemed to me that there was nothing more fragile on Earth. I looked, in the light of the moon, at that pale forehead, those closed eyes, those locks of hair that trembled in the wind, and I said to myself:
+# Il me semblait même qu’il n’y eût rien de plus fragile sur la Terre. Je regardais, à la lumière de la lune, ce front pâle, ces yeux clos, ces mèches de cheveux qui tremblaient au vent, et je me disais: 
+
+“Maã amaã aikú kuíri i pira-ntu. Yané resá ti umaã-kwáu maã-itá rumitera...”
+# “O que vejo ali é apenas um latido. O mais importante é invisível...”
+# “What I see there is only a bark. The most important thing is invisible...”
+# “Ce que je vois là n’est qu’une écorce. Le plus important est invisible...” 
+
+Mayé sembé-itá umukameẽ yepé pukasawa nungara, amanduari rẽ: “Se piá upitá surí akwáu resewara kwá muruxawamirĩ nhaãsé aé panhẽ mairamé usaisú kurí i putira. Amaã putira rangawa uwerá waá sesé mayé lamparina werasawa yawé, té mairamé aé ukiri uikú...”
+# Enquanto seus lábios entreabertos esboçavam um meio sorriso, voltei a dizer para mim mesmo: “O que tanto me emociona neste principezinho adormecido é a sua fidelidade a uma flor, é a imagem de uma rosa que brilha nele como a chama. de uma lâmpada, mesmo quando ele dorme...”
+# As his parted lips sketched a half-smile, I said to myself again: "What moves me so much about this sleeping little prince is his loyalty to a flower, it's the image of a rose that shines in him like the flame of a lamp, even when he sleeps...”
+# Comme ses lèvres entrouvertes ébauchaient un demi-sourire je me dis encore: “Ce qui m’émeut si fort de ce petit prince endormi, c’est sa fidélité pour une fleur, c’est l’image d’une rose qui rayonne en lui comme la flamme d’une lampe, même quand il dort...” 
+
+Aramé amaité aé pitua piri rẽ. Yarikuté yapisirũ katú lamparina-itá: araneíma iwitú xinga umuwéu ana aintá...
+# E imaginei que ele era ainda mais frágil. É preciso proteger bem as lâmpadas: uma rajada de vento pode apagá-las...
+# And I guessed that he was even more fragile. It is necessary to protect the lamps well: a gust of wind can extinguish them...
+# Et je le devinai plus fragile encore. Il faut bien protéger les lampes: un coup de vent peut les éteindre... 
+
+Awatá rẽ se renundé kití asuí awasemu yepé ií-kwara mairamé kurasí usemu.
+# E, caminhando assim, descobri o poço ao amanhecer.
+# And, walking thus, I discovered the well at daybreak.
+# Et, marchant ainsi, je découvris le puits au lever du jour. 
+

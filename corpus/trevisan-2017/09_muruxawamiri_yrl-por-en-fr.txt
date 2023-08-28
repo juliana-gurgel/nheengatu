@@ -1,0 +1,166 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:02:51 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Aruyari aé uyawáu yepé wirá kaapura riía irumu, mairamé tá uwewé amú tendawa kití.
+# Acredito que ele tenha aproveitado, para sua fuga, uma migração de aves selvagens.
+# I believe that he took advantage, for his escape, of a migration of wild birds.
+# Je crois qu’il profita, pour son évasion, d’une migration d’oiseaux sauvages. 
+
+Kwema ramé usemu waá, umungaturú setama pawa. Uyusí katú i iwitepuka- itá upuka rẽ waá.
+# Na manhã da partida ele colocou seu planeta em boa ordem. Ele examinou cuidadosamente seus vulcões ativos.
+# On the morning of departure he put his planet in good order. He carefully scanned his active volcanoes.
+# Au matin du départ il mit sa planète bien en ordre. Il ramona soigneusement ses volcans en activité. 
+
+Aé urikú mukũi iwitepuka upuka rẽ waá. Puranga umuakú arama tá resé kwema mbausawa.
+# Tinha dois vulcões ativos. E foi muito conveniente para aquecer o café da manhã.
+# It had two active volcanoes. And it was very convenient for heating up breakfast in the morning.
+# Il possédait deux volcans en activité. Et c’était bien commode pour faire chauffer le petit déjeuner du matin. 
+
+Urikú yuíri yepé iwitepuka uwéu uikú waá. Ma, mayé unheẽwéra: “Nẽ mairamé yakwáu maã uyusasá kurí!” Yawé uyusí yuíri nhaã uwéu uikú waá.
+# Também tinha um vulcão extinto. Mas, como ele disse: “Nunca se sabe!” Ele, portanto, também varreu o vulcão extinto.
+# It also had an extinct volcano. But, as he said, “You never know!” He therefore also swept the extinct volcano.
+# Il possédait aussi un volcan éteint. Mais, comme il disait: “On ne sait jamais!” Il ramona donc également le volcan éteint. 
+
+Yayusí katú ramé iwitepuka-itá, aintá ukái merupí asuí ti tá upuka.
+# Se varridos adequadamente, os vulcões queimam lenta e continuamente, sem erupções.
+# If properly swept, volcanoes burn slowly and steadily, without eruptions.
+# S’ils sont bien ramonés, les volcans brûlent doucement et régulièrement, sans éruptions. 
+
+Mairamé yepé iwitepuka upuka, aé umusému tatá kwera mayé yepé tatá rendawa yawé.
+# As erupções vulcânicas são como incêndios em chaminés.
+# Volcanic eruptions are like chimney fires.
+# Les éruptions volcaniques sont comme des feux de cheminée. 
+
+Ma Iwí upé yandé kwaíra retana yayusí arama yané iwitepuka.
+# Obviamente, na nossa terra, somos demasiado pequenos para varrer os nossos vulcões.
+# Obviously on our earth we are much too small to sweep our volcanoes.
+# Évidemment sur notre terre nous sommes beaucoup trop petits pour ramoner nos volcans. 
+
+Sesewara tá yawaité retana yané retama upé.
+# É por isso que eles nos causam tantos problemas.
+# That's why they cause us so much trouble.
+# C’est pourquoi ils nous causent des tas d’ennuis. 
+
+Muruxawamirĩ, sasiara xinga, uyuka yuíri yepé-yepé baobá íwa.
+# O principezinho também arrancou, com um pouco de melancolia, os últimos rebentos dos baobás.
+# The little prince also uprooted, with a little melancholy, the last shoots of baobabs.
+# Le petit prince arracha aussi, avec un peu de mélancolie, les dernières pousses de baobabs. 
+
+Aramé umanduari uikú ti uyuíri setama kití.
+# Ele pensou que nunca mais teria que voltar.
+# He thought he would never have to come back.
+# Il croyait ne jamais devoir revenir. 
+
+Ma, nhaã kwema ramé, murakí-itá umunhãwera waá muíri ara tá umusurí piri muruxawamirĩ.
+# Mas todas essas tarefas familiares lhe pareceram, naquela manhã, extremamente doces.
+# But all these familiar tasks seemed to him, that morning, extremely sweet.
+# Mais tous ces travaux familiers lui parurent, ce matin-là, extrêmement doux. 
+
+Asuí mairamé muruxawamirĩ umururú putira anhuarama rupí, umburi renundé aé riruwasú sakakanga upé, umaã aé uyaxiú-putari.
+# E quando regou a flor pela última vez e se preparou para protegê-la sob seu globo, sentiu vontade de chorar.
+# And when he watered the flower one last time, and prepared to shelter it under his globe, he found himself wanting to cry.
+# Et, quand il arrosa une dernière fois la fleur, et se prépara à la mettre à l’abri sous son globe, il se découvrit l’envie de pleurer. 
+
+- Asú rẽ ne suí - unheẽ putira supé.
+# “Adeus”, disse ele à flor.
+# “Farewell,” he said to the flower.
+# “Adieu”, dit-il à la fleur. 
+
+Ma putira ti usuaxara.
+# Mas ela não lhe respondeu.
+# But she didn't answer him.
+# Mais elle ne lui répondit pas. 
+
+- Asú rẽ ne suí - unheẽ amú í.
+# “Adeus”, disse ele à flor.
+# “Farewell,” he said to the flower.
+# “Adieu”, dit-il à la fleur. 
+
+Putira utusé. Ma ti irusangasawa resewara.
+# A flor tossiu. Mas não foi por causa do resfriado.
+# The flower coughed. But it wasn't because of his cold.
+# La fleur toussa. Mais ce n’était pas à cause de son rhume. 
+
+- Ixé yepé putira yakwaíma - unheẽ muruxawamirĩ supé. Reyerũ ixé. Resikari ne rurisawa.
+# "Eu fui estúpida", ela finalmente disse a ele. Perdão. Esforce-se para ser feliz."
+# "I was stupid," she finally told him. I beg your pardon. Strive to be happy."
+# “J’ai été sotte, lui dit-elle enfin. Je te demande pardon. Tâche d’être heureux.” 
+
+Aé i akanhemu putira nheenga-itá irumu. Ti ana ukwáu maã umunhã, riruwasú sakakanga irumu i pú resé.
+# Ele ficou surpreso com a ausência de censuras. Ele ficou ali desconcertado, o globo no ar.
+# He was surprised by the absence of reproaches. He stood there disconcerted, the globe in the air.
+# Il fut surpris par l’absence de reproches. Il restait là tout déconcerté, le globe en l’air. 
+
+Ti ukwáu supisawa nhaã nheenga-itá seẽ resewara.
+# Ele não entendia essa doçura calma.
+# He did not understand this calm sweetness.
+# Il ne comprenait pas cette douceur calme. 
+
+- Asaisú retana indé - putira unheẽ i xupé. - Ti rẽ rekwáu kwá se resewara. Ma, kuíri, ti repitá remanduari se nheenga-itá resé.
+# “Sim, eu te amo, disse a flor. Você não sabia, minha culpa. Não importa.
+# “Yes, I love you, said the flower. You didn't know, my fault. It doesn't matter.
+# “Mais oui, je t’aime, lui dit la fleur. Tu n’en as rien su, par ma faute. Cela n’aucune importance. 
+
+Ma indé yakwaíma mayé se yawé. Resikari ne rurisawa... Rexari kwá riruwasú sakakanga. Ti ana aputari piri aé.
+# Mas você foi tão estúpido quanto eu. Tente ser feliz... Deixe este globo em paz. Eu não o quero mais.
+# But you were as stupid as me. Try to be happy... Leave this globe alone. I do not want it anymore.
+# Mais tu as été aussi sot que moi. Tâche d’être heureux... Laisse ce globe tranquille. Je n’en veux plus. 
+
+- Ma iwitú...
+# - Mas o vento...
+# - But the wind...
+# - Mais le vent... 
+
+- Ti irusangasawa retana aikú tẽ... Pituna ramé iwitú irusangarana umunhã kurí ixé ayusaã katú. Ixé yepé putira.
+# - Não estou com tanto frio... O ar fresco da noite vai me fazer bem. Eu sou uma flor.
+# - I'm not that cold... The cool night air will do me good. I am a flower.
+# - Je ne suis pas si enrhumée que ça... L’air frais de la nuit me fera du bien. Je suis une fleur. 
+
+- Ma suú-itá...
+# - Mas as feras...
+# - But the beasts...
+# - Mais les bêtes... 
+
+- Arikuté apitasuka mukũi u musapiri tapurú, akwáu-putari ramé panapanã- itá.
+# - É necessário que eu apoie duas ou três lagartas se quiser conhecer as borboletas.
+# - It is necessary that I support two or three caterpillars if I want to know the butterflies.
+# - Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons. 
+
+Tá unheẽ aintá puranga retana. Ti ramé kwayé, awá taá uri kurí umaã ixé? Indé apekatú reikú kurí.
+# Parece tão lindo. Caso contrário, quem me visitará? Você estará longe.
+# It seems so beautiful. Otherwise who will visit me? You will be far away.
+# Il paraît que c’est tellement beau. Sinon qui me rendra visite? Tu seras loin, toi. 
+
+Suú-itá turusú resewara, ti asikié aintá suí. Arikú se puampé-itá.
+# Quanto aos grandes animais, não temo nada. Eu tenho minhas garras.
+# As for the big beasts, I fear nothing. I have my claws.”
+# Quant aux grosses bêtes, je ne crains rien. J’ai mês griffes.” 
+
+Aramé umukameẽ i irundí yú. Asuí, umuapiri:
+# E ela ingenuamente mostrou seus quatro espinhos. Então ela acrescentou:
+# And she naively showed her four thorns. Then she added:
+# Et elle montrait naïvement ses quatre épines. Puis elle ajouta: 
+
+- Té reikupukú resemu arã kwá suí, se piaíwa apitá ana aikú. Indé resemu- putari kwá suí, resemu kuíri tẽ!
+# “Não fique assim, é irritante. Você decidiu ir embora. Vá embora."
+# "Don't hang around like that, it's annoying. You have decided to leave. Go away."
+# “Ne traîne pas comme ça, c’est agaçant. Tu as décidé de partir. Va-t’en.” 
+
+Aé ti maã uputari muruxawamirĩ umaã aé uyaxiú. Aé yepé putira warixí retana...
+# Porque ela não queria que ele a visse chorar. Ela era uma flor tão orgulhosa...
+# Because she didn't want him to see her cry. She was such a proud flower...
+# Car elle ne voulait pas qu’il la vît pleurer C’était une fleur tellement orgueilleuse… 
+

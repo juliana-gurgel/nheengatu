@@ -1,0 +1,66 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:20:33 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Nhaã ara suí, puyepé akayú uyusasá ana... Nẽ mairamé ambéu kwá mbeusawa nẽ awá supé. Se rumuara usuantí waá-itá ixé tá upitá surí mairamé tá umaã ixé se rikwé rẽ. Ixé sasiara aikú, ma anheẽ tá supé: “Se kweré...”
+# E agora, claro, já se passaram seis anos... Nunca contei essa história antes. Os camaradas que me viram novamente ficaram muito felizes em me ver vivo. Fiquei triste mas falei para eles: “É cansaço...”
+# And now of course, it's been six years already... I've never told this story before. The comrades who saw me again were very happy to see me alive. I was sad but I told them: “It’s tiredness...”
+# Et maintenant bien sûr, ça fait six ans déjà… Je n’ai jamais encore raconté cette histoire. Les camarades qui m’ont revu ont été bien contents de me revoir vivant. J’étais triste mais je leur disais: “C’est la fatigue...” 
+
+Uií aikú ana puranga piri xinga. Ma, amuramé, apitá rẽ sasiara xinga. Akwáu tẽ aé uyuíri setama kití nhaãsé, mairamé nhaã ara i kwema, i pira ti ana uikú ape. I pira ti i pusé... Pituna ramé, asaisú asendú yasitatá-itá. Aintá mayé siía marakamirĩ yawé...
+# Agora me consolei um pouco. O que quer dizer... não exatamente. Mas sei que ele voltou ao seu planeta, pois ao amanhecer não encontrei seu corpo. Não era um corpo tão pesado... E gosto de ouvir as estrelas à noite. São como quinhentos milhões de sinos...
+# Now I have consoled myself a little. Which is to say... not quite. But I know that he returned to his planet, because at daybreak, I did not find his body. It was not such a heavy body... And I like to listen to the stars at night. It's like five hundred million bells...
+# Maintenant je me suis un peu consolé. C’est-à-dire... pas tout à fait. Mais je sais bien qu’il est revenu à sa planète, car, au lever du jour, je n’ai pas retrouvé son corps. Ce n’était pas un corps tellement lourd... Et j’aime la nuit écouter les étoiles. C’est comme cinq cents millions de grelots… 
+
+Ma manungara amurupí retana usika. Se resarái amunhã yepé tupasama suú pirera suiwara mairamé akwatiari muruxauamirĩ supé suumé mimbira yurú- pukwarisara! Aé nẽ mairamé upukwari-kwáu kurí aé suumé mimbira resé. Aramé apurandú: “Maã taá usika ana waá kwera setama upé? Araneíma tẽ suumé mimbira umbaú ana putira...”
+# Mas então algo extraordinário acontece. A focinheira que desenhei para o principezinho, esqueci de colocar a tira de couro! Ele nunca poderia ter amarrado isso às ovelhas. Então eu me pergunto: “O que aconteceu no planeta dele? Talvez a ovelha tenha comido a flor...”
+# But then something extraordinary happens. The muzzle I designed for the little prince, I forgot to add the leather strap! He could never have tied it to the sheep. So I wonder, “What happened on his planet? Maybe the sheep ate the flower...”
+# Mais voilà qu’il se passe quelque chose d’extraordinaire. La muselière que j’ai dessinée pour le petit prince, j’ai oublié d’y ajouter la courroie de cuir! Il n’aura jamais pu l’attacher au mouton. Alors je me demande: “Que s’est-il passé sur sa planète? Peut- être bien que le mouton a mangé la fleur...” 
+
+Amuramé amanduari: “Akwáu tẽ ti kwayé! Muruxawamirĩ umburi muíri pituna i putira riruwasú sakakanga upé asuí umanhã-manhãna i suumé mimbira... Yawé ixé apitá surí, panhẽ yasitatá upuká seẽ.
+# Às vezes digo para mim mesmo: “Claro que não! O pequeno príncipe tranca sua flor todas as noites sob seu globo de vidro e fica de olho em suas ovelhas...” Então estou feliz. E todas as estrelas estão rindo baixinho.
+# Sometimes I say to myself: “Surely not! The little prince locks up his flower every night under his glass globe, and he keeps a close eye on his sheep..." So I'm happy. And all the stars are laughing softly.
+# Tantôt je me dis: “Sûrement non! Le petit prince enferme sa fleur toutes les nuits sous son globe de verre, et il surveille bien son mouton…” Alors je suis heureux. Et toutes les étoiles rient doucement. 
+
+Ma ixé yuíri amanduari: “Amuramé yamaã amú suaxara kití asuí manungara usika!” Aé sesarái ramé, yepé pituna, upisika riruwasú u ti ramé umaã suumé mimbira usú i suí pituna pukusawa...” Yawé panhẽ marakamirĩ uyeréu sesá- yukisé!...
+# Às vezes digo para mim mesmo: “A gente se distrai uma vez ou outra, e isso basta! Esqueceu-se, uma noite, do globo de vidro, ou então as ovelhas saíram silenciosamente durante a noite…” Então todos os sinos se transformaram em lágrimas!...
+# Sometimes I say to myself: “We get distracted once or the other, and that’s enough! He forgot, one evening, the glass globe, or else the sheep came out noiselessly during the night…” Then the bells all change into tears!...
+# Tantôt je me dis: “On est distrait une fois ou l’autre, et ça suffit! Il a oublié, un soir, le globe de verre, ou bien le mouton est sorti sans bruit pendant la nuit…” Alors les grelots se changent tous en larmes!... 
+
+Kwá manungara ti waá yakwáu kurí. Penhẽ arama, ixé arama yuíri, yasaisú waá muruxawamirĩ, iwaka pawa upitá amurupí yepé suumé mimbira ramé ti waá yakwáu, yepé tendawa upé, umbaú u ti umbaú yepé putira...
+# Este é um grande mistério. Para você que também ama o pequeno príncipe, assim como para mim, nada no universo é igual se em algum lugar, não sabemos onde, uma ovelha que não conhecemos comeu, sim ou não, uma rosa...
+# This is a great mystery. For you who also love the little prince, as for me, nothing in the universe is the same if somewhere, we don't know where, a sheep we don't know has, yes or no, eaten a rose...
+# C’est là un bien grand mystère. Pour vous qui aimez aussi le petit prince, comme pour moi, rien de l’univers n’est semblable si quelque part, on ne sait où, un mouton que nous ne connaissons pas a, oui ou non, mangé une rose… 
+
+Pemaã iwaka kití. Pepurandú pe suí tẽ: “Suumé mimbira umbaú ana u ti umbaú putira?” Pemaã kurí mayé maã-itá upitá amurupí...
+# Olhe para o céu. Pergunte-se: “As ovelhas comeram a flor ou não?” E você verá como tudo muda...
+# Look at the sky. Ask yourself: “Did the sheep eat the flower or not?” And you will see how everything changes...
+# Regardez le ciel. Demandez-vous: “Le mouton oui ou non a-t-il mangé la fleur?” Et vous verrez comme tout change... 
+
+Nẽ mairamé yepé mira turusú umaã kurí mayé kwá puranga!
+# E nenhum adulto jamais entenderá que isso é tão importante!
+# And no grown-up will ever understand that it matters so much!
+# Et aucune grande personne ne comprendra jamais que ça a tellement d’importance! 
+
+Kwá sangawa, ixé arama, puranga piri asuí sasiara piri amaã ana waá. Kwá sangawa mayé sangawa senundewara yawé. Ma akwatiari aé amú í amukameẽ puranga arama penhẽ arama. Kwá tendawa upé, muruxawamirĩ uyukwáu Iwí upé, asuí ukanhemu.
+# Esta é, para mim, a paisagem mais bela e mais triste do mundo. É a mesma paisagem da página anterior, mas desenhei novamente para mostrar a vocês. Foi aqui que o pequeno príncipe apareceu na terra e depois desapareceu.
+# This is, for me, the most beautiful and the saddest landscape in the world. It is the same landscape as the one on the previous page, but I have drawn it again to show it to you. It is here that the little prince appeared on earth, then disappeared.
+# Ça c’est, pour moi, le plus beau et le plus triste paysage du monde. C’est le même paysage que celui de la page précédente, mais je l’ai dessiné une fois encore pour bien vous le montrer. C’est ici que le petit prince a apparu sur terre, puis disparu. 
+
+Pemaã katú kwá sangawa resé pemaã arama mamé upitá kwá tendawa, yepé ara ramé penhẽ pewatá yepé tetama mira-íma rupí África upé. Pesasá ramé mirupí, ayururéu pe suí ti pewatá kutara, pesarú xinga yepé yasitatá wírupi! Yepé kurumĩ uri ramé pe piri, aé upuká ramé, urikú ramé i awa itá-tawá yawé, ti ramé usuaxara mairamé amú awá upurandú manungara i suí, pekwáu kurí awá aé. Aramé, ayururéu tẽ pe suí: ti pexari ixé sasiara, penheẽ ixé arama aé uyuíri ana...
+# Observe atentamente esta paisagem para ter certeza de reconhecê-la, se algum dia viajar para a África, no deserto. E, se acontecer de você passar por aqui, eu imploro, não tenha pressa, espere um pouco sob a estrela! Se então uma criança vier até você, se ela rir, se tiver cabelos dourados, se não responder quando questionada, você adivinhará quem ela é. Então seja legal! Não me deixe tão triste: escreva-me rapidamente que ele voltou...
+# Look carefully at this landscape to be sure to recognize it, if you ever travel to Africa, in the desert. And, if you happen to pass by, I beg you, don't hurry, just wait a little under the star! If then a child comes to you, if he laughs, if he has golden hair, if he does not answer when questioned, you will guess who he is. So be nice! Don't leave me so sad: write to me quickly that he has returned...
+# Regardez attentivement ce paysage afin d’être sûrs de le reconnaître, si vous voyagez un jour en Afrique, dans le désert. Et, s’il vous arrive de passer par là, je vous en supplie, ne vous pressez pas, attendez un peu juste sous l’étoile! Si alors un enfant vient à vous, s’il rit, s’il a des cheveux d’or, s’il ne répond pas quand on l’interroge, vous devinerez bien qui il est. Alors soyez gentils! Ne me laissez pas tellement triste: écrivez-moi vite qu’il est revenu... 
+

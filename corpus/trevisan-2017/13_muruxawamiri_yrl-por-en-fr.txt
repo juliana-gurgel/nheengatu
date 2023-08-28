@@ -1,0 +1,316 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:06:55 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Irundisawa iwaka-retama upé umurari yepé apigawa umunhãwera-ntu waá paparisawa-itá.
+# O quarto planeta era o do empresário.
+# The fourth planet was that of the businessman.
+# La quatrième planète était celle du businessman. 
+
+Mayé nhaã apigawa upurakiwera retana, ti umupuamu i akanga mairamé muruxawamirĩ usika.
+# Este homem estava tão ocupado que nem levantou a cabeça quando o principezinho chegou.
+# This man was so busy that he did not even raise his head when the little prince arrived.
+# Cet homme était si occupé qu’il ne leva même pas la tête à l’arrivée du petit prince. 
+
+- Yané ara! - unheẽ muruxawamirĩ. - Ne pitima uwéu uikú.
+# "Olá", ele disse a ela. Seu cigarro acabou.
+# "Hello," he said to her. Your cigarette is out.
+# “Bonjour, lui dit celui-ci. Votre cigarette est éteinte. 
+
+- Musapiri asuí mukũi umunhã yepepú. Yepepú asuí yepepumukũi umunhã mukũipú-mukũi. Mukũipú-mukũi asuí musapiri umunhã musapiripú. Yané ara! Musapiripú asuí yepepumukũi umunhã irundipú-mukũi. Irundipú-mukũi asuí yepepuyepé umunhã irundipú-yepepumusapiri. Ti mayé amundeka aé. Irundipú- yepepuyepé asuí yepepú umunhã puyepepú-yepé. Twiante! Aikwé siía, siía, siía...
+# - Três e dois são cinco. Cinco e sete doze. Doze e três e quinze. Bom dia. Quinze e sete vinte e dois. Vinte e dois e seis vinte e oito. Não há tempo para ligá-lo novamente. Vinte e seis e cinco e trinta e um. Ufa! Então são quinhentos e um milhões, seiscentos e vinte e dois mil, setecentos e trinta e um.
+# - Three and two is five. Five and seven twelve. Twelve and three fifteen. Good morning. Fifteen and seven twenty-two. Twenty-two and six twenty-eight. No time to turn it back on. Twenty-six and five thirty-one. Phew! So that's five hundred and one million, six hundred and twenty-two thousand, seven hundred and thirty-one.
+# - Trois et deux font cinq. Cinq et sept douze. Douze et trois quinze. Bonjour. Quinze et sept vingt-deux. Vingt-deux et six vingt-huit. Pas le temps de la rallumer. Vingt-six et cinq trente et un. Ouf! Ça fait donc cinq cent un millions six cent vingt-deux mille sept cent trente et un. 
+
+- Maã taá aikwé siía?
+# - Quinhentos milhões de quê?
+# - Five hundred million of what?
+# - Cinq cents millions de quoi? 
+
+- Hein? Reikú iké rẽ? Siía, siía, siía... ti ana akwáu, se resarái ana... arikú murakí retana. Ixé yepé apigawa murakisara, ti amanduari tenhuntusawa resé! Mukũi asuí yepepú umunhã yepepumukũi...
+# -Eh? Você ainda esta aqui? Quinhentos e um milhões… não sei mais… tenho tanto trabalho! Estou falando sério, não me divirto com bobagens! Dois e cinco sete...
+# - Eh? You're still here? Five hundred and one million… I don’t know anymore… I have so much work! I'm serious, I don't have fun with nonsense! Two and five seven...
+# - Hein? Tu es toujours là? Cinq cent un millions de… je ne sais plus… j’ai tellement de travail! Je suis sérieux, moi, je ne m’amuse pas à des balivernes! Deux et cinq sept... 
+
+- Maã taá aikwé siía? - unheẽ amú í muruxawamirĩ, nẽ mairamé uxari waá yepé purandusawa umunhã riré aé.
+# - Quinhentos e um milhão de quê? repetiu o principezinho que nunca em sua vida desistiu de uma pergunta, de uma fé que havia pedido.
+# - Five hundred and one million of what?” repeated the little prince who never in his life had given up on a question, a faith he had asked.
+# - Cinq cent un millions de quoi?” répéta le petit prince qui jamais de sa vie n’avait renoncé à une question, une foi qu’il avait posée. 
+
+Aramé nhaã apigawa umupuamu i akanga.
+# O empresário levantou a cabeça:
+# The businessman raised his head:
+# Le businessman leva la tête: 
+
+- Aikwé mukũipupú-irundí akayú amurari kwá tetama upé, asuí tá umuapatuka-ntu ixé musapiri í.
+# “Nos cinquenta e quatro anos que vivi neste planeta, só fui perturbado três vezes.
+# “In the fifty-four years that I have lived on this planet, I have only been disturbed three times.
+# “Depuis cinquante-quatre ans que j’habite cette planète-ci, je n’ai été dérangé que trois fois. 
+
+Yepesawa, aikwé ana irundipú-mukũi akayú, yepé arawé nungara resewara uri waá ti akwáu masuí.
+# A primeira vez foi, há vinte e dois anos, por um besouro que caiu sabe Deus de onde.
+# The first time was, twenty-two years ago, by a cockchafer that had fallen from God knows where.
+# La première fois ç’a été, il y a vingt-deux ans, par un hanneton qui était tombé dieu sait d’où. 
+
+Aé umunhã yepé tiapú turusú, sesewara ayawí irundí í paparisawa resé.
+# Estava fazendo um barulho terrível e cometi quatro erros em uma adição.
+# It was making a terrible noise, and I made four mistakes in one addition.
+# Il répandait un bruit épouvantable, et j’ai fait quatre erreurs dans une addition. 
+
+Mukũisáwa, aikwé ana mukũipú-yepé akayú, mairamé asaã aikú siía sasisawa se pira resé. Ti akataka, ti mayé awatá mirupí. Ixé yepé apigawa murakisara.
+# A segunda vez foi, há onze anos, por um ataque de reumatismo. Me falta exercício. Não tenho tempo para passear. Estou falando sério, eu.
+# The second time was, eleven years ago, by an attack of rheumatism. I lack exercise. I don't have time to wander around. I'm serious, me.
+# La seconde fois ç’a été, il y a onze ans, par une crise de rhumatisme. Je manque d’exercise. Je n’ai pas le temps de flâner. Je suis sérieux, moi. 
+
+Musapirisawa… kuíri tẽ! Yawé, anheẽ aikú, aikwé siía, siía, siía...
+# Pela terceira vez... aqui está! Então eu estava dizendo quinhentos e um milhão...
+# The third time...here it is! So I was saying five hundred and one million...
+# La troisième fois... la voici! Je disais donc cinq cent un millions... 
+
+- Maã taá aikwé siía?
+# - Milhões de quê?
+# - Millions of what?”
+# - Millions de quoi?” 
+
+Nhaã apigawa umaã ti maã uikuntu-kwáu:
+# O empresário entendeu que não havia esperança de paz:
+# The businessman understood that there was no hope for peace:
+# Le businessman comprit qu’il n’était point d’espoir de paix: 
+
+- Kwá maãmirĩ yamaã waá-itá amuramé iwaka upé.
+# “Milhões daquelas pequenas coisas que você às vezes vê no céu.
+# “Millions of those little things you sometimes see in the sky.
+# “Millions de ces petites choses que l’on voit quelquefois dans le ciel. 
+
+- Merú-itá?
+# - Moscas?
+# - Flies?
+# - Des mouches? 
+
+- Umbaá, kwá maãmirĩ uwerá waá-itá.
+# - Não, coisinhas que brilham.
+# - No, little things that shine.
+# - Mais non, des petites choses qui brillent. 
+
+- Kuisí-itá?
+# - Abelhas?
+# - Bees?
+# - Des abeilles? 
+
+- Umbaá. Kwá maãmirĩ-itá werawara umukerpi waá-itá mira-itá yatimamanha. Ma ixé yepé apigawa murakisara! Ti amanduari tenhuntusawa resé.
+# - Mas não. Pequenas coisas douradas que fazem os preguiçosos sonharem acordados. Mas estou falando sério! Não tenho tempo para sonhar acordado.
+# - But no. Little golden things that make lazy people daydream. But I'm serious! I don't have time to daydream.
+# - Mais non. Des petites choses dorées qui font rêvasser les fainéants. Mais je suis sérieux, moi! Je n’ai pas le temps de rêvasser. 
+
+- Ah! Yasitatá-itá?
+# -Ah! estrelas?
+# -Ah! stars?
+# -Ah! des étoiles? 
+
+- Eẽ, yasitatá-itá.
+# - Isso mesmo. Estrelas.
+# - That's right. Stars.
+# - C’est bien ça. Des étoiles. 
+
+- Maã taá remunhã siía, siía, siía yasitatá irumu?
+# - E o que você faz com quinhentos milhões de estrelas?
+# - And what do you do with five hundred million stars?
+# - Et que fais-tu de cinq cents millions d’étoiles? 
+
+- Aikwé siía, siía, siía yasitatá iwaka upé. Ixé murakisara, apapari tẽ muíri yasitatá.
+# - Quinhentos e um milhões, seiscentos e vinte e dois mil, setecentos e trinta e um. Estou falando sério, sou preciso.
+# - Five hundred and one million, six hundred and twenty-two thousand, seven hundred and thirty-one. I am serious, I am precise.
+# - Cinq cent un millions six cent vingt-deux mille sept cent trente et un. Je suis sérieux, moi, je suis précis. 
+
+- Maã taá remunhã kwá-itá yasitatá irumu?
+# - E o que você faz com essas estrelas?
+# - And what do you do with these stars?
+# - Et que fais-tu de ces étoiles? 
+
+- Maã taá amunhã tá irumu?
+# - O que eu faço com isso?
+# - What do I do with it?
+# - Ce que j’en fais? 
+
+- Eẽ.
+# - Sim.
+# - Yes.
+# - Oui. 
+
+- Nẽ maã. Aintá se yara.
+# - Nada. Eu os possuo.
+# - Nothing. I own them.
+# - Rien. Je les possède. 
+
+- Yasitatá-itá, aintá ne yara?
+# - Você é o dono das estrelas?
+# - Do you own the stars?
+# - Tu possèdes les étoiles? 
+
+- Eẽ.
+# - Sim.
+# - Yes.
+# - Oui. 
+
+- Ma amaã ana yepé muruxawa...
+# - Mas eu já vi um rei que...
+# - But I have already seen a king who...
+# - Mais j’ai déjà vu un roi qui... 
+
+- Muruxawa-itá ti urikú nẽ maã. Aintá umundú panhẽ maã resé, ma nẽ maã tá yara. Kwá amurupí retana.
+# - Reis não possuem. Eles “reinaram” sobre. É muito diferente.
+# - Kings don't own. They “reign” over. It's very different.
+# - Les rois ne possèdent pas. Ils “règnent” sur. C’est très différent. 
+
+- Marã taá puranga indé arã rerikú yasitatá-itá?
+# - E de que adianta possuir as estrelas?
+# - And what is the use of possessing the stars?
+# - Et à quoi cela te sert-il de posséder les étoiles? 
+
+- Aintá umunhã ixé maãsiyara.
+# - Me serve ser rico.
+# - It serves me to be rich.
+# - Ça me sert à être riche. 
+
+- Marã taá puranga indé yepé apigawa maãsiyara?
+# - E de que adianta ser rico?
+# - And what is the use of being rich?
+# - Et à quoi cela te sert-il d’être riche? 
+
+- Apiripana arã amú-itá yasitatá, amú awá uwasemu ramé aintá.
+# - Para comprar mais estrelas, se alguém encontrar alguma.”
+# - To buy more stars, if anyone finds any.”
+# - À acheter d’autres étoiles, si quelqu’un en trouve.” 
+
+“Kwá apigawa”, umanduari muruxawamirĩ, “aé umanduari xinga mayé nhaã kawera yawé.”
+# “Esse aí, disse o principezinho consigo mesmo, raciocina um pouco como o meu bêbado.”
+# “That one, said the little prince to himself, he reasons a bit like my drunkard.”
+# “Celui-là, se dit en lui-même le petit prince, il raisonne un peu comme mon ivrogne.” 
+
+Ma muruxawamirĩ umunhã rẽ amú-itá purandusawa:
+# No entanto, ele ainda fez perguntas:
+# However, he still asked questions:
+# Cependant il posa encore des questions: 
+
+- Mayé taá yarikú-kwáu yasitatá-itá?
+# “Como você pode possuir as estrelas?
+# “How can you own the stars?
+# “Comment peut-on posséder les étoiles? 
+
+- Awá yara aintá? - apigawa usuaxara i piaíwa.
+# - Quem são eles? retrucou, mal-humorado, o empresário.
+# - Whose are they? retorted, grumpy, the businessman.
+# - À qui sont-elles? riposta, grincheux, le businessman. 
+
+- Ti akwáu. Aintá nẽ awá yara.
+# - Não sei. Para ninguém.
+# - I don't know. To no one.
+# - Je ne sais pas. À personne. 
+
+- Kwayé, aintá se yara, nhaãsé amanduari kwá resé amú mira-itá renundé.
+# - Então são meus, porque pensei neles primeiro.
+# - Then they are mine, because I thought of them first.
+# - Alors elles sont à moi, car j’y ai pensé le premier. 
+
+- Kwá usika?
+# - É o bastante?
+# - That's enough?
+# - Ça suffit? 
+
+- Eré! Mairamé rewasemu yepé itá-sendí i yara-íma, aé ne yara. Mairamé rewasemu yepé kapuamu i yara-íma, aé ne yara.
+# - Claro. Quando você encontra um diamante que não pertence a ninguém, ele é seu. Quando você encontra uma ilha que não pertence a ninguém, ela é sua.
+# - Of course. When you find a diamond that belongs to no one, it is yours. When you find an island that belongs to no one, it is yours.
+# - Bien sûr. Quand tu trouves un diamant qui n’est à personne, il est à toi. Quand tu trouves une île qui n’est à personne, elle est à toi. 
+
+Mairamé rerikú yepé manduarisawa amú mira-itá renundé, remupinima aé: aé ne yara. Sesewara yasitatá-itá se iara, nhaãsé nẽ awá se renundé umanduari upitá tá yara mayé se yawé.
+# Quando você é o primeiro a ter uma ideia, você a patenteia: ela é sua. E eu possuo as estrelas, já que ninguém antes de mim jamais pensou em possuí-las.
+# When you are the first to have an idea, you patent it: it is yours. And I own the stars, since no one before me ever thought of owning them.
+# Quand tu as une idée le premier, tu la fais breveter: elle est à toi. Et moi je possède les étoiles, puisque jamais personne avant moi n’a songé à les posséder. 
+
+- Supí - unheẽ muruxawamirĩ. - Maã taá remunhã tá irumu?
+# - É verdade, disse o principezinho. E o que você faz com isso?
+# - That’s true, said the little prince. And what do you do with it?
+# - Ça c’est vrai, dit le petit prince. Et qu’en fais-tu? 
+
+- Amanhana aintá. Apapari aintá siía í - unheẽ nhaã apigawa. – Kwá iwasú, ma ixé yepé apigawa murakisara!
+# - Eu lido com eles. Conto e conto, diz o empresário. É difícil. Mas eu sou um homem sério!”
+# - I deal with them. I count them and I recount them, says the businessman. It's difficult. But I am a serious man!”
+# - Je les gère. Je les compte et je les recompte, dit le businessman. C’est difficile. Mais je suis un homme sérieux!” 
+
+- Ma muruxawamirĩ unheẽ-putari rẽ amú maã-itá i xupé.
+# - O principezinho ainda não estava satisfeito.
+# - The little prince was still not satisfied.
+# - Le petit prince n’était pas satisfait encore. 
+
+- Ixé, arikú ramé yepé panu pisãwéra, amburi-kwáu aé se ayura resé asuí arasú aé se irumu. Ixé, arikú ramé yepé putira, apuú-kwáu aé asuí arasú aé se irumu. Ma indé ti rerasú-kwáu yasitatá-itá!
+# “Eu, se tiver um lenço, posso colocar no pescoço e tirar. Eu, se tenho uma flor, posso colher minha flor e levá-la embora. Mas você não pode escolher as estrelas!
+# “Me, if I have a scarf, I can put it around my neck and take it away. Me, if I have a flower, I can pick my flower and take it away. But you can't pick the stars!
+# “Moi, si je possède un foulard, je puis le mettre autour de mon cou et l’emporter. Moi, si je possède une fleur, je puis cueillir ma fleur et l’emporter. Mais tu ne peux pas cueillir les étoiles! 
+
+- Umbaá, ma amburi-kwáu aintá banku upé.
+# - Não, mas posso depositá-los.
+# - No, but I can bank them.
+# - Non, mais je puis les placer en banque. 
+
+- Maã taá kwá unheẽ-putari?
+# - O que isso significa?
+# - What does it mean?
+# - Qu’est-ce que ça veut dire? 
+
+- Kwá unheẽ-putari amupinima yepé papera pisãwéra resé muíri yasitatá paparisawa arikú waá asuí amburi kwá papera yepé mukaturusara kwara upé.
+# - Isso significa que escrevo num pedaço de papel o número das minhas estrelas. E então tranco esse papel em uma gaveta.
+# - That means that I write on a piece of paper the number of my stars. And then I lock that paper in a drawer.
+# - Ça veut dire que j’écris sur un petit papier le nombre de mes étoiles. Et puis j’enferme à clef ce papier-là dans un tiroir. 
+
+- Kwá-ntu?
+# - E isso é tudo?
+# - And that's all?
+# - Et c’est tout? 
+
+- Eẽ.
+# - É o bastante!"
+# - That's enough!"
+# - Ça suffit!” 
+
+“Kwá amurupí retana”, umanduari muruxawamirĩ. “Ma yepé murakí tenhuntu.”
+# “É divertido, pensou o principezinho. É bastante poético. Mas não é muito sério."
+# “It’s fun, thought the little prince. It's quite poetic. But it's not very serious."
+# “C’est amusant, pensa le petit prince. C’est assez poétique. Mais ce n’est pas très sérieux.” 
+
+Muruxawamirĩ umanduari amurupí mira-itá turusú suí maã-itá resewara aintá umaité waá yepé tenhuntusawa.
+# O pequeno príncipe tinha ideias sobre coisas sérias muito diferentes das ideias dos adultos.
+# The little prince had very different ideas about serious things from the ideas of grown-ups.
+# Le petit prince avait sur les choses sérieuses des idées très différentes des idées des grandes personnes. 
+
+- Ixé - unheẽ aé rẽ - arikú yepé putira amururú waá muíri ara. Arikú musapiri iwitepuka ayusí waá muíri sumana. Ayusi yuíri nhaã uwéu uikú waá nhaãsé nẽ mairamé yakwáu maã uyusasá kurí.
+# “Eu, ele diz novamente, tenho uma flor que rego todos os dias. Tenho três vulcões que varro todas as semanas. Porque eu também varro aquele que está extinto. Nunca sabemos.
+# “Me, he says again, I have a flower that I water every day. I have three volcanoes that I sweep every week. Because I also sweep the one that is extinguished. We never know.
+# “Moi, dit-il encore, je possède une fleur que j’arrose tous les jours. Je possède trois volcans que je ramone toutes les semaines. Car je ramone aussi celui qui est éteint. On ne sait jamais. 
+
+Puranga se iwitepuka-itá supé, se putira supé yuíri, arikú aintá. Ma ti mayé remunhã nẽ maã yasitatá-itá supé...
+# É útil para meus vulcões, e é útil para minha flor, que eu os possua. Mas você não é útil para as estrelas...”
+# It is useful to my volcanoes, and it is useful to my flower, that I possess them. But you are not useful to the stars...”
+# C’est utile à mes volcans, et c’est utile à ma fleur, que je les possède. Mais tu n’es pas utile aux étoiles...” 
+
+Aramé, nhaã apigawa umunhãwera-ntu waá paparisawa-itá upirari i yurú ma ti uwasemu nẽ yepé suaxarasawa. Ape, muruxawamirĩ usú ana…
+# O empresário abriu a boca, mas não encontrou resposta e o principezinho foi embora.
+# The businessman opened his mouth but found nothing to answer, and the little prince left.
+# Le businessman ouvrit la bouche mais ne trouva rien à répondre, et le petit prince s’en fut. 
+
+“Mira-itá turusú iwasú tẽ”, umanduá-duari i watasawa pukusawa.
+# “Os adultos são definitivamente extraordinários”, disse ele para si mesmo durante a viagem.
+# “Grownups are definitely quite extraordinary,” he said to himself simply during the trip.
+# “Les grandes personnes sont décidément tout à fait extraordinaires”, se disait-il simplement en lui-même durant le voyage. 
+

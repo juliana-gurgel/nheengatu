@@ -1,0 +1,196 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 11:59:16 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Aikupukú retana akwáu arama masuí nhaã muruxawamirĩ uri.
+# Levei muito tempo para descobrir de onde veio.
+# It took me a long time to figure out where it came from.
+# Il me fallut longtemps pour comprendre d’où il venait. 
+
+Muruxawamirĩ, upurandú waá kwera siía maã se suí, nẽ mairamé usendú maã apurandú i suí.
+# O pequeno príncipe, que me fazia muitas perguntas, parecia nunca ouvir as minhas.
+# The little prince, who asked me a lot of questions, never seemed to hear mine.
+# Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes. 
+
+Aramé yepé-yepé nheenga unheẽ waá, merupí tá umukameẽ pawa ixé arama.
+# São palavras ditas por acaso que, aos poucos, me revelaram tudo.
+# These are words spoken by chance that, little by little, revealed everything to me.
+# Ce sont des mots prononcés par hasard qui, peu à peu, m’ont tout révélé. 
+
+Yawé, mairamé umaã, yepesawa í, se pepusantá (ti akwatiari kurí se pepusantá, kwá yepé sangawa iwasú retana ixé arama), aé upurandú se suí:
+# Então quando ele viu meu avião pela primeira vez (não vou desenhar meu avião, é um desenho muito complicado para mim) ele me perguntou:
+# So when he saw my plane for the first time (I won't draw my plane, it's far too complicated a drawing for me) he asked me:
+# Ainsi, quand il aperçut pour la première fois mon avion (je ne dessinerai pas mon avion, c’est un dessin beaucoup trop compliqué pour moi) il me demanda: 
+
+- Maã taá nhaã maã mimi?
+# "O que é essa coisa?
+# “What is that thing?
+# “Qu’est-ce que c’est que cette chose-lá? 
+
+- Nhaã ti yepé maã. Nhaã uwewé. Nhaã yepé pepusantá. Se pepusantá.
+# - Não é uma coisa. Ele voa. É um avião. É o meu avião."
+# - It's not a thing. It flies. It's an airplane. It's my plane."
+# - Ce n’est pas une chose. Ça vole. C’est un avion. C’est mon avion.” 
+
+Se rurí apitá mairamé ambeú i xupé awewewera. Aramé, i akanhemu xinga, upurandú se suí:
+# E tive orgulho de ensinar a ele que estava voando. Então ele exclamou:
+# And I was proud to teach him that I was flying. So he exclaimed:
+# Et j’étais fier de lui apprendre que je volais. Alors il s’écria: 
+
+- Maã taá? Rewari iwaka suí?
+# "Como! você caiu do céu!
+# "How! you fell from the sky!
+# “Comment! tu es tombé du ciel! 
+
+- Eẽ - anheẽ-ntu nhaã.
+# - Sim, eu disse modestamente.
+# - Yes, I said modestly.
+# - Oui, fis-je modestement. 
+
+- Ah! Kwá amurupí retana!
+# -Ah! Isso é engraçado!..."
+# - Ah! Now that's funny!..."
+# - Ah! ça c’est drôle!...” 
+
+Aramé muruxawamirĩ sé upuká, sesewara se piaíwa retana.
+# E o principezinho deu uma gargalhada muito gostosa que me irritou muito.
+# And the little prince had a very nice burst of laughter which irritated me very much.
+# Et le petit prince eut un très joli éclat de rire qui m’irrita beaucoup. 
+
+Ti aputari mira-itá umusarai se purarasawa irumu. Asuí, aé umuapiri:
+# Quero que as pessoas levem meus infortúnios a sério. Então ele acrescentou:
+# I want people to take my misfortunes seriously. Then he added:
+# Je désire que l’on prenne mes malheurs au sérieux. Puis il ajouta: 
+
+- Aramé, indé yuíri reyuri iwaka suí! Maã iwaka-retama suí indé reyuri?
+# “Então você também vem do céu! De que planeta você veio?"
+# “So you too come from heaven! What planet are you from?”
+# “Alors, toi aussi tu viens du ciel! De quelle planète es-tu?” 
+
+Aramé tẽ ayupirũ amaã masuí uri nhaã muruxawamirĩ, asuí apurandú i suí:
+# Imediatamente vislumbrei um brilho no mistério de sua presença e perguntei abruptamente:
+# I immediately glimpsed a gleam in the mystery of his presence, and I asked abruptly:
+# J’entrevis aussitôt une lueur, dans le mystère de sa présence, et j’interrogeai brusquement: 
+
+- Reyuri yepé tetama suí ti waá upitá Iwí upé?
+# "Então você é de outro planeta?"
+# "So you're from another planet?"
+# “Tu viens donc d’une autre planète?” 
+
+Ma aé ti usuaxara. Umuyatimú merupí i akanga umaã pukusawa se pepusantá:
+# Mas ele não me respondeu. Ele assentiu suavemente enquanto olhava para o meu avião:
+# But he didn't answer me. He nodded softly while looking at my plane:
+# Mais il ne me répondit pas. Il hochait la tête doucement tout en regardant mon avion: 
+
+- Kwá irumu, supí, ti reyuri-kwáu tẽ apekatú retana suí...
+# “É verdade que, nisso, não se pode vir de muito longe...”
+# "It's true that, on this, you can't come from very far..."
+# “C’est vrai que, là-dessus, tu ne peux pas venir de bien loin...” 
+
+Aramé uyapumi yepé manduarisawa upé uikupukú retana waá.
+# E ele mergulhou num devaneio que durou muito tempo.
+# And he sank into a reverie that lasted a long time.
+# Et il s’enfonça dans une rêverie qui dura longtemps. 
+
+Upisika amú í nhaã sangawa asuí umaã-maã nhaã suumirĩ puranga resé.
+# Depois, tirando do bolso as minhas ovelhas, mergulhou na contemplação do seu tesouro.
+# Then, taking my sheep out of his pocket, he plunged into the contemplation of his treasure.
+# Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor. 
+
+Pemanduari mayé se akanhemu asendú resewara amú awá upurungitá tetama-itá resé ti waá-itá upitá Iwí upé.
+# Você pode imaginar o quão intrigado eu poderia ter ficado com essa meia confiança nos “outros planetas”.
+# You can imagine how intrigued I might have been by this half-confidence on “the other planets”.
+# Vous imaginez combien j’avais pu être intrigué par cette demi-confidence sur “les autres planètes”. 
+
+Aramé akwáu-putari piri xinga sesewara:
+# Então tentei descobrir mais:
+# So I tried to find out more:
+# Je m’efforçai donc d’en savoir plus long: 
+
+- Masuí taá reyuri, apigawamirĩ? Mamé taá ne ruka? Makití taá rerasú- putari kwá suumé mimbira?
+# “De onde você é, meu homenzinho? Onde fica “casa”? Para onde você quer levar minhas ovelhas?”
+# “Where are you from, my little man? Where is “home”? Where do you want to take my sheep?”
+# “D’où viens-tu, mon petit bonhomme? Où est-ce “chez toi”? Où veux-tu emporter mon mouton?” 
+
+Usuaxara ixé arama umanduari xinga riré:
+# Ele respondeu após um silêncio meditativo:
+# He replied after a meditative silence:
+# Il me répondit après un silence méditatif: 
+
+- Patuá remeẽ waá ixé arã, aé kurí yepé uka nungara i xupé pituna ramé.
+# “O bom da caixa que você me deu é que à noite ela servirá de casa para ele.
+# “The good thing about the crate you gave me is that at night it will serve as his home.
+# “Ce qui est bien, avec la caisse que tu m’as donnée, c’est que, la nuit, ça lui servira de maison. 
+
+- Supí. Ne katú ramé kurí se irumu, ameẽ kurí indé arã yepé tupasama repukwari arã aé ara pukusawa asuí yepé mirá pisãwéra upitasuka arã aé.
+# - Claro. E se você for legal, também te darei uma corda para amarrar durante o dia. E uma aposta.
+# - Of course. And if you're nice, I'll also give you a rope to tie it up during the day. And a stake.”
+# - Bien sûr. Et si tu es gentil, je te donnerai aussi une corde pour l’attacher pendant le jour. Et un piquet.” 
+
+Maã anheẽ waá umuakanhemu pu muruxawamirĩ:
+# A proposta pareceu chocar o principezinho:
+# The proposal seemed to shock the little prince:
+# La proposition parut choquer le petit prince: 
+
+- Apukwari arã aé? Kwá yepé akangaiwasawa!
+# “Amarrá-lo? Que ideia engraçada!
+# “Tie him? What a funny idea!
+# “L’attacher? Quelle drôle d’idée! 
+
+- Ma ti ramé repukwari aé, usú kurí amú tendawa kití asuí uyusupari.
+# - Mas se você não amarrar, ele irá para qualquer lugar e se perderá.”
+# - But if you don't tie it up, it will go anywhere, and it will get lost.”
+# - Mais si tu ne l’attaches pas, il ira n’importe où, et il se perdra.” 
+
+Aramé se rumuara uyupirũ upuká amú í:
+# E meu amigo começou a rir de novo:
+# And my friend burst out laughing again:
+# Et mon ami eut un nouvel éclat de rire: 
+
+- Ma… makití taá remaité aé usú?
+# “Mas para onde você quer que ele vá!
+# "But where do you want him to go!
+# “Mais où veux-tu qu’il aille! 
+
+- Ti akwáu marupí. Senundé kití tẽ...
+# - Em qualquer lugar. Bem na frente dele..."
+# - Anywhere. Right in front of him..."
+# - N’importe où. Droit devant lui...” 
+
+Aramé muruxawamirĩ unheẽ santá:
+# Então o principezinho comentou gravemente:
+# Then the little prince remarked gravely:
+# Alors le petit prince remarqua gravement: 
+
+- Puranga pá, mamé amurari panhẽ maã mirĩ retana!
+# “Não importa, é tão pequeno, na minha casa!”
+# "It doesn't matter, it's so small, at my place!"
+# “Ça ne fait rien, c’est tellement petit, chez moi!” 
+
+Asuí, araneíma sasiara xinga, aé unheẽ rẽ:
+# E, talvez com um pouco de melancolia, acrescentou:
+# And, with a little melancholy, perhaps, he added:
+# Et, avec un peu de mélancolie, peut-être, il ajouta: 
+
+- Mairamé yawatawara yané renundé kití, ti tẽ yasú-kwáu apekatú retana...
+# “Em frente você não pode ir muito longe…”
+# “Straight ahead you can’t go very far…”
+# “Droit devant soi on ne peut pas aller bien loin…” 
+
+Le petit prince sur l’astéroïde B 612.
+# Muruxawamirĩ iwaka-retama B 612 rese.
+# Muruxawamirĩ iwaka-retama B 612 rese.
+# Muruxawamirĩ iwaka-retama B 612 resé. 
+

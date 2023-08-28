@@ -1,0 +1,356 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:03:43 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Aé uikú yepé-yepé iwaka-retama ruakí: 325, 326, 327, 328, 329, 330.
+# Estava na região dos asteróides 325, 326, 327, 328, 329 e 330.
+# It was in the region of asteroids 325, 326, 327, 328, 329, and 330.
+# Il se trouvait dans la région des astéroïdes 325, 326, 327, 328, 329 et 330. 
+
+Aramé uyupirũ uwatá kwá tetama-itá rupí usikari arama maã umunhã asuí ukwáu arama aintá resewara.
+# Ele, portanto, começou visitando-os em busca de emprego e para aprender.
+# He therefore began by visiting them to seek employment and to learn.
+# Il commença donc par les visiter pour y chercher une occupation et pour s’instruire. 
+
+Yepesawa iwaka-retama upé aikwé yepé muruxawa. Muruxawa umundéu waá kwera yepé muamundewa piranga asuí murutinga, uwapika uikú yepé wapikawawasú upé, ti waá kwera sepiasú, ma puranga retana.
+# O primeiro era habitado por um rei. O rei sentou-se, vestido de púrpura e arminho, num trono muito simples, mas majestoso.
+# The first was inhabited by a king. The king sat, dressed in purple and ermine, on a very simple and yet majestic throne.
+# Le premier était habité par un roi. Le roi siégeait, habillé de pourpre et d’hermine, sur un trône très simple et cependant majestueux. 
+
+- Ah! Xukúi yepé miasua! - unheẽ muruxawa mairamé umaã muruxawamirĩ.
+# "Oh! Aqui está um assunto!” exclamou o rei ao ver o pequeno príncipe.
+# “Oh! Here’s a subject!” exclaimed the king when he saw the little prince.
+# “Ah! Voilá un sujet!”, s’écria le roi quand il aperçut le petit prince. 
+
+Aramé muruxawamirĩ umanduari: “Ti mayé aé ukwáu ixé nhaãsé nẽ mairamé umaã ixé!”
+# E o principezinho se perguntou: “Como ele pode me reconhecer se nunca me viu antes!”
+# And the little prince wondered: “How can he recognize me since he has never seen me before!”
+# Et le petit prince se demanda: “Comment peut-il me reconnaître puisqu’il ne m’a encore jamais vu!” 
+
+Aé ti ukwáu muruxawa-itá supé panhẽ awá tá miasua.
+# Ele não sabia que para os reis o mundo é muito simplificado. Todos os homens são súditos.
+# He didn't know that for kings the world is very simplified. All men are subjects.
+# Il ne savait pas que, pour les rois, le monde est très simplifié. Tous les hommes sont des sujets. 
+
+- Reyumuruakí se resé amaã puranga arã indé - unheẽ muruxawa, surí uikú waá nhaãsé aikwé yepé miasua setama upé.
+# “Chegue mais perto para que eu possa te ver melhor”, disse o rei, que estava muito orgulhoso de finalmente ser rei para alguém.
+# “Come closer so that I can see you better,” said the king, who was very proud to finally be king for someone.
+# “Approche-toi que je te voie mieux”, lui dit le roi qui était tout fier d’être enfin roi pour quelqu’un. 
+
+Muruxawamirĩ usikari yepé tendawa uwapika arama, ma nhaã iwaka-retama upupeka ana uikú muamundewa turusú retana rupí muruxawa waá umundeuwera.
+# O pequeno príncipe procurou onde sentar, mas o planeta estava todo sobrecarregado pelo magnífico casaco de arminho.
+# The little prince looked around for where to sit, but the planet was all encumbered by the magnificent ermine coat.
+# Le petit prince chercha des yeux où s’asseoir, mais la planète était tout encombrée par le magnifique manteau d’hermine. 
+
+Aramé aé upitá mamé uikú waá. Ma mayé i kweré asuí tipusí irumu, uyupirũ upirari i yurú.
+# Então ele permaneceu de pé e, como estava cansado, bocejou.
+# So he remained standing, and, as he was tired, he yawned.
+# Il resta donc debout, et, comme il était fatigué, il bâilla. 
+
+- Ti arã indé repirá-pirari ne yurú yepé muruxawa ruakí - muruxawa unheẽ. - Atimuapú indé.
+# “É contra a etiqueta bocejar na presença de um rei”, disse-lhe o monarca. Eu proíbo isso.
+# "It is against etiquette to yawn in the presence of a king," the monarch told him. I forbid it.
+# “Il est contraire à l’étiquette de bâiller en présence d’un roi, lui dit le monarque. Je te l’interdis. 
+
+- Ti apituú-kwáu - muruxawamirĩ unheẽ tĩsáwa irumu. - Ixé awatá siía ara pukusawa asuí ti rẽ akiri-kwáu…
+# - Não consigo evitar, respondeu o principezinho, todo confuso. Fiz uma longa viagem e não dormi...
+# - I can't help myself, replied the little prince, all confused. I had a long trip and I did not sleep...
+# - Je ne peux pas m’en empêcher, répondit le petit prince tout confus. J’ai fait un long voyage et je n’ai pas dormi… 
+
+- Yawé - unheẽ muruxawa - amundú indé repirá-pirari ne yurú. Ti ana amaã nẽ awá upirá-pirari i yurú aikwé siía akayú.
+# - Então, disse-lhe o rei, ordeno que boceje. Faz anos que não vejo ninguém bocejar.
+# - Then, said the king to him, I order you to yawn. I haven't seen anyone yawn in years.
+# - Alors, lui dit le roi, je t’ordenne de bâiller. Je n’ai vu personne bâiller depuis des années. 
+
+Kwá amurupí retana se retama upé. Resú, repirá-pirari ne yurú! Kwá yepé mundusawa!
+# Bocejos são curiosidades para mim. Vamos! bocejar novamente. É uma ordem.
+# Yawns are curiosities for me. Let's go! yawn again. It's an order.
+# Les bâillements sont pour moi des curiosités. Allons! bâille encore. C’est un ordre. 
+
+- Yawé apitá tĩsáwa irumu… yawé ti ukwáu... - unheẽ muruxawamirĩ.
+# - Isso me intimida... não posso mais..., disse o principezinho, corando.
+# - It intimidates me... I can't anymore..., said the little prince, blushing.
+# - Ça m’intimide... je ne peux plus..., fit le petit prince tout rougissant. 
+
+- Hum! Hum! - usuaxara muruxawa. - Yawé ixé... ixé amundú indé amuramé repirá-pirari ne yurú, amuramé...
+# - Zumbir! Zumbir! respondeu o rei. Então eu... eu às vezes ordeno que você boceje e às vezes...”
+# - Hum! Hum! answered the king. So I... I sometimes order you to yawn and sometimes to...”
+# - Hum! Hum! répondit le roi. Alors je... je t’ordonne tantôt de bâiller et tantôt de...” 
+
+Aé uyumuapatuka xinga asuí uikú pu tĩsáwa irumu.
+# Ele gaguejou um pouco e pareceu irritado.
+# He stammered a little and seemed annoyed.
+# Il bredouillait un peu et paraissait vexé. 
+
+Muruxawa uputari tẽ panhẽ awá upusú aé. Ti uxari mira-itá ti tá upusú aé.
+# Porque o rei estava essencialmente preocupado em que a sua autoridade fosse respeitada. Ele não tolerou a desobediência.
+# Because the king was essentially concerned that his authority be respected. He did not tolerate disobedience.
+# Car le roi tenait essentiellement à ce que son autorité fût respectée. Il ne tolérait pas la désobeissance. 
+
+Aé yepé muruxawa umundú waá setama pawa resé, ma mayé aé yepé apigawa katú retana, umanduariwera retana uyururéu renundé manungara yepé miasua suí.
+# Ele era um monarca absoluto. Mas, como era muito bom, dava ordens razoáveis.
+# He was an absolute monarch. But, as he was very good, he gave reasonable orders.
+# C’était un monarque absolu. Mais, comme il était très bon, il donnait des ordres raisonnables. 
+
+“Amundú ramé maã”, unheẽwera, “yepé miasua muruxawawara uyeréu yepé paranawasú wirá arã asuí aé ti upusú maã ixé, ti maã i yawisawa, ma se yara.
+# “Se eu ordenasse, dizia ele comumente, se eu ordenasse que um general se transformasse em uma ave marinha, e se o general não obedecesse, não seria culpa do general. Seria minha culpa.
+# “If I ordered, he said commonly, if I ordered a general to change into a sea bird, and if the general did not obey, it would not be the fault of the general. It would be my fault.”
+# “Si j’ordonnais, disait-il couramment, si j’ordonnais à un général de se changer en oiseau de mer, et si le général n’obéissait pas, ce ne serait pas la faute du géneral. Ce serait ma faute.” 
+
+- Awapika-kwáu será? - muruxawamirĩ upurundú tĩsáwa xinga irumu.
+# "Posso me sentar? perguntou timidamente o pequeno príncipe.
+# "May I sit? inquired the little prince timidly.
+# “Puis-je m’asseoir? s’enquit timidement le petit prince. 
+
+- Amundú indé rewapika - muruxawa usuaxara i xupé, asuí usikí i muamundewa pisãwéra.
+# - Ordeno que se sente”, respondeu o rei, que puxou majestosamente um pedaço de seu manto de arminho.
+# - I order you to sit down,” replied the king, who majestically pulled back a piece of his ermine cloak.
+# - Je t’ordonne de t’asseoir”, lui répondit le roi, qui ramena majestueusement un pan de son manteau d’hermine. 
+
+Ma muruxawamirĩ i akanhemu. Nhaã yepé iwaka-retama mirĩ retana. Yawé, muruxawa umundú awá resé?
+# Mas o pequeno príncipe ficou surpreso. O planeta era minúsculo. Sobre o que o rei poderia reinar?
+# But the little prince was surprised. The planet was tiny. What could the king reign over?
+# Mais le petit prince s’étonnait. La planète était minuscule. Sur quoi le roi pouvait-il bien régner? 
+
+- Muruxawa... - muruxawamirĩ unheẽ - reyerũ ixé, apurandú-kwáu manungara ne suí?...
+# "Senhor", disse-lhe ele, "peço-lhe perdão por interrogá-lo...
+# "Sire," he said to him, "I beg your pardon for questioning you...
+# “Sire, lui dit-il... je vous demande pardon de vous interroger... 
+
+- Amundú indé remunhã yepé purandusawa - kutara nungara unheẽ muruxawa.
+# - Ordeno que me interrogue, apressou-se em dizer o rei.
+# - I order you to interrogate me, hastened to say the king.
+# - Je t’ordonne de m’interroger, se hâta de dire le roi. 
+
+- Muruxawa... indé remundú awá resé?
+# - Senhor... sobre o que você reina?
+# - Sire... what do you reign over?
+# - Sire... sur quoi régnez-vous? 
+
+- Panhẽ awá resé - muruxawa usuaxara kwayé-ntu.
+# “Acima de tudo”, respondeu o rei, com grande simplicidade.
+# "Above all," replied the king, with great simplicity.
+# - Sur tout, répondit le roi, avec une grande simplicité. 
+
+- Panhẽ awá resé?
+# - Sobre tudo?"
+# - Above all?"
+# - Sur tout?” 
+
+Aramé muruxawa umukameẽ setama, amú-itá iwaka-retama, yasitatá-itá yuíri.
+# O rei com um gesto discreto indicou o seu planeta, os outros planetas e as estrelas.
+# The king with a discreet gesture indicated his planet, the other planets and the stars.
+# Le roi d’un geste discret désigna sa planète, les autres planètes et les étoiles. 
+
+- Panhẽ awá resé será? - muruxawamirĩ unheẽ.
+# “Em tudo isso? disse o pequeno príncipe.
+# “On all this? said the little prince.
+# “Sur tout ça? dit le petit prince. 
+
+- Eẽ, panhẽ awá resé tẽ… - muruxawa usuaxara.
+# - Sobre tudo isso...”, respondeu o rei.
+# - On all that...”, answered the king.
+# - Sur tout ça...”, répondit le roi. 
+
+Aé ti yepé muruxawa umundú waá setama resé-ntu, aé umundú yuíri panhẽ iwaka-retama resé.
+# Porque ele não era apenas um monarca absoluto, mas também um monarca universal.
+# Because not only was he an absolute monarch but he was a universal monarch.
+# Car non seulement c’était un monarque absolu mais c’était un monarque universel. 
+
+- Yasitatá-itá upusú indé?
+# “E as estrelas te obedecem?
+# “And the stars obey you?
+# “Et les étoiles vous obéissent? 
+
+- Eẽ, panhẽ yasitatá - muruxawa unheẽ. Aintá kutara nungara upusú ixé. Atimuapú pususawa-íma.
+# - Claro, disse o rei. Eles obedecem imediatamente. Não tolero indisciplina.”
+# - Of course, said the king. They obey immediately. I do not tolerate indiscipline.”
+# - Bien sûr, lui dit le roi. Elles obéissent aussitôt. Je ne tolère pas l’indiscipline.” 
+
+Panhẽ nhaã uyuakí muruxawamirĩ irumu.
+# Tal poder surpreendeu o pequeno príncipe.
+# Such power amazed the little prince.
+# Un tel pouvoir émerveilla le petit prince. 
+
+Aé umundú ramé maã panhẽ yasitatá resé, umaã-kwáu maã kurasí wapikasawa mairamé uputari maã. Umaã-kwáu maã tẽ siía kurasí wapikasawa yepé-ntu ara ramé, asuí ti maã urikuté umutirika i wapikawa.
+# Se ele próprio fosse o dono, poderia ter testemunhado não quarenta e quatro, mas setenta e dois, ou mesmo cem, ou mesmo duzentos pores do sol no mesmo dia, sem nunca ter que puxar a cadeira!
+# If he had owned it himself, he could have witnessed, not forty-four, but seventy-two, or even a hundred, or even two hundred sunsets in the same day, without ever having to pull his chair!
+# S’il l’avait détenu lui-même, il aurait pu assister, non pas à quarante-quatre, mais à soixante-douze, ou même à cent, ou même à deux cents couchers de soleil dans la même journée, sans avoir jamais à tirer sa chaise! 
+
+Aramé, mayé uyusaã sasiara xinga nhaãsé setama uwatari i xupé, umunhã- putari yepé yurureusawa muruxawa supé:
+# E como se sentia um pouco triste pela lembrança de seu pequeno planeta abandonado, ousadamente pediu perdão ao rei:
+# And as he felt a little sad because of the memory of his small abandoned planet, he boldly asked for a pardon from the king:
+# Et comme il se sentait un peu triste à cause du souvenir de sa petite planète abandonnée, il s’enhardit à solliciter une grâce du roi: 
+
+- Se rurí apitá maã ixé amaã-kwáu ramé maã yepé kurasí wapikasawa... Remunhã kwá ixé arã... Remundú kurasí uwapika...
+# “Eu gostaria de ver o pôr do sol... Faça-me um favor... Mande o sol se pôr...
+# “I would like to see a sunset... Do me a favor... Command the sun to set...
+# “Je voudrais voir un coucher de soleil... Faites-moi plaisir... Ordonnez au soleil de se coucher... 
+
+- Amundú ramé maã yepé miasua muruxawawara uwewé yepé putira suí té amú putira mayé panapanã yawé u umupinima yepé papera pukú u uyeréu paranawasú wirá arã, ma aé ti maã upusú ixé, awá taá uyawí maã uikú, aé u ixé?
+# Se eu ordenasse a um general que voasse de uma flor a outra como uma borboleta, ou que escrevesse uma tragédia, ou que se transformasse em ave marinha, e se o general não cumprisse a ordem recebida, quem, ele ou eu, seria no erro?
+# If I ordered a general to fly from one flower to another like a butterfly, or to write a tragedy, or to change into a sea bird, and if the general did not carry out the order received, who, him or me, would be in the wrong?
+# Si j’ordonnais à un géneral de voler d’une fleur à l’autre à la façon d’un papillon, ou d’écrire une tragédie, ou de se changer en oiseau de mer, et si le géneral n’exécutait pas l’ordre reçu, qui, de lui ou de moi, serait dans son tort? 
+
+- Indé tẽ - muruxawamirĩ usuaxara sikiesawa-íma.
+# - Seria você, disse o principezinho com firmeza.
+# - It would be you, said the little prince firmly.
+# - Ce serait vous, dit fermement le petit prince. 
+
+- Eré, yarikuté yayururéu mira-itá suí nhaã-ntu aintá umeẽ-kwáu waá yandé arã - unheẽ muruxawa.
+# - Exato. Devemos exigir de cada um o que cada um pode dar, prosseguiu o rei.
+# - Exact. We must demand of each what each can give, resumed the king.
+# - Exact. Il faut exiger de chacun ce que chacun peut donner, reprit le roi. 
+
+- Yarikuté yamanduari katú yayururéu renundé maã-ntu. Remundú ramé ne miasua-itá uiké yepé paranã yawaité upé, aintá nẽ mairamé upusú indé.
+# - A autoridade repousa principalmente na razão. Se você ordenar que seu povo se jogue no mar, eles causarão uma revolução.
+# - Authority rests primarily on reason. If you order your people to throw themselves into the sea, they will cause a revolution.
+# - L’autorité repose d’abord sur la raison. Si tu ordonnes à ton peuple d’aller se jeter à la mer, il fera la révolution. 
+
+Ixé aputari-kwáu mira-itá upusú ixé nhaãsé amanduari katú ayururéu renundé maã-ntu aintá suí.
+# Tenho o direito de exigir obediência porque as minhas ordens são razoáveis.
+# I have the right to demand obedience because my orders are reasonable.
+# J’ai le droit d’exiger l’obéissance parce que mes ordres sont raisonnables. 
+
+- Kurasí wapikasawa resewara? - upurandú muruxawamirĩ, nhaãsé aé nẽ mairamé sesarái yepé purandusawa suí umunhã ana waá kwera.
+# - Então meu pôr do sol? lembrou o pequeno príncipe que nunca esquecia uma pergunta depois de feita.
+# - So my sunset? recalled the little prince who never forgot a question once he had asked it.
+# - Alors mon coucher de soleil? rappela le petit prince qui jamais n’oubliait une question une fois qu’il l’avait posée. 
+
+- Rerikú kurí kurasí wapikasawa. Amundú kurí kwá usika. Ma asarú kurí, se muruxawa kwausawa irumu, ara uikú puranga.
+# - Seu pôr do sol, você o terá. Eu vou exigir isso. Mas esperarei, na minha ciência de governo, até que as condições sejam favoráveis.
+# - Your sunset, you will have it. I will demand it. But I will wait, in my science of government, until the conditions are favorable.
+# - Ton coucher de soleil, tu l’auras. Je l’exigerai. Mais j’attendrai, dans ma science du gouvernement, que les conditions soient favorables. 
+
+- Mairamé taá kwá usika kurí? - upurandú muruxawamirĩ.
+# - Quando vai ser? perguntou o pequeno príncipe.
+# - When will it be? inquired the little prince.
+# - Quand ça sera-t-il? s’informa le petit prince. 
+
+- Hum, hum! - usuaxara muruxawa, umaã uikú waá yepé yasí-mukameẽsára turusú retana resé. - Hum, hum! Kurasí wapikasawa usika kurí... usika kurí... kwá pituna, 19: 40 ramé! Remaã kurí kurasí upusú ixé.
+# - Hem! ei! respondeu o rei, que primeiro consultou um grande calendário, hem! ei! será por aí... por volta... será esta noite por volta das sete e quarenta! E você verá como sou bem obedecido.
+# - Hem! hey! replied the king, who first consulted a large calendar, hem! hey! it will be around... around... it will be this evening around seven forty! And you will see how well I am obeyed.”
+# - Hem! hem! lui répondit le roi, qui consulta d’abord un gros calendrier, hem! hem! ce sera, vers... vers... ce sera ce soir vers sept heures quarante! Et tu verras comme je suis bien obéi.” 
+
+Aramé muruxawamirĩ uyuíri upirari i yurú. Kurasí wapikasawa uwatari i xupé, asuí aé i piaíwa xinga ana:
+# O pequeno príncipe bocejou. Ele se arrependeu de ter perdido o pôr do sol. E então ele já estava um pouco entediado:
+# The little prince yawned. He regretted his missed sunset. And then he was already a bit bored:
+# Le petit prince bâilla. Il regrettait son coucheur de soleil manqué. Et puis il s’ennuyait déjà un peu: 
+
+- Ti arikú nẽ maã amunhã arã iké - unheẽ aé muruxawa supé. - Ayuíri kurí awatá!
+# “Não tenho mais nada para fazer aqui”, disse ele ao rei. Eu vou deixar!
+# "I have nothing more to do here," he said to the king. I will leave!
+# “Je n’ai plus rien à faire ici, dit-il au roi. Je vais repartir! 
+
+- Té resú - unheẽ muruxawa, surí uikú waá nhaãsé urikú yepé miasua. - Té resú rẽ, amuyeréu indé se miasua muruxawawara arã!
+# - Não vá embora, respondeu o rei que tanto se orgulhava de ter um súdito. Não vá, farei de você um ministro!
+# - Do not go away, answered the king who was so proud to have a subject. Don't go, I'll make you a minister!
+# - Ne pars pas, répondit le roi qui était si fier d’avoir un sujet. Ne pars pas, je te fais ministre! 
+
+- Maã miasua nungara taá?
+# - Ministro de quê?
+# - Minister of what?
+# - Ministre de quoi? 
+
+- Satambikasawa supé arã!
+# - De... de Justiça!
+# - Of... of Justice!
+# - De... de la Justice! 
+
+- Ma ti aikwé nẽ awá iké anheẽ arã maã satambika!
+# - Mas não há ninguém para julgar!
+# - But there is no one to judge!
+# - Mais il n’y a personne à juger! 
+
+- Mayé taá rekwáu? - unheẽ muruxawa. - Ti rẽ amaã se retama pawa. Tuyué retana aikú, iké ti mayé arikú yepé muruxawa-siyesara, asuí se kweré apitá mairamé arikuté awatá.
+# “Não sabemos”, disse-lhe o rei. Ainda não visitei meu reino. Estou muito velho, não tenho espaço para carruagem e andar cansa-me.
+# "We don't know," the king told him. I haven't toured my kingdom yet. I am very old, I have no room for a carriage, and it tires me to walk.
+# - On ne sait pas, lui dit le roi. Je n’ai pas fait encore le tour de mon royaume. Je suis très vieux, je n’ai pas de place pour un carrosse, et ça me fatigue de marcher. 
+
+- Oh! Ma ixé amaã ana - unheẽ muruxawamirĩ, umuyeréu waá i akanga amú suaxara kití. - Ti yamaã nẽ awá mimi yuíri...
+# - Oh! Mas eu já vi, disse o principezinho, inclinando-se para dar outra olhada no outro lado do planeta. Também não há ninguém lá...
+# - Oh! But I have already seen, said the little prince, leaning over to take another look at the other side of the planet. There's no one there either...
+# - Oh! Mais j’ai déjà vu, dit le petit prince qui se pencha pour jeter encore un coup d’œil sur l’autre côté de la planète. Il n’y a personne là-bas non plus... 
+
+- Resikari kurí rekwáu mairamé reyawí reikú asuí mairamé satambika reikú - unheẽ muruxawa. - Iwasú piri repurungitá suí amú mira-itá resewara. Rekwáu katú ramé indé tẽ resewara, indé supí yepé apigawa kwausawa irumu.
+# “Então você julgará a si mesmo”, respondeu o rei. É o mais difícil. É muito mais difícil julgar a si mesmo do que julgar os outros. Se você conseguir se julgar bem, você é um verdadeiro sábio.
+# "Then you will judge yourself," answered the king. It is the most difficult. It is much more difficult to judge yourself than to judge others. If you succeed in judging yourself well, you are a true sage.
+# - Tu te jugeras donc toi-même, lui répondit le roi. C’est le plus difficile. Il est bien plus difficile de se juger soi-même que de juger autrui. Si tu réussis à bien te juger, c’est que tu es un véritable sage. 
+
+- Amanduari-kwáu kwá resé mayewa tendawa upé-ntu - unheẽ muruxawamirĩ. Ti arikuté amurari iké sesewara.
+# - Eu, disse o principezinho, posso me julgar em qualquer lugar. Eu não preciso morar aqui.
+# - Me, said the little prince, I can judge myself anywhere. I don't need to live here.
+# - Moi, dit le petit prince, je puis me juger moi-même n’importe où. Je n’ai pas besoin d’habiter ici. 
+
+- Ah! - unheẽ muruxawa - amaité tẽ aikwé yepé wawirú tuyué se retama upé. Asendú aé pituna ramé.
+# - Hem! ei! disse o rei, acredito que em meu planeta exista um rato velho em algum lugar. Eu ouço isso à noite.
+# - Hem! hey! said the king, I do believe that on my planet there is an old rat somewhere. I hear it at night.
+# - Hem! hem! dit le roi, je crois bien que sur ma planète il y a quelque part un vieux rat. Je l’entends la nuit. 
+
+Renheẽ-kwáu kurí maã satambika kwá wawirú resewara. Indé remundú- kwáu kurí aé umanũ. Yawé, sikwesawa uikú kurí ne pú resé.
+# Você pode julgar este velho rato. Você o condenará à morte de vez em quando. Assim, a vida dele dependerá da sua retidão.
+# You can judge this old rat. You will condemn him to death from time to time. Thus, his life will depend on your righteousness.
+# Tu pourras juger ce vieux rat. Tu le condamneras à mort de temps en temps. Ainsi, sa vie dépendra de ta justice. 
+
+Ma panhẽ mairamé reyerũ kurí aé nhaãsé ti aikwé amú wawirú kwá rupí.
+# Mas você o perdoará todas as vezes para salvá-lo. Há apenas um.
+# But you will pardon him each time to save him. There is only one.
+# Mais tu le gracieras chaque fois pour l’économiser. Il n’y en a qu’un. 
+
+- Ixé... - usuaxara muruxawamirĩ - ixé ti anheẽ-putari awá urikuté umanũ, kuíri amaité tẽ asú ana.
+# - Eu, respondeu o principezinho, não gosto de condenar à morte e acredito que vou embora.
+# - Me, answered the little prince, I do not like to condemn to death, and I believe that I am leaving.
+# - Moi, répondit le petit prince, je n’aime pas condamner à mort, et je crois bien que je m’en vais. 
+
+- Umbaá! - unheẽ muruxawa.
+# - Não”, disse o rei.
+# - No”, said the king.
+# - Non”, dit le roi. 
+
+Ma muruxawamirĩ, uxari-putari waá nhaã tetama, ti umusasiara-putari nhaã muruxawa tuyué waá:
+# Mas o principezinho, depois de concluídos os preparativos, não quis incomodar o velho monarca:
+# But the little prince, having completed his preparations, did not want to upset the old monarch:
+# Mais le petit prince, ayant achevé ses préparatifs, ne voulut point peiner le vieux monarque: 
+
+- Reputari ramé apusú indé kuíri tẽ, reyururéu-kwáu maã se suí manungara ti waá iwasú.
+# “Se Vossa Majestade desejasse ser obedecido pontualmente, você poderia me dar uma ordem razoável.
+# “If your Majesty wished to be obeyed punctually, You could give me a reasonable order.
+# “Si votre Majesté désirait être obéie ponctuellement, Elle pourrait me donner un ordre raisonable. 
+
+Reyururéu-kwáu se suí asemu kwá suí kuíri tẽ. Amaité ara uikú puranga...
+# Ela poderia me ordenar, por exemplo, que saísse dentro de um minuto. Parece-me que as condições são favoráveis...”
+# She could order me, for example, to leave within a minute. It seems to me that the conditions are favorable...”
+# Elle pourrait m’ordonner, par example, de partir avant une minute. Il me semble que les conditions sont favorables...” 
+
+Mayé muruxawa ti unheẽ nẽ maã, muruxawamirĩ usarú xinga, ma kutara nungara uxari nhaã iwaka-retama.
+# Não tendo o rei respondido nada, o principezinho hesitou primeiro, depois, com um suspiro, partiu…
+# The king having answered nothing, the little prince hesitated at first, then, with a sigh, took off…
+# Le roi n’ayant rien répondu, le petit prince hésita d’abord, puis, avec un soupir, prit le départ… 
+
+- Amuyeréu indé se miasua muruxawawara arã! - aramé tẽ usasemu muruxawa.
+# “Eu faço de você meu embaixador”, o rei apressou-se em gritar.
+# “I make you my ambassador,” the king hastened to shout.
+# “Je te fais mon ambassadeur”, se hâta alors de crier le roi. 
+
+Nhaã muruxawa uruyari tẽ aé umundú panhẽ awá resé.
+# Ele tinha um grande ar de autoridade.
+# He had a great air of authority.
+# Il avait un grand air d’autorité. 
+
+“Mira-itá turusú amurupí retana”, umanduari muruxawamirĩ i watasawa pukusawa.
+# “Os adultos são muito estranhos”, disse o pequeno príncipe para si mesmo durante a viagem.
+# “Grownups are very strange,” said the little prince to himself during his trip.
+# “Les grandes personnes sont bien étranges”, se dit le petit prince, en lui-même, durant son voyage. 
+

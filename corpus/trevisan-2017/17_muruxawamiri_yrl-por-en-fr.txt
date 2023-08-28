@@ -1,0 +1,186 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:11:34 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Mairamé yamunhã-munhã-putari, amuramé yapuitemunhã xinga. Ti anheẽ supisawa pawa mairamé ambeú lamparina mundekasara-itá resewara.
+# Quando você quer ser espirituoso, acontece que você mente um pouco. Não fui muito honesto ao lhe contar sobre os acendedores de lampiões.
+# When you want to be witty, it happens that you lie a little. I wasn't very honest in telling you about the lamplighters.
+# Quand on veut faire de l’esprit, il arrive que l’on mente un peu. Je n’ai pas été très honnête en vous parlant des allumeurs de réverbères. 
+
+Araneíma mira ti waá-itá ukwáu Iwí ti tá ukwáu maã anheẽ aikú waá. Mira-itá uikú, supí, kwaíra Iwí rendawa upé.
+# Arrisco-me a dar uma falsa ideia do nosso planeta a quem não o conhece. Os humanos ocupam muito pouco espaço na Terra.
+# I risk giving a false idea of ​​our planet to those who do not know it. Humans occupy very little space on Earth.
+# Je risque de donner une fausse idée de notre planète à ceux qui ne la connaissent pas. Les hommes occupent très peu de place sur la Terre. 
+
+Panhẽ mira umurari waá Iwí upé tá upuamu ramé maã asuí tá upitá maã yepewasú amú-itá ruaxara mayé yepé wayurí nungara yawé, panhẽ aintá upitá- kwáu maã yepé tawa turusú upé.
+# Se os dois mil milhões de habitantes que povoam a Terra ficassem de pé e um pouco próximos uns dos outros, como para uma reunião, facilmente se alojariam numa praça pública com trinta quilómetros de comprimento por trinta de largura.
+# If the two billion inhabitants who populate the Earth stood upright and a little close together, as for a meeting, they would easily lodge in a public square twenty miles long by twenty miles wide.
+# Si les deux milliards d’habitants qui peuplent la Terre se tenaient debout et un peu serrés, comme pour un meeting, ils logeraient aisément sur une place publique de vingt milles de long sur vingt milles de large. 
+
+Yamburi-kwáu maã panhẽ mira Pacífico kapuamu kwaíra piri upé.
+# Poderíamos amontoar a humanidade na menor ilhota do Pacífico.
+# We could cram humanity onto the smallest islet in the Pacific.
+# On pourrait entasser l’humanité sur le moindre petit îlot du Pacifique. 
+
+Mira-itá turusú, supí, ti tá uruyari kurí kwá nheenga-itá resé. Aintá umaité tá uikú siía tendawa upé. Aintá umanduari tá turusú mayé baobá-itá yawé.
+# Os adultos, é claro, não acreditarão em você. Eles acham que ocupam muito espaço. Eles se consideram tão importantes quanto os baobás.
+# Grown-ups, of course, won't believe you. They think they take up a lot of space. They see themselves as important as baobabs.
+# Les grandes personnes, bien sûr, ne vous croiront pas. Elles s’imaginent tenir beaucoup de place. Elles se voient importantes comme des baobabs. 
+
+Peyururéu tá suí tá umunhã yepé-yepé paparisawa. Aintá usaisú paparisawa, yawé tá surí upitá kurí. Ma té pemanduá-duari retana kwá resé, kwá yepé tenhuntusawa. Akwáu peruyari se resé!
+# Portanto, você os aconselhará a fazer o cálculo. Eles adoram números: eles vão gostar. Mas não perca seu tempo com esse pensum. É inútil. Você confia em mim.
+# You will therefore advise them to do the calculation. They love numbers: they will like it. But do not waste your time on this pensum. It is useless. You trust me.
+# Vous leur conseillerez donc de faire le calcul. Elles adorent les chiffres: ça leur plaira. Mais ne perdez pas votre temps à ce pensum. C’est inutile. Vous avez confiance en moi. 
+
+Muruxawamirĩ i akanhemu mairamé usika Iwí upé, nhaãsé aé ti usuantí nẽ awá. Aé umaité tẽ araneíma uikú maã amú iwaka-retama upé, mairamé umaã manungara ukataka iwikuí upé.
+# O pequeno príncipe, uma vez na Terra, ficou muito surpreso por não ver ninguém. Ele já estava com medo de ter tomado o planeta errado quando um anel da cor da lua se mexeu na areia.
+# The little prince, once on Earth, was therefore very surprised not to see anyone. He was already afraid of having taken the wrong planet when a moon-colored ring stirred in the sand.
+# Le petit prince, une fois sur Terre, fut donc bien surpris de ne voir personne. Il avait déjà peur de s’être trompé de planète, quand un anneau couleur de lune remua dans le sable. 
+
+- Yané pituna - unheẽ muruxawamirĩ.
+# "Boa noite", disse o principezinho, só para garantir.
+# "Good night," said the little prince just in case.
+# “Bonne nuit, fit le petit prince à tout hasard. 
+
+- Yané pituna - usuaxara buya.
+# - Boa noite, disse a cobra.
+# - Good night, said the snake.
+# - Bonne nuit, fit le serpent. 
+
+- Mamé taá aikú? - upurandú muruxawamirĩ.
+# - Em que planeta eu caí? perguntou o pequeno príncipe.
+# - What planet did I fall on? asked the little prince.
+# - Sur quelle planète suis-je tombé? demanda le petit prince. 
+
+- Iwí upé, África upé - usuaxara buya.
+# - Na Terra, na África, respondeu a cobra.
+# - On Earth, in Africa, answered the snake.
+# - Sur la Terre, en Afrique, répondit le serpent. 
+
+- Ah!... Ti yamaã nẽ awá Iwí upé?
+# - Ah!... Então não há ninguém na Terra?
+# - Ah!... So there is no one on Earth?
+# - Ah!... Il n’y a donc personne sur la Terre? 
+
+- Yaikú yepé tetama mira-íma upé. Ti yamaã nẽ awá tetama-itá mira-íma upé. Iwí turusú - unheẽ buya.
+# - Este é o deserto. Não há ninguém nos desertos. A Terra é grande”, disse a serpente.
+# - This is the desert. There is no one in the deserts. The Earth is big,” said the serpent.
+# - Ici c’est le désert. Il n’y a personne dans les déserts. La Terre est grande”, dit le serpent. 
+
+Muruxawamirĩ uwapika yepé itá resé, asuí umupuamu sesá-itá iwaka kití:
+# O principezinho sentou-se numa pedra e olhou para o céu:
+# The little prince sat down on a stone and looked up at the sky:
+# Le petit prince s’assit sur une pierre et leva les yeux vers le ciel: 
+
+- Apurandú se suí tẽ sa yasitatá-itá uwerá iwaka upé muíri mira uwasemu arã i yara. Remaã se iwaka-retama. Aé uikú yané árupi... Ma uikú apekatú retana kwá suí!
+# “Eu me pergunto, disse ele, se as estrelas estão acesas para que um dia todos possam encontrar as suas. Olhe para o meu planeta. Está logo acima de nós... Mas quão longe está!
+# “I wonder, he said, if the stars are lit so that everyone can one day find their own. Look at my planet. It is just above us... But how far it is!
+# “Je me demande, dit-il, si les étoiles sont éclairées afin que chacun puisse un jour retrouver la sienne. Regarde ma planète. Elle est juste au-dessus de nous... Mais comme elle est loin! 
+
+- Aé puranga - unheẽ buya. - Maã taá indé reyuri remunhã iké?
+# - Ela é linda, disse a cobra. O que você está fazendo aqui?
+# - She is beautiful, said the snake. What are you doing here?
+# - Elle est belle, dit le serpent. Que viens-tu faire ici? 
+
+- Arikú yepé-yepé iwasusawa yepé putira irumu - unheẽ muruxawamirĩ.
+# - Tenho dificuldades com flor, disse o principezinho.
+# - I have difficulties with a flower, said the little prince.
+# - J’ai des difficultés avec une fleur, dit le petit prince. 
+
+- Ah! - unheẽ buya.
+# - Oh!" disse a cobra.
+# - Oh!” said the snake.
+# - Ah!” fit le serpent. 
+
+Aintá ukirirĩ.
+# E eles ficam em silêncio.
+# And they are silent.
+# Et ils se turent. 
+
+- Mamé taá uikú mira-itá? - upurandú amú í muruxawamirĩ. - Yayusaã yepenhũ xinga yepé tetama mira-íma upé...
+# "Onde estão os homens? finalmente retomou o pequeno príncipe. Estamos um pouco sozinhos no deserto...
+# "Where are the men? finally resumed the little prince. We are a bit alone in the desert...
+# “Où sont les hommes? reprit enfin le petit prince. On est un peu seul dans le désert… 
+
+- Mira-itá pitérupi yayusaã yepenhũ yuíri - unheẽ buya.
+# - Também se está sozinho entre os homens”, diz a cobra.
+# - One is also alone among men”, says the snake.
+# - On est seul aussi chez les hommes”, dit le serpent. 
+
+Muruxawamirĩ umaã-maã nhaã buya resé:
+# O principezinho olhou para ele longamente:
+# The little prince looked at him for a long time:
+# Le petit prince le regarda longtemps: 
+
+- Indé yepé suú amurupí - unheẽ aé. - Indé puĩ mayé se pú-rakapira yawé...
+# "Você é uma fera engraçada", ele finalmente disse a ela, fino como um dedo...
+# "You're a funny beast, he finally told her, thin as a finger...
+# “Tu es une drôle de bête, lui dit-il enfin, mince comme un doigt... 
+
+- Ma ixé kirimbawa piri yepé muruxawa pú-rakapira suí - unheẽ buya.
+# - Mas sou mais poderoso que o dedo de um rei”, disse a cobra.
+# - But I am more powerful than the finger of a king”, said the snake.
+# - Mais je suis plus puissant que le doigt d’un roi”, dit le serpent. 
+
+Aramé muruxawamirĩ upuká xinga:
+# O pequeno príncipe sorriu:
+# The little prince smiled:
+# Le petit prince eut un sourire: 
+
+- Indé ti tẽ kirimbawa retana... ti rerikú ne pú, ne pí... ti rewatá-kwáu yuíri...
+# “Você não é muito poderoso... você nem tem pernas... você nem consegue viajar...
+# “You are not very powerful... you don't even have legs... you can't even travel...
+# “Tu n’es pas bien puissant... tu n’as même pas de pattes... tu ne peux même pas voyager... 
+
+- Arasú-kwáu indé apekatú piri yepé igarité suí - unheẽ buya.
+# - Posso te levar mais longe que um navio”, disse a cobra.
+# - I can take you further than a ship,” said the snake.
+# - Je puis t’emporter plus loin qu’un navire”, dit le serpent. 
+
+Aé uyumamana muruxawamirĩ retimã resé mayé yepé mupurangawa itá- tawá suiwara yawé.
+# Enrolou-se no tornozelo do principezinho, como uma pulseira de ouro:
+# It wrapped around the ankle of the little prince, like a golden bracelet:
+# Il s’enroula autour de la cheville du petit prince, comme un bracelet d’or: 
+
+- Mairamé ayumamana yepé mira resé, amundú aé tetama kití masuí uri - unheẽ buya. - Ma ne piá katú asuí akwáu reyuri yepé yasitatá suí...
+# “Em quem eu toco, eu o devolvo à terra de onde veio”, diz ele novamente. Mas você é puro e vem de uma estrela...”
+# “Whoever I touch, I return him to the earth from which he came,” he says again. But you are pure and you come from a star...”
+# “Celui que je touche, je le rends à la terre dont il est sorti, dit-il encore. Mais tu es pur et tu viens d’une étoile...” 
+
+Muruxawamirĩ ti usuaxara nẽ maã.
+# O pequeno príncipe não respondeu nada.
+# The little prince answered nothing.
+# Le petit prince ne répondit rien. 
+
+- Apitá sasiara ne rupí, indé kwairamirĩ, kwá tetama upé itá suiwara. Apitimũ-kwáu indé yepé ara, mairamé ne retama uwatari indé arã. Akwáu...
+# “Tenho pena de você, seu tão fraco, nesta terra de granito. Posso ajudá-lo um dia se você sentir muita falta do seu planeta. Eu posso...
+# “I pity you, you so weak, on this land of granite. I can help you one day if you miss your planet too much. I can...
+# “Tu me fais pitié, toi si faible, sur cette Terre de granit. Je puis t’aider un jour si tu regrettes trop ta planète. Je puis... 
+
+- Oh! Amaã puranga maã renheẽ-putari waá - unheẽ muruxawamirĩ. - Ma marã taá renheẽ nheenga-itá rupí uyumimi waá-itá maã renheẽ-putari waá?
+# - Oh! Entendi muito bem, disse o principezinho, mas por que você sempre fala por enigmas?
+# - Oh! I understood very well, said the little prince, but why do you always speak in riddles?
+# - Oh! J’ai très bien compris, fit le petit prince, mais pourquoi parles-tu toujours par énigmes? 
+
+- Akwáu puranga maã nheenga-itá uyumimi - unheẽ buya.
+# - Eu resolvo todos”, disse a cobra.
+# - I solve them all”, said the snake.
+# - Je les résous toutes”, dit le serpent. 
+
+Aramé aintá ukirirĩ.
+# E eles ficam em silêncio.
+# And they are silent.
+# Et ils se turent. 
+

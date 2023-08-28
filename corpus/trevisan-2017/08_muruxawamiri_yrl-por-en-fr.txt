@@ -1,0 +1,216 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:02:14 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Kutara nungara ayumbué akwáu katú piri nhaã putira. Panhẽ mairamé kwera aikwé ana muruxawamirĩ retama upé, putira-itá siía-íma putira-rawa. Aintá kwaíra, asuí nẽ mairamé tá umuapatuka nẽ awá.
+# Rapidamente aprendi a conhecer melhor esta flor. Sempre existiram, no planeta do pequeno príncipe, flores muito simples, enfeitadas com uma única fileira de pétalas, que não ocupavam espaço e que não perturbavam ninguém.
+# I quickly learned to know this flower better. There had always been, on the planet of the little prince, very simple flowers, adorned with a single row of petals, which did not take up any space, and which disturbed no one.
+# J’appris bien vite à mieux connaître cette fleur. Il y avait toujours eu, sur la planète du petit prince, des fleurs très simples, ornées d’un seul rang de pétales, et qui ne tenaient point de place, et qui ne dérangeaient personne. 
+
+Tá uyukwáu kwema ramé, asuí karuka pausawa ramé tá susanga-íma.
+# Eles apareceram uma manhã na grama e depois morreram à noite.
+# They appeared one morning in the grass, and then they died out at night.
+# Elles apparaissaient un matin dans l’herbe, et puis elles s’éteignaient le soir. 
+
+Ma nhaã putira usemu yepé tainha suí uri waá yepé tendawa suí mamé nẽ awá ukwáu. Sesewara muruxawamirĩ umanhã-manhana kwá putiramirĩ, amurupí retana waá amú-itá suí.
+# Mas este um dia germinou, de uma semente trazida sabe-se lá de onde, e o principezinho observou com muita atenção esse galho que não se parecia com os outros galhos.
+# But this one had germinated one day, from a seed brought from who knows where, and the little prince had watched very closely this twig which did not resemble the other twigs.
+# Mais celle-là avait germé un jour, d’une graine apportée d’on ne sait où, et le petit prince avait surveillé de très près cette brindille qui ne ressemblait pas aux autres brindilles. 
+
+Araneíma nhaã putira baobá nungara. Ma kutara nungara aé upituú uyumunhã, asuí yepé putira uyupirũ usemu sesé.
+# Poderia ser um novo tipo de baobá. Mas o arbusto logo parou de crescer e começou a preparar uma flor.
+# It could be a new kind of baobab. But the shrub soon ceased to grow, and began to prepare a flower.
+# Ça pouvait être un nouveau genre de baobab. Mais l’arbuste cessa vite de croître, et commença de préparer une fleur. 
+
+Muruxawamirĩ, umaã waá kwera yepé putira-resá turusú retana uyukwáu, ukwáu tẽ usika uikú manungara puranga retana nhaã tendawa upé, ma nhaã putira nẽ mairamé umupawa uyumupuranga, i ukapí yakira kwara upé.
+# O pequeno príncipe, que presenciou a instalação de um enorme botão, sentiu que dele sairia uma aparência milagrosa, mas a flor nunca deixou de se preparar para ficar linda, abrigada de sua sala verde.
+# The little prince, who witnessed the installation of a huge button, felt that a miraculous appearance would come out of it, but the flower never stopped preparing to be beautiful, sheltered from its green room. .
+# Le petit prince, qui assistait à l’installation d’un bouton énorme, sentait bien qu’il en sortirait une apparition miraculeuse, mais la fleur n’en finissait pas de se préparer à être belle, à l’abri de sa chambre verte. 
+
+Ape, aé uparawaka katú reté i pinimasawa-itá. Uyumuamundéu merupí asuí umupuranga muíri putira-rawa.
+# Ela escolheu suas cores com cuidado. Ela se vestiu lentamente, ajustando as pétalas uma por uma.
+# She chose her colors carefully. She dressed slowly, adjusting her petals one by one.
+# Elle choisissait avec soin ses couleurs. Elle s’habillait lentement, elle ajustait un à un ses pétales. 
+
+Aé ti uyukwáu-putari puxiwera mayé amú-itá putira yawé, usemu-putari mairamé-ntu puranga retana uikú maã.
+# Ela não queria sair amassada como papoulas. Ela só queria aparecer em todo o brilho de sua beleza.
+# She didn't want to come out crumpled like poppies. She only wanted to appear in the full radiance of her beauty.
+# Elle ne voulait pas sortir toute fripée comme les coquelicots. Elle ne voulait apparaître que dans le plein rayonnement de sa beauté. 
+
+Eẽ, eré, aé yepé putira warixí retana! Uikupukú tẽ siía ara uyumupuranga arama.
+# Ei! Sim. Ela era muito fofa! Seu misterioso banheiro, portanto, durou dias e dias.
+# Hey! Yes. She was very cute! Her mysterious toilet had therefore lasted for days and days.
+# Eh! oui. Elle était très coquette! Sa toilette mystérieuse avait donc duré des jours et des jours. 
+
+Ma, yepé kwema ramé, mairamé kurasí usemu uikú, aé uyukwáu.
+# E então, certa manhã, logo ao nascer do sol, ela apareceu.
+# And then one morning, just at sunrise, she showed up.
+# Et puis voici qu’un matin, justement à l’heure du lever du soleil, elle s’était montrée. 
+
+Aramé, uyumupuranga riré siía ara pukusawa, aé unheẽ tipusimanha xinga:
+# E ela, que havia trabalhado com tanta precisão, disse bocejando:
+# And she, who had worked with such precision, said, yawning:
+# Et elle, qui avait travaillé avec tant de précision, dit en bâillant: 
+
+- Ah, apaka kuíri tẽ... Reyerũ ixé... Se awa ti rẽ uikú puranga…
+# "Oh! Mal acordo... me desculpe... ainda estou todo desgrenhado...”
+# “Oh! I barely wake up... I beg your pardon... I'm still all disheveled...”
+# “Ah! je me réveille à peine... Je vous demande pardon... Je suis encore toute décoiffée...” 
+
+Muruxawamirĩ i akanhemu mairamé umaã aé:
+# O principezinho, então, não pôde conter a admiração:
+# The little prince, then, could not contain his admiration:
+# Le petit prince, alors, ne put contenir son admiration: 
+
+- Indé puranga retana!
+# "Como você é linda!"
+# "How beautiful you are!"
+# “Que vous êtes belle!” 
+
+- Supí, ixé puranga - usuaxara seẽ nhaã putira. - Asemu yepewasú kurasí irumu...
+# “Não é?” a flor respondeu suavemente. E eu nasci na mesma época que o sol...”
+# "Isn't it?" the flower replied softly. And I was born at the same time as the sun...”
+# - N’est-ce pas, répondit doucement la fleur. Et je suis née en même temps que le soleil...” 
+
+Muruxawamirĩ ukwáu kutara nungara aé yepé putira warixí, ma aé puranga retana!
+# O principezinho adivinhou que ela não era muito modesta, mas era tão comovente!
+# The little prince guessed that she was not too modest, but she was so moving!
+# Le petit prince devina bien qu’elle n’était pas trop modeste, mais elle était si émouvante! 
+
+- Amaité, kuíri tẽ, uwatari ixé arã se kwema mbausawa - unheẽ putira. - Indé remanduari-kwáu maã se resewara...
+# "É hora, eu acho, do café da manhã", ela logo acrescentou, você poderia fazer a gentileza de pensar em mim...
+# "It's time, I think, for breakfast, she soon added, would you be kind enough to think of me..."
+# “C’est l’heure, je crois, du petit déjeuner, avait-elle bientôt ajouté, auriez-vous la bonté de penser à moi...” 
+
+Aramé, muruxawamirĩ, i apatuka pawa, usikari riré yepé mururusara, umururú putira ií irusangarana irumu.
+# E o principezinho, bastante confuso, tendo ido buscar um regador de água doce, serviu a flor.
+# And the little prince, quite confused, having gone to fetch a watering can of fresh water, had served the flower.
+# Et le petit prince, tout confus, ayant été chercher un arrosoir d’eau fraîche, avait servi la fleur. 
+
+Ariré, mayé nhaã putira upurungitawera-ntu sesewara tẽ, muruxawamirĩ i piaíwa upitá ana uikú. Yepé ara, mairamé umbeú i irundí yú resewara, unheẽ i xupé:
+# Então ela rapidamente o atormentou com sua vaidade um tanto melindrosa. Um dia, por exemplo, falando dos seus quatro espinhos, ela disse ao principezinho:
+# So she had quickly tormented him with her somewhat touchy vanity. One day, for example, speaking of her four thorns, she said to the little prince:
+# Ainsi l’avait-elle bien vite tourmenté par sa vanité un peu ombrageuse. Un jour, par exemple, parlant de ses quatre épines, elle avait dit au petit prince: 
+
+- Yawareté-pinima-itá, tá uyukwáu-kwáu tá puampé irumu!
+# “Eles podem vir, os tigres, com suas garras!
+# “They can come, the tigers, with their claws!
+# “Ils peuvent venir, les tigres, avec leurs griffes! 
+
+- Ti yamaã yawareté-pinima-itá se retama upé - unheẽ muruxawamirĩ. - Asuí, yawareté-pinima-itá ti umbaú mitima-itá.
+# - Não há tigres no meu planeta, objetou o pequeno príncipe, e então os tigres não comem grama.
+# - There are no tigers on my planet, objected the little prince, and then tigers don't eat grass.
+# - Il n’y a pas de tigres sur ma planète, avait objecté le petit prince, et puis les tigres ne mangent pas d’herbe. 
+
+- Ixé ti yepé mitima - nhaã putira usuaxara seẽ.
+# - Eu não sou uma erva daninha, a flor respondeu suavemente.
+# - I am not a weed, the flower had answered softly.
+# - Je ne suis pas une herbe, avait doucement répondu la fleur. 
+
+- Reyerũ ixé…
+# - Com licença...
+# - Excuse me...
+# - Pardonnez-moi... 
+
+- Ti asikié yawareté-pinima suí, ma ti tẽ asaisú mairamé iwituwasú utuká se resé. Rerikú será yepé iwitú-pitasukasara ixé arã?
+# - Não tenho medo de tigres, mas odeio correntes de ar. Você tem uma tela?
+# - I am not afraid of tigers, but I hate drafts. Do you have a screen?”
+# - Je ne crains rien des tigres, mais j’ai horreur des courants d’air. Vous n’auriez pas un paravent?” 
+
+“Aé ti usaisú mairamé iwituwasú utuká sesé... Kwá ti i katú yepé íwa supé”, umanduari muruxawamirĩ. “Aé yepé putira iwasú retana...”
+# “Horror das correntes de ar... dá azar, para uma planta, notou o principezinho. Esta flor é muito complicada…”
+# "Horror of drafts... it's bad luck, for a plant, had noticed the little prince. This flower is very complicated…”
+# “Horreur des courants d’air... ce n’est pas de chance, pour une plante, avait remarqué le petit prince. Cette fleur est bien compliquée…” 
+
+- Pituna ramé, remburi kurí ixé yepé riruwasú sakakanga upé. Ne rendawa irusanga retana. Ti asasá puranga. Masuí ayuri...
+# “À noite você vai me colocar sob um vidro. Está muito frio onde você está. Está instalado incorretamente. De onde eu venho…"
+# “In the evening you will put me under glass. It is very cold where you are. It's installed incorrectly. Where I come from…"
+# “Le soir vous me mettrez sous globe. Il fait très froid chez vous. C’est mal installé. Là d’où je viens…” 
+
+Ma aé tẽ ukirirĩ. Aé uri nhaã iwaka-retama kití mairamé aé yepé tainha. Ti ukwáu nẽ maã amú-itá tetama resewara.
+# Mas ela havia parado. Ele veio em forma de semente. Ela não foi capaz de saber nada sobre outros mundos.
+# But she had stopped. It had come in seed form. She had been able to know nothing of other worlds.
+# Mais elle s’était interrompue. Elle était venue sous forme de graine. Elle n’avait rien pu connaître des autres mondes. 
+
+Tĩsáwa irumu ti resewara unheẽ supisawa, aé utusé mukũi u musapiri í, asuí, umunhã arama muruxawamirĩ uyusaã puxiwera, unheẽ:
+# Humilhada por ter se deixado surpreender preparando uma mentira tão ingênua, ela tossiu duas ou três vezes, para colocar a culpa no principezinho:
+# Humiliated at having allowed herself to be caught preparing such a naive lie, she had coughed two or three times, to put the little prince in the wrong:
+# Humiliée de s’être laissé surprendre à préparer un mensonge aussi naïf, elle avait toussé deux ou trois fois, pour mettre le petit prince dans son tort: 
+
+- Mamé taá uikú se iwitú-pitasukasara?
+# “Essa tela?...
+# “This screen?...
+# “Ce paravent?... 
+
+- Apisika arã waá kwera aé, ma indé repurungitá...
+# - Eu ia procurá-lo mas você estava falando comigo!”
+# - I was going to look for him but you were talking to me!”
+# - J’allais le chercher mais vous me parliez!” 
+
+Aramé aé utusé-putari amú í uxari arama-ntu aé puxiwera.
+# Então ela forçou a tosse para ainda lhe causar remorso.
+# So she had forced her cough to still inflict remorse on him.
+# Alors elle avait forcé sa toux pour lui infliger quand même des remords. 
+
+Sesewara muruxawamirĩ, usaisú supí waá nhaã putira, uyupirũ ana uikú ti uruyari i nheenga-itá resé.
+# Assim, o pequeno príncipe, apesar da boa vontade do seu amor, rapidamente duvidou dela.
+# Thus the little prince, despite the good will of his love, had quickly doubted her.
+# Ainsi le petit prince, malgré la bonne volonté de son amour, avait vite douté d’elle. 
+
+Aé uruyari nheenga-itá tenhuntuwara resé uxari waá-itá aé sasiara retana.
+# Ele levou a sério palavras sem importância e ficou muito infeliz.
+# He had taken unimportant words seriously, and had become very unhappy.
+# Il avait pris au sérieux des mots sans importance, et était devenu très malheureux. 
+
+“Ti arã waá kwera asendú aé”, aé unheẽ ixé arama yepé ara, “nẽ mairamé yaruyari-kwáu putira-itá resé.
+# “Eu não deveria ter ouvido ele, ele me confidenciou um dia, você nunca deveria ouvir flores.
+# “I should not have listened to him, he confided to me one day, you should never listen to flowers.
+# “J’aurais dû ne pas l’écouter, me confia-t-il un jour, il ne faut jamais écouter les fleurs. 
+
+I katú yamaã-ntu aintá resé asuí yasetuna aintá sakwena. Se yara umusakwena se retama pawa, ma ti akwáu mayé ayumuruakí sesé.
+# Você tem que olhar para eles e respirá-los. O meu perfumava meu planeta, mas eu não sabia como me alegrar.
+# You have to look at them and breathe them in. Mine perfumed my planet, but I did not know how to rejoice.
+# Il faut les regarder et les respirer. La mienne embaumait ma planète, mais je ne savais pas m’en réjouir. 
+
+Nhaã mbeusawa puampé-itá resewara umupiaíwa waá kwera ixé, kuíri ti ana uyuakí se irumu…”
+# Essa história de garras, que tanto me incomodava, deveria ter me amolecido…”
+# This story of claws, which had annoyed me so much, should have softened me…”
+# Cette histoire de griffes, qui m’avait tellement agacé, eût dû m’attendrir…” 
+
+Asuí unheẽ rẽ ixé arama:
+# Ele me disse novamente:
+# He told me again:
+# Il me confia encore: 
+
+“Ti akwáu nẽ maã sesewara! Puranga piri maã amanduari ramé sesé maã-itá rupí umunhã waá, ti nheenga-itá rupí unheẽ waá.
+# “Eu não conseguia entender nada então! Eu deveria tê-la julgado por ações, não por palavras.
+# “I couldn’t understand anything then! I should have judged her by actions, not words.
+# “Je n’ai alors rien su comprendre! J’aurais dû la juger sur les actes et non sur les mots. 
+
+Aé umusakwena ixé asuí umusurí ixé. Ti arama waá kwera axari aé yepenhũ!
+# Ela me perfumou e me iluminou. Eu nunca deveria ter fugido!
+# She perfumed me and enlightened me. I should never have run away!
+# Elle m’embaumait et m’éclairait. Je n’aurais jamais dû m’enfuir! 
+
+Ixé amaã arama waá kwera i seẽsawa, uyuyumimi waá i puité-itá tenhutuwara pitérupi.
+# Eu deveria ter adivinhado sua ternura por trás de seus pobres truques.
+# I should have guessed his tenderness behind his poor tricks.
+# J’aurais dû deviner sa tendresse derrière ses pauvres ruses. 
+
+Putira-itá iwasú tẽ! Ma pisasú retana rẽ ixé akwáu arã asaisú aé.”
+# As flores são tão contraditórias! Mas eu era muito jovem para saber como amá-lo.”
+# The flowers are so contradictory! But I was too young to know how to love him.”
+# Les fleurs sont si contradictoires! Mais j’étais trop jeune pour savoir l’aimer.” 
+

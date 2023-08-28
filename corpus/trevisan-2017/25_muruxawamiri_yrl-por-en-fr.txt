@@ -1,0 +1,266 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:16:38 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+- Mira-itá - unheẽ muruxawamirĩ - tá uyuruari mira-siyesara-itá upé, ma ti tá ukwáu maã tá uwasemu. Aintá uwatá, ma ti tá ukwáu makití tá usú...
+# “Homens”, disse o principezinho, “eles entram nas corredeiras, mas não sabem mais o que procuram. Então eles ficam agitados e andam em círculos…”
+# “Men,” said the little prince, “they get into the rapids, but they no longer know what they are looking for. So they get agitated and go around in circles…”
+# “Les hommes, dit le petit prince, ils s’enfournent dans les rapides, mais ils ne savent plus ce qu’ils cherchent. Alors ils s’agitent et tournent en rond…” 
+
+Asuí aé umuapiri:
+# E ele acrescentou:
+# And he added:
+# Et il ajouta: 
+
+- Kwá yepé tenhuntusawa...
+# "Não vale a pena..."
+# "It's not worth it..."
+# “Ce n’est pas la peine...” 
+
+Ií-kwara mamé yasika amurupí ií-kwara suí yamaã waá-itá Saara upé. Ií- kwara Saarawara yepé-ntu kwara iwikuí upé. Ma nhaã mayé ií-kwara yawé yamaã waá tawa upé. Ma, mayé ti aikwé nẽ yepé tawa ape, amaité se kerpi aikú.
+# O poço que havíamos alcançado não se parecia com os poços do Saara. Os poços do Saara são buracos simples cavados na areia. Este parecia um poço de aldeia. Mas não havia aldeia ali e pensei que estava sonhando.
+# The well we had reached did not resemble the wells of the Sahara. Saharan wells are simple holes dug in the sand. This one looked like a village well. But there was no village there, and I thought I was dreaming.
+# Le puits que nous avions atteint ne ressemblait pas aux puits sahariens. Les puits sahariens sont de simples trous creusés dans le sable. Celui-là ressemblait à un puits de village. Mais il n’y avait là aucun village, et je croyais rêver. 
+
+- Kwá amurupí - anheẽ muruxawamirĩ supé. - Panhẽ maã tá uikú ana iké: ií- kwara wawakawara, ií rirú, tupasama…
+# “É estranho, eu disse ao principezinho, está tudo pronto: a roldana, o balde e a corda...”
+# "It's strange, I said to the little prince, everything is ready: the pulley, the bucket and the rope..."
+# “C’est étrange, dis-je au petit prince, tout est prêt: la poulie, le seau et la corde…” 
+
+Aé upuká, upisika tupasama, asuí umuyeréu ií-kwara wawakawara.
+# Ele riu, tocou na corda, tocou na polia.
+# He laughed, touched the rope, played the pulley.
+# Il rit, toucha la corde, fit jouer la poulie. 
+
+Nhaã ií-kwara wawakawara ukururuka mayé yepé iwitú wawakawara aíwa yawé, mairamé uikupukú ana iwitú-íma.
+# E a polia geme como um velho cata-vento geme quando o vento dorme muito.
+# And the pulley groans like an old weather vane groans when the wind has slept a long time.
+# Et la poulie gémit comme gémit une vieille girouette quand le vent a longtemps dormi. 
+
+- Resendú será? - unheẽ muruxawamirĩ. - Yapaka kwá ií-kwara asuí aé unheengari uikú...
+# “Você ouve, disse o principezinho, a gente acorda bem assim e ele canta...”
+# “You hear, said the little prince, we wake up this well and it sings...”
+# “Tu entends, dit le petit prince, nous réveillons ce puits et il chante...” 
+
+Ti aputari muruxawamirĩ i kweré upitá:
+# Eu não queria que ele fizesse um esforço:
+# I didn't want him to make an effort:
+# Je ne voulais pas qu’il fît un effort: 
+
+- Rexari ixé asikí - anheẽ i xupé. - I pusé retana indé arã.
+# "Deixe comigo, eu digo a ele, é muito pesado para você."
+# "Leave it to me, I tell him, it's too heavy for you."
+# “Laisse-moi faire, lui dis-je, c’est trop lourd pour toi.” 
+
+Merupí asikí ií rirú té ií-kwara rembiwa, asuí axari aé mimi. Ií-kwara wawakawara nheengarisawa uikú rẽ se apisá upé, asuí ií upé urirí uikú rẽ waá ixé amaã-kwáu kurasí werasawa.
+# Lentamente, levantei o balde até a borda. Eu o coloquei lá muito bem. Aos meus ouvidos durou o canto da roldana e, na água ainda trêmula, vi o sol tremer.
+# Slowly I hoisted the bucket to the edge. I set him up there nicely. In my ears the song of the pulley lasted and, in the still trembling water, I saw the sun tremble.
+# Lentement je hissai le seau jusqu’à la margelle. Je l’y installai bien d’aplomb. Dans mes oreilles durait le chant de la poulie et, dans l’eau qui tremblait encore, je voyais trembler le soleil. 
+
+- Aú-putari kwá ií - unheẽ muruxawamirĩ. - Remeẽ aú arã kwá ií...
+# “Tenho sede dessa água, disse o principezinho, dá-me de beber...”
+# “I thirst for that water, said the little prince, give me a drink...”
+# “J’ai soif de cette eau-là, dit le petit prince, donne-moi à boire...” 
+
+Aramé amaã maã muruxawamirĩ usikari uikú waá!
+# E eu entendi o que ele estava procurando!
+# And I understood what he had been looking for!
+# Et je compris ce qu’il avait cherché! 
+
+Asupiri ií rirú té i yurú. Aé uú ií, ti upirari sesá-itá. Nhaã seẽ mayé yepé murasí yawé. Nhaã ií, aé piri timbiú suí. Aé usemu watasawa suí yasitatá-itá wírupi, ií-kwara wawakawara nheengarisawa suí, se iuwá kirimbasawa suí. Aé katú piá supé, mayé yepé meẽsawa yawé.
+# Levantei o balde até seus lábios. Ele bebeu, com os olhos fechados. Foi doce como uma festa. Essa água era muito mais que comida. Ela nasceu do caminhar sob as estrelas, do canto da roldana, do esforço dos meus braços. Ela era boa para o coração, como um presente.
+# I lifted the bucket to his lips. He drank, his eyes closed. It was sweet as a party. This water was much more than food. She was born from walking under the stars, from the song of the pulley, from the effort of my arms. She was good for the heart, like a gift.
+# Je soulevai le seau jusqu’à ses lèvres. Il but, les yeux fermés. C’était doux comme une fête. Cette eau était bien autre chose qu’un aliment. Elle était née de la marche sous les étoiles, du chant de la poulie, de l’effort de mes bras. Elle était bonne pour le cœur, comme un cadeau. 
+
+Mairamé kwaíra rẽ ixé, Natal mirá werasawa, tupauku nheengarisawa pisayé ramé asuí pukasawa-itá seẽsawa, tá uxari puranga piri meẽsawa tá umeẽ waá ixé arama.
+# Quando eu era pequeno, a luz da árvore de Natal, a música da missa da meia-noite, a doçura dos sorrisos faziam assim todo o brilho do presente de Natal que recebi.
+# When I was a little boy, the light from the Christmas tree, the music of the midnight mass, the sweetness of the smiles thus made all the radiance of the Christmas present that I received.
+# Lorsque j’étais petit garçon, la lumière de l’arbre de Nöel, la musique de la messe de minuit, la douceur des sourires faisaient, ainsi, tout le rayonnement du cadeau de Nöel que je recevais. 
+
+- Mira-itá ikewara - unheẽ muruxawamirĩ - tá urikú siía putira piranga yepé putiratiwa upé… ma ti tá uwasemu maã tá usikari waá.
+# “Os homens do seu país, disse o pequeno príncipe, cultivam cinco mil rosas no mesmo jardim... e não encontram o que procuram...
+# "The men of your country, said the little prince, grow five thousand roses in the same garden... and they don't find what they are looking for...
+# “Les hommes de chez toi, dit le petit prince, cultivent cinq mille roses dans un même jardin... et ils n’y trouvent pas ce qu’ils cherchent... 
+
+- Aintá ti tẽ uwasemu - anheẽ...
+# - Eles não conseguem encontrar, eu respondi…
+# - They can't find it, I answered…
+# - Ils ne le trouvent pas, répondis-je… 
+
+- Ma maã tá usikari waá, tá uwasemu-kwáu maã yepé-ntu putira resé u ií xinga resé…
+# - E ainda assim o que procuram pode ser encontrado numa única rosa ou num pouco de água...
+# - And yet what they are looking for could be found in a single rose or a little water...
+# - Et cependant ce qu’ils cherchent pourrait être trouvé dans une seule rose ou un peu d’eau… 
+
+- Supí - anheẽ.
+# - Claro”, respondi.
+# - Of course,” I replied.
+# - Bien sûr”, répondis-je. 
+
+Asuí muruxawamirĩ unheẽ rẽ:
+# E o principezinho acrescentou:
+# And the little prince added:
+# Et le petit prince ajouta: 
+
+- Yané resá ti umaã puranga. Yamaã-ntu puranga yané piá irumu...
+# “Mas os olhos são cegos. Você deve buscar com seu coração."
+# “But the eyes are blind. You must seek with your heart."
+# “Mais les yeux sont aveugles. Il faut chercher avec le cœur.” 
+
+Ixé aú ana ií asuí asikí se anga puranga. Iwikuí, kurasí usemu ramé, mayé ira yawé. Ira pinimasawa uxariwara ixé se rurí. Marã taá, aramé, sasiara aikú?...
+# Eu estava bêbado. Eu estava respirando bem. A areia da madrugada é cor de mel. Também fiquei feliz com essa cor mel. Por que eu tive que me preocupar...
+# I was drunk. I was breathing well. The sand at dawn is the color of honey. I was also happy with this honey color. Why did I have to bother...
+# J’avais bu. Je respirais bien. Le sable, au lever du jour, est couleur de miel. J’étais heureux aussi de cette couleur de miel. Pourquoi fallait-il que j’eusse de la peine... 
+
+- I katú rẽ remunhã maã renheẽ waá ixé arã - unheẽ muruxawamirĩ, uwapika ana uikú waá, amu í, se ruakí.
+# “Você tem que cumprir sua promessa”, disse-me suavemente o principezinho, que novamente se sentou ao meu lado.
+# “You have to keep your promise,” said the little prince softly to me, who again sat down next to me.
+# “Il faut que tu tiennes ta promesse, me dit doucement le petit prince, qui, de nouveau, s’était assis auprès de moi. 
+
+- Maã taá ixé anheẽ?
+# - Que promessa?
+# - What promise?
+# - Quelle promesse? 
+
+- Indé rekwáu... yepé yurú-pukwarisara se suumé mimbira supé... arikuté apisirũ nhaã putira!
+# - Sabe... uma focinheira para minhas ovelhas... eu sou o responsável por essa flor!
+# - You know... a muzzle for my sheep... I am responsible for this flower!”
+# - Tu sais... une muselière pour mon mouton... je suis responsable de cette fleur!” 
+
+Aramé apisika se rangawa-itá. Muruxawamirĩ umaã aintá resé asuí unheẽ upuká:
+# Tirei meus esboços do bolso. O principezinho os viu e disse rindo:
+# I took my sketches out of my pocket. The little prince saw them and said, laughing:
+# Je sortis de ma poche mes ébauches de dessin. Le petit prince les aperçut et dit en riant: 
+
+- Ne baobá-itá, tá mayé karurú yawé...
+# “Seus baobás parecem um pouco com repolho...
+# “Your baobabs, they look a bit like cabbage...
+# “Tes baobabs, ils ressemblent un peu à des choux... 
+
+- Oh!
+# - Oh!"
+# - Oh!"
+# - Oh!” 
+
+Amaité se baoba-itá uikú puranga!
+# Eu que tinha tanto orgulho dos baobás!
+# I who was so proud of the baobabs!
+# Moi qui étais si fier des baobabs! 
+
+- Ne yawara kaapura… i nambí-itá… aka-itá nungara... tá pukú retana!
+# “Sua raposa... as orelhas dele... parecem chifres... e são muito longas!”
+# “Your fox...his ears...they kinda look like horns...and they're too long!”
+# “Ton renard... ses oreilles... elles ressemblent un peu à des cornes... et elles sont trop longues!” 
+
+Aé upuká amu í.
+# E ele ri novamente.
+# And he laughs again.
+# Et il rit encore. 
+
+- Kwá iwasú ixé arã, apigawamirĩ. Ixé akwatiariwera-ntu buyawasú-itá...
+# “Você é injusto, garotinho, eu não sabia desenhar nada além de jibóias fechadas e jibóias abertas.
+# “You are unfair, little guy, I didn't know how to draw anything except closed boas and open boas.
+# “Tu es injuste, petit bonhomme, je ne savais rien dessiner que les boas fermés et les boas ouverts. 
+
+- Puranga pá! - unheẽ muruxawamirĩ. - Taína-itá umaã puranga.
+# - Oh! vai ficar tudo bem, disse ele, as crianças sabem.”
+# - Oh! it will be fine, he said, the children know.”
+# - Oh! ça ira, dit-il, les enfants savent.” 
+
+Aramé, kutara nungara akwatiari yepé yurú-pukwarisara. Ma, mairamé ameẽ aé muruxawamirĩ supé, asaã yepé muasisawa se piá upé:
+# Então desenhei um focinho. E meu coração doeu quando eu entreguei a ele:
+# So I sketched a muzzle. And my heart ached as I gave it to him:
+# Je crayonnai donc une muselière. Et j’eus le cœur serré en la lui donnant: 
+
+- Indé remanduari reikú manungara resé ti rẽ waá rembeú ixé arã...
+# "Você tem planos que eu não conheço..."
+# "You have plans that I don't know..."
+# “Tu as des projets que j’ignore...” 
+
+Ma aé ti usuaxara ixé arama. Asuí, unheẽ:
+# Mas ele não me respondeu. Ele me diz:
+# But he didn't answer me. He tells me:
+# Mais il ne me répondit pas. Il me dit: 
+
+“Remanduari será mairamé asika Iwí kití? Wirandé kurí akayú ara...
+# "Sabe, minha queda na Terra... amanhã será o aniversário..."
+# "You know, my fall on Earth... tomorrow will be the anniversary..."
+# “Tu sais, ma chute sur la Terre... c’en sera demain l’anniversaire...” 
+
+Asuí, yepé kirirĩ riré, aé unheẽ rẽ:
+# Então, depois de um silêncio, ele disse novamente:
+# Then, after a silence, he said again:
+# Puis, après un silence il dit encore: 
+
+- Awari kwá ruakí...
+# “Eu caí muito perto daqui...”
+# “I had fallen very close to here...”
+# “J’étais tombé tout près d’ici...” 
+
+Suá upitá piranga.
+# E ele cora.
+# And he blushes.
+# Et il rougit. 
+
+Amú í, ti akwáu maã resewara sasiara aikú. Ma, apurandú-putari i suí:
+# E novamente, sem entender por que, senti uma dor estranha. Porém, uma dúvida me ocorreu:
+# And again, without understanding why, I felt a strange grief. However, a question occurred to me:
+# Et de nouveau, sans comprendre pourquoi, j’éprouvai un chagrin bizarre. Cependant une question me vint: 
+
+- Aramé, mairamé asuantí indé aikwé ana pumusapiri ara, apekatú retana mayewa tetama suí-ntu mamé mira-itá umurari, indé reyuíri reikú tendawa kití mamé resika?
+# “Então não foi por acaso que na manhã em que te conheci, há oito dias, você estava andando assim, sozinho, a milhares de quilômetros de todas as regiões habitadas! Você estava voltando para onde caiu?
+# “So it was no coincidence that the morning I met you, eight days ago, you were walking like that, all alone, a thousand miles from all inhabited regions! Were you going back to where you fell?”
+# “Alors ce n’est pas par hasard que, le matin où je t’ai connu, il y a huit jours, tu te promenais comme ça, tout seul, à mille milles de toutes les régions habitées! Tu retournais vers le point de ta chute?” 
+
+Muruxawamirĩ ruá upitá piranga amú í.
+# O pequeno príncipe corou novamente.
+# The little prince blushed again.
+# Le petit prince rougit encore. 
+
+Asuí amuapiri:
+# E acrescentei, hesitante:
+# And I added, hesitantly:
+# Et j’ajoutai, en hésitant: 
+
+- Araneíma akayú ara resewara?...
+# “Talvez por causa do aniversário?...”
+# “Perhaps because of the anniversary?...”
+# “À cause, peut-être, de l’anniversaire?...” 
+
+Muruxawamirĩ ruá upitá piranga piri rẽ. Nẽ mairamé usuaxara se purandusawa-itá. Ma, mairamé amú awá ruá upitá piranga, kwá mira unheẽ- putari “eẽ”, ti será?
+# O pequeno príncipe corou novamente. Ele nunca respondia perguntas, mas, quando você fica vermelho, significa “sim”, não é?
+# The little prince blushed again. He never answered questions, but, when you blush, it means "yes", doesn't it?
+# Le petit prince rougit de nouveau. Il ne répondait jamais aux questions, mais, quand on rougit, ça signifie “oui”, n’est-ce pas? 
+
+- Ah! - anheẽ i xupé. Asikié...
+# "Oh! Eu digo a ele, estou com medo..."
+# “Oh! I tell him, I'm scared..."
+# “Ah! lui dis-je, j’ai peur...” 
+
+Ma aé usuaxara ixé arama:
+# Mas ele respondeu:
+# But he replied:
+# Mais il me répondit: 
+
+- Kuíri i katú piri indé repuraki. Reyuíri makití ne pepusantá uikú. Asarú indé iké. Reyuíri wirandé pituna ramé...
+# “Agora você tem que trabalhar. Você tem que voltar para sua máquina. Estou esperando por você aqui. Volte amanhã à noite...”
+# “Now you have to work. You have to go back to your machine. I'm waiting for you here. Come back tomorrow night...”
+# “Tu dois maintenant travailler. Tu dois repartir vers ta machine. Je t’attends ici. Reviens demain soir...” 
+
+Ma ti aruyari sesé. Amanduari yawara kaapura resewara. Araneíma yandé yayaxiú xinga mairamé amú awá uyusá yané piá...
+# Mas não fiquei tranquilo. Lembrei-me da raposa. Corremos o risco de chorar um pouco se nos deixarmos domesticar...
+# But I was not reassured. I remembered the fox. We risk crying a little if we let ourselves be tamed...
+# Mais je n’étais pas rassuré. Je me souvenais du renard. On risque de pleurer un peu si l’on s’est laissé apprivoiser... 
+

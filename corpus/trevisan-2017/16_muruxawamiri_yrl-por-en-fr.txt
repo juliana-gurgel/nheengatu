@@ -1,0 +1,51 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:11:21 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Pumukũisáwa iwaka-retama muruxawamirĩ ukwáu waá uyuseruka Iwí.
+# O sétimo planeta era, portanto, a Terra.
+# The seventh planet was therefore the Earth.
+# La septième planète fut donc la Terre. 
+
+Iwí ti yepé tetama mayé amú-itá yawé! Iwí upé aikwé siía muruxawa kariwa asuí tapayuna, siía iwí-kwausara, siía apigawa umunhã-ntu waá paparisawa-itá , siía kawera, siía apigawa warixí - yawé, aikwé kwá tetama upé siía, siía, siía mira turusú.
+# A Terra não é um planeta qualquer! São cento e onze reis (sem esquecer, claro, os reis negros), sete mil geógrafos, novecentos mil empresários, sete milhões e meio de bêbados, trezentos e onze milhões de vaidosos, ou seja, cerca de dois bilhão de adultos.
+# Earth is not just any planet! There are one hundred and eleven kings (not forgetting, of course, the Negro kings), seven thousand geographers, nine hundred thousand businessmen, seven and a half million drunkards, three hundred and eleven million vain people, that is to say say about two billion grown-ups.
+# La Terre n’est pas une planète quelconque! On y compte cent onze rois (en n’oubliant pas, bien sûr, les rois nègres), sept mille géographes, neuf cent mille businessmen, sept millions et demi d’ivrognes, trois cent onze millions de vaniteux, c’est-à-dire environ deux milliards de grandes personnes. 
+
+Pekwáu arama Iwí turususawa resewara, anheẽ penhẽ arama itirisitati munhangawa renundé yepé lamparina mundekasara riía urikuté umundeka tá lamparina-itá umuturí arama panhẽ Iwí retama.
+# Para lhe dar uma ideia das dimensões da Terra, direi que antes da invenção da eletricidade, em todos os seis continentes, deve ter existido um verdadeiro exército de quatrocentos e sessenta e dois mil quinhentos e onze isqueiros. ... lâmpadas de rua.
+# To give you an idea of ​​the dimensions of the Earth, I will tell you that before the invention of electricity, on all six continents, there must have been a veritable army of four hundred sixty-two thousand five hundred and eleven flame lighters. street lamps.
+# Pour vous donner une idée des dimensions de la Terre je vous dirai qu’avant l’invention de l’électricité on y devait entretenir, sur l’ensemble des six continents, une véritable armée de quatre cent soixante deux mille cinq cent onze allumeurs de réverbères. 
+
+Mairamé yaikú apekatú lamparina-itá sendí suí, aintá upitá rẽ puranga piri. Mundekasara riía katakasawa-itá mayé yepé purasisawa yawé. Yepesawa mundekasara-itá Nova Zelândia, Austrália suiwara.
+# Visto à distância, teve um efeito esplêndido. Os movimentos deste exército eram regulados como os de um balé de ópera. Primeiro veio a vez dos acendedores de lâmpadas da Nova Zelândia e da Austrália.
+# Seen from a distance it had a splendid effect. The movements of this army were regulated like those of an opera ballet. First came the turn of the lamplighters from New Zealand and Australia.
+# Vu d’un peu loin ça faisait un effet splendide. Les mouvements de cette armée étaient réglés comme ceux d’un ballet d’opéra. D’abord venait le tour des allumeurs de réverbères de Nouvelle-Zélande et d’Australie. 
+
+Kwá-itá, tá umundeka riré tá lamparina-itá, tá usú tá ukiri. Asuí mundekasara-itá China, Sibéria suiwara yuíri tá uwiké nhaã purasisawa kití. Aramé, tá upawa riré tá murakí, tá usú tá upituú yuíri.
+# Então estes, tendo acendido suas lanternas, foram dormir. Depois vieram, por sua vez, os acendedores de lâmpadas da China e da Sibéria. Então eles também escaparam dos bastidores.
+# Then these, having lit their lanterns, went to sleep. Then came in their turn the lamplighters from China and Siberia. Then they, too, slipped away behind the scenes.
+# Puis ceux-ci, ayant allumé leurs lampions, s’en allaient dormir. Alors entraient à leur tour dans la danse les allumeurs de réverbères de Chine et de Sibérie. Puis eux aussi s’escamotaient dans les coulisses. 
+
+Ariré xinga tá uyukwáu mundekasara Rússia, Índia suiwara. Asuí, mundekasara-itá África, Europa suiwara. Ariré, mundekasara-itá América-itá suiwara. Aintá nẽ mairaré uyawí mairamé tá uwiké purasisawa kití. Nhaã puranga retana!
+# Depois veio a vez dos acendedores de lâmpadas da Rússia e da Índia. Depois os da África e da Europa. Depois os da América do Sul. Depois os da América do Norte. E eles nunca erraram na ordem de entrada no palco. Foi ótimo.
+# Then came the turn of the lamp-lighters from Russia and India. Then those of Africa and Europe. Then those of South America. Then those of North America. And they were never wrong in their order of entry on stage. It was grand.
+# Alors venait le tour des allumeurs de réverbères de Russie et des Indes. Puis de ceux d’Afrique et d’Europe. Puis de ceux d’Amérique du Sud. Puis de ceux d’Amérique du Nord. Et jamais ils ne se trompaient dans leur ordre d’entrée em scène. C’était grandiose. 
+
+Mukũi-ntu mundekasara - mundekasara Polo-itá suiwara - tá upurakí xinga. Aikwé-ntu yepé lamparina muíri Polo upé. Kwá-itá mundekasara urasú yepé sikwesawa yatimamanha nhaãsé tá upurakí-ntu mukũi í muíri akayú ramé.
+# Sozinho, o acendedor do único poste de luz do Pólo Norte, e seu colega do único poste de luz do Pólo Sul, levavam vidas de ociosidade e indiferença: trabalhavam duas vezes por ano.
+# Alone, the lighter of the only street lamp of the North Pole, and his colleague of the only street lamp of the South Pole, led lives of idleness and nonchalance: they worked twice a year.
+# Seuls, l’allumeur de l’unique réverbère du pôle Nord, et son confrère de l’unique réverbère du pôle Sud, menaient des vies d’oisiveté et de nonchalance: ils travaillaient deux fois par an. 
+

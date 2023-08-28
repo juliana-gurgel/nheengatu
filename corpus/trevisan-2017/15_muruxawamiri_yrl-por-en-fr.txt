@@ -1,0 +1,261 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:09:55 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Puyepesawa iwaka-retama turusú piri retana senundewara suí. Umurari mimi yepé apigawa tuyué umupinima waá papera-itá turusú retana.
+# O sexto planeta era um planeta dez vezes maior. Era habitada por um velho senhor que escrevia livros enormes.
+# The sixth planet was a planet ten times larger. It was inhabited by an old gentleman who wrote enormous books.
+# La sixième planète était une planète dix fois plus vaste. Elle était habitée par un vieux monsieur qui écrivait d’énormes livres. 
+
+- Pemaã! Xukúi yepé watawera! - unheẽ tuyué mairamé umaã muruxawamirĩ.
+# "Segurar! aqui está um explorador! ele gritou, quando avistou o pequeno príncipe.
+# "Hold! here is an explorer!” he cried, when he caught sight of the little prince.
+# “Tiens! voilà un explorateur!” s’écria-t-il, quand il aperçut le petit prince. 
+
+Muruxawamirĩ uwapika nhaãsé aé i kweré. Aé uwatá ana siía tetama rupí!
+# O principezinho sentou-se na mesa e suspirou um pouco. Ele já havia viajado tanto!
+# The little prince sat down on the table and sighed a little. He already had traveled so much!
+# Le petit prince s’assit sur la table et souffla un peu. Il avait déjà tant voyagé! 
+
+- Masuí taá reyuri? - upurandú tuyué.
+# "De onde você vem? disse o velho cavalheiro.
+# "Where do you come from? said the old gentleman.
+# “D’où viens-tu? lui dit le vieux monsieur. 
+
+- Maã taá kwá papera turusú? - unheẽ muruxawamirĩ. - Maã taá remunhã iké?
+# - O que é esse grande livro? disse o pequeno príncipe. O que você está fazendo aqui?
+# - What is this big book? said the little prince. What are you doing here?
+# - Quel est ce gros livre? dit le petit prince. Que faites-vous ici? 
+
+- Ixé yepé iwí-kwausara - unheẽ tuyué.
+# - Sou geógrafo, disse o velho senhor.
+# - I am a geographer, said the old gentleman.
+# - Je suis géographe, dit le vieux monsieur. 
+
+- Maã taá yepé “iwí-kwausara”?
+# - O que é um geógrafo?
+# - What is a geographer?
+# - Qu’est-ce qu’un géographe? 
+
+- Iwí-kwausara yepé mira ukwáu waá mamé upitá paranãwasú-itá, paranã-itá, tawa-itá, iwitera-itá asuí tetama-itá mira-íma.
+# - É um estudioso que sabe onde estão os mares, os rios, as cidades, as montanhas e os desertos.
+# - He is a scholar who knows where the seas, rivers, cities, mountains and deserts are.
+# - C’est un savant qui connaît où se trouvent les mers, les fleuves, les villes, les montagnes et les déserts. 
+
+- Kwá amurupí retana - unheẽ muruxawamirĩ. - Kwá yepé murakí supí!
+# - Isso é muito interessante, disse o principezinho. Este é finalmente um trabalho de verdade!
+# - That’s very interesting, said the little prince. This is finally a real job!”
+# - Ça c’est bien intéressant, dit le petit prince. Ça c’est enfin un véritable métier!” 
+
+Aramé umaã xinga iwí-kwausara retama. Nẽ mairamé umaã ana yepé iwaka- retama turusú piri nhaã suí.
+# E ele lançou um olhar ao seu redor para o planeta do geógrafo. Ele nunca tinha visto um planeta tão majestoso antes.
+# And he cast a glance around him at the planet of the geographer. He had never seen such a majestic planet before.
+# Et il jeta un coup d’œil autour de lui sur la planète du géographe. Il n’avait jamais vu encore une planète aussi majestueuse. 
+
+- Ne retama puranga retana. Aikwé será paranãwasú-itá iké?
+# “É muito lindo o seu planeta. Existem oceanos?
+# “It is very beautiful, your planet. Are there oceans?
+# “Elle est bien belle, votre planète. Est-ce qu’il y a des océans? 
+
+- Ti akwáu - unheẽ iwí-kwausara.
+# - Não posso saber, disse o geógrafo.
+# - I cannot know, said the geographer.
+# - Je ne puis pas le savoir, dit le géographe. 
+
+- Ah! (Muruxawamirĩ upitá sasiara.) Aikwé iwitera-itá?
+# -Ah! (O pequeno príncipe ficou desapontado.) E montanhas?
+# - Ah! (The little prince was disappointed.) And mountains?
+# - Ah! (Le petit prince était déçu.) Et des montagnes? 
+
+- Ti akwáu - unheẽ iwí-kwausara.
+# - Não posso saber, disse o geógrafo.
+# - I cannot know, said the geographer.
+# - Je ne puis pas le savoir, dit le géographe. 
+
+- Aikwé tawa-itá, paranã-itá, tetama-itá mira-íma?
+# - E cidades e rios e desertos?
+# - And cities and rivers and deserts?
+# - Et des villes et des fleuves et des déserts? 
+
+- Ti akwáu yuíri - unheẽ, amú í, iwí-kwausara.
+# “Também não posso saber”, disse o geógrafo.
+# "I can't know either," said the geographer.
+# - Je ne puis pas le savoir non plus, dit le géographe. 
+
+- Ma indé yepé iwí-kwausara!
+# - Mas você é geógrafo!
+# - But you are a geographer!
+# - Mais vous êtes géographe! 
+
+- Supí! - unheẽ iwí-kwausara. - Ma ixé ti watawera. Uwatari watawera-itá upitimũ arã ixé. Ti iwí-kwausara awá usú upapari tawa-itá, paranã-itá, iwitera-itá, paranãwasú-itá, tetama-itá mira-íma. Ti iwí-kwausara murakí uwatá-watá mirupí. Iwí-kwausara nẽ mairamé uxari i papera-itá. Ma aé upurungitá watawera-itá irumu, upurandú siía maã aintá suí asuí umupinima maã aintá unheẽ tá watasawa- itá resewara. Mairamé yepé iwí-kwausara usendú manungara amurupí, aé upurandú siía maã watawera suí, umaã arã sa nhaã aé umbeú waá ti será yepé puité.
+# - Isso mesmo, disse o geógrafo, mas não sou explorador. Eu absolutamente não tenho exploradores. Não é o geógrafo quem contará cidades, rios, montanhas, mares, oceanos e desertos. O geógrafo é importante demais para perder tempo. Ele não sai do escritório. Mas ele recebe exploradores lá. Ele os questiona e anota suas memórias. E se as memórias de um deles lhe parecem interessantes, o geógrafo faz uma investigação sobre a moralidade do explorador.
+# - That's right, said the geographer, but I'm not an explorer. I absolutely lack explorers. It is not the geographer who will count cities, rivers, mountains, seas, oceans and deserts. The geographer is too important to dawdle. He does not leave his office. But he receives explorers there. He questions them, and he writes down their memories. And if the memories of one of them seem interesting to him, the geographer has an inquiry made into the morality of the explorer.
+# - C’est exact, dit le géographe, mais je ne suis pas explorateur. Je manque absolument d’explorateurs. Ce n’est pas le géographe qui va faire le compte de villes, des fleuves, des montagnes, des mers, des océans et des déserts. Le géographe est trop important pour flâner. Il ne quitte pas son bureau. Mais il y reçoit les explorateurs. Il les interroge, et il prend en note leurs souvenirs. Et si les souvenirs de l’un d’entre eux lui paraissent intéressants, le géographe fait faire une enquête sur la moralité de l’explorateur. 
+
+- Marã taá?
+# - Porque isso?
+# - Why this?
+# - Pourquoi ça? 
+
+- Nhaãsé yepé watawera umbeú ramé maã puité-itá, aé umuaíwa maã iwí- kwausawa papera-itá, mayé yepé watawera kawera yawé.
+# - Porque um explorador que mente levaria a desastres nos livros de geografia. E também um explorador que bebia demais.
+# - Because an explorer who lies would lead to disasters in geography books. And also an explorer who would drink too much.
+# - Parce qu’un explorateur qui mentirait entraînerait des catastrophes dans les livres de géographie. Et aussi un explorateur qui boirait trop. 
+
+- Marã taá? - upurandú muruxawamirĩ.
+# - Porque isso? disse o pequeno príncipe.
+# - Why this? said the little prince.
+# - Pourquoi ça? fit le petit prince. 
+
+- Nhaãsé kawera-itá ti umaã puranga. Sesewara iwí-kwausara umupinima maã aikwé mukũi iwitera mamé, supí, aikwé yepé-ntu iwitera.
+# - Porque os bêbados veem em dobro. Então o geógrafo notaria duas montanhas, onde só existe uma.
+# - Because drunks see double. Then the geographer would note two mountains, where there is only one.
+# - Parce que les ivrognes voient double. Alors le géographe noterait deux montagnes, là où il n’y en a qu’une seule. 
+
+- Akwáu yepé mira aé maã waá yepé watawera puxiwera - unheẽ muruxawamirĩ.
+# - Conheço alguém, disse o principezinho, que seria um péssimo explorador.
+# - I know someone, said the little prince, who would be a bad explorer.
+# - Je connais quelqu’un, dit le petit prince, qui serait mauvais explorateur. 
+
+- Araneíma indé rekwáu tẽ. Ma, mairamé iwí-kwausara umaité yepé watawera ti unheẽ puité-itá, siía purandusawa uyumunhã i wasemusawa resewara.
+# - É possível. Assim, quando o caráter do explorador parece bom, é feita uma investigação sobre sua descoberta.
+# - It's possible. So, when the character of the explorer seems good, an investigation is made into his discovery.
+# - C’est possible. Donc, quand la moralité de l’explorateur paraît bonne, on fait une enquête sur sa découverte. 
+
+- Asuí iwí-kwausara usú umaã wasemusawa?
+# - Vamos ver?
+# - We will see?
+# - On va voir? 
+
+- Umbaá. Kwá iwasú retana. Ma watawera urikuté umukameẽ sangawa-itá. Watawera umbeú ramé uwasemu yepé iwitera turusú, aé urikuté ururi yepé-yepé itá turusú ixé arã.
+# - Não. É muito complicado. Mas o explorador é obrigado a fornecer provas. Se for, por exemplo, a descoberta de uma grande montanha, é necessário que ele traga pedras grandes.
+# - No. It's too complicated. But the explorer is required to provide proof. If it is for example the discovery of a large mountain, it is required that he brings back large stones.
+# - Non. C’est trop compliqué. Mais on exige de l’explorateur qu’il fournisse des preuves. S’il s’agit par exemple de la découverte d’une grosse montagne, on exige qu’il en rapporte de grosses pierres.” 
+
+Aramé iwí-kwausara uyumusurí:
+# O geógrafo ficou subitamente emocionado.
+# The geographer was suddenly moved.
+# Le géographe soudain s’émut. 
+
+- Ma indé... indé reyuri apekatú suí! Indé yepé watawera! Aputari rembeú ixé arã ne retama resewara!
+# “Mas você, você vem de longe! Você é um explorador! Você vai descrever seu planeta para mim!”
+# “But you, you come from afar! You are an explorer! You are going to describe your planet to me!”
+# “Mais toi, tu viens de loin! Tu es explorateur! Tu vas me décrire ta planète!” 
+
+Aramé iwí-kwausara, upirari riré yepé papera turusú, umusakapira i pinimasara rupiara. Yamupinima yepé pinimasara rupiara pupé maã watawera- itá unheẽ yandé arã. Ariré yasarú watawera-itá ururi sangawa-itá yapawa arama yané murakí.
+# E o geógrafo, tendo aberto o seu registo, apontou o lápis. Primeiro anotamos a lápis as histórias dos exploradores. Esperamos, para escrever a tinta, até que o explorador forneça provas.
+# And the geographer, having opened his register, sharpened his pencil. We first note in pencil the stories of the explorers. We wait, to write down in ink, until the explorer has provided proof.
+# Et le géographe, ayant ouvert son registre, tailla son crayon. On note d’abord au crayon les récits des explorateurs. On attend, pour noter à l’encre, que l’explorateur ait fourni des preuves. 
+
+- Aramé? - upurandú iwí-kwausara.
+# "ENTÃO? perguntou o geógrafo.
+# "SO? asked the geographer.
+# “Alors? interrogea le géographe. 
+
+- Oh! Mamé amurari - unheẽ muruxawamirĩ - ti aikwé siía maã, se retama kwaíra retana. Arikú musapiri iwitepuka. Mukũi iwitepuka upuka rẽ waá asuí yepé uwéu uikú waá. Nẽ mairamé yakwáu maã uyusasá kurí…
+# - Oh! em casa, disse o principezinho, não é muito interessante, é muito pequeno. Eu tenho três vulcões. Dois vulcões ativos e um vulcão extinto. Mas nunca sabemos.
+# - Oh! at home, said the little prince, it's not very interesting, it's very small. I have three volcanoes. Two active volcanoes, and one extinct volcano. But we never know.
+# - Oh! chez moi, dit le petit prince, ce n’est pas très intéressant, c’est tout petit. J’ai trois volcans. Deux volcans en activité, et un volcan éteint. Mais on ne sait jamais. 
+
+- Nẽ mairamé yakwáu maã uyusasá kurí... - unheẽ iwí-kwausara.
+# - Nunca se sabe, disse o geógrafo.
+# - You never know, said the geographer.
+# - On ne sait jamais, dit le géographe. 
+
+- Arikú yuíri yepé putira.
+# - Eu também tenho uma flor.
+# - I also have a flower.
+# - J’ai aussi une fleur. 
+
+- Iwí-kwausara-itá ti umupinima putira-itá resewara - unheẽ iwí-kwausara.
+# - Não notamos as flores, disse o geógrafo.
+# - We do not note the flowers, said the geographer.
+# - Nous ne notons pas les fleurs, dit le géographe. 
+
+- Marã taá? Aintá puranga retana!
+# - Porque isso! é o mais lindo!
+# - Why this! it's the prettiest!
+# - Pourquoi ça! c’est les plus joli! 
+
+- Nhaãsé putira-itá susanga-íma.
+# - Porque as flores são efêmeras.
+# - Because flowers are ephemeral.
+# - Parce que les fleurs sont éphémères. 
+
+- Maã taá “susanga-íma”?
+# - O que significa “efêmero”?
+# - What does “ephemeral” mean?
+# - Qu’est-ce que signifie: “éphémère”? 
+
+- Iwí-kwausawa papera-itá - unheẽ iwí-kwausara - tá unheẽ-ntu supisawa. Nẽ mairamé tá upitá tuyué. Iwasú retana yepé iwitera ukataka. Iwasú retana yepé paranãwasú utikanga. Yamupinima maã-itá resewara nẽ mairamé umanũ waá-itá.
+# - As geografias, disse o geógrafo, são os livros mais sérios de todos os livros. Eles nunca saem de moda. É muito raro uma montanha mudar de lugar. É muito raro que um oceano seja esvaziado de água. Escrevemos coisas eternas.
+# - Geographies, said the geographer, are the most serious books of all books. They never go out of style. It is very rare that a mountain changes place. It is very rare that an ocean is emptied of its water. We write eternal things.
+# - Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres. Elles ne se démodent jamais. Il est très rare qu’une montagne change de place. Il est très rare qu’un océan se vide de son eau. Nous écrivons des choses éternelles. 
+
+- Ma iwitepuka-itá uwéu uikú waá tá uyuíri-kwáu tá upuka amú í - unheẽ muruxawamirĩ. - Maã taá “susanga-íma”?
+# - Mas vulcões extintos podem acordar, interrompeu o principezinho. O que significa “efêmero”?
+# - But extinct volcanoes can wake up, interrupted the little prince. What does “ephemeral” mean?
+# - Mais les volcans éteints peuvent se réveiller, interrompit le petit prince. Qu’est-ce que signifie: “éphémère”? 
+
+- Iwitepuka-itá uwéu uikú ramé u tá upuka ramé, yandé arã yepewasú pawa - unheẽ iwí-kwausara. - Yamupinima iwitera-itá resewara. Aintá nẽ mairamé ukataka.
+# - Quer os vulcões estejam extintos ou acordados, para nós é a mesma coisa, diz o geógrafo. O que importa para nós são as montanhas. Ela não muda.
+# - Whether the volcanoes are extinct or awake, it comes down to the same thing for us, says the geographer. What matters to us is the mountains. She does not change.
+# - Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe. Ce qui compte pour nous, c’est la montagne. Elle ne change pas. 
+
+- Ma... maã taá “susanga-íma”? - unheẽ amú í muruxawamirĩ, nẽ mairamé sesarái waá yepé purandusawa suí.
+# - Mas o que significa “efêmero”? repetiu o pequeno príncipe, que em sua vida nunca desistiu de uma pergunta depois de tê-la feito.
+# - But what does “ephemeral” mean? repeated the little prince, who in his life had never given up on a question once he had asked it.
+# - Mais qu’est-ce que signifie “éphémère”? répéta le petit prince qui, de sa vie, n’avait renoncé à une question, une fois qu’il l’avait posée. 
+
+- Aintá ukanhemu-kwáu kutara nungara.
+# - Significa “quem está ameaçado de extinção iminente”.
+# - It means “who is threatened with imminent extinction”.
+# - Ça signifie “qui est menacé de disparition prochaine”. 
+
+- Se putira ukanhemu-kwáu kutara nungara?
+# - Minha flor está ameaçada de extinção iminente?
+# - My flower is threatened with imminent extinction?
+# - Ma fleur est menacée de disparition prochaine? 
+
+- Eẽ.
+# - Claro."
+# - Of course."
+# - Bien sûr.” 
+
+“Araneíma se putira umanũ kurí”, umanduari muruxawamirĩ, “aé urikú-ntu irundí yú uyupisirũ arã asuí ixé axari aé yepenhũ se retama upé!”
+# “Minha flor é efêmera, disse consigo mesmo o principezinho, e só tem quatro espinhos para se defender do mundo! E eu a deixei sozinha em casa!”
+# “My flower is ephemeral, said the little prince to himself, and it has only four thorns to defend itself against the world! And I left her alone at home!”
+# “Ma fleur est éphémère, se dit le petit prince, et elle n’a que quatre épines pour se défendre contre le monde! Et je l’ai laissée toute seule chez moi!” 
+
+Sesewara muruxawamirĩ uyumusasiara. Ma, kutara nungara, upitá katú yuíri:
+# Este foi seu primeiro movimento de arrependimento. Mas ele tomou coragem novamente:
+# This was his first movement of regret. But he took heart again:
+# Ce fut là son premier mouvement de regret. Mais il reprit courage: 
+
+- Maã iwaka-retama indé remungitá ixé akwáu arã? - upurandú aé.
+# “O que você me recomendaria visitar? ele perguntou.
+# “What would you recommend me to visit? he asked.
+# “Que me conseillez-vous d’aller visiter? demanda-t-il. 
+
+- Tetama sera waá Iwí - usuaxara iwí-kwausara. Kwá iwaka-retama serakwena retana.
+# - Planeta Terra, respondeu o geógrafo. Ela tem uma boa reputação…”
+# - Planet Earth, replied the geographer. She has a good reputation…”
+# - La planète Terre, lui répondit le géographe. Elle a une bonne réputation…” 
+
+Aramé muruxawamirĩ usú ana, umanduari i putira resé.
+# E o principezinho foi embora pensando na sua flor.
+# And the little prince went away, thinking of his flower.
+# Et le petit prince s’en fut, songeant à sa fleur. 
+

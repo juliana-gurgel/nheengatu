@@ -1,0 +1,126 @@
+'''This text file contains aligned sentences in Nheengatu, Portuguese, English and French from the following source:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+
+Therefore, this data may be subject to copyrights of the author of this book.
+
+Producer: Juliana Lopes Gurgel
+Produced: June 12, 2023
+
+Automatically translated from French to Portuguese and English by CorpusTranslator.
+Translated: Mon Aug 28 12:05:56 2023.
+Translation reviewer: TODO
+Reviewed: TODO''' 
+
+Mukũisáwa iwaka-retama upé umurari yepé apigawa warixí.
+# O segundo planeta foi habitado por um vaidoso:
+# The second planet was inhabited by a vain:
+# La seconde planète était habitée par un vaniteux: 
+
+- Ah! Ah! Xukúi yepé mira usaisú umaã waá se resé! - unheẽ apigawa warixí mairamé umaã muruxawamirĩ.
+# "Oh! Ah! Esta é a visita de um admirador! gritou de longe o vaidoso assim que viu o principezinho.
+# “Oh! Ah! This is a visit from an admirer!” cried the vain man from afar as soon as he saw the little prince.
+# “Ah! Ah! Voilá la visite d’un admirateur!” s’écria de loin le vaniteux dès qu’il aperçut le petit prince. 
+
+Apigawa-itá warixí uruyari panhẽ awá usaisú tá umaã aintá resé.
+# Porque, para os vaidosos, os outros homens são admiradores.
+# Because, for the vain, other men are admirers.
+# Car, pour les vaniteux, les autres hommes sont des admirateurs. 
+
+- Yané ara - unheẽ muruxawamirĩ. - Ne xapewa amurupí tẽ.
+# “Olá”, disse o pequeno príncipe. Você tem um chapéu engraçado.
+# “Hello,” said the little prince. You have a funny hat.
+# “Bonjour, dit le petit prince. Vous avez un drôle de chapeau. 
+
+- Arikú aé se irumu amukwekatú arã mira-itá. Amusá se xapewa mairamé tá umaã se resé - unheẽ apigawa warixí. Ma nẽ mairamé usasá nẽ awá kwá rupí.
+# - É para cumprimentá-lo, respondeu o vaidoso. É cumprimentar quando sou aclamado. Infelizmente, ninguém passa por aqui.
+# - It is to greet him, replied the vain man. It is to greet when I am cheered. Unfortunately, no one ever passes by here.
+# - C’est pour saluer, lui répondit le vaniteux. C’est pour saluer quand on m’acclame. Malheureusement il ne passe jamais personne par ici. 
+
+- Ah, puranga! - unheẽ muruxawamirĩ, ti waá ukwáu nẽ maã.
+# - Oh sim? disse o principezinho, que não entendeu.
+# - Oh yes? said the little prince, who did not understand.
+# - Ah oui? dit le petit prince qui ne comprit pas. 
+
+- Repeteka ne pú-itá yepé amú resé - unheẽ apigawa warixí.
+# - Bata palmas”, aconselhou o vaidoso.
+# - Clap your hands together,” advised the vain man.
+# - Frappe tes mains l’une contre l’autre”, conseilla donc le vaniteux. 
+
+Muruxawamirĩ upeteka i pú-itá yepé amú resé. Aramé apigawa warixí umusá i xapewa umukwekatú arama aé.
+# O pequeno príncipe bateu palmas. O vaidoso curvou-se modestamente, erguendo o chapéu.
+# The little prince clapped his hands together. The conceited one bowed modestly, raising his hat.
+# Le petit prince frappa ses mains l’une contre l’autre. Le vaniteux salua modestement en soulevant son chapeau. 
+
+“Iké amurupí piri muruxawa retama suí”, muruxawamirĩ umanduari.
+# “Isso é mais divertido do que visitar o rei”, disse o pequeno príncipe para si mesmo.
+# "That's more fun than visiting the king," said the little prince to himself.
+# “Ça, c’est plus amusant que la visite au roi”, se dit en lui-même le petit prince. 
+
+Aramé, aé uyuíri upeteka i pú-itá yepé amú resé.
+# E ele começou a bater palmas novamente.
+# And he started clapping his hands together again.
+# Et il recommença de frapper ses mains l’une contre l’autre. 
+
+Apigawa warixí umusá i xapewa umukwekatú arama aé amú í.
+# O vaidoso recomeçou a saudar, erguendo o chapéu.
+# The vain man began to salute again, raising his hat.
+# Le vaniteux recommença de saluer en soulevant son chapeau. 
+
+Muruxawamirĩ, upeteka riré i pú-itá yepepú minutu pukusawa, i kweré ana uikú.
+# Após cinco minutos de exercício o principezinho cansou-se da monotonia do jogo:
+# After five minutes of exercise the little prince got tired of the monotony of the game:
+# Après cinq minutes d’exercice le petit prince se fatigua de la monotonie du jeu: 
+
+- Indé rexari arã ne xapewa uwari - muruxawamirĩ upurandú -, maã taá arikuté amunhã?
+# “E, para o chapéu cair, ele perguntou, o que deve ser feito?”
+# “And, for the hat to fall off, he asked, what must be done?”
+# “Et, pour que le chapeau tombe, demanda-t-il, que faut-il faire?” 
+
+Ma apigawa warixí ti usendú aé. Apigawa-itá warixí usendú-ntu mira-itá mairamé tá unheẽ maã-itá puranga aintá resewara.
+# Mas o vaidoso não o ouviu. Os vaidosos nunca ouvem nada além de elogios.
+# But the vain man did not hear him. The vain never hear anything but praise.
+# Mais le vaniteux ne l’entendit pas. Les vaniteux n’entendent jamais que les louanges. 
+
+- Supí será resaisú remaã-maã se resé? - upurandú aé muruxawamirĩ supé.
+# “Você realmente me admira muito? ele perguntou ao pequeno príncipe.
+# “Do you really admire me a lot? he asked the little prince.
+# “Est-ce que tu m’admires vraiment beaucoup? demanda-t-il au petit prince. 
+
+- Maã taá renheẽ-putari kwá nheenga-itá irumu?
+# - O que significa “admirar”?
+# - What does “admire” mean?
+# - Qu’est-ce que signifie “admirer”? 
+
+- Anheẽ-putari indé remaité ixé apigawa puranga piri, nhaã uyumuamundéu waá puranga piri, apigawa maãsiyara piri asuí kwawara piri kwá tetama upé.
+# - “Admirar” significa reconhecer que sou o homem mais bonito, o mais bem vestido, o mais rico e o mais inteligente do planeta.
+# - “To admire” means to recognize that I am the most beautiful, the best dressed, the richest and the most intelligent man on the planet.
+# - “Admirer” signifie reconnaître que je suis l’homme le plus beau, le mieux habillé, le plus riche et le plus intelligent de la planète. 
+
+- Ma aikwé-ntu indé ne retama upé!
+# - Mas você está sozinho no seu planeta!
+# - But you are alone on your planet!
+# - Mais tu es seul sur ta planète! 
+
+- Remusurí ixé. Remaã-maã se resé kwayé tẽ!
+# - Faça-me esse prazer. Admire-me de qualquer maneira!
+# - Make me this pleasure. Admire me anyway!
+# - Fais-moi ce plaisir. Admire-moi quand même! 
+
+- Puranga pá - unheẽ muruxawamirĩ, umaité ana uikú waá nhaã yepé yakwaimasawa. - Ma ti tẽ akwáu mayé kwá umusurí indé!
+# - Eu te admiro, disse o principezinho encolhendo um pouco os ombros, mas como isso pode te interessar?
+# - I admire you, said the little prince, shrugging his shoulders a little, but how can that interest you?
+# - Je t’admire, dit le petit prince, en haussant un peu les épaules, mais en quoi cela peut-il bien t’intéresser?” 
+
+Ariré muruxawamirĩ usú ana i suí.
+# E o pequeno príncipe foi embora.
+# And the little prince went away.
+# Et le petit prince s’en fut. 
+
+“Mira-itá turusú amurupí retana tẽ”, umanduari muruxawamirĩ i watasawa pukusawa.
+# “Os adultos são definitivamente estranhos”, disse ele para si mesmo durante a viagem.
+# “Grownups are definitely weird,” he said to himself simply during his trip.
+# “Les grandes personnes sont décidément bien bizzarres”, se dit-il simplement en lui-même durant son voyage. 
+
