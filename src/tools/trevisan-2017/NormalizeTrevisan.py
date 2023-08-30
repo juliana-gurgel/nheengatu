@@ -27,30 +27,4 @@ def normalize(infile):
         except:
             break
             
-out = normalize(infile)
-print(out)
-
-
-##import sys
-##
-##infilename = open(sys.argv[1], "r", encoding="utf-8")
-##infile = infilename.read().splitlines()
-##
-##def normalize(infile):
-##    while True:
-##        try:
-##            for line in infile:
-##                line = line.rstrip()
-##                num = ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9')
-##                if line.startswith(num):
-##                    if num == '1':
-##                        start = print('', line, end='')
-##                    if num != '1':
-##                        start = print('\n', line, end='')
-##                elif not line.startswith(num):
-##                    end = print('', line, end=' ')
-##            break
-##        except:
-##            break
-##            
-##print(normalize(infile))
+print(normalize(infile))
