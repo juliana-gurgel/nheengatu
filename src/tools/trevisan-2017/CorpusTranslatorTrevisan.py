@@ -1,13 +1,18 @@
-'''This program translates from Portuguese or French to English sentences of the following source:
+# -*- coding: utf-8 -*-
+# Authors: Juliana Lopes Gurgel <julianagurgel@letras.ufc.br>
+# Last update: August 30, 2023
 
-TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
-Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
-Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023. 
+# This program extracts ambiguities from sentences POS-tagged by Nheengatagger contained in all files in a directory.
 
-Autor: Juliana Lopes Gurgel <julianagurgel@letras.ufc.br>
-Last update: August 22, 2023
+# Usage in Linux command line:
 
-'''
+# for i in <path-of-directory> *.txt; do python <path-of-directory>/CorpusTranslatorTrevisan.py $i > ${i%.txt}yrl-por-eng-fra.txt ; done
+
+#This program translates sentences from French to Portuguese and English, of the following source:
+
+# TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017.
+# Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2017.
+# Available at: http://www.teses.usp.br/teses/disponiveis/8/8160/tde-07082017-124328/. Acesso em: 25 maio 2023.
 
 from deep_translator import GoogleTranslator
 import sys, datetime
@@ -30,9 +35,6 @@ Automatically translated from French to Portuguese and English by CorpusTranslat
 Translated: {datetime.datetime.now().strftime("%c")}.
 Translation reviewer: TODO
 Reviewed: TODO'''""", '\n')
-
-#infilename = input("File: ")
-#infile = open(infilename, 'r').read().splitlines()
 
 include=True
 count = 0
