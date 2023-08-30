@@ -6,7 +6,7 @@
 
 # Usage in Linux command line:
 
-# for i in <path-of-directory> *.txt; do python <path-of-directory>/AlignTrevisan.py $i > ${i%.txt}-aligned.txt ; done
+# for i in <path-of-directory> *.txt; do python <path-of-directory>/AlignTrevisan.py $i > ${i%normalized.txt}aligned.txt ; done
 
 import sys
 
