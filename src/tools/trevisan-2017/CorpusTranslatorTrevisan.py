@@ -6,7 +6,7 @@
 
 # Usage in Linux command line:
 
-# for i in <path-of-directory> *.txt; do python <path-of-directory>/CorpusTranslatorTrevisan.py $i > ${i%.txt}yrl-por-eng-fra.txt ; done
+# for i in <path-of-directory> *.txt; do python <path-of-directory>/CorpusTranslatorTrevisan.py $i > ${i%aligned.txt}yrl-por-eng-fra.txt ; done
 
 #This program translates sentences from French to Portuguese and English, of the following source:
 
