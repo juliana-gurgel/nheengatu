@@ -14,7 +14,7 @@ Translated: May 25, 2023
 Translation reviewer: TODO
 Reviewed: TODO''''
 
-Yepé ara, paá, urubú ti wasemu ne yepé súu umanú waá kwera umbaú arã.
+Yepé ara, paá, urubú ti uwasemu ne yepé súu umanú waá kwera umbaú arã.
 # Um dia, dizem, urubu não encontrou nenhum animal morto para comer.
 # One day, they say, vulture found no dead animal to eat.
 
