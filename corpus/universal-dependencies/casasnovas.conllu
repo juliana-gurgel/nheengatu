@@ -206,28 +206,6 @@
 8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=36:37
 
 # sent_id = Casasnovas2006:1:10:10
-# text = Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara uwiké i putiápe putiá pe.
-# text_eng = Behind him, the hawk, but he hit a hard stick and a piece went into his chest.
-# text_por = Atrás dele, o gavião, mas bateu num pau duro e um pedaço entrou no seu peito.
-# text_source = p. 67, No. 13
-# text_orig = Sakwera wirá-wasú, maá uyutuká mirá rumitera ruaxara uwiké iputiápe.
-# text_annotator = JLG
-1	Sakwera	sakwera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	2	obl	_	TokenRange=0:7
-2	wirawasú	wirawasú	NOUN	N	Number=Sing	5	nsubj	_	SpaceAfter=No|TokenRange=8:16
-3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=16:17
-4	ma	ma	CCONJ	CCONJ	_	5	cc	_	TokenRange=18:20
-5	uyutuká	yutuká	VERB	V	Person=3|VerbForm=Fin	9	conj	_	TokenRange=21:28
-6	mirá	mirá	NOUN	N	Number=Sing	7	nmod:poss	_	TokenRange=29:33
-7	rumitera	sumitera	NOUN	N	Number=Sing|Rel=Cont	5	obl	_	TokenRange=34:42
-8	ruaxara	ruaxara	ADP	ADP	Rel=Cont	7	case	_	TokenRange=43:50
-9	uwiké	wiké	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=51:56
-10	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	_	_	TokenRange=57:58
-11-12	putiápe	putiápe	_	_	_	9	_	_	TokenRange=59:66
-11	putiá	putiá	NOUN	N	Number=Sing	9	obj	_	TokenRange=67:72
-12	pe	pe	CLADP	CLADP	_	9	_	_	SpaceAfter=No|TokenRange=73:75
-13	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=75:76
-
-# sent_id = Casasnovas2006:1:10:10
 # text = Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara uwiké i putiápe.
 # text_eng = Behind him, the hawk, but he hit a hard stick and a piece went into his chest.
 # text_por = Atrás dele, o gavião, mas bateu num pau duro e um pedaço entrou no seu peito.
