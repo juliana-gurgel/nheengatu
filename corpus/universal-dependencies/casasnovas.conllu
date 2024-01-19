@@ -206,7 +206,7 @@
 8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=36:37
 
 # sent_id = Casasnovas2006:1:10:10
-# text = Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara uwiké i putiápe.
+# text = Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara uwiké i putiá-pe.
 # text_eng = Behind him, the hawk, but he hit a hard stick and a piece went into his chest.
 # text_por = Atrás dele, o gavião, mas bateu num pau duro e um pedaço entrou no seu peito.
 # text_source = p. 67, No. 13
@@ -221,8 +221,8 @@
 7	rumitera	sumitera	NOUN	N	Number=Sing|Rel=Cont	5	obl	_	TokenRange=34:42
 8	ruaxara	ruaxara	ADP	ADP	Rel=Cont	7	case	_	TokenRange=43:50
 9	uwiké	wiké	VERB	V	Person=3|VerbForm=Fin	5	conj	_	TokenRange=51:56
-10	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	TokenRange=57:58
-11-12	putiápe	putiápe	_	_	_	9	_	_	TokenRange=59:66
-11	putiá	putiá	NOUN	N	Number=Sing	9	obj	_	_
-12	pe	pe	CLADP	CLADP	_	11	case	_	_
-13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=66:67
+10	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=57:58
+11-12	putiá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=59:68
+11	putiá	putiá	NOUN	N	Number=Sing	9	obl	_	_
+12	pe	upé	ADP	ADP	Clitic=Yes	11	case	_	_
+13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=69:70
