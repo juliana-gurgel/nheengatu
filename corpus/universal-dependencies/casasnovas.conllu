@@ -250,3 +250,65 @@
 14	mirá	mirá	NOUN	N	Number=Sing	12	obl	_	TokenRange=73:77
 15	resé	resé	ADP	ADP	Rel=Cont	14	case	_	SpaceAfter=No|TokenRange=78:82
 16	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=82:83
+
+# sent_id = Casasnovas2006:1:12:12
+# text = Asuí, paá, wirawasú unheẽ: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiá-pe, reyuri reyuuka ixé kwá suí.
+# text_eng = Then the hawk said to him: Compadre, I felt sick, a hard stick entered my chest, come and get me out of here.
+# text_por = Aí o gavião disse-lhe: Compadre passei mal, um pedaço de pau duro entrou no meu peito, venha e tire-me daqui.
+# text_source = p. 67, No. 15-16
+# text_orig = Asuí, paá, wirá-wasú unheé: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiápe, reyúi reyuka ixé kwa suí.
+# text_annotator = JLG
+1	Asuí	asuí	ADV	ADVT	AdvType=Tim	6	advmod	_	SpaceAfter=No|TokenRange=0:4
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
+3	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	6	advmod	_	SpaceAfter=No|TokenRange=6:9
+4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=9:10
+5	wirawasú	wirawasú	NOUN	N	Number=Sing	6	nsubj	_	TokenRange=11:19
+6	unheẽ	nheẽ	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=20:25
+7	:	:	PUNCT	PUNCT	_	13	punct	_	TokenRange=25:26
+8	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=26:27
+9	Compadre	compadre	NOUN	N	_	13	vocative	_	SpaceAfter=No|TokenRange=28:36
+10	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=36:37
+11	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=37:38
+12	puxiwera	puxiwera	ADV	ADVA	AdvType=Man	13	advmod	_	TokenRange=39:47
+13	asasá	sasá	VERB	V	Number=Sing|Person=1|VerbForm=Fin	6	ccomp	_	SpaceAfter=No|TokenRange=48:53
+14	,	,	PUNCT	PUNCT	_	17	punct	_	TokenRange=53:54
+15	mirá	mirá	NOUN	N	Number=Sing	16	nmod:poss	_	TokenRange=55:59
+16	rumitera	sumitera	NOUN	N	Number=Sing|Rel=Cont	17	nsubj	_	TokenRange=60:68
+17	uwiké	wiké	VERB	V	Person=3|VerbForm=Fin	13	parataxis	_	TokenRange=69:74
+18	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=75:77
+19-20	putiá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=78:87
+19	putiá	putiá	NOUN	N	Number=Sing	17	obl	_	_
+20	pe	upé	ADP	ADP	Clitic=Yes	19	case	_	_
+21	,	,	PUNCT	PUNCT	_	23	punct	_	TokenRange=88:89
+22	reyuri	yuri	VERB	V	Number=Sing|Person=2|VerbForm=Fin	17	parataxis	_	TokenRange=90:96
+23	reyuuka	yuuka	VERB	V	Number=Sing|Person=2|VerbForm=Fin	22	parataxis	_	TokenRange=97:104
+24	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	23	obj	_	TokenRange=103:106
+25	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	23	obl	_	TokenRange=109:112
+26	suí	suí	ADP	ADP	_	25	case	_	SpaceAfter=No|TokenRange=111:114
+27	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=114:115
+
+# sent_id = Casasnovas2006:1:13:13
+# text = Urubú usuaxara: "Compadre", se yumasí retana, asaru rẽ remanú ambaú arã indé.
+# text_eng = The vulture answered him: Compadre, I'm very hungry. I'll wait for you to die to eat it.
+# text_por = O urubu respondeu-lhe: Compadre, estou com muita fome. Vou esperar você morrer para comê-lo.
+# text_source = p. 67, No. 17
+# text_orig = Urubú usuaxara: "Compadre", seyumasí retana, asaruré remanú ambaú arã indé.
+# text_annotator = JLG
+1	Urubú	urubú	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
+2	usuaxara	suaxara	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=6:14
+3	:	:	PUNCT	PUNCT	_	9	punct	_	TokenRange=14:15
+4	"	"	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=15:16
+5	Compadre	compadre	NOUN	N	_	9	vocative	_	SpaceAfter=No|TokenRange=17:25
+6	"	"	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=25:26
+7	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=26:27
+8	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	TokenRange=28:30
+9	yumasí	yumasí	VERB	A2	_	2	ccomp	_	TokenRange=31:37
+10	retana	retana	ADV	ADVS	AdvType=Deg	9	advmod	_	SpaceAfter=No|TokenRange=38:44
+11	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=44:45
+12	asarú	sarú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	9	parataxis	_	TokenRange=46:51
+13	rẽ	rẽ	PART	IMPF	_	12	advmod	_	TokenRange=52:54
+14	remanú	manú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	12	ccomp	_	TokenRange=55:61
+15	ambaú	mbaú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	14	advcl	_	TokenRange=62:67
+16	arã	arã	SCONJ	SCONJ	_	15	mark	_	TokenRange=68:71
+17	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	15	obj	_	SpaceAfter=No|TokenRange=72:76
+18	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=76:77
