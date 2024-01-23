@@ -1,18 +1,18 @@
 # sent_id = Casasnovas2006:1:2:2
-# text = Upitá sasiara yumasí irumu.
+# text = Upitá sasiára yumasí irumu.
 # text_eng = I was sad and hungry.
 # text_por = Estava triste e com fome.
 # text_source = p. 66, No. 2
 # text_orig = Upitá sasiara yumasí irumu.
 # text_annotator = JLG
 1	Upitá	pitá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=0:5
-2	sasiara	sasiara	ADJ	A	_	1	xcomp	_	TokenRange=6:13
+2	sasiára	sasiára	ADJ	A	_	1	xcomp	_	TokenRange=6:13
 3	yumasí	yumasí	NOUN	N	Number=Sing	1	obl	_	TokenRange=14:20
 4	irumu	irumu	ADP	ADP	_	3	case	_	SpaceAfter=No|TokenRange=21:26
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
 
 # sent_id = Casasnovas2006:1:3:3
-# text = Ape, paá, usika sesé wirawasú. Asuí, paá, upurandú aé: Compadre, marã taá sasiara retana indé.
+# text = Ape, paá, usika sesé wirawasú. Asuí, paá, upurandú aé: Compadre, marã taá sasiára retana indé.
 # text_eng = Then the hawk passed by him and asked him: Compadre, why are you so sad?
 # text_por = Então o gavião passou perto dele e perguntou-lhe: Compadre, por que você está muito triste?
 # text_source = p. 64, No. 4-6
@@ -37,13 +37,13 @@
 17	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=63:64
 18	marã	marã	ADV	ADVRU	AdvType=Cau|PronType=Int	20	advmod	_	TokenRange=65:69
 19	taá	taá	PART	CQ	PartType=Int	20	advmod	_	TokenRange=70:73
-20	sasiara	sasiara	ADJ	A	_	13	ccomp	_	TokenRange=74:81
+20	sasiára	sasiára	ADJ	A	_	13	ccomp	_	TokenRange=74:81
 21	retana	retana	ADV	ADVS	AdvType=Deg	20	advmod	_	TokenRange=82:88
 22	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	SpaceAfter=No|TokenRange=89:93
 23	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=93:94
 
 # sent_id = Casasnovas2006:1:4:4
-# text = Urubú usuaxara: Compadre, ti será rekwawa uií ara ti puranga, ti umanú nẽ yepé suú ambaú arã, sesewara ixé apitá sasiara.
+# text = Urubú usuaxara: Compadre, ti será rekwawa uií ara ti puranga, ti umanú nẽ yepé suú ambaú arã, sesewara ixé apitá sasiára.
 # text_eng = The vulture replied to him: Compadre, don't you know that today is bad for me, because I don't have any dead animals to eat? That's why I'm sad.
 # text_por = O urubu respondeu-lhe: Compadre, você não sabe que para mim o dia de hoje é ruim, pois não tenho nenhum bicho morto para comer? É por isso que estou triste.
 # text_source = p. 64-65, No. 7-9
@@ -73,7 +73,7 @@
 22	sesewara	resewara	SCONJ	SCONJ	Rel=NCont	24	mark	_	TokenRange=94:102
 23	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	TokenRange=103:106
 24	apitá	pitá	VERB	V	Number=Sing|Person=1|VerbForm=Fin	19	advcl	_	TokenRange=107:112
-25	sasiara	sasiara	ADJ	A	_	24	xcomp	_	SpaceAfter=No|TokenRange=113:120
+25	sasiára	sasiára	ADJ	A	_	24	xcomp	_	SpaceAfter=No|TokenRange=113:120
 26	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=120:121
 
 # sent_id = Casasnovas2006:1:5:5
