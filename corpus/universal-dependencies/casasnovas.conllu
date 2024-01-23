@@ -82,6 +82,10 @@
 # text_por = Então o gavião disse: Compadre, faça como eu: Pegue um animal vivo e mate-o para comer.
 # text_source = p. 66, No. 7-8
 # text_orig = Asuí, paá, wirá-wasú unheé: "Compadre", remunhã mayé se yawé: repisika upaka waáre suú, reyuká rembaú arã.
+# text_sec = Compadre, remunhã mayé se yawé: repisika upaka waá rẽ suú, reyuká rembaú arã aé.
+# text_por_sec = Compadre, faça como eu: pegue um animal ainda vivo e mate-o para comê-lo.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Asuí	asuí	ADV	ADVT	AdvType=Tim	6	advmod	_	SpaceAfter=No|TokenRange=0:4
 2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
@@ -196,6 +200,10 @@
 # text_por = O passarinho vôou mais rápido pelo mato.
 # text_source = p. 67, No. 12
 # text_orig = Wirá mirí kutara piri uwewé kaá kití.
+# text_sec = Wirá-mirĩ kutara piri uwewé kaá kití. Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara. Uwiké i putiá-pe.
+# text_por_sec = O passarinho voou mais rápido para a mata. Atrás dele [foi] o gavião, mas chocou-se contra um âmago de pau. Ele entrou em seu peito.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Wirá	wirá	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:4
 2	mirĩ	mirĩ	ADJ	A	_	1	amod	_	TokenRange=5:9
@@ -212,6 +220,10 @@
 # text_por = Atrás dele, o gavião, mas bateu num pau duro e um pedaço entrou no seu peito.
 # text_source = p. 67, No. 13
 # text_orig = Sakwera wirá-wasú, maá uyutuká mirá rumitera ruaxara uwiké iputiápe.
+# text_sec = Wirá-mirĩ kutara piri uwewé kaá kití. Sakwera wirawasú, ma uyutuká mirá rumitera ruaxara. Uwiké i putiá-pe.
+# text_por_sec = O passarinho voou mais rápido para a mata. Atrás dele [foi] o gavião, mas chocou-se contra um âmago de pau. Ele entrou em seu peito.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Sakwera	sakwera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	0	root	_	TokenRange=0:7
 2	wirawasú	wirawasú	NOUN	N	Number=Sing	5	nsubj	_	SpaceAfter=No|TokenRange=8:16
@@ -234,6 +246,10 @@
 # text_por = Depois o urubu foi detrás devagar e viu o gavião pendurado no pau.
 # text_source = p. 67, No. 14
 # text_orig = Aápe, paá, urubú usú sakakwera merupí mairamé umaã wirá-wasú uyatikú uikú mirá resé.
+# text_sec = Aape paá urubú usú sakakwera merupí, mairamé umaã wirawasú uyatikú uikú mirá resé.
+# text_por_sec = Aí, dizem, o urubu foi atrás dele devagar, quando viu o gavião, ele estava pendurado no pau.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Aape	aape	ADV	ADVT	AdvType=Tim	6	advmod	_	SpaceAfter=No|TokenRange=0:4
 2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
@@ -258,6 +274,10 @@
 # text_por = Aí o gavião disse-lhe: Compadre passei mal, um pedaço de pau duro entrou no meu peito, venha e tire-me daqui.
 # text_source = p. 67, No. 15-16
 # text_orig = Asuí, paá, wirá-wasú unheé: "Compadre", puxiwera asasá, mirá rumitera uwiké se putiápe, reyúi reyuka ixé kwa suí.
+# text_sec = Compadre, puxiwera asasá, mirá rumitera uwiké se putiá-pe, reyuri reyuuka ixé kwá suí.
+# text_por_sec = Compadre, passei mal, o âmago do pau entrou no meu peito, venha me tirar daqui.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Asuí	asuí	ADV	ADVT	AdvType=Tim	6	advmod	_	SpaceAfter=No|TokenRange=0:4
 2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
@@ -269,7 +289,7 @@
 8	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=26:27
 9	Compadre	compadre	NOUN	N	_	13	vocative	_	SpaceAfter=No|TokenRange=28:36
 10	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=36:37
-11	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=37:38
+11	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=37:38
 12	puxiwera	puxiwera	ADV	ADVA	AdvType=Man	13	advmod	_	TokenRange=39:47
 13	asasá	sasá	VERB	V	Number=Sing|Person=1|VerbForm=Fin	6	ccomp	_	SpaceAfter=No|TokenRange=48:53
 14	,	,	PUNCT	PUNCT	_	17	punct	_	TokenRange=53:54
@@ -279,13 +299,13 @@
 18	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=75:77
 19-20	putiá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=78:87
 19	putiá	putiá	NOUN	N	Number=Sing	17	obl	_	_
-20	pe	upé	ADP	ADP	Clitic=Yes	19	case	_	_
+20	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	19	case	_	_
 21	,	,	PUNCT	PUNCT	_	22	punct	_	TokenRange=88:89
 22	reyuri	yuri	VERB	V	Number=Sing|Person=2|VerbForm=Fin	17	parataxis	_	TokenRange=90:96
-23	reyuuka	yuuka	VERB	V	Number=Sing|Person=2|VerbForm=Fin	22	parataxis	_	TokenRange=97:104
+23	reyuuka	yuuka	VERB	V	Number=Sing|Person=2|VerbForm=Fin	22	xcomp	_	TokenRange=97:104
 24	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	23	obj	_	TokenRange=103:106
-25	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	23	obl	_	TokenRange=109:112
-26	suí	suí	ADP	ADP	_	25	case	_	SpaceAfter=No|TokenRange=111:114
+25	kwá	kwá	ADV	ADVDX	Deixis=Prox|PronType=Dem	23	obl	_	TokenRange=109:112
+26	suí	suí	ADP	ADP	AdpType=Post	25	case	_	SpaceAfter=No|TokenRange=111:114
 27	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=114:115
 
 # sent_id = Casasnovas2006:1:13:13
@@ -294,6 +314,10 @@
 # text_por = O urubu respondeu-lhe: Compadre, estou com muita fome. Vou esperar você morrer para comê-lo.
 # text_source = p. 67, No. 17
 # text_orig = Urubú usuaxara: "Compadre", seyumasí retana, asaruré remanú ambaú arã indé.
+# text_sec = Urubú usuaxara: ― "Compadre", se yumasí retana, asarú rẽ remanú ambaú arã indé.
+# text_por_sec = O urubu respondeu-lhe: ― Compadre, estou com muita fome, vou esperar você morrer para comê-lo.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_annotator = JLG
 1	Urubú	urubú	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
 2	usuaxara	suaxara	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=6:14
@@ -332,3 +356,29 @@
 9	arã	arã	SCONJ	SCONJ	_	8	mark	_	TokenRange=43:46
 10	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No|TokenRange=47:49
 11	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=49:50
+
+# sent_id = Casasnovas2006:2:2:15
+# text = Ikupukú xinga uwatá, uwasemu umaã uyenú uikú yepé miráwasú rupitá ruakí.
+# text_eng = After a short time on the way, he found it and saw it: he was lying near the trunk of a large tree.
+# text_por = Após pouco tempo de caminho, encontrou e viu: estava deitado perto do tronco de uma grande árvore.
+# text_source = p. 70, No. 2
+# text_orig = Ikupukú xinga uwatá, uwasemu umaã uyenú uikú yepé mirá wasú rupitá ruakí.
+# text_sec = Ikupukú xinga uwatá, uwasemu [...].
+# text_por_sec = Após algum tempo andando, encontrou [o jabuti] [...].
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text_annotator = LFdeA
+1	Ikupukú	ikupukú	VERB	V3	Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	xinga	xinga	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=8:13
+3	uwatá	watá	VERB	V	Person=3|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|TokenRange=14:19
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=19:20
+5	uwasemu	wasemu	VERB	V	Person=3|VerbForm=Fin	3	parataxis	_	TokenRange=21:28
+6	umaã	maã	VERB	V	Person=3|VerbForm=Fin	5	parataxis	_	TokenRange=29:33
+7	uyenú	yenú	VERB	V	Person=3|VerbForm=Fin	6	ccomp	_	TokenRange=34:39
+8	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	7	aux	_	TokenRange=40:44
+9	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	10	det	_	TokenRange=45:49
+10	miráwasú	mirá	NOUN	N	Degree=Aug|Number=Sing	11	nmod:poss	_	TokenRange=50:58
+11	rupitá	supitá	NOUN	N	Number=Sing|Rel=Cont	7	obl	_	TokenRange=59:65
+12	ruakí	ruakí	ADP	ADP	AdpType=Post|Rel=Cont	11	case	_	SpaceAfter=No|TokenRange=66:71
+13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=71:72
+
