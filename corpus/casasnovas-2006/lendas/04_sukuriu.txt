@@ -38,7 +38,7 @@ Nhaã apigá yakanhemu upuri, uyapumi uyuka arã sumwara.
 # Então o rapaz assustado pulou e mergulhou para salvar seu colega.
 # So the scared boy jumped and dove to save his colleague. 
 
-Ape, paá, usupiri nhaã sumwara yepéwasú sukuriú irumu umbúi aintá igara kwara upé.
+Ape, paá, usupiri nhaã sumwara yepéwasú sukuriú irumu, umbúi aintá igara kwara upé.
 # Ele carregou todos os dois enrolados e colocou-os dentro da canoa.
 # He carried all two rolled up and he got into the canoe. 
 
