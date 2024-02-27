@@ -31,11 +31,11 @@ Kwa kurupira unupá raméwera, paá, asuí uxari mirá-piranga uyenú, usuã ka�
 # This curupira would hit the trunk and then leave the piece of brazilwood on the ground and leave. 
 
 Sakakwerantu paá, nhaã apigá usú, upisika nhã mirá-piranga, kurupira yara.
-# Depois disso, o homem foi pegar o pedaço de pau-brasil do curupira.
+# Depois disso, o homem foi pegar o pedaço de pau-brasil do curupira,
 # After that, the man went to get the piece of brazilwood from the curupira. 
 
 Ape unupá musapiri viaje nhaã mirá rupitá resé, asuí usú uyuyumimi usarú umaã.
-# Bateu três vezes no tronco e foi se esconder e ficou olhando.
+# bateu três vezes no tronco e foi se esconder e ficou olhando.
 # He knocked three times on the trunk and went to hide and watched. 
 
 Kutara nungara paá, usika kurupira, uyuka nhaã mirá-piranga, asuí unupá musapiri viaje, ariré usuã yuíri.
