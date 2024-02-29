@@ -46,9 +46,13 @@ Kwa apigá usú yuíri paá, sakakwera unupá musapiri viaje, asuí usú uyumimi
 # Aquele homem foi novamente detrás dele e bateu três vezes. Depois escondido ficou observando.
 # That man again went after him and knocked three times. Then, hiding, he watched.
 
-Kuíri supí kurupira usika ipiaíwa xinga. Upisika paa nhaã mirá-piranga, unupá kirimbawa siía viaje, asuí uyapí usú apekatú kití, unheé kwayé: Mapuxuwera! Indé ti puranga, remaraúna reikú ixé!
-# Desta vez o curupira voltou bastante aborrecido, pegou o pedaço de pau, bateu forte repetidas vezes, o jogou para longe e disse: Maldito!, você não é bom, está me dando mau agouro.
-# This time the curupira returned, quite annoyed, took the stick, hit it hard repeatedly, threw it away and said: Cursed!, you're no good, you're giving me a bad omen. 
+Kuíri supí kurupira usika ipiaíwa xinga.
+# Desta vez o curupira voltou bastante aborrecido,
+# This time the curupira returned, quite annoyed,
+
+Upisika paa nhaã mirá-piranga, unupá kirimbawa siía viaje, asuí uyapí usú apekatú kití, unheé kwayé: Mapuxuwera! Indé ti puranga, remaraúna reikú ixé!
+# pegou o pedaço de pau, bateu forte repetidas vezes, o jogou para longe e disse: Maldito!, você não é bom, está me dando mau agouro.
+# took the stick, hit it hard repeatedly, threw it away and said: Cursed!, you're no good, you're giving me a bad omen. 
 
 Yawé paá kwa apigá usuã uyuka ixupé nhaa mirá-piranga wasú kurupira yara kwera.
 # Assim o homem pegou para si aquele bonito pedaço de pau-brasil, que era do curupira.
