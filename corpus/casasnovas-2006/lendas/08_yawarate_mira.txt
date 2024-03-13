@@ -70,6 +70,10 @@ Kwa mira upitá tairumu musapiri ara, puranga usasá, nhasé, paá, tauyeréu ya
 # Ficou com eles três dias sem problemas, pois eles só se transformavam em onças quando iam caçar.
 # He stayed with them for three days without any problems, as they only turned into jaguars when they went hunting.
 
-Kwa, paá, mira uyuíri suka kití surí retana, nhasé kuíri upitá marupiara reté waá, mairamé usú usikái ximiara. Yawé-arã ne mairamé watái timbiú suka-upé.
-# Logo voltou alegre para sua casa porque ficou experto quando vá procurar caça, por isso nunca faltou comida na sua casa.
-# Then he went back to his house happy because he had become an expert when you go looking for game, that's why your house never lacked for food.
+Kwa, paá, mira uyuíri suka kití surí retana, nhasé kuíri upitá marupiara reté waá, mairamé usú usikái ximiara.
+# Logo voltou alegre para sua casa porque ficou experto quando vá procurar caça,
+# Then he went back to his house happy because he had become an expert when you go looking for game,
+
+Yawé-arã ne mairamé watái timbiú suka-upé.
+# por isso nunca faltou comida na sua casa.
+# that's why your house never lacked for food.
