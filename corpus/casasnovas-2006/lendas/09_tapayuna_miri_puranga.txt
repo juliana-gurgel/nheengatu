@@ -34,13 +34,21 @@ Ape, paá, umunhã mayé imanha umundú waá.
 # Então ele fez como sua mãe mandou.
 # So he did as his mother told him. 
 
-Usú upikúi timbú umbúi nhaã ipawa upé. Uxari usasá mukũi ara.
-# Foi pegar timbó para jogar no lago. Deixou-o dois dias.
-# He went to get timbó to play in the lake. She left him two days. 
+Usú upikúi timbú umbúi nhaã ipawa upé.
+# Foi pegar timbó para jogar no lago.
+# He went to get timbó to play in the lake.
 
-Ape, paá, imanha umeé ixupé pusanga umusasawa arã ipira rupí, ti arã nhaã urubú kunhãitá umaã aé. Ape, paá, usuã ipawa kití.
-# Depois a mãe deu-lhe remédio para passar no corpo a fim de que os urubus não o vissem. Foi, então, ao lago.
-# Then the mother gave him medicine to rub on his body so that the vultures wouldn't see him. Then he went to the lake. 
+Uxari usasá mukũi ara.
+# Deixou-o dois dias.
+# She left him two days.
+
+Ape, paá, imanha umeé ixupé pusanga umusasawa arã ipira rupí, ti arã nhaã urubú kunhãitá umaã aé.
+# Depois a mãe deu-lhe remédio para passar no corpo a fim de que os urubus não o vissem.
+# Then the mother gave him medicine to rub on his body so that the vultures wouldn't see him.
+
+Ape, paá, usuã ipawa kití.
+# Foi, então, ao lago.
+# Then he went to the lake.
 
 Usika umaã siía kunhãitá upisika waáitá uikú pirá mirí yuka.
 # Chegando viu muitas mulheres que estavam pegando piabas podres.
@@ -74,9 +82,13 @@ Ape, paá, nhaã apigá uyana uyumana aé, urasú suka kití ximirikú arã.
 # Logo aquele homem correu e abraçou-a e a levou para sua casa como esposa.
 # Soon that man ran and embraced her and took her to his home as his wife. 
 
-Yawé, paá, aintá uikú. Yepé ara, paá, aintá urikuã aintá raíra, kurumĩ mirí.
-# Assim viveram e tiveram um filho menino.
-# So they lived and had a son. 
+Yawé, paá, aintá uikú.
+# Assim viveram
+# So they lived
+
+Yepé ara, paá, aintá urikuã aintá raíra, kurumĩ mirí.
+# e tiveram um filho menino.
+# and had a son.
 
 Asuí, paá, nhaã kunhã ikweré wana umbaú maá imena umbaú waá.
 # Mais tarde, aquela mulher estava cansada de comer a comida de seu marido.
@@ -122,7 +134,7 @@ Nemaá, ayuka aikú isuí tumbira, paá, imanha usuaxara.
 # Nada, estou tirando um bicho de pé, falou a mãe.
 # Nothing, I'm pulling an animal out of its feet, said the mother. 
 
-Merupiara reyuka isuí, te remunhã uyaxiú, unheé, paá, iaría .
+Merupiara reyuka isuí, te remunhã uyaxiú, unheé, paá, iaría.
 # Tira devagar, não o faças chorar, falou a avó.
 # Take it off slowly, don't make him cry, said the grandmother. 
 
