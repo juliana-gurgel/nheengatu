@@ -27,8 +27,8 @@ Wainambí uruyái sesé nhasé kutara uwewé, yampukusá mangwarí merupí uwew�
 # The hummingbird was proud of its speed, while the maguari flew slowly. 
 
 Yawé paá, wainambí uwewé usú iwitú yawé.
-# O beija-flor, então, partiu com a velocidade do vento.
-# The hummingbird then departed with the speed of the wind. 
+# O beija-flor, então, partiu com a velocidade do vento,
+# The hummingbird then departed with the speed of the wind,
 
 Yampukusá paá, mangwarí merupí uwewé usú.
 # enquanto o maguari ia bem devagar.
