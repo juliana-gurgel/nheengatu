@@ -14,9 +14,13 @@ Translated: May 25, 2023
 Translation reviewer: TODO
 Reviewed: TODO'''
 
-Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri uyasá paraná-wasú. Usika ramé nhaã ara tauyupirú waá, tauyusaã.
-# Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais rapidamente o mar. Chegado o tempo combinado, iniciaram a aposta.
-# Once the hummingbird competed with the maguari to see who would cross the most quickly the sea. When the agreed time arrived, they started the bet. 
+Yepé ara, paá, wainambí uyusaã mangwarí irumu, taumaã arã awá taá kutara piri uyasá paraná-wasú.
+# Uma vez o beija-flor disputou com o maguari para ver quem ia atravessar mais rapidamente o mar.
+# Once the hummingbird competed with the maguari to see who would cross the most quickly the sea.
+
+Usika ramé nhaã ara tauyupirú waá, tauyusaã.
+# Chegado o tempo combinado, iniciaram a aposta.
+# When the agreed time arrived, they started the bet.
 
 Wainambí uruyái sesé nhasé kutara uwewé, yampukusá mangwarí merupí uwewé.
 # O beija-flor se orgulhava pela velocidade, enquanto o maguari voava lentamente.
