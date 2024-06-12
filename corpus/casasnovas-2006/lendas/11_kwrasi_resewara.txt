@@ -16,171 +16,131 @@ Reviewed: TODO'''
 
 OBS.: Sentences 1 to 40 in Nheengatu are not available in the version of the book we have access. We will transcript them soon.'''
 
-
+Kuxiíma, paá, Kurasí urikú mukũi tayeraitá.
 # Antigamente o Sol tinha duas filhas.
 # In ancient times the Sun had two daughters. 
 
-
+Yepé ara, paá, Wakurawá usú upurandú nhaã waimí piri waá.
 # Um dia o Bacurau foi pedir a mais idosa.
 # One day Bacurau went to ask the oldest. 
 
-
+Ape, paá, Kurasí uxari umendari irumu.
 # O Sol permitiu casar com ela.
 # The Sun allowed to marry her. 
 
-
+Amú ara, paá, Teyú usú upurandú nhaá tainasawa
 # Outro dia o Calango foi pedir-lhe a mais nova.
 # The other day Calango went to ask for the youngest. 
 
-
+Kurasí uxari yuíri umendái irumu
 # O Sol de novo deixou casar com ela.
 # The Sun again let him marry her. 
 
-
+Ape, paá, yepé ara Kurasí usenúi nhaã mukũi tayeraitá menaitá.
 # Um dia o Sol chamou os maridos de suas duas filhas.
 # One day the Sun called the husbands of his two daughters. 
 
+Pemaã, wirandé asú amukameé penharã iwité pemunhã arã pekupixá perimirikuitá irumu.
+# Amanhã, disse, vou mostrar para vocês terra firme para fazer a roça de vocês junto com suas esposas.
+# Tomorrow, he said, I'm going to show you solid ground to do your garden together with your wives. 
 
-# Amanhã, disse, vou mostrar para vocês terra firme para fazer
-# Tomorrow, he said, I'm going to show you solid ground to do. 
-
-
-# A roça de vocês junto com suas esposas.
-# Your garden together with your wives. 
-
-
+Kwemaité, paá, usuã umukameé tasupé
 # Noutro dia de manhã foi mostrar-lhes o lugar.
 # The next day, in the morning, he went to show them around. 
 
+Teyú supé, paá, usú umukameé yepé iwité wakutiwa, nhasé umaã, paá,Teyú tipusí manha upaka, paá, iwatéwã kurasí.
+# Para o Calango mostrou uma terra firme que tem muito uacu. Porque viu o Calango que era sonolento e desperta já bem tarde
+# For Calango, it showed a firm land that has a lot of uacu. Because he saw Calango who was sleepy and woke up very late.
 
-# Para o Calango mostrou uma terra firme que tem muito uacu.
-# For Calango, it showed a firm land that has a lot of uacu. 
-
-
-# Porque viu o Calango que era sonolento e desperta já bem tarde
-# Because he saw Calango who was sleepy and woke up very late. 
-
-
+Sesewara umaité, paá, nhaã teyú atima manha
 # E pensava que era preguiçoso.
 # And I thought I was lazy. 
 
+Wakurawá supé, paá, usú umukameé kukwera xinga waá, nhasé umaã aé upaka pitupituna, sesewara umaité aé murakisara.
+# Para o Bacurau mostrou um terreno meio capoeira, porque ele desperta cedo e pensava que ele era trabalhador.
+# For Bacurau, he showed a kind of capoeira terrain. Because he wakes up early and thought he was a worker.
 
-# Para o Bacurau mostrou um terreno meio capoeira.
-# For Bacurau, he showed a kind of capoeira terrain. 
-
-
-# Porque ele desperta cedo e pensava que ele era trabalhador.
-# Because he wakes up early and thought he was a worker. 
-
-
+Amú kuema, paá, Kurasí usuã uwatá.
 # Na manhã seguinte o Sol foi passear.
 # The next morning the Sun went for a walk. 
 
-
+Nhaã pukusá, paá, nhaã mukuitá ta upitá ta umunhã kupixá.
 # Em quanto isso, os dois ficaram para fazer as roças.
 # In the meantime, the two stayed to work the fields. 
 
+Muíri kwema, paá, Wakurawá pitupituna usuana kaá kití, anhú, paá, uyuíri usika pituna irumu.
+# Todos os dias o Bacurau ia cedo no mato E voltava somente de noite.
+# Every day Bacurau went early in the bush. And he only came back at night. 
 
-# Todos os dias o Bacurau ia cedo no mato
-# Every day Bacurau went early in the bush. 
+Nhaã pukusá, paá, Teyú upaka iwateã kurasí, aramé katú, paá, usú kaá kití, iwatére, paá, kurasí uyuíri waá usika.
+# Enquanto o Calango despertava bem tarde, só então ia ao mato e voltava ainda de dia.
+# While Calango woke up very late. Only then would he go into the woods and come back while it was still daylight.
 
+Aápe, paá, ta rimirikuitá manha umaã piri nhã Wakurawá raíra resé, nhasé umaité resewara, paá, aé murakisara.
+# A mãe das esposas se preocupava mais o filho de Bacurau, porque pensava que ele era trabalhador.
+# The wives' mother was more concerned about Bacurau's son. Because I thought he was a worker. 
 
-# E voltava somente de noite.
-# And he only came back at night. 
+Nhaã pukusá, paá, Teyú raíra mirí, teité, arupí upunhépunhé ukara rupí, imanha usú pukusá kupixá kití.
+# Enquanto o filhinho do Calango, coitado, ficava engatilhando pelo terreiro quando sua mãe ia na roça.
+# While Calango's little son, poor thing. He used to crawl around the yard when his mother went to the fields. 
 
-
-# Enquanto o Calango despertava bem tarde,
-# While Calango woke up very late. 
-
-
-# Só então ia ao mato e voltava ainda de dia.
-# Only then would he go into the woods and come back while it was still daylight. 
-
-
-# A mãe das esposas se preocupava mais o filho de Bacurau,
-# The wives' mother was more concerned about Bacurau's son. 
-
-
-# Porque pensava que ele era trabalhador.
-# Because I thought he was a worker. 
-
-
-# Enquanto o filhinho do Calango, coitado.
-# While Calango's little son, poor thing. 
-
-
-# Ficava engatilhando pelo terreiro quando sua mãe ia na roça.
-# He used to crawl around the yard when his mother went to the fields. 
-
-
+Amuramé, paá, uyaxiú yumasí irumu.
 # As vezes chorava porque estava com fome.
 # Sometimes he cried because he was hungry. 
 
-
-# Olha, teu pai não acorda cedo
+Remaá indé, ne paya ti waá upaka pitupituna usikái arã rembaú arã, unheé, paá, waimí
+# Olha, teu pai não acorda cedo para procurar comida, dizia a velha. To look for food, the old woman said.
 # Look, your father doesn't wake up early. 
 
-
-# Para procurar comida, dizia a velha.
-# To look for food, the old woman said. 
-
-
+Mukũi yasí riré Kurasí tuyué uyuíri waá usika.
 # Depois de dois meses o velho Sol voltou.
-# After two months old Sol came back. 
+# After two months old Sol came back.
 
-
+Ape, paá, upurandú nhaã mukuitá suí: pembawã pewitika.
 # Aí perguntou aos dois (homens): terminaram de derrubar?
 # Then he asked the two (men): did you finish knocking them down? 
 
-
+Ixé ambá miríwãté, unheé, paá, Teyú.
 # Eu terminei um pouco, falou o Calango.
 # I finished a little, said Calango. 
 
-
+Ixé watái kwaíra mirí twã, unheé, paá, Wakurawá.
 # Para mim falta um pouco, falou o Bacurau.
 # For me there's a little bit left, said Bacurau. 
 
-
+Aramé yasú yamaã, unheé paá aintá ratía Kurasí.
 # Então vamos ver, falou o sogro deles, o Sol.
 # So let's see, said their father-in-law, the Sun. 
 
-
+Ape, paá, aintá usú aintá umaã Teyú witikasawa.
 # Eles foram e viram a derrubada do Calango.
 # They went and saw the fall of Calango. 
 
-
+Ukanhemu usú umbawa uwitika wakutiwa kwera;
 # Ficaram admirados vendo a roça grande que sumia da vista.
 # They were astonished to see the large swidden disappearing from view. 
 
+Puranga, se rayera mena; asú ameé indé arã siía mitima reyutima arã, reú arã ne rairaitá irumu.
+# Muito bem, meu genro, vou dar para você muitas sementes para plantar e comer com teus filhos.
+# Very well, my son-in-law, I will give it to you many seeds to plant and eat with your children.
 
-# Muito bem, meu genro, vou dar para você
-# Very well, my son-in-law, I will give it to you. 
-
-
-# Muitas sementes para plantar e comer com teus filhos.
-# Many seeds to plant and eat with your children. 
-
-
+Kuíri yasu yamaã neyara, unheé, paá, Wakurawá supé.
 # Agora vamos ver a sua roça, falou para Bacurau.
 # Now let's see your garden, he said to Bacurau. 
 
-
+Aápe, paá, aintá usú aintá uwatá kukwera rupí.
 # Eles foram ver na capoeira.
 # They went to see the capoeira. 
 
-
-# Chegando lá no meio viram um lugar limpo
-# Arriving there in the middle, they saw a clean place. 
-
-
-# Onde todos os dias o Bacurau ia dormir.
-# Where Bacurau went to sleep every day. 
+Aintá usika, paá, pitérupi aintá umaã, paá, isima mirí, mamé, paá, muíri ara Wakurawá usuwera ukiri.
+# Chegando lá no meio viram um lugar limpo onde todos os dias o Bacurau ia dormir.
+# Arriving there in the middle, they saw a clean place where Bacurau went to sleep every day. 
 
 Aápe, paá, Kurasí tuyué ipiaíwa upurandú Wakurawá suí: Anhute ne muraki kwa.
 # Aí o velho Sol ficou bravo e perguntou a Bacurau: Somente isto é o seu trabalho?
 # Then old Sol got angry and asked Bacurau: Is this just your job? 
 
-Umbaré ambá, anheé rakú indé arã, unheé, paá, Wakurawá Indé yepé atima manha.
+Umbaré ambá, anheé rakú indé arã, unheé, paá, Wakurawá indé yepé atima manha.
 # Ainda não terminei, eu lhe falei, disse o Bacurau.
 # I haven't finished yet, I told you, said Bacurau.
 
