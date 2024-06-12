@@ -14,8 +14,6 @@ Translated: May 25, 2023
 Translation reviewer: TODO
 Reviewed: TODO'''
 
-OBS.: Sentences 1 to 40 in Nheengatu are not available in the version of the book we have access. We will transcript them soon.'''
-
 Kuxiíma, paá, Kurasí urikú mukũi tayeraitá.
 # Antigamente o Sol tinha duas filhas.
 # In ancient times the Sun had two daughters. 
