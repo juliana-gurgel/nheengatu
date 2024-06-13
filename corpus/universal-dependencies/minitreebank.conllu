@@ -1,0 +1,34 @@
+# sent_id = Casasnovas2006:1:1:1
+# text = Yepé ara, paá, urubú ti uwasemu nẽ yepé suú umanú waá kwera umbaú arã.
+# text_adapter = Juliana Lopes Gurgel (JLG)
+# text_orig = Yepé ara, paá, urubú ti wasemu ne yepé súu umanú waá kwera umbaú arã.
+# text_eng_ggl = One day, they say, a vulture couldn't find any dead animals to eat.
+# text_por_orig = Um dia, dizem, urubu não encontrou nenhum animal morto para comer.
+# text_orig_transcriber = JLG
+# text_por_orig_transcriber = JLG
+# text_source = p. 66, No. 1-2
+# title = Urubú, wirawasú
+# title_orig = Urubú, Wirá-Wasú
+# title_por_orig = O urubu e o gavião
+# title_eng = The vulture and the hawk
+# text_annotator = Leonel Figueiredo de Alencar (LFdeA)
+# aknowledgement = DACILAT Project, FAPESP's Process No. 2022/09158-5
+# reviewer = JLG
+# reviewer_comment = sentence already in 'yrl_complin-ud-test.conllu' (Casasnovas2006:1:1:1)
+1	Yepé	yepé	DET	ART	Definite=Ind|PronType=Art	2	det	_	TokenRange=0:4
+2	ara	ara	NOUN	N	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=5:8
+3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=8:9
+4	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	8	advmod	_	SpaceAfter=No|TokenRange=10:13
+5	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=13:14
+6	urubú	urubú	NOUN	N	Number=Sing	8	nsubj	_	TokenRange=15:20
+7	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=21:23
+8	uwasemu	wasemu	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=24:31
+9	nẽ	nẽ	PART	NEG	PartType=Neg|Polarity=Neg	11	advmod	_	TokenRange=32:34
+10	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	11	det	_	TokenRange=35:39
+11	suú	suú	NOUN	N	Number=Sing	8	obj	_	TokenRange=40:43
+12	umanú	manú	VERB	V	Person=3|VerbForm=Fin	11	acl:relcl	_	TokenRange=44:49
+13	waá	waá	PRON	REL	Number=Sing|PronType=Rel	12	nsubj	_	TokenRange=50:53
+14	kwera	kwera	PART	PRET	Tense=Past	12	advmod	_	TokenRange=54:59
+15	umbaú	mbaú	VERB	V	Person=3|VerbForm=Fin	8	advcl	_	TokenRange=60:65
+16	arã	arã	SCONJ	SCONJ	_	15	mark	_	SpaceAfter=No|TokenRange=66:69
+17	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=69:70
