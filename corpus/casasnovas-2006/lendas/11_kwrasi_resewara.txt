@@ -87,8 +87,8 @@ Amuramé, paá, uyaxiú yumasí irumu.
 # Sometimes he cried because he was hungry. 
 
 Remaá indé, ne paya ti waá upaka pitupituna usikái arã rembaú arã, unheé, paá, waimí
-# Olha, teu pai não acorda cedo para procurar comida, dizia a velha. To look for food, the old woman said.
-# Look, your father doesn't wake up early. 
+# Olha, teu pai não acorda cedo para procurar comida, dizia a velha. 
+# Look, your father doesn't wake up early to look for food, the old woman said. 
 
 Mukũi yasí riré Kurasí tuyué uyuíri waá usika.
 # Depois de dois meses o velho Sol voltou.
