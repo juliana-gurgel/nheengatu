@@ -138,13 +138,17 @@ Aápe, paá, Kurasí tuyué ipiaíwa upurandú Wakurawá suí: Anhute ne muraki 
 # Aí o velho Sol ficou bravo e perguntou a Bacurau: Somente isto é o seu trabalho?
 # Then old Sol got angry and asked Bacurau: Is this just your job? 
 
-Umbaré ambá, anheé rakú indé arã, unheé, paá, Wakurawá indé yepé atima manha.
+Umbaré ambá, anheé rakú indé arã, unheé, paá, Wakurawá
 # Ainda não terminei, eu lhe falei, disse o Bacurau.
 # I haven't finished yet, I told you, said Bacurau.
 
+Indé yepé atima manha.
+# Você é preguiçoso,
+# You're lazy,
+
 Rewatá kurí remuatiri ara kiasá rembaú arã ne rairaitá irumu, unheé, paá, ixupé Kurasí.
-# Você é preguiçoso, você vai andar juntando sujeira do ar para comer com seus filhos, falou o Sol para ele.
-# You're lazy, you'll go around gathering dirt from the air to eat with his children, the Sun told him. 
+# você vai andar juntando sujeira do ar para comer com seus filhos, falou o Sol para ele.
+# you'll go around gathering dirt from the air to eat with his children, the Sun told him. 
 
 Sesewara, paá, Wakurawá muíri kwema, muíri pituna irũ uwatá uwewé umuatiri merú miritá uyuká arã iyumasí, nhasé Kurasí upeyú, paá, aé, ti resewara usikái upurakí.
 # Por isso, o Bacurau de dia e de noite anda voando procurando pequenas moscas para matar a fome, porque o Sol soprou para ele, por não procurar trabalhar.
