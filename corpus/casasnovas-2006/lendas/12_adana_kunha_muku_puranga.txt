@@ -7,7 +7,7 @@ Therefore, this data may be subject to copyrights of the author of this book.
 Producer: Juliana Lopes Gurgel
 Produced: August 27, 2021
 Reviewer: Juliana Lopes Gurgel
-Reviewed: June 15, 2023
+Reviewed: September 23, 2024
 
 Automatically translated from Portuguese to English by CorpusTranslator.
 Translated: May 25, 2023
@@ -114,33 +114,17 @@ Adana, paá, umaã ta resé, upitá piri Buburí ruakí
 # Adana olhava e continuava perto de Buburi.
 # Adana watched and remained close to Buburi. 
 
-Aintá umuramunha pukusawa, paá, ií upurakái aintá igara upé, 
-# Durante a luta, as canoas começaram a se encher de água, 
-# During the fighting, the canoes began to fill with water, 
+Aintá umuramunha pukusawa, paá, ií upurakái aintá igara upé, ape, paá,aintá uyupipika paraná pitérupi, aintá uyupirú ta uwitá.
+# Durante a luta, as canoas começaram a se encher de água, até que todos se alagaram no meio do rio, e começaram a nadar.
+# During the fighting, the canoes began to fill with water, until they all flooded in the middle of the river, and they started to swim.
 
-Ape, paá,aintá uyupipika paraná pitérupi,
-# Até que todos se alagaram no meio do rio, 
-# Until they all flooded in the middle of the river,
+Kurukuí uwitá yepé rwaxara kití uyeréu yepé pirantá turusú waá, aeté kwa sera Kurukuí.
+# Kurukuí nadou para o lado esquerdo transformando-se na cachoeira chamada Kurukuí.
+# Kurukuí swam to the left side transforming into the waterfall called Kurukuí.
 
-Aintá uyupirú ta uwitá.
-# E começaram a nadar.
-# And they started to swim.
-
-Kurukuí uwitá yepé rwaxara kití
-# Kurukuí nadou para o lado esquerdo
-# Kurukuí swam to the left side 
-
-Uyeréu yepé pirantá turusú waá, aeté kwa sera Kurukuí.
-# Transformando-se na cachoeira chamada Kurukuí.
-# Transforming into the waterfall called Kurukuí.
-
-Buburi, kirimbawa piri, uwitá amú ruaxara kití
-# Buburi, o mais forte guerreiro, nadou para o outro lado
-# Buburi, the strongest warrior, swam to the other side 
-
-Uyeréu amú pírantá turusú piri, sera Buburi.
-# E tornou-se a enorme cachoeira de Buburi.
-# And turned into the huge Buburi waterfall was taken.
+Buburi, kirimbawa piri, uwitá amú ruaxara kití uyeréu amú pírantá turusú piri, sera Buburi.
+# Buburi, o mais forte guerreiro, nadou para o outro lado e tornou-se a enorme cachoeira de Buburi.
+# Buburi, the strongest warrior, swam to the other side and turned into the huge Buburi waterfall was taken.
 
 Adana, paá, uyupipika paraná pitérupi uyeréu yepé kapwamu, sera waá Adana.
 # Adana se alagou no meio dos dois e transformou-se na ilha que hoje chamamos Adana.
@@ -154,13 +138,9 @@ Mukũi kurumĩ-wasú kirimbawaitá ta upitá ta umanhana uikú kwa kunhã-mukú 
 # Os dois moços guerreiros são os guardas da bela moça.
 # The two young warriors are the beautiful girl's guards. 
 
-Kuxiíma miraitá ta usú muíri akayú nhaã kapuamu kití ta uyaxiú umandwari ramé Adana,
-# Outrora todos os anos ia o povo à ilha chorar a lembrança da Adana, 
-# In the past, every year people went to the island to cry in memory of Adana, 
-
-Asuí ta uyuíri umunhã arã dabukurí Kurukuí iwí-kwí upé.
-# Em seguida atravessavam a cachoeira Kurukuí e faziam dabukurí na praia.
-# Then they crossed the Kurukuí waterfall and did dabukurí on the beach.
+Kuxiíma miraitá ta usú muíri akayú nhaã kapuamu kití ta uyaxiú umandwari ramé Adana, asuí ta uyuíri umunhã arã dabukurí Kurukuí iwí-kwí upé.
+# Outrora todos os anos ia o povo à ilha chorar a lembrança da Adana, em seguida atravessavam a cachoeira Kurukuí e faziam dabukurí na praia.
+# In the past, every year people went to the island to cry in memory of Adana, then they crossed the Kurukuí waterfall and did dabukurí on the beach.
 
 Iké, yané tawa upé, "São Gabriel da Cachoeira", panhé yandé yamandwari kwa kunhã-mukú puranga, sera waá ADANA.
 # Nesta nossa cidade de São Gabriel da Cachoeira, continua viva a lembrança de ADANA, A MAIS BELA MOÇA DO RIO NEGRO.
